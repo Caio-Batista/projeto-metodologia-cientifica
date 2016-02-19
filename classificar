@@ -1,5 +1,4 @@
 #!/bin/bash
 # Classificador do algoritmo filtro de email
 
-echo "Hello World!"
-
+python classificar.py
