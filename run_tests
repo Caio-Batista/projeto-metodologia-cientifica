@@ -1,0 +1,16 @@
+#!/bin/bash
+# Testes para o classificador
+
+echo "Rodando casos de teste..."
+sleep 1
+
+sh ./classificar tecnicaX /here/file1.txt /here/file2.txt >> out.txt
+
+sleep 1
+
+if [ -f  out.txt ]; then
+    echo "Testes OK"
+    rm out.txt
+else
+    echo "Testes fail"
+fi
