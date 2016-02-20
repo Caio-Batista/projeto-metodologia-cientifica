@@ -3,7 +3,7 @@ import sys
 
 result = []
 
-for arg in sys.argv:
+for arg in sys.argv[1:]:
     result.append(arg)
 
 print "Os argumentos estão sendo passados corretamente:  \n%s" % (str(result))
