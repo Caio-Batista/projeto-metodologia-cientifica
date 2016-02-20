@@ -1,4 +1,4 @@
 #!/bin/bash
 # Classificador do algoritmo filtro de email
 
-python classificar.py
+python classificar.py $1 $2 $3
