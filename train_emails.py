@@ -125,24 +125,27 @@ hams = os.listdir(path_train+"/ham/")
 
 all_emails = []
 
-count = 1
+print "read spams emails..."
 for i in range(len(spams)):
 	email_spam = spams[i]
 	f = open(path_train + "/spam/" + email_spam)
+	print "%d. %s" % (i+1, path_train + "/spam/" + email_spam)
 	email_without_line = substitute_line_per_espace(f.read())
 	extract_features_email = count_repeated_words_in_email(email_without_line.split(" "), LABEL_SPAM)	
 	all_emails.append(extract_features_email)
 
+print "read hams emails..."
+for i in range(len(hams)):
+	email_ham = hams[i]
+	f = open(path_train + "/ham/" + email_ham)
+	print "%d. %s" % (i+1,path_train + "/ham/" + email_ham)
+	email_without_line = substitute_line_per_espace(f.read())
+	extract_features_email = count_repeated_words_in_email(email_without_line.split(" "), LABEL_HAM)
+	all_emails.append(extract_features_email)
 list_words = []
 list_often = []
 words_more_repeatesd_in_spam(number_words_train, list_words, list_often)
 
-for i in range(len(hams)):
-	email_ham = hams[i]
-	f = open(path_train + "/ham/" + email_ham)
-	email_without_line = substitute_line_per_espace(f.read())
-	extract_features_email = count_repeated_words_in_email(email_without_line.split(" "), LABEL_HAM)
-	all_emails.append(extract_features_email)
 
 histograms = []
 create_histograms(all_emails, list_words, histograms)
