@@ -1,0 +1,100 @@
+Return-Path: <thom19@melrun.org>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 25520 invoked by alias); 11 Oct 2000 23:44:26 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 25517 invoked from network); 11 Oct 2000 23:44:26 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 11 Oct 2000 23:44:26 -0000
+Received: (qmail 3229 invoked by uid 500); 11 Oct 2000 23:44:21 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 3212 invoked by uid 502); 11 Oct 2000 23:44:19 -0000
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 3203 invoked from network); 11 Oct 2000 23:44:17 -0000
+Received: from unknown (HELO tianno.techsino.com.cn) (root@211.100.7.37)
+  by bfsmedia.sk.ca with SMTP; 11 Oct 2000 23:44:17 -0000
+Received: from mail.melrun.org ([204.176.188.148])
+	by tianno.techsino.com.cn (8.9.3/8.9.3) with SMTP id KAA15208;
+	Thu, 12 Oct 2000 10:41:12 +0800
+CC: msuggitt@bft.com, sales@bft.com, tim.molnar@bft.com, timolnar@bft.com,
+        pfallon@bft.com, jfoitek@bft.com, gpickren@bft.com,
+        moyerrobert@bft.com, wlundin@bft.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+To: $user@bft.com
+Message-Id: <406e8e4m1psohd386c3.rw3r8x4k@mail.melrun.org>
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Date: Wed, 11 Oct 2000 19:45:20 -0500
+Reply-To: thom19@melrun.org
+From: thomasw19@melrun.org
+Received: from mail.melrun.org [204.176.188.148] by 6k4w4.mail.melrun.org with SMTP; Wed, 11 Oct 2000 19:45:20 -0500
+Subject: Ready for a new car?????
+Content-Length: 2395
+Lines: 66
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table border="0" width="84%" cellspacing="0" cellpadding="0" height="295">
+  <tr>
+    <td width="23%" height="57"><b><font face="Arial" size="4" 
+color="#FF0000"><img border="0" src="http://www.melrun.org/village/Viper 3.
+gif" width="153" height="55" align="left"></font></b></td>
+    <td width="77%" colspan="2" height="57">
+      <p align="center"><b><font face="Arial" size="4" color="#FF0000">&quot;
+The
+Easiest Way to Get Low Prices on Cars on the Internet!&quot;</font></b></p>
+      <p align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="23%" bgcolor="#FFFF00" height="94">&nbsp;</td>
+    <td width="40%" valign="top" align="center" height="94"><font 
+face="Arial" size="3" color="#CC0099"><b><i>Don't make life
+a hassle by going from dealer to dealer for your
+next car.</i></b></font></td>
+    <td width="37%" valign="top" align="center" height="94"><i><b><font 
+color="#00CC00" face="Arial" size="3">Take the stress
+out of it by making the Internet work for you. </font></b></i></td>
+  </tr>
+  <tr>
+    <td width="23%" bgcolor="#FFFF00" height="67">&nbsp;</td>
+    <td width="77%" valign="top" align="center" colspan="2" height="67"><font 
+color="#3333CC" face="Arial" size="3">J<b>ust click on the
+link below to<br>
+get low prices on all makes and models, new and used.</b></font></td>
+  </tr>
+  <tr>
+    <td width="23%" bgcolor="#FFFF00" height="80">&nbsp;</td>
+    <td width="77%" valign="top" align="center" colspan="2" 
+height="80"><b><font face="Arial" color="#008080" size="5">It's FREE, FAST
+and the EASIEST way to get a
+great deal on your next car.</font></b></td>
+  </tr>
+  <tr>
+    <td width="23%" bgcolor="#FFFF00" height="1">&nbsp;</td>
+    <td width="77%" valign="top" align="center" height="1" colspan="2">
+<p align="center"><a target="_blank" href="http://www.melrun.
+org/city/cgi-bin/form.cgi"><font face="Arial" size="5"><b>Click 
+Here</b></font></a></p>
+
+      <p>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="23%" bgcolor="#FFFF00" height="21">&nbsp;</td>
+    <td width="40%" bgcolor="#FFFF00" height="21">&nbsp;</td>
+    <td width="37%" bgcolor="#FFFF00" height="21">&nbsp;</td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

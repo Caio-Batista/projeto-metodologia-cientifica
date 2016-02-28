@@ -1,0 +1,114 @@
+Return-Path: <"The System Doctor">
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 24816 invoked by alias); 26 Oct 2000 06:00:35 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 24813 invoked from network); 26 Oct 2000 06:00:35 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 26 Oct 2000 06:00:35 -0000
+Received: (qmail 10622 invoked by uid 500); 26 Oct 2000 06:00:34 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 10618 invoked by uid 502); 26 Oct 2000 06:00:33 -0000
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 10614 invoked from network); 26 Oct 2000 06:00:33 -0000
+Received: from mta5.snfc21.pbi.net (206.13.28.241)
+  by bfsmedia.sk.ca with SMTP; 26 Oct 2000 06:00:33 -0000
+Received: from BLADE ([63.193.151.53])
+ by mta5.snfc21.pbi.net (Sun Internet Mail Server sims.3.5.2000.01.05.12.18.p9)
+ with SMTP id <0G300047JWCL8N@mta5.snfc21.pbi.net> for gn@bfsmedia.com; Wed,
+ 25 Oct 2000 22:54:26 -0700 (PDT)
+Date: Wed, 25 Oct 2000 22:54:17 -0110
+From: The System Doctor
+Subject: Computer Quick Tips Delivered  To Your E-Mail Box!
+To: gn@bfsmedia.com
+Reply-to: The System Doctor
+Message-id: <0G30004P8WEP8N@mta5.snfc21.pbi.net>
+X-Mailer: Stellar-X PostList - http://members.tripod.com/~antonino
+Content-Length: 2655
+Lines: 86
+
+Receive Quick Tips For Your Computer In Your E- Mail Box!
+ 
+10 Quick Tips Every Month For 3 Month's!!
+ 
+3 Month's For Only $10.00
+_________________________________________________________________________________________
+To Be Removed From Our List send e-mail to sysdoc@thesystemdoctor.com 
+with the word "remove" in the subject line. 
+
+Computer Quick Tips Delivered straight to you E-Mail Box!
+ 
+Mail us your name, e-mail address and a Check for $10.00 and we will start your subscription!
+
+Free Tip This Week!
+
+Re-Start Windows without re-booting the whole system:
+
+For a quick Windows Re-boot Click Start, Then Shutdown, now click Restart the computer, 
+Hold down the left shift key and click "OK"... Only Windows will restart. 
+You have just quick started Windows.
+
+Adjust Your PC Clock
+
+Does your system clock seem to be losing time? The best solution is to install a time utility that adjusts
+your clock automatically using Internet server's calibrated to atomic time. A good one is from 
+"Beagle Software", "Clock Watch", Download a 30 day trail, then if you like it upgrade to the pro 
+version for $20 Bucks.  http://www.beaglesoft.com/CWFileXfer.htm#ClockWatch
+
+We will send you valuable Tips for hundreds of Programs such as:
+ 
+Microsoft Office 97 - 2000 
+Adobe PhotoShop 5 and 6
+Macromedia Flash 4 and 5
+Word 97 - 2000
+Excel 97 - 2000
+PowerPoint 97 - 2000
+Access 97 - 2000
+So Many Programs...So little Time.... We can help you learn faster and without spending hundreds of dollars
+ 
+If you're like the rest of us, you don't have a lot of time to read computer books...Right?
+ 
+Why Not Give The System Doctor A Try???
+ 
+Mail Your Check Today to:
+ 
+Keith Harris
+The System Doctor
+P.O. Box 41-074
+Los Angeles CA 90041-074
+
+ 
+Mail us your name, e-mail address and a Check for $10.00 and we will start your subscription today!
+
+***********MAIL YOUR ORDER NOW! PRINT OUT FORM BELOW AND MAIL***************
+Fill out this order form and send along with your check made payable to Keith Harris for $10
+We will send out your first ten tip right away!! 
+
+Order Form:
+
+Name:__________________________________________
+
+Address:______________________________________
+
+City:_________________________
+
+State:___________   Zip:___________________
+
+Email address:______________________
+(We will email you a confirmation when we receive your order)
+
+Mail us your check or money order made payable to Keith Harris for $10 to:
+
+The System Doctor
+P.O. Box 41-074
+Los Angeles CA 90041-074
+Fax: 323-254-1231
+
+Remove instructions below:
+
+To be removed from our list
+send an email to:
+sysdoc@thesystemdoctor.com
+with "remove" in the subject.
+or call us at
+323-683-7761
+

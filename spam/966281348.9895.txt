@@ -1,0 +1,48 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Received: (listrecv, mailbox 'linux-kernel' opened at Mon Aug 14 04:49:30 2000)
+Received: (listsend invoked at Mon Aug 14 04:49:30 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 19134 invoked from network); 14 Aug 2000 04:49:30 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 14 Aug 2000 04:49:30 -0000
+Received: (qmail 19188 invoked from network); 14 Aug 2000 04:49:28 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 14 Aug 2000 04:49:28 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S160778AbQHND5g>; Sun, 13 Aug 2000 23:57:36 -0400
+Received: by vger.rutgers.edu id <S160775AbQHND4r>;
+	Sun, 13 Aug 2000 23:56:47 -0400
+Received: from mf104.infoweb.ne.jp ([210.131.99.51]:34775 "EHLO
+	mf104.infoweb.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S160547AbQHNDzk>; Sun, 13 Aug 2000 23:55:40 -0400
+Received: from 300gl
+	by mf104.infoweb.ne.jp (8.9.3+3.2W/3.7W-10/13/99) with ESMTP id NAA16253
+	for <linux-kernel@vger.rutgers.edu>; Mon, 14 Aug 2000 13:22:50 +0900
+Message-ID: <8556.966225089060@iace.co.jp>
+Date:	Mon, 14 Aug 2000 12:51:29 +0900 (JST)
+From:	"magiwa.com" <fuk@iace.co.jp>
+To:	linux-kernel@vger.rutgers.edu
+Subject: =?iso-2022-jp?B?GyRCIiIiIzMkMzBOOTlUN2MwQjRWOl0+JklKGyhC?==?iso-2022-jp?B?GyRCJE4kNDBGRmIiIyIiGyhC?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset =iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Sender:	owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+突然のメールで失礼します。必要のない方に配信された場合は
+お詫び申し上げます。
+
+このメールは、出発間近の海外格安航空券・格安ツアーなどの
+売れ残り商品を中心に『旅』の色々な情報を定期的にご提供差
+し上げるサイトのご紹介をするためのものです。会員登録制で
+すが、登録料はもちろん無料です。ぜひ一度ご覧になられてみ
+てはいかがでしょうか？
+
+情報サイト　　http://www.iace.co.jp/ngo/magiwa.html
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

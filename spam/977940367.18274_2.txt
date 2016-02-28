@@ -1,0 +1,44 @@
+Return-Path: <consultor@chileforestal.cl>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 18167 invoked by alias); 27 Dec 2000 17:51:24 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 18164 invoked from network); 27 Dec 2000 17:51:24 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by bruce-guenter.dyndns.org with SMTP; 27 Dec 2000 17:51:24 -0000
+Received: (qmail 15047 invoked by uid 500); 27 Dec 2000 17:51:23 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 15040 invoked by uid 519); 27 Dec 2000 17:51:22 -0000
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 15033 invoked from network); 27 Dec 2000 17:51:20 -0000
+Received: from mail1.manquehue.net (216.72.16.5)
+  by snssoftware.com with SMTP; 27 Dec 2000 17:51:20 -0000
+Received: from manquehue.net (tc1-159.manquehue.net [216.72.17.158])
+	by mail1.manquehue.net (8.9.3/8.9.3) with ESMTP id OAA01556;
+	Wed, 27 Dec 2000 14:50:24 -0300
+Message-ID: <323212000123271750180@manquehue.net>
+X-EM-Version: 5, 0, 0, 14
+X-EM-Registration: #01B0530810E603002D00
+Reply-To: consultor@chileforestal.cl
+From: "Manager" <consultor@chileforestal.cl>
+To: "Landlords"@mail1.manquehue.net
+Subject: Land Investment Available
+Date: Wed, 27 Dec 2000 14:50:18 -0300
+MIME-Version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-Length: 218
+Lines: 14
+
+Dear Investor,
+
+We have several land tracts available, at very good prices.
+
+Please visit www.chileforestal.com
+
+We may also help you handle projects for your land properties.
+
+Sincerely,
+
+Jose de la Maza
+CFN
+Manager
+

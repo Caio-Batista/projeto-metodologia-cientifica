@@ -1,0 +1,37 @@
+Return-Path: <hbearse@datastreamgrp.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 16116 invoked by alias); 3 Jun 2000 00:01:51 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 16113 invoked from network); 3 Jun 2000 00:01:50 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 3 Jun 2000 00:01:50 -0000
+Received: (qmail 24095 invoked by uid 500); 3 Jun 2000 00:01:48 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 24085 invoked by uid 500); 3 Jun 2000 00:01:47 -0000
+Cc: recipient list not shown: ;
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 24072 invoked from network); 3 Jun 2000 00:01:46 -0000
+Received: from goose.prod.itd.earthlink.net (207.217.120.18)
+  by em.ca with SMTP; 3 Jun 2000 00:01:46 -0000
+Received: from datastreamgrp.com (ip161.miami29.fl.pub-ip.psi.net [38.37.81.161])
+	by goose.prod.itd.earthlink.net (8.9.3-EL_1_3/8.9.3) with SMTP id RAA09165;
+	Fri, 2 Jun 2000 17:01:37 -0700 (PDT)
+From: <hbearse@datastreamgrp.com>
+Subject: Potential Public Company
+Date: Fri, 2 Jun 2000 19:58:40
+Message-Id: <525.13810.379676@datastreamgrp.com>
+Reply-To: beerale@surfree.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+
+
+<HTML><FONT  SIZE=3 PTSIZE=10>Black Bear Brewing Company is focusing on the acquisition trail to consolidate the midsize brewing market, do the research, brewery stocks <A HREF="http://finance.yahoo.com/q?s=bud+rky+sam&amp;d=t">BUD, RKY and SAM</A> are facing their 52 week highs. With shelf space reserved in major grocery store chains, beer sales will be flowing.<BR>
+<BR>
+<BR>
+<A HREF="http://www.centreexchange.com/blackbear1.html">Click Here To Learn More</A><BR>
+<BR>
+<BR>
+You were sent this message because your address us in our database. If you<BR>
+wish to be removed, please <A HREF="http://www.centreexchange.com/response.html">CLICK HERE</A> and we will remove you from our database<BR>
+<BR>
+</HTML>

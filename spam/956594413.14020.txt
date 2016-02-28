@@ -1,0 +1,147 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 96 invoked from network); 23 Apr 2000 22:33:02 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 23 Apr 2000 22:33:02 -0000
+Received: (qmail 30624 invoked from network); 23 Apr 2000 22:33:00 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 23 Apr 2000 22:33:00 -0000
+Received: by vger.rutgers.edu via listexpand id <S154718AbQDWWZM>;
+	Sun, 23 Apr 2000 18:25:12 -0400
+Received: by vger.rutgers.edu id <S154637AbQDWWYy>;
+	Sun, 23 Apr 2000 18:24:54 -0400
+Received: from 1Cust140.tnt5.providence.ri.da.uu.net ([63.21.186.140]:3728
+	"HELO 1Cust150.tnt.1.providence.ri.da.uu.net") by vger.rutgers.edu
+	with SMTP id <S154766AbQDWWWe>; Sun, 23 Apr 2000 18:22:34 -0400
+Date:	Tue, 25 Apr 2000 18:25:47 -0400 EDT
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mozilla 3.01 (Win95; I)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+From: <pline9@worldspy.net>
+To: linux-kernel@vger.rutgers.edu
+Subject: WEB DATABASES/LISTS - 30% TO 50% OFF - 10 DAYS ONLY--Adv.
+Message-Id:<20000423222441Z154766-27074+439@vger.rutgers.edu>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+Good day,
+
+We wanted to share with you the latest 30%-50% OFF, 10 DAYS ONLY PRICING 
+SPECIALS on our database of online businesses--a cutting edge business tool 
+for the growing networked marketplace.  Our databases include contacts 
+representing millions of online business domains which have sprung into the 
+age of the global Internet.  They are compatible with Microsoft Office, 
+Access and all database and contact management products because they are 
+provided in comma delimited text.
+
+These searchable databases include the standard "white pages" information 
+like company name, address, phone number, and fax number, but we have added 
+additional fields including first and last names of the contacts, e-mail 
+addresses and Domain names.  In some editions, an additional 4 fields of 
+business/Web information are available.
+
+January 2000 CD-ROM databases include:
+
+	Company Name 
+	Address 
+	City 
+	State or Province 
+	Postal Code 
+	Country 
+	Prefix (Dr., Mr., Mrs., etc.) 
+	First Name 
+	Middle Name 
+	Last Name 
+	Suffix (Jr., II, III, IV, etc.) 
+	Phone 
+	Extension 
+	Fax 
+	E-mail Address 
+	Web Address (Domain name)
+	-------------------------
+	Expanded Editions add the following fields (web info):
+
+        Web Title (title of web page)
+        META Description (description of website)
+        META Keywords (keywords pertinent to website)
+        BODY (first 255 characters of default web page, e.g. index.htm,
+              index.htm, default.htm)
+
+
+Available data includes:
+	
+  **** 8.8 Million Domain Records--MASTER DATABASE on 3 CD-ROM set ****
+
+		8,841,086 Domain Records Worldwide
+			.COM, .NET, .ORG, .EDU
+			   CALL FOR DETAILS
+
+
+    **** 50% OFF **** US and Canadian Domain Contacts **** 50% OFF ****
+
+		1,450,397 records: WAS $2995.00 - NOW $1497.50
+			US AND CANADA .COM & .NET
+
+
+*NEW*  IT Workers-reach up to 200,000 IT (Information Technology) workers.
+
+		201,603 records: WAS $1995.00 - NOW $997.50
+			US AND CANADA .COM & .NET
+				50% OFF!!!
+
+
+       **** 30% OFF **** CANADA and METRO EDITIONS **** 30% OFF ****
+			
+		Canada   
+                95,158 records: WAS $899.95 - NOW $629.97
+
+                New York City Metro Area
+                91,419 records: WAS $899.95 - NOW $629.97 
+
+                Los Angeles Metro Area
+                146,571 records: WAS $1199.95 - NOW $839.97
+
+                San Francisco Bay Metro Area
+                01,062 records: WAS $899.95 - NOW $629.97
+
+                Washington D.C. Metro Area
+                59,789 records: WAS $749.95 - NOW $524.97
+
+                Boston Metro Area
+                46,446 records: WAS $649.95 - NOW $454.97
+
+                ADD 33% for additional 4 fields of Web info:
+
+                           
+	**** 50% OFF **** Domain Name Master List **** 50% OFF ****
+
+		Over 10 million .COM, .NET, .ORG & .EDU domains
+				and growing!
+			Was $1995.00 - Now $997.50		
+
+
+
+		ALL DISCOUNTS EXPIRE APRIL 30TH, 2000.            
+		All prices are in US Dollars.
+		ALL MAJOR CREDIT CARDS ACCEPTED.
+
+		Please call or fax toll-free at 888-922-5967.
+
+		This is a one time announcement.  However, if you feel
+		you need to, you can remove via e-mail by replying to 
+		this message with REMOVE in the subject or leave a 
+		remove by phone or fax at 888-922-5967.
+
+	
+	Regards,
+
+	John Powers
+	EVA, Inc.
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

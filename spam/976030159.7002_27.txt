@@ -1,0 +1,113 @@
+Return-Path: <lltt1003@blackthumbnail.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 5981 invoked by alias); 5 Dec 2000 13:27:05 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 5978 invoked from network); 5 Dec 2000 13:27:05 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 5 Dec 2000 13:27:05 -0000
+Received: (qmail 29008 invoked by uid 500); 5 Dec 2000 13:27:04 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 29004 invoked by uid 519); 5 Dec 2000 13:27:03 -0000
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 29000 invoked from network); 5 Dec 2000 13:27:01 -0000
+Received: from unknown (HELO mail.ec960.com) (202.108.126.75)
+  by snssoftware.com with SMTP; 5 Dec 2000 13:27:01 -0000
+Received: from mail14.blackthumbnail.net ([63.59.63.74])
+          by mail.ec960.com (Lotus Domino Release 5.0.2b (Intl))
+          with SMTP id 2000120520563073:17110 ;
+          Tue, 5 Dec 2000 20:56:30 +0800 
+From: lltt1003@blackthumbnail.net
+To: localuser@softwarecompletions.com
+Subject: Car shopping? Use us to find the lowest price.
+Message-Id: <35bdtssoor0n.51tcxb65i4seo5@mail14.blackthumbnail.net>
+X-Mailer: mozilla 4.7 (en) (win95; U)
+Date: Tue, 05 Dec 2000 07:55:45 -0500
+CC: email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com,
+	email@softwarecompletions.com
+X-MIMETrack: Itemize by SMTP Server on mail/Ec960(Release 5.0.2b (Intl)|16 December 1999) at
+ 2000-12-05 08:56:40 PM,
+	Serialize by Router on mail/Ec960(Release 5.0.2b (Intl)|16 December 1999) at
+ 2000-12-05 09:32:10 PM
+MIME-Version: 1.0
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 2013
+Lines: 66
+
+<!-- saved from url=3D(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+252">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<title>Get The Lowest Price On Your New Car Without Negotiating For=20
+Hours</title>
+</head>
+
+<body>
+
+<table border=3D"0">
+  <tbody>
+    <tr>
+      <td vAlign=3D"top" align=3D"left" width=3D"224" height=3D"13"><img he=
+ight=3D"225"=20
+src=3D"http://www.backtoday.com/discover/carpic.jpg" width=3D"224"=20
+border=3D"0"></td>
+      <td><font face=3D"VERDANA,ARIAL" color=3D"#0000a0" size=3D"4"><center=
+><b>Get=20
+The
+        Lowest Price On Your New Car<br>
+        Without Negotiating For Hours!</b><font size=3D"2">
+        <p>&nbsp;
+        <p align=3D"center">Would you like to get a straight-forward answer=
+=20
+from<br>
+        a sales professional that does not have to &quot;check with his
+        manager&quot;?<br>
+        <p>&nbsp;
+        <table border=3D"0">
+          <tbody>
+            <tr>
+              <td align=3D"left"><font color=3D"#ff0000" size=3D"2"><b>
+                <ul>
+                  <li>Prices based on dealer invoice.
+                  <li>No aggravation.
+                  <li>Instant Quotes online.
+                  <li>All brands, new, used, take your pick.</b></font><b>
+                <p>&nbsp;</p>
+                </li>
+                </b>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <font face=3D"VERDANA,ARIAL" color=3D"#0000a0" size=3D"5"><b><a=20
+target=3D"=5Fblank" href=3D"http://www.backtoday.com/city">Click
+        Here</a>
+        <p>&nbsp;
+        <p><font face=3D"VERDANA,ARIAL" color=3D"#0000a0" size=3D"1"><a=20
+href=3D"http://www.backtoday.com/remove">To
+        be removed from future mailings click here</a></font></p>
+        </b></font></font></center></font></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+
+</html>
+

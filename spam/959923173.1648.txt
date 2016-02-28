@@ -1,0 +1,124 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 32143 invoked from network); 2 Jun 2000 03:06:25 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 2 Jun 2000 03:06:25 -0000
+Received: (qmail 645 invoked from network); 2 Jun 2000 03:06:22 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 2 Jun 2000 03:06:22 -0000
+Received: by vger.rutgers.edu via listexpand id <S156688AbQFBCtd>;
+	Thu, 1 Jun 2000 22:49:33 -0400
+Received: by vger.rutgers.edu id <S156271AbQFBCnO>;
+	Thu, 1 Jun 2000 22:43:14 -0400
+Received: from dummy.web6122-unet.ocn.ne.jp ([210.164.151.162]:4130 "HELO
+	mail.telnet.co.jp") by vger.rutgers.edu with SMTP
+	id <S156730AbQFBC2K>; Thu, 1 Jun 2000 22:28:10 -0400
+Received: (qmail 27995 invoked from network); 1 Jun 2000 22:47:50 -0000
+Received: from dummy.web6122-unet.ocn.ne.jp (HELO mail.telnet.co.jp) (root@210.164.151.162)
+  by dummy.web6122-unet.ocn.ne.jp with SMTP; 1 Jun 2000 22:47:50 -0000
+From: deai12@press.co.jp
+To: linux-kernel@vger.rutgers.edu
+Subject: Deai-press
+Content-type: text/plain; charset=iso-2022-jp
+Message-Id:<20000602024257Z156730-20297+1136@vger.rutgers.edu>
+Date:	Thu, 1 Jun 2000 22:28:10 -0400
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+　━─━─━─━─━─━─━─━─━─━─━─━─━─
+　　　　　　日本一の出会いサイトを探す新聞です
+　─━─━─━─━─━─━─━─━─━─━─━─━─━
+
+今回は、女性が管理しているサイトをご紹介いたします。
+それぞれの広報担当者からの声を聞いてください。
+
+今後この出会い新聞がご不要な方は、２度と配信
+致しませんので下記アドレスにこのままご転送ください。
+　　　 deai22@press.co.jp
+----------------------------------------------------
+
+┏【１】http://www.aimail.co.jp
+┃　　こんにちは。女性用Ｗｅｂマガジンの坂本さえりです。
+┃　　出会いサイト<<<http://www.aimail.co.jp>>>についてです。
+┃　　史上初、チャットからトークができる新システム！
+┃┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃　女性用Ｗｅｂマガジンが女性読者の意見を聞いて
+┃　全く新しい真面目な出会いサイト「aimail」を作りました。
+┃　だから、他の出会いサイトとは全く違います！
+┃　毎月２００万円相当のプレゼント付き！
+┃┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃　　　　　　　　http://www.aimail.co.jp
+┃
+┃━━……‥・ネット史上初！チャットからトークができます
+┃aimailでは、ログイン中のメンバーが常に表示されていますので
+┃２ショットチャットや２ショットトークが、
+┃申し込んですぐにできるようになっています。
+┃
+┃電話で相手と実際におしゃべりすることによって、
+┃相手のことをより身近に感じることができるでしょう。
+┃aimailでは、このシステムを実現するために、
+┃全国に専用の電話センターを設けました。
+┃
+┃━━……‥・驚異的な男女比で、男性圧倒的有利です
+┃現在の男女比３：７！圧倒的に女性が多いのは、女性用ウェブ
+┃マガジンを９７年から発行している弊社だからこそです。
+┃また、毎月２００万円相当のブランド品などのプレゼントを
+┃実施しているため、たくさんの女性が集まります。
+┃プレゼントには、今では入手困難なSONYのあの成長するロボット犬、
+┃aiboも毎月３台ずつ出ています。
+┃
+┃女性会員様の方が多いので「男性からメールがこない」と
+┃クレームが来るほどです。
+┃
+┃━━……‥・そこでこのたび、女性会員の為に男性会員を増やすランクを
+┃作りました。男性も、ゲスト会員として無料でご入場できます。
+┃数多くの機能を用意してあなたの出会いをサポートいたします。
+┃ぜひ一度、その多彩な機能に驚いてください！！！
+┗
+
+＊配信もとより一言
+このサイトは一見の価値ありです。
+メールを出しても返事が来ない、出会えない、と言う方、
+ぜひ利用してみて下さい。必ず、驚きます。
+私自身も、テストで入りましたが、出会いの確率は
+驚異的ですよ。これ本当です。
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+-----------------------------------------------------------
+
+┏【２】
+┃　　はじめまして。“メル友探そ！”ＡＱＣのAYAです。
+┃　　出会い掲示板<<<http://www.aqc.co.jp>>>を、
+┃　　２０００年４月にオープンしたばかりです！
+┃　今、掲示板に参加するとランコムのリップグロスプレゼント！
+┃┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃　　　　女性管理者による、女性のためのページです。
+┃　　　　　　　オープンしたてのサイトだから、
+┃　　　　書き込みしている女性もニューフェースばかり！
+┃┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃　　　　　　　　http://www.aqc.co.jp
+┃
+┃━━……‥・地域を２つに限定した掲示板。
+┃たくさんあれば、良いというものではありません。
+┃オープンしたてだからこそ、関西地区／関東地区の２つを限定。
+┃メール友達を探してる人は、ぜひ書き込みに来てください！！！
+┃そして、メール友達からの、ステップ・アップは今や常識！
+┗
+
+＊配信もとより一言
+オープンしたばかりでまだまだという感じですが、
+無料なのでいいかなと言う程度で評価はできません。
+
+-----------------------------------------------------------
+最後までお読みいただいてありがとうございました。
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

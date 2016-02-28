@@ -1,0 +1,190 @@
+Return-Path: <tayers@sostechnical.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 10208 invoked from network); 20 Oct 2000 23:57:19 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 20 Oct 2000 23:57:19 -0000
+Received: (qmail 29609 invoked by uid 500); 20 Oct 2000 23:57:18 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29605 invoked from network); 20 Oct 2000 23:57:17 -0000
+Received: from sosproxy.sosstaffing.com (HELO sosfile.sosstaffing.com) (208.219.25.232)
+  by em.ca with SMTP; 20 Oct 2000 23:57:17 -0000
+Received: by SOSFILE.SOSSTAFFING.COM with Internet Mail Service (5.5.2650.21)
+	id <V2L1A892>; Fri, 20 Oct 2000 17:59:15 -0600
+Message-ID: <5EA56B5504DAD311B2EB00A0C9DED6A4010AF634@SOSFILE.SOSSTAFFING.COM>
+From: Todd Ayers <tayers@sostechnical.com>
+To: bruceg@em.ca
+Subject: Job Opportunities in Las Vegas, Reno, and Tucson!
+Date: Fri, 20 Oct 2000 17:58:57 -0600
+Return-Receipt-To: Todd Ayers <tayers@sostechnical.com>
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Length: 8090
+
+Job Opportunities in Las Vegas, Reno, and Tucson!
+
+We found your resume posted on a resume posting site (i.e.Monster,
+Headhunter, etc.). Here's a brief job description. What salary range are you
+looking for and how soon you could be available? Are you interested in
+direct hire, contractor, or both? Do you require relocation assistance?  
+
+Please send me your updated resume so I can put you in our database and
+submit you to our  client. Thanks! 
+
+
+Software/Firmware Development Engineer - Las Vegas
+Qualified applicants should have a Bachelors, Masters or Ph.D.  and be
+proficient in real-time embedded applications development.  Experience with
+microprocessor development in a real-time operating system with C/C++ and
+assembly  are required. This is a leading manufacturer of products for the
+gaming industry.
+
+
+Embedded Software Engineer -Tucson
+Analyze and define programs for electronic gaming devices and related
+products.  Conduct analysis of sufficient detail of all defined systems
+specifications and develops diagrams, logic flow charts, codes, prepares
+test data, tests and debugs programs.  Revises and refines programs as
+required and documents all procedures used throughout the programs and
+evaluates and modifies existing programs to take into account changes in
+system requirements.  Must strive to achieve the common objectives of
+customer focus and continuous improvement.  Customers are defined as: The
+Paying Customer, The Internal Customer (colleagues that are recipients of
+work), Regulatory Agencies, Third Party Strategic Partners.  Complying with
+company's regulatory guidelines and corporate policies.
+Duties and Responsibilities:
+- Carry out tasks with understanding of internal and external customer needs
+- Identify and participate in improvement, apply quality standards and
+procedures
+- Development of game or core machines software, including design, test and
+documentation to specific standards
+- Create/review technical requirements and prepare written instructions and
+reports
+- Ensure adequate testing of software and participate in spec/design
+meetings
+- Responsible for own work, may occasionally assign/check work of technical
+staff
+Requires:
+- BS in Computer Science and read, write and speak English
+- 3-5 years related gaming experience
+- 2 years experience with C and Assembly languages
+- Excellent communication skills and be self-motivated/self-disciplined
+- Must be a creative, forward and positive thinker and organized/detail
+oriented
+- Must be team, goal and results oriented
+- Must be able to maintain confidentiality of information regarding the
+company, products and employee information
+
+
+Systems Software Engineer -Tucson
+Analyze and define programs for low level communication protocols and device
+drivers for gaming machines/devices. Develop diagrams, logic flow charts,
+codes, prepare test data, and debug/test programs. Revise and refine
+programs as required and document all procedures used throughout the
+programs. Evaluate and modify existing programs to take into account changes
+in system requirements.  Identify and improvement participation. Create and
+review technical requirements. Ensure adequate testing of software. BA/BS in
+Electrical Eng., Computer Science or related. Extensive experience with
+Embedded systems in C and Assembly languages preferred. Team player, Goal
+oriented, Motivated, Organized!
+
+
+Embedded Software Engineer - Las Vegas
+Create/Modify embedded software games, run tests by debugging and examining
+programs, run test comparisons, calculations, meeting spec.s, evaluate
+interface between hardware and software. 2 + years of experience in writing
+microprocessor software, with a BSEE, or BSCS or related work experience.
+Have worked with real time, assembly and C plus C++ language.  B.A. in
+Computer Science or 0-3 years related exp. in programming.  Must have a
+Nevada Gaming card or be able to obtain one
+
+
+DSP Software/Firmware Engineer - Reno
+To design, code and test DSP software for networking/communication/telephony
+equipment.
+The successful candidate must be able to produce accurate, timely designs in
+a fast-paced working environment using assembly code for Telephony and
+Speech Processing (DTMF, G.729A, G.168) applications and system control
+functions.  Integration of third-party software modules and maintenance of
+existing product software in essential.  The candidate should have good
+working knowledge of ADSP218x or TMS320C54x architectures; familiarity in
+real-time interrupt based processing and demonstrable process knowledge of
+embedded systems development; and skilled use of software and hardware tools
+(DSP simulators, in-circuit emulators).
+Requirements: BSCS / BSEE with strong DSP background.  Minimum 2 years DSP
+firmware experience.
+
+Our Client develops broadband residential gateways that enable high speed
+internet, voice and video communications to and from the home. The networks
+into the home (twisted pair copper wires, coaxial cable and wireless
+satellite) are seamlessly connected to the networks inside the home.
+
+
+Software Engineer Manager Tucson
+Manage and enhance the operations of the Software Engineering department.
+Carry out tasks with an understanding of customer needs.  Seek to identify
+and participate in improvement.
+Duties and Responsibilities:
+- Plan, staff, organize and control the Software Engineering department.
+- Be responsible for personnel management and motivation of the department.
+- Prepare and manage department budget.
+- Advise and coordinate training of staff.
+- Engage, supervise, and review contractors and consultants as required.
+- Ensure resources are allocated to carry out tasks
+- Review and monitor the status and progress of projects, making complex
+industry relevant technical decisions
+- Ensure the development of procedures and methodologies for s/w development
+- Seek improvements to s/w development environment and process
+- Guide selection of technologies and accreditation to QA standards
+- Participate in product design and technical reviews
+- Establish metrics for measuring s/w quality and productivity
+- Travel as needed
+Requirements:
+- BS in computer science or electrical engineering preferred
+- 5+ years technical supervisory experience.
+- 5+ years software development experience preferable in embedded systems
+- Strong analytical ability and willingness to think out of the box for
+solutions
+- Proven track record of completing projects and a self-starter
+- Strong people skill, positive attitude, team player
+- Strong communications and project management skills
+- Willingness to learn new technologies and very organized
+
+
+Embedded Software/Firmware Engineer - Reno
+To design, code and test embedded software for networking/communication
+equipment. 
+The successful candidate must produce accurate, timely designs in a
+fast-paced working environment with the ability to integrate third-party
+software modules into the product.  Designing and implementing new software
+modules, maintenance of existing product software and interfacing SW/HW
+vendors to obtain information to complete assigned task is essential.  The
+candidate must have a working knowledge of software engineering process and
+should be skilled in the use of software tools (IDEs, source control,
+debuggers, in-circuit-emulators).  Strong hardware knowledge; especially
+network interface controllers (ethernet, ATM, SAR, Segmentation and
+reassembly), PCI bus and various microprocessors are necessary.  Knowledge
+of RTOS (RealTime Operating System), preferably vxWorks, is preferred.
+
+Our Client develops broadband residential gateways that enable high speed
+internet, voice and video communications to and from the home. The networks
+into the home (twisted pair copper wires, coaxial cable and wireless
+satellite) are seamlessly connected to the networks inside the home.
+
+
+
+
+Todd Ayers
+Branch Manager
+SOS Technical Services
+3505 East Flamingo Rd.
+Las Vegas NV. 89121
+Phone:702.451.2331
+Fax:702.451.0433
+tayers@sostechnical.com
+http://www.sostechnical.com
+*SOS Technical Las Vegas is a 
+company member of 
+Casino Managers Association
+

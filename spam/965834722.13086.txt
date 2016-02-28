@@ -1,0 +1,57 @@
+Return-Path: <mnm45@aol.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 12289 invoked from network); 9 Aug 2000 04:37:13 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 9 Aug 2000 04:37:13 -0000
+Received: (qmail 1265 invoked by uid 530); 9 Aug 2000 04:37:09 -0000
+Delivered-To: bruceg@daedalus.bfsmedia.sk.ca
+Received: (qmail 1262 invoked by uid 500); 9 Aug 2000 04:37:08 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1257 invoked from network); 9 Aug 2000 04:37:07 -0000
+Received: from unknown (HELO octopus.azure.net) (194.6.224.12)
+  by em.ca with SMTP; 9 Aug 2000 04:37:07 -0000
+Received: from dun-143.starcomm.net [206.154.56.143] by octopus.azure.net for 
+	  Casablanca, Morocco Mon, 7 Aug 2000 08:35:51 -0700
+From: mnm45@aol.com
+Message-Id: <200008071535.IAA03820@octopus.azure.net>
+To: hmng32@aol.com
+Subject: 3.95% 30 Yr. & 4.95% 40 Yr. Mortgages!
+Date: Wed, 09 Aug 00 00:33:54 Eastern Daylight Time
+Reply-To: mnm45@aol.com
+X-Priority: 3
+X-MSMailPriority: Normal
+Importance: Normal
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_018C_01BD9940.715D52A0"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_018C_01BD9940.715D52A0
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+
+<FONT face="MS Sans Serif">
+<FONT size=2> 3.95% 30 year & 4.95% 40 year Mortgages Now Available!<BR>
+Loans from $50,000 to $1,500,000.<BR>
+NO Penalty for early payoff.<BR>
+Self-Employed and can't show income? NO PROBLEM!!<BR>
+<BR>
+For more Information or to Apply, please visit us at <BR>
+<A HREF="http://www.debtfreehome.com">www.debtfreehome.com</A><BR>
+<BR>
+In compliance with the proposed legislation for commercial e-mail, (S.1618<BR>
+#301 (a)(2)(C)) we are providing legitimate Contact (info@debtfreehome.com)<BR>
+and Remove (<A HREF="mailto:remove@debtfreehome.com">remove@debtfreehome.com</A>) links. Remove requests sent via this<BR>
+link will immediately stop further transmissions of this message at no cost<BR>
+to you.<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</FONT></FONT></BODY></HTML>
+
+

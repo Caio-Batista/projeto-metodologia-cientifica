@@ -1,0 +1,73 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Received: (listrecv, mailbox 'linux-kernel' opened at Mon Aug 14 11:55:35 2000)
+Received: (listsend invoked at Mon Aug 14 11:55:27 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 26722 invoked from network); 14 Aug 2000 11:55:23 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 14 Aug 2000 11:55:23 -0000
+Received: (qmail 31731 invoked from network); 14 Aug 2000 11:55:21 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 14 Aug 2000 11:55:21 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S157275AbQHNLYB>; Mon, 14 Aug 2000 07:24:01 -0400
+Received: by vger.rutgers.edu id <S157252AbQHNLXy>;
+	Mon, 14 Aug 2000 07:23:54 -0400
+Received: from buddy.pacificcoast.net ([216.86.100.2]:8265 "EHLO
+	buddy.pacificcoast.net") by vger.rutgers.edu with ESMTP
+	id <S157228AbQHNLXf>; Mon, 14 Aug 2000 07:23:35 -0400
+Received: from pacificcoast.net (bct140-107.gen.pacificcoast.net [209.53.140.107])
+	by buddy.pacificcoast.net (8.9.1a/8.9.1) with SMTP id CAA10071;
+	Mon, 14 Aug 2000 02:52:40 -0700
+Date:	Mon, 14 Aug 2000 02:52:40 -0700
+From:	tkwriter@vanc.igs.net
+Message-Id: <200008140952.CAA10071@buddy.pacificcoast.net>
+Reply-To: tkwriter@vanc.igs.net
+To:	tkwriter@vanc.igs.net
+Subject: Documentation Specialist Seeking Contract Work
+Sender:	owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+Documentation Specialists Seeking Contract Work - Technical Writing, 
+graphics, Robohelp, HTML, SGML, etc. 
+
+Senior technical writers, project leaders and electronic documentation 
+specialists seek contract work. Clients have included companies such 
+as Microsoft and Koch Petroleum. Excellent communication skills, able 
+to work with all levels of the company from programmers to CEO.  
+Excellent background in technical, marketing and creative writing.
+Familiar with educational material as well as e-commerce.  
+Writing samples, full resume and references available on request.
+
+Experience in creating both published and online documentation.
+
+REQUIRED:
+
+Prefer Corp to Corp Sole relationship directly with the client. 
+Agents are also welcome in the same capacity.
+
+Production is done at our facility.  We are fully equipped. 
+
+PLEASE REPLY ONLY BY PHONE
+Contact - Casey Lea - 
+
+TO INQUIRE ABOUT SERVICES, AVAILABILITY, OR TO CONFIRM REMOVAL FROM OUR LIST 
+CALL 604-685-8348 PST
+
+Rates: Fees are charged by the hour or by the project.  
+
+-------------------
+This message is sent in compliance of the new e-mail bill: SECTION 301. Per Section 301, Paragraph (a)(2)(C) of S. 1618, 
+
+http://www.senate.gov/~murkowski/commercialemail/S771index.html___________________________________________________________
+This Message was Composed by a user of Extractor Pro '98 Bulk E- Mail Software. If 
+you wish to be removed from this advertiser's future mailings, please reply 
+with the subject "Remove" and this software will automatically block you 
+from their future mailings.
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

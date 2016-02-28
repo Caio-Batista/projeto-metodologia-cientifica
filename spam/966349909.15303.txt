@@ -1,0 +1,55 @@
+Return-Path: <gifts@flooz.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 14814 invoked from network); 15 Aug 2000 08:56:09 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 15 Aug 2000 08:56:09 -0000
+Received: (qmail 28615 invoked by uid 530); 15 Aug 2000 08:56:08 -0000
+Delivered-To: bruceg@daedalus.bfsmedia.sk.ca
+Received: (qmail 28612 invoked by uid 500); 15 Aug 2000 08:56:08 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28607 invoked from network); 15 Aug 2000 08:56:07 -0000
+Received: from valen-ext.pointsnorth.com (HELO valen.pointsnorth.com) (206.186.18.254)
+  by em.ca with SMTP; 15 Aug 2000 08:56:07 -0000
+Received: (qmail 15114 invoked by alias); 15 Aug 2000 08:56:05 -0000
+Delivered-To: root@valen.pointsnorth.com
+Received: (qmail 15111 invoked by alias); 15 Aug 2000 08:56:05 -0000
+Delivered-To: MAILER-DAEMON@valen.pointsnorth.com
+Received: (qmail 15108 invoked from network); 15 Aug 2000 08:56:04 -0000
+Received: from unknown (HELO esn-smtp1.esupportnow.com) (38.149.229.216)
+  by valen.pointsnorth.com with SMTP; 15 Aug 2000 08:56:04 -0000
+Received: (from smap@localhost)
+	by esn-smtp1.esupportnow.com (8.10.2/8.10.2) id e7F8pu908073
+	for <MAILER-DAEMON@valen.pointsnorth.com>; Tue, 15 Aug 2000 04:51:56 -0400
+Message-Id: <200008150851.e7F8pu908073@esn-smtp1.esupportnow.com>
+X-Authentication-Warning: esn-smtp1.esupportnow.com: smap set sender to <gifts@flooz.com> using -f
+Received: from unknown(10.2.20.7) by esn-smtp1.esupportnow.com via smap (V2.1)
+	id xmac08008; Tue, 15 Aug 00 04:51:45 -0400
+Precedence: bulk
+Auto-Submitted: auto-replied
+Date: Tue, 15 Aug 2000 04:54:57 -0400
+To: <MAILER-DAEMON@valen.pointsnorth.com>
+Subject:   (KMM367181C0KM)
+From: Flooz Gifts <gifts@flooz.com>
+Reply-To: Flooz Gifts <gifts@flooz.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset = "us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Kana 5.0
+
+Thank you for contacting Flooz Customer Care.  We've received your 
+e-mail and are working on a response.  A Flooz Customer Care 
+representative will contact you soon.   You'll receive a resolution to =
+
+your e-mail inquiry within 24 business hours.
+
+If you'd like to speak with someone immediately, you may select "Live 
+Chat" located at the top of our web site pages, or call Flooz Customer =
+
+Care toll free at 1-877-GO-FLOOZ or 1-877-463-5669.  We're here to 
+assist you Monday through Friday from 8a.m. to 12 a.m. (midnight) EST 
+and Saturday and Sunday from 9a.m. to 9p.m.
+
+Again, thank you for your inquiry.  We'll do everything we can to 
+provide a resolution as soon as possible.
+
+Flooz.com Customer Care

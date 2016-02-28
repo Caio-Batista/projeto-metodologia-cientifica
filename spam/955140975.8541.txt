@@ -1,0 +1,127 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 6945 invoked from network); 7 Apr 2000 19:45:45 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 7 Apr 2000 19:45:45 -0000
+Received: (qmail 29307 invoked from network); 7 Apr 2000 19:45:43 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 7 Apr 2000 19:45:43 -0000
+Received: by vger.rutgers.edu via listexpand id <S154343AbQDGTZt>;
+	Fri, 7 Apr 2000 15:25:49 -0400
+Received: by vger.rutgers.edu id <S154378AbQDGTZh>;
+	Fri, 7 Apr 2000 15:25:37 -0400
+Received: from [211.49.129.168] ([211.49.129.168]:3836 "EHLO smtp.thrunet.com")
+	by vger.rutgers.edu with ESMTP id <S154642AbQDGTYI>;
+	Fri, 7 Apr 2000 15:24:08 -0400
+Received: from thrunet ([211.52.242.231]) by smtp.thrunet.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Sat, 8 Apr 2000 04:29:30 +0900
+From: =?ISO-8859-1?Q?=C0=CC=C7=F6=BF=EC <olk@olk.co.kr>,
+  ?=@bruce-guenter.dyndns.org
+To: linux-kernel@vger.rutgers.edu
+Subject: =?ISO-8859-1?Q?=BF=B5=BE=EE,=C0=CF=BE=EE?= =?ISO-8859-1?Q?=BB=FD=C8=B0=C8=B8=C8=AD?= =?ISO-8859-1?Q?=B9=AB=B7=E1?= mailing service =?ISO-8859-1?Q?=BE=C8=B3=BB!!?=
+Date:	Sat, 08 Apr 00 04:22:55 =?ISO-8859-1?Q?=B4=EB=C7=D1=B9=CE=B1=B9?= =?ISO-8859-1?Q?=C7=A5=C1=D8=BD=C3?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=AD_2000_PART_BOUNDARY_19990606
+Message-ID: <0b50b3029190740SMTP7@smtp.thrunet.com>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+This is a multi-part message in MIME format.
+
+--AD_2000_PART_BOUNDARY_19990606
+Content-Type: text/plain
+Content-Transfer-Encoding: 7Bit
+
+안녕하세요? 
+
+저희는 전화를 이용해서 강사와 1:1로 외국어 학습을 할 수 있는 
+◐Online korea◑라고 합니다.
+
+허락없이 편지 드려 죄송합니다. 부디 너그러운 용서를......
+
+저희 회사에서는 생활 회화에 관심있는 네티즌 여러분에게
+매일(월-금), 실 생활에 필요한 생활회화 한 문장씩을 
+무료로 보내 드리고 있어요.
+
+서비스 내용은 아래와 같이 구성 되오니 받아보길 원하시는 분은 
+≪ olk@olk.co.kr ≫로 "yes"라는 mail을 주시면 된답니다.
+
+그리고, 저희 전화 외국어 강의가 궁금하신 분들을 위해 ◈시범강의◈도 
+무료로 실시하고 있으니 많이 신청해 주세요.
+
+무료 시범강의 신청 방법은 ▶ www.d-day.co.kr ◀ 에 접속하신 후 
+"강의소개"란을 클릭하신다음 "강의신청"란을 보시면 시범강의를 
+신청하실 수 있어요. 전화 02-588-0510 으로도 신청할 수 있답니다.
+
+아무쪼록 이 학습법으로 회화 실력 향상에 작은 보템이 되었으면 합니다.
+
+감사합니다.
+
+불필요한 정보였다면 대단히 죄송합니다.
+
+☏ 매일 받아보실 영어,일어 생활회화 예문. ▶▶▶▶ 무료 서비스
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☎ 오늘의 유우머▶ 2000.04.08(토) ≪─  주 2 회 발송(화,목) 발송.
+
+▣Omnipotent God
+
+Georgie : "Please, God, make Paris the capital of Italy."
+
+Mother  : "But, Georgie, why ask for that?"
+
+Georgie : "Because that's what I put on my test papers in school today."
+
+▣전능하신 하나님
+
+조  지 : "제발, 하나님, 파리를 이테리의 수도로 만들어 주세요"
+어머니 : "아니, 조지야, 그게 무슨 소리니?"
+조  지 : "오늘 학교에서 시험쳤는데 답을 그렇게 썼거든요."
+
+●Omnipotent : 전능한
+
+
+☎ 오늘의 한마디 ▶ 영어(2000.04.08(토))   
+
+▣I felt on top of the world  ≪─────  매일(월-금) 발송.
+               
+사람은 누구나 성공하면 기분이 좋은 것은 당연하지요. 
+물론, 어떤 사람들은 성공했을 때에 더 겸손해지지만 대부분의 사람들은 
+[나를 보라! 내가 최고야]라고 생각합니다. 
+이와 같은 기분을 나타내는 표현이 'on top of the world'랍니다.
+
+  on top of the world를 직역하면 [세상 꼭대기에]라는 의미이며 
+  I felt on top of the world. 는 (세상 꼭대기에 있는 느낌이었다.)
+  즉, (굉장히 기분이 좋았다)를 뜻합니다.
+  흔히 (기분이 좋았어)라는 의미로 I felt good. 만을 생각하기 쉬우나 
+  이 표현도 알고 있으면 감정의 표현을 더 잘 할 수 있을 거에요.
+
+⊙ on top of the world는 세상 꼭대기에 있는 느낌. 
+   그렇다면 out of this world 는? 
+   이 세상의 일같지 않게 wonderful[근사한], 
+   fantastic[환상적인]이란 뜻이에요.
+
+A: I heard you were engaged to Marian.
+
+B: Actually, I was.
+
+A: Oh, really? So, how did you feel on the night of your engagement?
+
+B: I felt like I was on top of the world.
+
+A: 메리안과 약혼한다고 들었는데.
+B: 사실 이미 했어.
+A: 어, 정말이야?  그래,약혼식한 그날 밤에 기분이 어땠어?
+B: 세상을 얻은 기분이었지.
+
+☎ 오늘의 한마디 ▶ 일어(2000.04.08(토))≪─주 3 회 발송(월,수,금) 발송.
+
+ 일어 예문도 영어와 같은 형태로 구성 되어 있습니다.
+--AD_2000_PART_BOUNDARY_19990606--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

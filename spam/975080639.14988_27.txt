@@ -1,0 +1,45 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Received: (listrecv, mailbox 'linux-kernel' opened at Fri Nov 24 15:17:38 2000)
+Received: (listsend invoked at Fri Nov 24 15:17:38 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 11253 invoked from network); 24 Nov 2000 15:17:37 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bfsmedia.sk.ca with SMTP; 24 Nov 2000 15:17:37 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+        id <S129091AbQKXPqz>; Fri, 24 Nov 2000 10:46:55 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+        id <S129391AbQKXPqp>; Fri, 24 Nov 2000 10:46:45 -0500
+Received: from mailhost.educ.disi.unige.it ([130.251.152.1]:59308 "EHLO
+        selene.educ.disi.unige.it") by vger.kernel.org with ESMTP
+        id <S129091AbQKXPqd>; Fri, 24 Nov 2000 10:46:33 -0500
+Received: from smeraldo.educ.disi.unige.it (smeraldo [130.251.152.231])
+        by selene.educ.disi.unige.it (8.9.3/8.9.3) with ESMTP id QAA00028
+        for <linux-kernel@vger.kernel.org>; Fri, 24 Nov 2000 16:15:24 +0100 (MET)
+Received: (from 1997s086@localhost)
+        by smeraldo.educ.disi.unige.it (8.9.3/8.9.3) id QAA27558;
+        Fri, 24 Nov 2000 16:15:22 +0100
+Date:   Fri, 24 Nov 2000 16:15:22 +0100 (MET)
+From:   Davide Piana <1997s086@educ.disi.unige.it>
+To:     linux-kernel@vger.kernel.org
+Subject: The Birthday of the Year!!
+Message-ID: <Pine.LNX.3.91.1001124161026.27550A-100000@smeraldo>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 399
+
+Hallo!
+If you wanna drink a lot and eat with a lot
+of fun you *MUST* go to Italy this evening
+for the Birthday of the Year!!!!
+the date is at 21:00!!!!!!
+
+WE ARE WAITING FOR YOU!!!!!
+
+Mail me for more info about the place!
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

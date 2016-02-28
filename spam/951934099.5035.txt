@@ -1,0 +1,39 @@
+Return-Path: <ghh@aol.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 8449 invoked by alias); 1 Mar 2000 07:12:21 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 8446 invoked from network); 1 Mar 2000 07:12:21 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 1 Mar 2000 07:12:21 -0000
+Received: (qmail 28174 invoked by uid 530); 1 Mar 2000 07:12:10 -0000
+Delivered-To: bruceg-spam@daedalus.bfsmedia.sk.ca
+Received: (qmail 28171 invoked from network); 1 Mar 2000 07:12:01 -0000
+Received: from gate.qcc.sk.ca (HELO hal.qcc.sk.ca) (198.169.201.7)
+  by bfsmedia.sk.ca with SMTP; 1 Mar 2000 07:12:01 -0000
+Received: (qmail 2555 invoked by alias); 1 Mar 2000 07:11:57 -0000
+Delivered-To: mikhail-bait@mikhail.qcc.sk.ca
+Received: (qmail 2552 invoked from network); 1 Mar 2000 07:11:57 -0000
+Received: from unknown (HELO rct?nt?server.cybrsuites.com) (209.12.123.148)
+  by hal.qcc.sk.ca with SMTP; 1 Mar 2000 07:11:57 -0000
+Received: from t28racing.com ([38.11.233.176])
+          by rct_nt_server.cybrsuites.com (Post.Office MTA v3.0
+          release 0122 ID# 0-37873U100L2S100) with SMTP id AAV288;
+          Wed, 1 Mar 2000 01:20:21 -0600
+To: sell29@earthlink.net
+Date: Wed, 01 Mar 00 02:11:01 EST
+From: ghh@aol.com
+Subject: It's so exciting, here's your tickets!
+Reply-To: sell29@earthlink.net
+
+<html>
+
+<head>
+<body>
+
+<p><font size="6"><a href="http://209.155.119.174/flyaway/getaway/">Click Here</a></font></p>
+
+</body>
+
+</html>
+OR go to   http://209.155.119.174/flyaway/getaway/
+

@@ -1,0 +1,70 @@
+Return-Path: <karen@players.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 15455 invoked by alias); 28 Aug 2000 16:33:47 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 15452 invoked from network); 28 Aug 2000 16:33:47 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 28 Aug 2000 16:33:47 -0000
+Received: (qmail 3228 invoked by uid 500); 28 Aug 2000 16:33:46 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 3224 invoked by uid 500); 28 Aug 2000 16:33:45 -0000
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 3216 invoked from network); 28 Aug 2000 16:33:44 -0000
+Received: from unknown (HELO smtp.eisa.net.au) (root@192.65.90.247)
+  by em.ca with SMTP; 28 Aug 2000 16:33:44 -0000
+Received: from mail.eisa.net.au (mail.eisa.net.au [203.166.224.23])
+	by smtp.eisa.net.au (8.9.0/8.9.0) with ESMTP id CAA25529;
+	Tue, 29 Aug 2000 02:29:22 +1000
+From: karen@players.com
+Received: from 203.166.248.76 (pppb4-76.eisa.net.au [203.166.248.76])
+	by mail.eisa.net.au (8.10.1/8.10.1) with SMTP id e7SA0mT27456;
+	Mon, 28 Aug 2000 20:00:48 +1000
+Message-ID: <000050b9433c$00003ecb$0000247b@>
+To: <Undisclosed.Recipients@mail.eisa.net.au>
+Subject: Check this out
+Date: Mon, 28 Aug 2000 19:41:46 -0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: remove_12@mail.com
+Content-Length: 1151
+Lines: 35
+
+<html>
+<head>
+<title>Cool Stuff</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF">
+<p>We have received a request for addition to our entertainment newsletter=
+. 
+  If this mail has reached you in error, please remove yourself from this =
+list 
+  by replying to this mail with the text 'remove' in the subject line.<br>
+  ******************************************************************</p>
+<p> <a href=3D"http://www.bangkok.com/mypage/loveydove/goodstuff.html">Hot=
+ - Check this out.<br>
+  CLICK HERE</a></p>
+<p> ******************************************************************<br>
+  To be removed, reply to this mail with 'remove' as the subject </p>
+</body>
+</html>
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+
+
+<html><p><head><p><title>Cool Stuff</title><p><meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3Diso-8859-1"><p></head><p><p><body bg=
+color=3D"#FFFFFF"><p><p>We have received a request for addition to our ent=
+ertainment newsletter. <p>  If this mail has reached you in error, please =
+remove yourself from this list <p><p><p><p><p></BODY></HTML>
+
+

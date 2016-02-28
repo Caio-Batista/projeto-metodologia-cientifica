@@ -1,0 +1,102 @@
+Return-Path: <ryan@techtrendsonline.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 30639 invoked from network); 10 Nov 2000 23:39:35 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 10 Nov 2000 23:39:35 -0000
+Received: (qmail 29556 invoked by uid 500); 10 Nov 2000 23:39:34 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29552 invoked from network); 10 Nov 2000 23:39:33 -0000
+Received: from unknown (HELO techtrendsonline.com) (64.209.34.195)
+  by em.ca with SMTP; 10 Nov 2000 23:39:33 -0000
+Received: from 64.209.34.195 [64.209.34.198] by techtrendsonline.com with ESMTP
+  (SMTPD32-6.00) id A80B3900B4; Fri, 10 Nov 2000 17:43:07 -0600
+Content-type: text/html
+Date: Fri, 10 Nov 2000 16:42:50 +0500
+From: ryan@techtrendsonline.com
+Subject: Keep Up The Good Work!
+To: bruceg@em.ca
+Message-Id: <200011101743415.SM00748@64.209.34.195>
+Content-Length: 4114
+
+
+			
+			<a href="http://www.1gcsitebuilder.com"><img src="http://64.209.34.196/images/site_builder_banner.gif" border="0"></a>
+<br>
+You have been invited to participate in this special online offer. To participate, just click on the links below. Help spread the savings by forwarding this message to your friends and co-workers. 
+<br><br>
+<b><font size="5"><a href="http://www.1gcsitebuilder.com">Seven Days FREE! - 1GC Site Builder</a></font></b>
+<br><br>
+With 1GC Site Builder, you'll have your action-packed Web site up and running in no time! No programming knowledge required. Features include professionally designed HTML and Macromedia® Flash™ templates, e-commerce capabilities complete with shopping carts, and a mammoth selection of options. It comes with easy instructions to guide you every step of the way! Starting at only $9.99/mo., or $19.99/mo. for the whole kit-n-kaboodle, no other plan offers so much for so little!
+<br>
+<a href="http://www.1gcsitebuilder.com"> Click here for this amazing online opportunity!</a>
+<br><br>
+<b><font size="4">TESTIMONIALS:</font></b>
+<br><br>
+“1GC Site Builder provided my company with an easy track for competing with the big boys”.
+		Bob, Entrepreneur
+<br>
+
+“It was so easy, even my Dad created a Web site!”
+Sean, 8<sup>th</sup> Grade Student
+
+<br>
+“I made my own Web site in no time at all! It even included 
+Macromedia® Flash™ special effects.”
+		Vicki, Consultant
+
+<br>
+“With our new Web site, we’ve increased our client-base and profits as well. Who knew it would be so easy?”
+Nick, CEO
+<br>
+
+<a href="http://www.1gcsitebuilder.com"> Click here for this amazing online opportunity!</a>
+
+<br><br>
+<b><font size="4">INTRODUCING – Interactive Business Cards (IBCs) from 1 Global City</font></b>
+<br>
+Imagine a powerful multimedia presentation that fits into a wallet. Or an entire catalog on a CD-ROM the size of a business card. At only 2.35 by 3.65 inches, the IBC card holds up to 50 megabytes of information - that's 10 minutes of full-screen video, one hour of compressed audio, or 50,000 pages of text. It all translates to big space for gutsy, high-powered multimedia.
+<br>
+
+<a href="http://www.1gcrom.com"> Click here for this amazing online opportunity!</a>
+<br><br>
+
+
+<b><font size="4">FREE - Schick Xtreme III</font></b>
+<br>
+Curious about those triple blade razors? Take advantage of this opportunity to sample a Schick Xtreme III razor courtesy of Rite Aid! A close shave is only a click away!
+<br>
+
+<a href="http://schick.com/xtreme/rite-aid/xtreme_schick_riteaid.shtml"> Click here for this amazing online opportunity!</a>
+<br><br>
+
+
+<b><font size="4">FREE - Wella's Liquid Hair Spray Gel!</font></b>
+<br>
+Finally a liquid hairspray that gives your hair shine and leaves it looking perfect. No more curls moving around with a mind of their own because Wella's Spray Gel will hold your hair for hours. Order your free hair spray gel today from Allure!
+<br>
+
+<a href="http://www.subscriberdirect.com/allure/0011/sweep1.cfm"> Click here for this amazing online opportunity!</a>
+<br><br>
+
+
+<b><font size="4">FREE - Friskies Canned Cat Food!</font></b>
+<br>
+Friskies is giving away a delicious can of food that your cat will love from start to finish. Friskies has all the nutrition and vitamins your cat needs. Order your free can from HealthierCat.com today!
+<br>
+
+<a href="http://www.healthiercat.com/sample.shtml"> Click here for this amazing online opportunity!</a><br>
+
+<!-- Start Traffic Counter (do not remove this comment) -->
+<script language=JavaScript type="text/javascript">
+<!--
+if (location.href.charAt(4) != 's') {
+     // Do not run on secure servers, calling a non-secure counter
+     document.write('<BR><IMG WIDTH=265 HEIGHT=29 SRC="http://www.trafficcount.com/cgi-local/counter.pl');
+     document.write('?id=322&ck=594&domain=www.techtrendsonline.com&page=tracker.html&url=' + escape(document.URL) + '&ref=' + document.referrer + '" BORDER=0>');
+}
+// -->
+</script>
+
+			<br><br>
+			If you wish to be removed from our mailing list, please <a href="http://64.209.34.196/html-docs/remove.cfm?email=bruceg@em.ca">click here</a>
+			

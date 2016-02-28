@@ -1,0 +1,127 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 28048 invoked from network); 28 Apr 2000 06:19:44 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 28 Apr 2000 06:19:44 -0000
+Received: (qmail 17890 invoked from network); 28 Apr 2000 06:19:41 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 28 Apr 2000 06:19:41 -0000
+Received: by vger.rutgers.edu via listexpand id <S155289AbQD1GJN>;
+	Fri, 28 Apr 2000 02:09:13 -0400
+Received: by vger.rutgers.edu id <S155288AbQD1GJE>;
+	Fri, 28 Apr 2000 02:09:04 -0400
+Received: from rly-ip01.mx.aol.com ([205.188.156.49]:3379 "EHLO
+	rly-ip01.mx.aol.com") by vger.rutgers.edu with ESMTP
+	id <S155263AbQD1GIm>; Fri, 28 Apr 2000 02:08:42 -0400
+Received: from tot-tn.proxy.aol.com (tot-tn.proxy.aol.com [152.163.207.1])
+	  by rly-ip01.mx.aol.com (8.8.8/8.8.8/AOL-5.0.0)
+	  with ESMTP id CAA19310 for <linux-kernel@vger.rutgers.edu>;
+	  Fri, 28 Apr 2000 02:14:07 -0400 (EDT)
+From: jdarby002@earthlink.net
+Received: from area51.japannet.com (98CE6F0B.ipt.aol.com [152.206.111.11])
+	by tot-tn.proxy.aol.com (8.10.0/8.10.0) with SMTP id e3S6E6n18709
+	for <linux-kernel@vger.rutgers.edu>; Fri, 28 Apr 2000 02:14:06 -0400 (EDT)
+To: <linux-kernel@vger.rutgers.edu>
+Date:	Fri, 28 Apr 2000 01:26:31
+Message-Id: <144.720546.407566@area51.japannet.com>
+Subject: We Have Answers for Your Business
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Apparently-From: Onestopibiz@aol.com
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+We can list your website in all 
+major Search Engines and achieve Top 30 positions. 
+GUARANTEED! 
+
+
+If people cannot find your business in the first 10 to 30 matches
+of a search, then submitting was a waste of time.
+The best advertising dollars you can spend on the
+Web are in achieving search engine rankings. 
+
+There are several reasons:
+
+1. Nearly everyone (95% of Internet users) begins 
+their Web travels at a major search engine.
+
+2. Anyone finding your site on a search engine 
+is someone who was specifically looking for your company,
+product or service. That makes them much more likely 
+to buy something than if they'd clicked on a banner 
+ad out of idle curiosity.
+
+3. Third party studies have proven that search engines
+provide better results than most other forms of Web advertising.
+
+We key on the following major search engines:
+Yahoo-AltaVista-WebCrawler-Lycos-Excite-iwon-Looksmart-
+AskJeeves-AOL Search-Netscape-HotBot-MSN-Infoseek-Snap-
+Google-Northern Light-Open Directory-Findwhat-Magellan-Goto
+And 600 more.
+
+Our goal is to list your website in all
+major search engines and achieve Top 30 positions. 
+GUARANTEED! 
+
+We are not one of those companies offering submission service
+to 1550 search engines without any guarantee. 
+That is a waste of money and time for you.
+
+For more information please email to:
+sendmeinfo@earthlink.net
+   
+with the subject: Send me more information
+
+Or call:
+
+
+Nick Velez
+1-718-583-3134
+
+Monday-Friday
+From 10:00 AM to 6:00 PM Eastern Time
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+Under Bill s.1618 TITLE III passed by the 105th U.S. Congress 
+this letter cannot be considered "spam" as long as we include: 
+1) contact information (see above); and, 2) the way to be removed 
+from future mailings (see below). 
+
+To be removed from this list, please mail to: 
+jaynes21@earthlink.net with 'remove' in 
+subject line and you will be removed from our list.
+------------------------------------------------------------
+
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

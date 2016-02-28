@@ -1,0 +1,155 @@
+Return-Path: <jannitti@arabia.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 30272 invoked by alias); 30 Nov 2000 06:59:04 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 30269 invoked from network); 30 Nov 2000 06:59:04 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 30 Nov 2000 06:59:04 -0000
+Received: (qmail 4119 invoked by uid 500); 30 Nov 2000 06:59:00 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 4109 invoked by uid 500); 30 Nov 2000 06:58:58 -0000
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 4088 invoked from network); 30 Nov 2000 06:58:57 -0000
+Received: from nf2.brutele.be (root@212.68.193.34)
+  by em.ca with SMTP; 30 Nov 2000 06:58:57 -0000
+Received: from _[162.168.200.166]_by ([212.68.229.67])
+	by nf2.brutele.be (Switch-2.0.0/Switch-2.0.0) with SMTP id eAU6weK20430;
+	Thu, 30 Nov 2000 07:58:45 +0100
+Message-Id: <200011300658.eAU6weK20430@nf2.brutele.be>
+Received: from  [152.119.130.171] by _[162.168.200.166]_by with SMTP id A26C23E0 Wed, 29 Nov 2000 22:48:19 PDT
+From: <jannitti@arabia.com>
+Subject: Could your portfolio use a guaranteed 15% return?         
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Wed, 29 Nov 2000 23:05:35
+Content-Length: 5373
+Lines: 128
+
+
+
+
+<HTML><HEAD><TITLE>Opportunity</TITLE>
+<META content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+<META content="MSHTML 5.00.2614.3500" name=GENERATOR></HEAD>
+<BODY bgColor=#003300>
+<P align=center><font color="#ffffff" size="4"><font face="Arial, Helvetica, sans-serif"><b><font face="Times New Roman, Times, serif">Guaranteed 
+  Growth and/or Income Funds of 15% per annum (Sterling)<BR>
+  or 13.75% per annum (U.S.) by Imperial Consolidated Mutual Fund</font></b></font></font></P>
+<HR width=621>
+
+<DIV align=center>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=621>
+  <TBODY>
+  <TR>
+    <TD>
+      <DIV align=center>
+      <TABLE border=0 cellPadding=0 cellSpacing=0 width=621>
+        <TBODY>
+        <TR>
+          <TD height=167 vAlign=top width=144><IMG border=2 height=164 
+            src="http://1078384611/top1s.gif" width=140></TD>
+          <TD height=167 width=10>&nbsp; </TD>
+          <TD height=167 vAlign=top width=467>
+                <P><FONT color=#cccc00 face="Arial, Helvetica, sans-serif"><B><font color="#ffff00" face="Times New Roman, Times, serif" size="3">An 
+                  investment in this fund provides maximum security in the form 
+                  of guaranteed loan repayment win or lose in respect of personal 
+                  injury cases. </font></B></FONT></P>
+                <P><font color="#ffff00" face="Times New Roman, Times, serif" size="3"><B>The 
+                  fund is protected against theft, fraud, embezzlement, computer 
+                  crime, and other risks by a indemnity policy issued by Lloyds 
+                  of London. </B></font></P>
+                <P><font color="#ffff00" face="Times New Roman, Times, serif" size="3"><B>These 
+                  underwriters are rated A and greater by Moody&#8217;s and Standard 
+                  and Poors.</B></font> </P>
+              </TD></TR></TBODY></TABLE>
+          <hr>
+          <B><FONT color=#ffffff 
+      face="Arial, Helvetica, sans-serif"> <font face="Times New Roman, Times, serif" size="3"><br>
+          If you are a potential investor and would like more information<br>
+          about this investment, please fill out the form below.</font></FONT> 
+          </B></DIV>
+      <FORM 
+      action="mailto:moremoney@n2mail.com?moneyman124@excite.com&subject=Growth Income Fund" 
+      encType=text/plain method=post>
+          <TABLE width="100%">
+            <TBODY> 
+            <TR> 
+              <TD width="47%"> 
+                <DIV align=right><font color="#FFFF00" size="3" face="Times New Roman, Times, serif"><B>Your 
+                  Name:</B></font></DIV>
+              </TD>
+              <TD width="53%"> 
+                <INPUT name=NAME>
+              </TD>
+            </TR>
+            <TR> 
+              <TD width="47%"> 
+                <DIV align=right><font color="#FFFF00" size="3" face="Times New Roman, Times, serif"><B>Address:</B></font></DIV>
+              </TD>
+              <TD width="53%"> 
+                <INPUT name=Address>
+              </TD>
+            </TR>
+            <TR> 
+              <TD height=29 width="47%"> 
+                <DIV align=right><font face="Times New Roman, Times, serif" size="3" color="#FFFF00"><b>City, 
+                  State/Province:</b></font></DIV>
+              </TD>
+              <TD height=29 width="53%"> 
+                <input name=State_Province>
+              </TD>
+            </TR>
+            <TR> 
+              <TD width="47%"> 
+                <DIV align=right><font color="#FFFF00" size="3" face="Times New Roman, Times, serif"><b>Country:</b></font></DIV>
+              </TD>
+              <TD width="53%"> 
+                <input name=Country coname="COMPANY_NAME">
+              </TD>
+            </TR>
+            <TR> 
+              <TD width="47%"> 
+                <DIV align=right><font color="#FFFF00" face="Times New Roman, Times, serif" size="3"><B>Business 
+                  Phone:</B></font></DIV>
+              </TD>
+              <TD width="53%"> 
+                <input name=BUS_PHONE>
+              </TD>
+            </TR>
+            <TR> 
+              <TD width="47%"> 
+                <DIV align=right><font color="#FFFF00" face="Times New Roman, Times, serif" size="3"><B>Home 
+                  Phone:</B></font></DIV>
+              </TD>
+              <TD width="53%"> 
+                <input name=HOME_PHONE>
+              </TD>
+            </TR>
+            <TR> 
+              <TD width="47%"> 
+                <div align="right"><font color="#FFFF00" face="Times New Roman, Times, serif" size="3"><b>Email:</b></font></div>
+              </TD>
+              <TD width="53%"> 
+                <input name=EMAIL>
+              </TD>
+            </TR>
+            <TR>
+              <TD width="47%">&nbsp;</TD>
+              <TD width="53%">&nbsp;</TD>
+            </TR>
+            </TBODY> 
+          </TABLE>
+          <DIV align=center><br>
+            <INPUT name=submit type=submit value="Submit Information"> </DIV></FORM>
+      <hr>
+        <div align="center"><font color="#ffffff" face="Arial, Helvetica, sans-serif" size="1">To 
+          be removed from our mailing list simply <a href="mailto:nomoney@n2mail.com?subject=remove_loy"><b><font 
+color=#ffff00>CLICK HERE</font></b></a></font></div>
+      </TD>
+    </TR></TBODY></TABLE>
+</DIV>
+<P align=center> </P>
+<P> </P></BODY></HTML>
+
+
+

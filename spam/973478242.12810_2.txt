@@ -1,0 +1,43 @@
+Return-Path: <info3@reply-svcs.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 11617 invoked by alias); 6 Nov 2000 00:18:57 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 11614 invoked from network); 6 Nov 2000 00:18:56 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 6 Nov 2000 00:18:56 -0000
+Received: (qmail 20204 invoked by uid 500); 6 Nov 2000 00:18:56 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 20200 invoked by uid 519); 6 Nov 2000 00:18:55 -0000
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 20196 invoked from network); 6 Nov 2000 00:18:54 -0000
+Received: from schwarz.contec-dt.de (194.25.47.194)
+  by snssoftware.com with SMTP; 6 Nov 2000 00:18:54 -0000
+Received: from falcom.de (gate.falcom.de [194.25.47.185])
+	by schwarz.contec-dt.de (8.9.2/8.9.2) with ESMTP id BAA20745;
+	Mon, 6 Nov 2000 01:18:15 +0100 (MET)
+From: info3@reply-svcs.net
+Received: from 4.4.13.230 (PPPa41-ResaleTulsa4-5R7006.saturn.bbn.com [4.4.13.230])
+	by falcom.de (8.8.8/8.8.8) with SMTP id BAA01765;
+	Mon, 6 Nov 2000 01:20:18 +0100
+Message-ID: <00002fa44ab6$000044f5$00004c75@>
+To: <Undisclosed.Recipients@falcom.de>
+Subject: Best price anywhere on Scooters!!!!
+Date: Sun, 05 Nov 2000 18:10:30 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 157
+Lines: 9
+
+<<<<<<  Scooters >>>>>>>>>
+Models the Kids are lining-up for
+Hottest Thing on Two Wheels
+Available Now
+Best Prices
+Best Value
+
+http://www.scooterpeople.net
+

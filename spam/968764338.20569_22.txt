@@ -1,0 +1,124 @@
+Return-Path: <thomasw@broomovies.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 19857 invoked by alias); 12 Sep 2000 05:09:13 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 19854 invoked from network); 12 Sep 2000 05:09:13 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 12 Sep 2000 05:09:13 -0000
+Received: (qmail 30010 invoked by uid 500); 12 Sep 2000 05:09:10 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 30004 invoked by uid 500); 12 Sep 2000 05:09:09 -0000
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 29992 invoked from network); 12 Sep 2000 05:09:07 -0000
+Received: from dsl232.basketballnirt.com (HELO Dialup-48.aboutclad.com) (209.100.174.232)
+  by em.ca with SMTP; 12 Sep 2000 05:09:07 -0000
+Date: Tue, 12 Sep 2000 01:10:35 -0500
+Reply-To: tgreen@broomovies.com
+To: $user@em.ca
+Message-Id: <4kg11jt.77l14l445q5rksl62pe@Dialup-48.aboutclad.com>
+X-Mailer: Movilla 4.7(en) (Win95; U)
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Subject: Register now for your FREE vacation!!!!!
+From: tgardner@broomovies.com
+Content-Length: 3501
+Lines: 97
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Looking for the Perfect</title>
+</head>
+
+<body>
+
+<table border="0" width="42%">
+  <tr>
+    <td width="100%" colspan="2"></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2"><b><i><font face="Arial Black" 
+size="5"><font color="#9999FF">&nbsp;
+      Looking for the</font> <font 
+color="#6600FF">Perfect</font></font></i></b></td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top" bgcolor="#99CCFF"><a href="http://www.
+rimerho.com/discover"><img border="0" src="http://www.rimerho.
+com/discover/Child_beach.gif" width="175" height="184"></a></td>
+    <td width="78%" valign="top" align="left"><i><font color="#0033CC" 
+face="Arial Black" size="7"><sup>Getaway?</sup></font></i>
+      <p align="center"><i><b><font face="Arial" size="3"><sup><font 
+color="#00CC66">Over
+      15 destinations</font><font color="#00FF00">&nbsp;
+</font></sup></font></b></i></p>
+      <ul>
+        <li>
+          <p align="left" style="line-height: 100%"><font 
+color="#9900CC">Orlando FL</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font color="#9900CC">Ft. 
+Lauderdale FL</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font 
+color="#9900CC">Daytona Beach FL</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font 
+color="#9900CC">Myrtle Beach SC</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font 
+color="#9900CC">Ashville NC</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font 
+color="#9900CC">Branson MO</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font 
+color="#9900CC">Wisconsin Dells WI</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font color="#9900CC">New 
+Orleans LA</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font color="#9900CC">Las 
+Vegas NV</font></li>
+        <li>
+          <p align="left" style="line-height: 100%"><font color="#9900CC">and 
+more!</font></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table border="0" width="48%" height="73">
+  <tr>
+    <td width="100%" height="67">
+      <p align="center" style="line-height: 100%"><font color="#008000" 
+face="Arial Rounded MT Bold">Visit
+      our website and&nbsp; fill out our marketing survey.</font></p>
+      <p align="center" style="line-height: 100%"><font color="#008000" 
+face="Arial Rounded MT Bold">You</font><font color="#008000" face="Arial 
+Rounded MT Bold">
+      will receive a </font><font face="Arial Rounded MT Bold" 
+color="#FF0000">FREE</font><font color="#008000" face="Arial Rounded MT Bold">
+      weekend getaway for 2 </font></p>
+      <p align="center" style="line-height: 100%"><font color="#008000" 
+face="Arial Rounded MT Bold">at
+      any one of these locations.</font></p>
+      <p align="center" style="line-height: 100%"><font face="Arial Rounded 
+MT Bold" color="#0000FF"><a href="http://www.rimerho.com/discover">CLICK
+      HERE</a></font></td>
+  </tr>
+</table>
+
+<p align="left" style="line-height: 100%">&nbsp;</p>
+<p align="left" style="line-height: 100%"><a href="mailto:remove@broomovies.
+com?subject=remove">To
+be removed from further mailings please click here</a></p>
+
+</body>
+
+</html>
+

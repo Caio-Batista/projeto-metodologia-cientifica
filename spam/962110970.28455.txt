@@ -1,0 +1,141 @@
+Return-Path: <messager@cablevision.qc.ca>
+Delivered-To: bruceg@daedalus.bfsmedia.sk.ca
+Received: (qmail 25424 invoked by uid 500); 27 Jun 2000 07:58:55 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 25419 invoked from network); 27 Jun 2000 07:58:55 -0000
+Received: from cnq0-9.cablevision.qc.ca (HELO cnqnt02.Cablevision.qc.ca) (24.212.0.9)
+  by em.ca with SMTP; 27 Jun 2000 07:58:55 -0000
+Received: from cablevision.qc.ca
+          (cnq13-129.cablevision.qc.ca [24.212.13.129])
+          by cnqnt02.Cablevision.qc.ca (Post.Office MTA v3.5.3 release 223
+          ID# 0-67203U5700L600S0V35) with SMTP id ca;
+          Mon, 26 Jun 2000 19:39:07 -0400
+MIME-Version: 1.0
+MIME-Version: 1.0 
+From: messager@cablevision.qc.ca
+Reply-To: messager@cablevision.qc.ca
+To: messager@cablevision.qc.ca
+Subject: Vous pouvez gagner (  You may win )
+Content-Type: text/html; charset="us-ascii"
+Date: Mon, 26 Jun 2000 19:39:07 -0400
+Message-ID: <20000626233907562.BDOF353@cnqnt02.Cablevision.qc.ca@cablevision.qc.ca>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p align="center"><font color="#000000"><u>Dont miss the chance</u></font><font color="#0000A0"> (Une chance à ne pas manquer)</font></p>
+
+<p align="center"><font color="#0000A0"><u><big><big><big>Faite réparer vos CD</big></big></big></u></font></p>
+
+<p align="center"><u><big>Repair your CD</big></u></p>
+
+<p><font color="#0000A0">Vos disques compacts sont en mauvaise état ou égratigner,
+envoyez nous les et nous les répareront à peut de frais.</font></p>
+
+<p>Your CD is not playing good, are they scratch. Send it to us we will fix it for you at
+law price.</p>
+
+<p><a href="http://www.expresscreation.com"><img src="dealerbanner.gif" alt="Express Création Enr. répare vos CD " border="0" WIDTH="450" HEIGHT="58"></a></p>
+
+<p><font face="Tahoma" color="#0000A0">Nous réparont les CDs égratigner et nous vendons
+une gammes d'accessoires complétes. nous pouvons enlevées les eraflures de vos CDs,
+DVDs, CD-ROM, et jeux vidéo. nous sommes les leader mondial dans la réparation de
+disques compact.</font><font color="#ccccff" face="verdana,arial,helvetica"></p>
+
+<p></font><font face="verdana,arial,helvetica" color="#000000">We repair scratched CDs and
+sell a full line o</font><font color="#000000"><font face="verdana,arial,helvetica">f</font><font face="Tahoma"> </font><font face="verdana,arial,helvetica">CD accessories.</font></font><font face="verdana,arial,helvetica" color="#000000"> We can remove scratches from CDs,DVDs,
+computer discs and all video game discs. We are the world leader and manufacture and sell
+complete accessories. </font></p>
+
+<p><font face="verdana,arial,helvetica" color="#0000A0">Comment vos disques sont fait.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></p>
+
+<p><font face="Tahoma">How discs are made.</font></p>
+
+<p><img src="howdiscsmade.gif" alt="Une disque compact en 4 couches" WIDTH="250" HEIGHT="170"></p>
+<font color="#ffff33" face="Arial Black" size="+1">
+
+<p align="left"></font><font face="verdana,arial,helvetica"><font color="#000000"><b>1)
+Polycarbonate Plastic Disc (first layer)</b><br>
+First, data is stamped on the top side of a plastic disc creating millions of ons and offs
+or zeros and ones. On recordable CDs*, data can be burned in at different levels within
+the plastic disc, for multi-session recording. </font></p>
+
+<p><font color="#000000"><b>2) Reflective Foil Layer** (second layer)</b><br>
+Second, a micro thin layer of aluminum (copper, silver or gold on higher quality CDs) is
+applied to the top of the CD covering the data. This layer reflects the laser beam back
+through the plastic disc, allowing the stamped data to be read. </font></p>
+
+<p><font color="#000000"><b>3) Lacquer Layer** (third layer)</b><br>
+Third, lacquer is dripped onto the disc and spun at a high speed to create a thin layer of
+sealant for the foil layer. This seals in the foil layer, but offers little or no
+protection for the foil or the data beneath. </font></p>
+
+<p><font color="#000000"><b>4) Graphic Layer** (last layer)</b><br>
+Finally, a layer of ink is screened onto the lacquer layer for dynamic graphic and/or
+sales impact. (Recordable CDs don't have this layer.)</font></font></p>
+
+<p><u><font face="verdana,arial,helvetica" color="#0000A0">Liste de prix</font><font color="#000000" face="verdana,arial,helvetica"> (price list)</font></u></p>
+
+<p><font face="verdana,arial,helvetica" color="#FF0000"><strong>DVDs 11.00$</strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#FF0000"><strong>CD de musique (music CDs)
+&nbsp; 6.00$</strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#FF0000"><strong>CD-Rom ou jeux (CD-ROM or
+games) 13.00$</strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#0000A0">Transport à vos frais.</font><font color="#000000" face="verdana,arial,helvetica"> (Shiping at your charge.)</font></p>
+
+<p><font face="verdana,arial,helvetica" color="#0000A0"><strong>Envoyez vos disques à
+réparer avec un mandat poste au montant correspondent.</strong></font></p>
+
+<p><font color="#000000" face="verdana,arial,helvetica"><strong>Send a money order with
+your CD at the adress</strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#0000A0"><strong>Envoyez nous vos CD par la
+poste ou toutes autres transport&nbsp; </strong></font></p>
+
+<p><font color="#000000" face="verdana,arial,helvetica"><strong>Send it by poste or any
+other way </strong></font></p>
+
+<p><strong><font face="verdana,arial,helvetica" color="#0000A0">à l'adresse suivante :</font><font color="#000000" face="verdana,arial,helvetica"> </font><font face="verdana,arial,helvetica" color="#408080">Express Création Enr.&nbsp; </font></strong></p>
+
+<p><font face="verdana,arial,helvetica" color="#408080"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+73 rue des Sapins </strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#408080"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Val d'Or, Qc. </strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#408080"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Canada &nbsp;&nbsp; J9P 4R4&nbsp; </strong></font></p>
+
+<p><font face="verdana,arial,helvetica" color="#408080"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tél :1-819-824-2662 (Phone)</strong></font></p>
+
+<p align="center"><small><font color="#000000" face="verdana,arial,helvetica">(Dont forget
+to give your retourn adresse) </font><font face="verdana,arial,helvetica" color="#0000A0">N'oublier
+pas votre adresse de retourd.</font></small></p>
+
+<p align="center"><font face="verdana,arial,helvetica" color="#0000A0"><small><small><small><small>Express
+Création Enr. entreprise légal du Canadan'est pas responsable de perte ou bris de CD.
+but rechercher donner un service au plus grand nombre de gans possible. </small></small></small></small></font></p>
+
+<p align="center"><big><font face="verdana,arial,helvetica" color="#0000A0">Merci ! </font><font color="#000000" face="verdana,arial,helvetica">Tank you !</font></big></p>
+
+<p align="center"><a href="http://www.expresscreation.com"><img src="fixadiscbanner.jpg" alt="fixadiscbanner.jpg (12903 bytes)" border="0" WIDTH="450" HEIGHT="70"></a></p>
+
+<p align="center"><font color="#000000" face="verdana,arial,helvetica"><big>Visitez notre
+site web : <a href="http://www.expresscreation.com">http://www.expresscreation.com</a> our
+web site.</big></font></p>
+</body>
+</html>
+
+

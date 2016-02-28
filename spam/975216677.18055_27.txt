@@ -1,0 +1,52 @@
+Return-Path: <clayasystems@yahoo.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 17802 invoked by alias); 26 Nov 2000 02:48:00 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 17799 invoked from network); 26 Nov 2000 02:48:00 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 26 Nov 2000 02:48:00 -0000
+Received: (qmail 1128 invoked by uid 500); 26 Nov 2000 02:47:59 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 1124 invoked by uid 502); 26 Nov 2000 02:47:58 -0000
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 1120 invoked from network); 26 Nov 2000 02:47:57 -0000
+Received: from unknown (HELO hkpfc.sonic.net.cn) (210.75.128.26)
+  by bfsmedia.sk.ca with SMTP; 26 Nov 2000 02:47:57 -0000
+Received: from [210.75.128.26] ([63.14.102.198]) by hkpfc.sonic.net.cn
+          (Netscape Mail Server v2.02) with SMTP id AAA310;
+          Sun, 26 Nov 2000 10:53:57 +0800
+To: techembra@clsmtp.edf.fr
+Date: Sat, 25 Nov 00 16:20:08 EST
+From: clayasystems@yahoo.com
+Subject: Embrace Technology Now...
+Content-Length: 754
+Lines: 28
+
+<html>
+<head>
+<title>Mail</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table width="90%" border="0" cellspacing="0" cellpadding="4" align="center">
+  <tr> 
+    <td colspan="2">
+      <div align="center">
+        <p>&nbsp;</p>
+        <p>Very HIGH END executive level home opp. Complete information. Full 
+          references. </p>
+        <p>This is worth a look.</p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2">
+      <div align="center"><a href="http://www.webhostcorp.com/members/advert/"><img src="http://www.webhostcorp.com/members/ban/banner2a.gif" width="469" height="62" border="0"></a></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+

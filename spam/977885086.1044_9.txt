@@ -1,0 +1,66 @@
+Return-Path: <domain009@fnkewl.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 467 invoked by alias); 26 Dec 2000 23:49:55 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 464 invoked from network); 26 Dec 2000 23:49:55 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 26 Dec 2000 23:49:55 -0000
+Received: (qmail 29321 invoked by uid 500); 26 Dec 2000 23:49:54 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 29317 invoked by uid 500); 26 Dec 2000 23:49:53 -0000
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 29313 invoked from network); 26 Dec 2000 23:49:53 -0000
+Received: from mx.melange.net (HELO lmta01.melange.net) (212.59.199.94)
+  by em.ca with SMTP; 26 Dec 2000 23:49:53 -0000
+Received: from ssmtp03.melange.isp (smtp03.melange.net [192.168.197.186])
+	by lmta01.melange.net (8.9.3/8.9.3) with ESMTP id BAA21685
+	for <smith.family@em.ca>; Wed, 27 Dec 2000 01:48:00 +0100
+From: domain009@fnkewl.com
+Received: from softway.es ([195.5.69.42]) by ssmtp03.melange.isp
+          (Netscape Messaging Server 4.15 ssmtp03 Nov 27 2000 14:45:42)
+          with ESMTP id G678NM05.30T; Wed, 27 Dec 2000 00:45:22 +0100 
+Received: from 5uAnXDZR5 (1Cust57.tnt3.modesto.ca.da.uu.net [63.48.243.57])
+	by softway.es (8.9.3/8.9.3) with SMTP id CAA27149;
+	Wed, 27 Dec 2000 02:00:50 +0100
+Message-Id: <200012270100.CAA27149@softway.es>
+DATE: 26 Dec 00 3:51:13 PM
+Reply-to: domain009@fnkewl.com
+TO: domain009@fnkewl.com
+SUBJECT: New Policy for Domain Names  Protect Your Name
+Content-Length: 1150
+Lines: 34
+
+New Top Level Domains to come out early next year!
+.BIZ, .INFO & .PRO  Approved for general use
+
+Domain Policy Overview:
+
+July 16, 2000 - Yokohama, Japan -ICANN (Internet Corporation for Assigned
+Names and Numbers) announced that it adopted a policy that will introduce
+new global top-level domains (TLDs).
+
+July 17, 2000  Companies around the world begin the application process.
+
+Oct 2, 2000  Application process for new TLD’s is finalized.
+
+Oct 3, 2000  Marina del Rey, California - ICANN announces that the
+application process has been completed.  The new domain extensions will be
+awarded to registries in December 2000.
+
+Nov 16, 2000 - Marina del Rey, California  ICANN announces approved new
+gTLDs.  Included in these new gTLDs are .Biz, .Info, & .Pro for general use
+(like .com, .net & .org)
+
+In anticipation of high demand, you can pre-register for rapid submission
+for these names prior to their official public opening via a centralized
+pre-registration database. For further information about the
+pre-registration process please visit:
+
+www.newdomainzone.com
+
+
+
+
+sent by cybernet--to be removed go to helloremove@umpire.com
+209-669-0176
+

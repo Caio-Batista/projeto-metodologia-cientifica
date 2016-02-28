@@ -1,0 +1,424 @@
+Return-Path: <lselepack1@earthlink.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 854 invoked by alias); 12 Nov 2000 00:41:41 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 851 invoked from network); 12 Nov 2000 00:41:40 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 12 Nov 2000 00:41:40 -0000
+Received: (qmail 2085 invoked by uid 500); 12 Nov 2000 00:41:39 -0000
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 2081 invoked from network); 12 Nov 2000 00:41:39 -0000
+Received: from albatross.prod.itd.earthlink.net (207.217.120.120)
+  by em.ca with SMTP; 12 Nov 2000 00:41:39 -0000
+Received: from lindaselepack (user-38lccp7.dialup.mindspring.com [209.86.51.39])
+	by albatross.prod.itd.earthlink.net (8.9.3-EL_1_3/8.9.3) with SMTP id QAA14775;
+	Sat, 11 Nov 2000 16:37:53 -0800 (PST)
+Message-ID: <001001c04c40$bd140e40$273356d1@lindaselepack>
+Reply-To: "Linda Selepack" <lselepack1@earthlink.net>
+From: "Linda Selepack" <lselepack1@earthlink.net>
+To: "Carol Ann Rector" <RECTOR@prodigy.net>,
+        "Harry & Jennifer" <HJmagarity@aol.com>, "Howard" <Hwi5722686@cs.com>,
+        "Jason" <jake_mt_juliet@msn.com>, "Jeff" <tungtide@hushmail.com>,
+        "Joann  Bourdon" <bourdonj@mtrmls.com>, "joe nay" <joenay@cei.net>,
+        "John Pope" <pope12jh@aol.com>, "Judy Seese" <djseese@surfshop.net>,
+        "Larry" <larrygee2@aol.com>, "Larry Seese" <seese@cafes.net>,
+        "Larry Tabor" <ltabor@utinet.net>, <Liberty097@aol.com>,
+        "Louise" <bjdraper@aol.com>, <LROXIES@aol.com>,
+        "Margaret Nagy" <goldie6507@aol.com>, "Mary Bill" <sped2@telalink.net>,
+        "Melody Adams" <melody@bellsouth.net>,
+        "MICHAEL DAVIS" <BUSHHOG123@webtv.net>, <Mimisandra@aol.com>,
+        <Olieshome@aol.com>, "Pat" <PATT2@prodigy.net>,
+        "rikki c jeans" <rikki-jen@juno.com>,
+        "Roxie Luckett" <RLUCKETT@shb.com>, "Sid High" <sid_high@hotmail.com>,
+        "Susan  Crain" <susanc@excelonline.com>,
+        "The Vicks" <vicktbjj@gte.net>, "B Rogerson" <b_rogerson@hotmail.com>,
+        "Bsehm" <b_sehm@yahoo.com>, "Babehr" <babehr@qconline.com>,
+        "Babies" <babies@digitalstore.com>,
+        "Bacgolf" <bacgolf@bacolod.worldtelphil.com>,
+        "Badams" <badams@ontario.cmha.ca>, "Badcd" <badcd@usa.net>,
+        "Baddass" <baddass_chick_69@chickmail.com>,
+        "Bad Bear" <badbear1@mailcity.com>,
+        "Bad" <badgolfer@badgolfmonthly.com>, "Bagen" <bagen@home.se>,
+        "Baggett" <baggett@tibs.com>, "Bagnew" <bagnew@mindspring.com>,
+        "BA Harris" <baharris@theriver.com>, "Bailey" <baileybop@psci.net>,
+        "Bait" <bait@em.ca>, "Bake" <bakegolf@together.net>,
+        "Baker" <bakerbrook@sprint.ca>, "Baki" <baki@hawaii.rr.com>,
+        "Bale" <balebur@yahoo.com>, "Bam" <bambamfl@gte.net>,
+        "Bambi" <bambi@pandora.be>, "Bander" <banderson2@cctimes.com>,
+        "Bang" <bangtaob@phuket.ksc.co.th>, "Bang" <bangtaobeach@phuket.com>,
+        "Ban" <banner@heha.net>, "Bann" <banner@nettrader.co.uk>,
+        "Banner" <banners@landscapedirect.com>,
+        "Banners" <banners@mail.kwolf.com>, "Banray" <banraya@phuket.com>,
+        "Bansod" <bansod@edm.net>, "Banty" <banty72@yahoo.com>,
+        "Bany" <banyantree@lagunaphuket.com>,
+        "Baracuda" <baracuda@gamedesign.net>, "Barbara" <barbara@rockoids.com>,
+        "Barbw" <barbw@thejournal.southam.ca>, "Barden" <bardenaa@inreach.com>,
+        "Barker" <barkerportfolio@businessweek.com>,
+        "Baron" <baron_3d@hotmail.com>, "Barrie" <barrie@rockhopper.com>,
+        "Barry" <barry@h2ophotography.co.uk>,
+        "Bearwant" <bearwanted@yahoo.com>, "Bearluv" <bearluvvr@yahoo.com>,
+        "Bearlad" <bearlad@mailcity.com>,
+        "bearishwolf" <bearishwolf@hotmail.com>,
+        "Bearhill" <bearhill@mint.net>, "Bearcub" <bearcub@merr.com>,
+        "Bearcan" <Bearcanada@hotmail.com>, "BBQUE" <bearbque@hotmail.com>,
+        "Bearboy" <bearboy@gaydar.co.uk>, "Bear4u" <bear4u@hotmail.com>,
+        "Bear4" <bear4nonbear@yahoo.com>, "Bear31" <bear31@fsmail.net>,
+        "Bear" <bear1969_1999@yahoo.com>, "Bear" <bear_nick@gay.com>,
+        "Beanie" <beanie_96@hotmail.com>,
+        "Beachclub" <beachclub@lagunaphuket.com>,
+        "Bdyerr" <bdyer@amaonline.com>, "Bdowd" <bdowd@timesunion.com>,
+        "Bdold" <bdold@tribune.com>, "Bdesimone" <bdesimone@tribune.com>,
+        "Bcuddy" <bcuddy@cctimes.com>, "Bcss" <bcss@cactus-mall.com>,
+        "B Cross" <bcross@tribune.com>, "B Crew" <bcrew@internetcds.com>,
+        "Cornish" <bcornish@hotmail.com>, "B Condor" <bcondor@tribune.com>,
+        "Nelson" <bcnelson@bradenton.com>, "Bcer" <bcer@nab.com>,
+        "Carter" <bcarter@acadia.net>, "Carroll" <bcarroll@web.net>,
+        "B Campbell" <bcampbell@golfweek.com>, "Butler" <bbutler@tribune.com>,
+        "Brotman" <bbrotman@tribune.com>, "Brink" <bbrink@together.net>,
+        "Bbrewer" <bbrewer@cctimes.com>, "BBN1" <bbn1@flash.net>,
+        "BB" <bbirkentall@tribune.com>, "Bayr" <bayregatta@phuket.com>,
+        "Bayq" <bayquestions@realcities.com>, "Bat" <baturb@usa.net>,
+        "Bath" <bathread@mind.net>, "Batabor" <batabor@gulftel.com>,
+        "Bassriver" <bassriver@golfcapecod.com>,
+        "Bass40" <bass40@johnstown.net>, "Bass" <bass@eckstein.ru>,
+        "Bee" <bashabee@helensdale.freeserve.co.uk>, "basego" <basego@tin.it>,
+        "Baseball" <baseball3206@yahoo.com>, "Bas" <basketoc@nh.freei.net>,
+        "Bartom" <bartom@earthlink.net>, "Bartlett" <bartletttwo@hotmail.com>,
+        "Barter" <barter@toucangolf.com>, "Barry" <barry@saprecruiters.com>,
+        "Yvonne Grodon" <von7030@aol.com>,
+        "Yvonne M. Buonamici" <creationist@surfree.com>
+Cc: "Beverley West" <bgtwest@netscape.net>,
+        "chas seabert" <chas-seabert@juno.com>,
+        "Cynde O'Keefe" <valhailla@earthlink.net>, "Douglas" <ideah@mind.net>,
+        "Glenn & Fran Bourland" <dragons2_98@hotmail.com>,
+        "Goddess" <goddess3000@bigplanet.com>, "Casan" <casanll@gateway.net>,
+        "Casac" <casacondesa@yahoo.com>, "Casaf" <casa_fuerte@yahoo.com>,
+        "Casa" <casa_automation@hotmail.com>, "Caruba" <caruba4u@mailcity.com>,
+        "Carroll" <carroll-kac@kaman.com>,
+        "Carolanne" <carolannepugh@ukonline.co.uk>,
+        "Carole" <caroleann.murphy@sshrc.ca>,
+        "Carolp" <carol@platypuspartners.com>, "Carolb" <carol@business2.com>,
+        "Caro" <carobear@hotmail.com>, "Carnage" <carnage@ftribune.com>,
+        "Carms" <carmstrong@bradenton.com>, "Carmenm" <carmenmcd@hotmail.com>,
+        "Carmeng" <carmengpe@usa.net>, "Carl" <carlwu@mindspring.com>,
+        "Carlton" <carltonowens@planters.net>,
+        "Carlosa" <carlosa45@hotmail.com>,
+        "Carlos_c" <carlos_chore@hotmail.com>,
+        "Carlos" <carlos_189@latinmail.com>,
+        "Carla" <carla.stricker@totalise.co.uk>, "Carl" <carl@mac4sale.com>,
+        "Caring" <caringcritters@uswest.net>, "Carey" <carey@vocabulary.com>,
+        "Careers" <careersrhu@hotmail.com>, "Career" <careerpath@tribune.com>,
+        "Cardnal" <cardnalsfan@yahoo.com>, "Carder" <carder@sea-pet.com>,
+        "Caramac" <caramac@gofree.indigo.ie>, "Capt" <captpark@capecod.net>,
+        "Captions" <captions@doomworld.com>, "Captain" <captain94@bbc.net>,
+        "Cap" <capcure@cfsmail.com>, "Cantiucus" <canticus@yahoo.com>,
+        "Canine" <canine@gte.net>, "Candyh" <candyhatcher@seattle-pi.com>,
+        "Candy" <candy_015@hotmail.com>,
+        "Canda" <candaceheckman@seattle-pi.com>,
+        "Canadian" <canadian_cat_lady@yahoo.com>,
+        "Canaan" <canaansib@libero.it>, "Camwil" <camwilmot@weaktown.com>,
+        "Camp" <camp@lagunaphuket.com>, "Cameo" <cameo@cit-tele.com>,
+        "Camay" <camay@usa.net>, "CAM" <cam_johnson@koin.com>,
+        "Call" <callmeeve@hotmail.com>, "Cali" <calientemen_99@yahoo.com>,
+        "Calf" <calfrederick@hotmail.com>, "Cale" <calessio@tribune.com>,
+        "Cal" <calendar@egarden.com>, "Calendar" <calendar@connectok.com>,
+        "Caleb" <caleb57@correoweb.com>,
+        "Calder" <caolderwood@mainefarriers.com>,
+        "Calbeach" <calbeach95@yahoo.com>, "Cafepep" <cafepep@bisonusa.net>,
+        "Cagey" <cagey57@hotmail.com>, "Cafe" <cafe@gustown.com>,
+        "Cafb" <cafb@icomm.ca>, "Caedens" <caedens@newwave.net>,
+        "Cady" <cady@futureone.com>
+Subject: Don't pay to use the internet anymore!
+Date: Sat, 11 Nov 2000 18:36:15 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C04C0E.4668CBA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.3018.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.3018.1300
+Content-Length: 10975
+Lines: 282
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0007_01C04C0E.4668CBA0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+If you PAY to use the Internet,  you will want to Read this:
+
+The Most Exciting Opportunity has hit the Net, a program geared for
+every Man, Woman & Child.   =20
+
+
+If you use an Internet Service Provider,  then this definitely concerns =
+you.
+
+A new Internet Community is about to launch.  (like AOL)
+
+JOIN NOW!!
+
+http://www.goingplatinum.com/member/selepackl
+
+What most Internet users don't realize is that from the moment you log =
+on
+until the moment you log off you are generating a good deal of cash for
+someone else, even if you do not buy or fill out anything!
+
+Well, Going Platinum is going to share that wealth with us!!!
+
+Competition on the Internet has grown to the point that web-based =
+companies
+are paying sizable "referral fees" and "commissions" to the ISP =
+(Internet
+Service Provider), Portal, Search Engine, or even the personal web page
+owner that directs you to their site. If you happen to buy something,
+provide a little information, or take advantage of a useful service, the
+money changing hands is that much greater.
+
+Whether it's a big banner advertisement or a simple highlighted text =
+link, if you
+clicked on it or even just viewed it, that web page owner is more than
+likely cashing in. Some of the larger ISPs make so much money from these
+advertisements and links, it is almost unimaginable that they also =
+charge you
+a monthly fee for the privilege of allowing them to be your Internet
+gateway.
+
+This is not a Pay to SURF program, you will not have to deal with =
+Viewbars.
+
+Your membership in Going Platinum will change your view of the Internet
+forever by enabling you to profit from it whether you are online or not.
+
+Membership in Going Platinum affords you the opportunity to earn money
+through 2 uniquely different, yet related programs:
+
+FREE-------The GPC (Going Platinum Community) is a cooperative online
+community that pays you the "referral fees" and "commissions" that you =
+and
+your friends' presence on the Internet generate. It is designed to turn
+every Internet session into an income-producing event.
+
+$25.00-----The GPAP (Going Platinum Affiliate Program) is our dynamic
+membership plan that pays you just for participating. It also helps you =
+to
+earn much, much more in the GPC even if you play the most passive of =
+roles
+in the program. If you sign up and do nothing else, the GPAP is for you.
+Paying to join GPAP is for a limited time only, this feature will soon =
+be
+gone.
+This is for our membership drive.
+
+Once you join the GPAP, you will benefit from Upline Spillover, and
+Spillover from people signing up from the Corporate site.
+
+Spillover means that you benefit from other people's efforts by them =
+placing people in your downline, which is also their downline. This may =
+come from the corporate site, or referrals from people that joined =
+before you.
+
+
+BRAND NEW, Join Today and Be in at the TOP!!!!!
+
+http://www.goingplatinum.com/member/selepackl
+
+
+IF YOU NEVER JOIN ANOTHER PROGRAM - YOU OWE IT TO
+YOURSELF TO AT LEAST LOOK AT THIS ONE!!!!
+
+FACT:  GOING PLATINUM is the #1 Opp. Online...There is NO other program =
+that
+even comes close. .
+
+WHY?  Well, if YOU join NOW, you could become seriously wealthy!  And =
+they haven't even launched phase 1 yet!!!
+
+Some people are already earning a monthly income from joining the GPAP. =
+And
+they haven't even done anything. Finally a program for everyone, from =
+the
+most aggresive marketers, to the most passive users.
+People  just want a ISP that makes sense.
+
+It is estimated that Going Platinum
+will gain 10,000,000 members within the next six months.
+But, that just might be an UNDER-ESTIMATE!
+LOOK - Total membership in just four weeks is over
+50,000! This program is the hottest thing on the Internet
+and it hasn't even launched Phase I.
+
+Membership is RISK-FREE. There is a lifetime, no questions
+asked, money back guarantee.
+
+With membership projected to be 10 million within 6-8
+months, you don't want to be left on the sidelines when
+this happens. Don't we wish we had had the foresight to
+join AOL during it's pre-launch?
+
+JOIN NOW!!
+
+http://www.goingplatinum.com/member/selepackl=20
+
+You can join for FREE or you can pay a one-time fee of Twenty-five =
+dollars
+and begin earning from BOTH your personally sponsored members AND your
+community's spillover! Sign up NOW before the company begins the BIG
+advertising blitz. People will be joining through the corporate site, =
+which
+means spillover for GPAP members only.
+
+You can Join us,  and never do another thing,  or work a little and go =
+PLATINUM !! =20
+Either way you can be glad you chose a hardworking Team, a Team that =20
+gives you 150% of their Time and Effort.
+
+Join Today, we all want to increase our NETWORTH
+
+Linda
+
+------=_NextPart_000_0007_01C04C0E.4668CBA0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.3019.2500" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>If you PAY to use the Internet,&nbsp; =
+you will want=20
+to Read this:<BR><BR>The Most Exciting Opportunity has hit the Net, a =
+program=20
+geared for<BR>every Man, Woman &amp; Child.&nbsp;&nbsp;&nbsp; =
+<BR><BR><BR>If you=20
+use an Internet Service Provider,&nbsp; then this definitely concerns=20
+you.<BR><BR>A new Internet Community is about to launch.&nbsp; (like=20
+AOL)<BR><BR>JOIN NOW!!<BR><BR><A=20
+href=3D"http://www.goingplatinum.com/member/selepackl">http://www.goingpl=
+atinum.com/member/selepackl</A><BR><BR>What=20
+most Internet users don't realize is that from the moment you log =
+on<BR>until=20
+the moment you log off you are generating a good deal of cash =
+for<BR>someone=20
+else, even if you do not buy or fill out anything!<BR><BR>Well, Going =
+Platinum=20
+is going to share that wealth with us!!!<BR><BR>Competition on the =
+Internet has=20
+grown to the point that web-based companies<BR>are paying sizable =
+"referral=20
+fees" and "commissions" to the ISP (Internet<BR>Service Provider), =
+Portal,=20
+Search Engine, or even the personal web page<BR>owner that directs you =
+to their=20
+site. If you happen to buy something,<BR>provide a little information, =
+or take=20
+advantage of a useful service, the<BR>money changing hands is that much=20
+greater.<BR><BR>Whether it's a big banner advertisement or a simple =
+highlighted=20
+text link, if you<BR>clicked on it or even just viewed it, that web page =
+owner=20
+is more than<BR>likely cashing in. Some of the larger ISPs make so much =
+money=20
+from these<BR>advertisements and links, it is almost unimaginable that =
+they also=20
+charge you<BR>a monthly fee for the privilege of allowing them to be =
+your=20
+Internet<BR>gateway.<BR><BR>This is not a Pay to SURF program, you will =
+not have=20
+to deal with Viewbars.<BR><BR>Your membership in Going Platinum will =
+change your=20
+view of the Internet<BR>forever by enabling you to profit from it =
+whether you=20
+are online or not.<BR><BR>Membership in Going Platinum affords you the=20
+opportunity to earn money<BR>through 2 uniquely different, yet related=20
+programs:<BR><BR>FREE-------The GPC (Going Platinum Community) is a =
+cooperative=20
+online<BR>community that pays you the "referral fees" and "commissions" =
+that you=20
+and<BR>your friends' presence on the Internet generate. It is designed =
+to=20
+turn<BR>every Internet session into an income-producing=20
+event.<BR><BR>$25.00-----The GPAP (Going Platinum Affiliate Program) is =
+our=20
+dynamic<BR>membership plan that pays you just for participating. It also =
+helps=20
+you to<BR>earn much, much more in the GPC even if you play the most =
+passive of=20
+roles<BR>in the program. If you sign up and do nothing else, the GPAP is =
+for=20
+you.<BR>Paying to join GPAP is for a limited time only, this feature =
+will soon=20
+be<BR>gone.<BR>This is for our membership drive.<BR><BR>Once you join =
+the GPAP,=20
+you will benefit from Upline Spillover, and<BR>Spillover from people =
+signing up=20
+from the Corporate site.<BR><BR>Spillover means that you benefit from =
+other=20
+people's efforts by them placing people in your downline, which is also =
+their=20
+downline. This may come from the corporate site, or referrals from =
+people that=20
+joined before you.<BR><BR><BR>BRAND NEW, Join Today and Be in at the=20
+TOP!!!!!<BR><BR><A=20
+href=3D"http://www.goingplatinum.com/member/selepackletworth">http://www.=
+goingplatinum.com/member/selepackl</A><BR><BR><BR>IF=20
+YOU NEVER JOIN ANOTHER PROGRAM - YOU OWE IT TO<BR>YOURSELF TO AT LEAST =
+LOOK AT=20
+THIS ONE!!!!<BR><BR>FACT:&nbsp; GOING PLATINUM is the #1 Opp. =
+Online...There is=20
+NO other program that<BR>even comes close. .<BR><BR>WHY?&nbsp; Well, if =
+YOU join=20
+NOW, you could become seriously wealthy!&nbsp; And they haven't even =
+launched=20
+phase 1 yet!!!<BR><BR>Some people are already earning a monthly income =
+from=20
+joining the GPAP. And<BR>they haven't even done anything. Finally a =
+program for=20
+everyone, from the<BR>most aggresive marketers, to the most passive=20
+users.<BR>People&nbsp; just want a ISP that makes sense.<BR><BR>It is =
+estimated=20
+that Going Platinum<BR>will gain 10,000,000 members within the next six=20
+months.<BR>But, that just might be an UNDER-ESTIMATE!<BR>LOOK - Total =
+membership=20
+in just four weeks is over<BR>50,000! This program is the hottest thing =
+on the=20
+Internet<BR>and it hasn't even launched Phase I.<BR><BR>Membership is =
+RISK-FREE.=20
+There is a lifetime, no questions<BR>asked, money back =
+guarantee.<BR><BR>With=20
+membership projected to be 10 million within 6-8<BR>months, you don't =
+want to be=20
+left on the sidelines when<BR>this happens. Don't we wish we had had the =
+
+foresight to<BR>join AOL during it's pre-launch?<BR><BR>JOIN =
+NOW!!<BR><BR><A=20
+href=3D"http://www.goingplatinum.com/member/selepacklember/">http://www.g=
+oingplatinum.com/member/selepackl</A>=20
+<BR><BR>You can join for FREE or you can pay a one-time fee of =
+Twenty-five=20
+dollars<BR>and begin earning from BOTH your personally sponsored members =
+AND=20
+your<BR>community's spillover! Sign up NOW before the company begins the =
+
+BIG<BR>advertising blitz. People will be joining through the corporate =
+site,=20
+which<BR>means spillover for GPAP members only.<BR><BR>You can Join =
+us,&nbsp;=20
+and never do another thing,&nbsp; or work a little and go PLATINUM =
+!!&nbsp;=20
+<BR>Either way you can be glad you chose a hardworking Team, a Team =
+that&nbsp;=20
+<BR>gives you 150% of their Time and Effort.<BR><BR>Join Today, we all =
+want to=20
+increase our NETWORTH<BR><BR>Linda</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0007_01C04C0E.4668CBA0--
+

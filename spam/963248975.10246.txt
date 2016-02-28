@@ -1,0 +1,71 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 5238 invoked from network); 10 Jul 2000 12:45:50 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 10 Jul 2000 12:45:50 -0000
+Received: (qmail 12442 invoked from network); 10 Jul 2000 12:45:48 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 10 Jul 2000 12:45:48 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156913AbQGJMaT>; Mon, 10 Jul 2000 08:30:19 -0400
+Received: by vger.rutgers.edu id <S156923AbQGJMaA>;
+	Mon, 10 Jul 2000 08:30:00 -0400
+Received: from smtp01.mem.interq.net ([210.157.1.51]:39746 "EHLO
+	smtp01.mem.interq.net") by vger.rutgers.edu with ESMTP
+	id <S156892AbQGJM3q>; Mon, 10 Jul 2000 08:29:46 -0400
+Received: from pns.ocn.ne.jp (fukusawa-ppp-210-172-146-90.interq.or.jp [210.172.146.90])
+	by smtp01.mem.interq.net (8.9.3/8.9.1/matt89-pop) with ESMTP id VAA26008
+	for <linux-kernel@vger.rutgers.edu>; Mon, 10 Jul 2000 21:41:29 +0900 (JST)
+Message-ID: <1006.963232887900@z2.zzz.or.jp>
+Date:	Mon, 10 Jul 2000 21:41:27 +0900 (JST)
+From: milkygirl <milkyg@z2.zzz.or.jp>
+Reply-To: milkyg@z2.zzz.or.jp
+To: linux-kernel@vger.rutgers.edu
+Subject: =?iso-2022-jp?B?LS0tLRskQiVfJWslLSE8JSwhPCVrJGgbKEIbKEI=?==?iso-2022-jp?B?GyRCJGokKkNOJGkkOyRHJDkhIxsoQi0tLS0=?==?iso-2022-jp?B??=
+Mime-Version: 1.0
+Content-Type: text/plain; charset =ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+
+==================================================================
+              ミルキーガールよりお知らせです。
+==================================================================
+
+---------この番組は、アダルト番組です。--------------
+☆１８歳未満の方のご入場はかたくお断りいたします。　　
+
+
+■ミルキーガールについて
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+★みるきーガールがオープンしました。
+　かわいい子、きれいな女の子がたくさん。
+　毎日すご腕スカウトマン、ナンパ師の
+　方々が、女の子をたくさんつれて来てくれます。
+　気が合えばデートできるかも・・・・？
+　チャットで誘ってみたら？
+
+☆ADSL回線により24時間放送を実現しました。
+　過去のライブチャットの模様も随時放送していきます。
+　スケジュールを確認して無料体験でどうぞ！！
+
+☆10分間は無料、しかも業界初の低料金です。
+　\10,000ポッキリで、１ヶ月間見たい放題です。
+　会員登録はすぐ！！
+
+■このメールについて
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+☆このような番組に興味のない方が受信されました場合
+　には、大変申しわけございませんでした。
+　そのままこのメールを送り返していただければ幸いです。
+
+☆http://www.milkygirl.com☆
+☆info@milkygirl.com☆
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

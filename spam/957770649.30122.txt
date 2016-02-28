@@ -1,0 +1,737 @@
+Return-Path: <eCatalog@insight.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 2658 invoked by alias); 8 May 2000 05:53:49 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 2655 invoked from network); 8 May 2000 05:53:48 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 8 May 2000 05:53:48 -0000
+Received: (qmail 29266 invoked by uid 500); 8 May 2000 05:53:47 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 29261 invoked by uid 519); 8 May 2000 05:53:46 -0000
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 29256 invoked from network); 8 May 2000 05:53:45 -0000
+Received: from oms5.insight.com (198.187.200.75)
+  by snssoftware.com with SMTP; 8 May 2000 05:53:45 -0000
+Received: from localhost (eblast@localhost)
+	by oms5.insight.com (8.9.3/8.9.3) with SMTP id WAA02002
+	for <email@snssoftware.com>; Sun, 7 May 2000 22:55:17 -0700
+Received: by oms5.insight.com (bulk_mailer v1.10); Sun, 7 May 2000 20:53:56 -0700
+From: Insight eCatalog <eCatalog@insight.com>
+Subject: Desktops From $399.99 & Notebooks From $999.99!
+Date: Sun, 07 May 2000 20:53:30 -0700
+X-ListMember: email@snssoftware.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="------------Insight-59DF3C7BAE95A65C89459F31"
+To: email@snssoftware.com
+Message-ID: <bulk.11790.20000507205356@oms5.insight.com>
+
+--------------Insight-59DF3C7BAE95A65C89459F31
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+======================================================================
+             INSIGHT - High Tech, Low Cost, Smart Business
+======================================================================
+
+   For more information see our WEB site or contact a representative
+                    *** http://www.insight.com ***
+   To take advantage of these offers, you must mention code: E472
+
+----------------------------------------------------------------------
+WE SHIP FEDEX!  Our commitment to Excellence includes prompt delivery!
+______________________________________________________________________
+
+                    Order NOW!  While Supplies Last!
+
+____________________________________________
+Deals on Desktops and Notebooks for May 07, 2000
+			
+Desktops! 
+HP Brio BA 200
+$399.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/hpd9664tp.html
+ * Intel Celeron 433MHz Processor
+ * 32MB SDRAM/ 4.3GB Ultra ATA HDD
+ * 40X CD-ROM
+ * Windows 98
+
+Emachines eTower 500ix
+$599.00
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/emaet500ix.html
+ * 500MHz Intel Celeron Processor
+ * 64MB SDRAM; 10.0GB HD
+ * 40X CD-ROM; 56K Modem; 4MB AGP Video
+ * Micsosoft Windows 98, plus Works 2000
+
+Compaq Presario 7360
+$599.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/cpq85h3656.html
+ * AMD K6-2 500MHz with 3D Now!
+ * 64MB Memory, 10.0GB Hard Disk Drive
+ * 40X CD-ROM, 100MHz Front Side Bus
+ * 56K Modem and Windows 98
+
+TradeMark 550MHz PIII Minitower
+$799.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/tdm550p3a.html
+ * 550MHz Intel PIII Processor
+ * 64MB SDRAM; 8.0GB HD
+ * 56K Modem and 10/100 NIC
+ * 48X CD-ROM; MS Windows 98SE
+
+Compaq Presario EZ2200
+$799.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/168217-003.html
+ * Intel Celeron 500MHz Processor
+ * 64MB SDRAM; 17GB Ultra DMA Hard Drive
+ * 56K Modem; CD-RW Drive
+ * Microsoft Works 2000; Windows 98
+
+Gateway Performance GP7
+$899.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/gwgp500msb.html
+ * Intel Pentium III 500MHz Processor
+ * 64MB SDRAM; 10.0GB Ultra ATA Hard Drive
+ * 56Kbps Modem; 40X CD-ROM Drive
+ * Windows 98; Microsoft Small Business Edition
+
+Emachines eMonster 600
+$899.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/emaemon600.html
+ * 600MHz Intel Pentium III Processor
+ * 64MB SDRAM; 20.0GB Hard Drive
+ * 8x DVD; 8MB AGP Graphics; 56K Modem
+ * Microsoft Windows 98
+
+Gateway GP 7
+$999.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/gwgp550msm.html
+ * Intel PIII 550MHz Processor
+ * 64MB RAM; 10.0GB HD
+ * CD-ROM Drive; 56K Modem
+ * Windows 98; Microsoft Office SBE
+
+
+Notebooks!
+Toshiba Satellite 1605CDS
+$999.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/ta1605cds.html
+ * 450MHz AMD® K6-2 with 3DNow!™
+ * 4.3 GB Ultra DMA; 32MB SDRAM
+ * 12.1" Color-bright dual scan display; 24X CD-ROM Drive
+ * Integrated V.90/K56flex
+
+Toshiba Satellite 2180CDT
+$1199.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/ta2180cdt.html
+ * 475MHz AMD K6-2 Processor w/ 3DNow Technology!
+ * 12.1" TFT Active Matrix Display
+ * 64MB SDRAM; 4.3GB HD
+ * 24X CD; 56K Modem; WIN 98
+
+Toshiba Satellite 2210XCDS
+$1379.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/ta2210xcds.html
+ * 500MHz Intel Celeron Processor
+ * 13.0" DSTN Color Bright Display
+ * 64MB SDRAM; 6.0GB Hard Drive
+ * 24X CD; 56K Modem; Windows 98
+
+Sony Vaio F420
+$1699.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/sopcgf420.html
+ * 450 MHz Intel. Pentium. III
+ * 64 MB SDRAM (upto 256 MB max.)
+ * 6.0 GB2 fixed hard drive
+ * 13.0" SVGA HPA screen
+
+Toshiba Satellite Pro 4260DVD
+$2169.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/ta4260xdvd.html
+ * 450MHz Intel Pentium III Processor
+ * 13.3" Active Matrix; 64MB SDRAM
+ * 6GB HDD; 6xDVD; 56K/V.90 Modem
+ * Windows 98SE; Lotus SmartSuite Millenuim Edition
+
+Sony Vaio PCG-F430
+$2199.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/sopcg-f430.html
+ * 450 MHz Intel. P III processor
+ * 64 MB SDRAM (upto 256 MB max.)
+ * 6.0 GB2 fixed hard drive
+ * 14.1" XGA(1024 x 768) TFT screen
+
+Sony Vaio PCG-F480
+$3099.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/sopcgf480.html
+ * Intel PIII Processor 600
+ * 64 MB SDRAM
+ * 12.0 GB2 Fixed HD
+ * 15" XGA (1024 x 768) TFT screen
+
+IBM ThinkPad 600X
+$3869.99
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=desktopsnotebooks&ecatlink=products/ibt26455fu.html
+ * 650MHz Intel Pentium III Processor
+ * 13.3" TFT Active Matrix Display
+ * 64MB SDRAM; 12GB Hard Drive
+ * DVD-ROM; 56K Modem; Windows 98
+
+Insight Consumables!
+Find your Printer Supplies Here!
+http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_consumablesv1.html
+
+Find your Copier & Fax Supplies Here!
+http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_consumecfc.html
+
+Find your Paper, Transparencies, & Label Supplies Here!
+http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_consumeptlc.html
+
+
+Software Deals!
+Operating Systems and Networking
+http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_moreoperating.html
+
+Business & Productivity
+http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_morebusiness.html
+
+Linux Software
+http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_linux.html
+
+>> FREE EMAIL SPECIALS!
+Insight offers an expanded email newsletter subscription service to keep
+you informed on new product releases, price drops and exciting deals on
+computing products. Change your subscription preferences today--visit
+http://www.insight.com/subscribe.
+
+>> GET HTML E-MAIL!
+E-mail graphical@insight.com with your email address to
+view future emails in a graphical/HTML format.
+
+Source Code: E472
+
+This was sent to: email@snssoftware.com
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WEB: http://www.insight.com/specials
+TELEPHONE: 800-INSIGHT, mention key code: "E472"
+TECH SUPPORT/SALES: presales@insight.com
+CUSTOMER SERVICE: customerservice@insight.com
+LARGE QUANTITY: largebid@insight.com
+
+In business since 1986:
+6820 S. Harl Avenue
+Tempe, AZ 85283
+_____________________________________________________________________
+Prices and availability of INSIGHT products offered are
+subject to change without notice. Prices In US Dollars.
+Copyright © 1986-2000 Insight Enterprises, Inc.
+
+For Business and Returns Policies: 
+http://www.insight.com/cgi-bin/bp/web/helphome.html#return
+
+Visit http://www.insight.com/subscribe to 
+change your subscription preferences.
+
+Click once below to remove yourself from future emails:
+http://www.insight.com/cgi-bin/bp/web/stoe472.html?email=email@snssoftware.com&ecatlink=one_click_text.html
+_____________________________________________________________________
+
+
+--------------Insight-59DF3C7BAE95A65C89459F31
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!-- GRAPHICAL EMAIL STARTS HERE --><html> <head><TITLE>Insight =
+ecatalog</TITLE></HEAD><BODY BGCOLOR=3D"#FFFFFF" VLINK=3D"#666666" =
+ALINK=3D"#DF0029"><CENTER><TABLE CELLPADDING=3D"0" CELLSPACING=3D"0" =
+BORDER=3D"0" WIDTH=3D"600" BGCOLOR=3D"#FFFFFF"><TR><TD><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatlink=3Dgd=
+irect.html"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/inslogo_sm.gif" =
+WIDTH=3D"263" HEIGHT=3D"93" BORDER=3D"0"></A><BR></TD><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"30" =
+BORDER=3D"0"><BR></TD><TD><FONT SIZE=3D"1" FACE=3D"ARIAL,HELVETICA" =
+COLOR=3D"#000000"><BR>Visit <A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatlink=3Dgd=
+irect.html">www.insight.com</A> for real time access to inventory in =
+dozens of warehouses nationwide and quick delivery on over 110,000 name =
+brand high tech products.  Thousands of smart businesses count on =
+Insight every day for low cost computers, hardware and =
+software.</FONT><BR><BR></TD></TR></TABLE><TABLE CELLPADDING=3D"0" =
+CELLSPACING=3D"0" BORDER=3D"0" WIDTH=3D"500" =
+BGCOLOR=3D"#FFFFFF"><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"1" =
+HEIGHT=3D"3" BORDER=3D"0"></TD></TR><TR><TD align=3D"center" =
+valign=3D"top" width=3D"100%"><A =
+HREF=3D"http://www.fortune.com/fortune/fortune500/500list2_801.html"><IM=
+G SRC=3D"http://iweb/web/graphics/fortune500w.gif" WIDTH=3D"500" =
+HEIGHT=3D"51" BORDER=3D"0"></A></TD></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"1" =
+HEIGHT=3D"3" BORDER=3D"0"></TD></TR></TABLE><TABLE BORDER=3D"0" =
+CELLPADDING=3D"0" CELLSPACING=3D"0" WIDTH=3D"600" =
+ALIGN=3D"CENTER"><TR><TD BGCOLOR=3D"#000000" WIDTH=3D"1"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"1" =
+HEIGHT=3D"1"></TD><TD VALIGN=3D"TOP" WIDTH=3D"598" =
+ALIGN=3D"CENTER"><CENTER><TABLE BORDER=3D"0" CELLPADDING=3D"0" =
+CELLSPACING=3D"0" WIDTH=3D"100%"><TR><TD BGCOLOR=3D"#000000" =
+WIDTH=3D"1"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"1" =
+HEIGHT=3D"1"></TD></TR><TR><TD BGCOLOR=3D"#6683b2"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/ec_desktopsnotebooks_mas=
+t.gif" height=3D51 width=3D598 ></TD></TR><TR><TD BGCOLOR=3D"#000000" =
+WIDTH=3D"1" HEIGHT=3D"1"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"1" =
+HEIGHT=3D"1"></TD></TR><TR><TD><TABLE BORDER=3D"0" CELLPADDING=3D"5" =
+CELLSPACING=3D"0" WIDTH=3D"100%"><TR><TD WIDTH=3D"50%" =
+VALIGN=3D"TOP"><TABLE BORDER=3D"0" CELLPADDING=3D"1" CELLSPACING=3D"0" =
+WIDTH=3D"100%"><TR><TD BGCOLOR=3D"#000000"><TABLE BORDER=3D"0" =
+CELLPADDING=3D"2" CELLSPACING=3D"0" WIDTH=3D"100%" =
+BGCOLOR=3D"#FFFFEE"><TR><TD BGCOLOR=3D"#6683B2" VALIGN=3D"TOP" =
+COLSPAN=3D"3"><FONT SIZE=3D"2" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#FFFFFe"><B>&nbsp;Desktops</B></FONT></TD></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/hpd9664tp_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/hpd9664tp.html">HP Brio BA =
+200</A></B><BR>&nbsp;&#149;&nbsp;Intel Celeron =
+433MHz<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;32MB SDRAM/ =
+4.3GB Ultra<br>&nbsp;&nbsp;&nbsp;ATA HDD<BR>&nbsp;&#149;&nbsp;40X =
+CD-ROM<BR>&nbsp;&#149;&nbsp;Windows 98<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$399.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"HPD9664TP"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/emaet500ix_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/emaet500ix.html">Emachines eTower =
+500ix</A></B><BR>&nbsp;&#149;&nbsp;500MHz Intel =
+Celeron<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;64MB SDRAM; =
+10.0GB HD<BR>&nbsp;&#149;&nbsp;40X CD-ROM; 56K Modem;<br>&nbsp;&nbsp; =
+4MB AGP Video<BR>&nbsp;&#149;&nbsp;Micsosoft Windows =
+98,<br>&nbsp;&nbsp; plus Works 2000<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$599.00</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"EMAET500IX"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/cpq85h3656_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/cpq85h3656.html">Compaq Presario =
+7360</A></B><BR>&nbsp;&#149;&nbsp;AMD K6-2 500MHz with =
+3D<br>&nbsp;&nbsp;&nbsp;Now!<BR>&nbsp;&#149;&nbsp;64MB Memory, 10.0GB =
+Hard<br>&nbsp;&nbsp;&nbsp;Disk Drive<BR>&nbsp;&#149;&nbsp;40X CD-ROM, =
+100MHz Front<br>&nbsp;&nbsp;&nbsp;Side Bus<BR>&nbsp;&#149;&nbsp;56K =
+Modem and Windows 98<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$599.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"CPQ85H3656"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/tdm550p3a_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/tdm550p3a.html">TradeMark 550MHz =
+PIII Minitower</A></B><BR>&nbsp;&#149;&nbsp;550MHz Intel PIII =
+Processor<BR>&nbsp;&#149;&nbsp;64MB SDRAM; 8.0GB =
+HD<BR>&nbsp;&#149;&nbsp;56K Modem and 10/100 =
+NIC<BR>&nbsp;&#149;&nbsp;48X CD-ROM; MS =
+Windows<br>&nbsp;&nbsp;&nbsp;98SE<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$799.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"TDM550P3A"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/168217-003_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/168217-003.html">Compaq Presario =
+EZ2200</A></B><BR>&nbsp;&#149;&nbsp;Intel Celeron =
+500MHz<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;64MB SDRAM; =
+17GB Ultra<br>&nbsp;&nbsp;&nbsp;DMA Hard Drive<BR>&nbsp;&#149;&nbsp;56K =
+Modem; CD-RW Drive<BR>&nbsp;&#149;&nbsp;Microsoft Works =
+2000;<br>&nbsp;&nbsp;&nbsp;Windows 98<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$799.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"168217-003"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/gwgp500msb_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/gwgp500msb.html">Gateway =
+Performance GP7</A></B><BR>&nbsp;&#149;&nbsp;Intel Pentium III =
+500MHz<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;64MB SDRAM; =
+10.0GB Ultra<br>&nbsp;&nbsp;&nbsp;ATA Hard =
+Drive<BR>&nbsp;&#149;&nbsp;56Kbps Modem; 40X =
+CD-<br>&nbsp;&nbsp;&nbsp;ROM Drive<BR>&nbsp;&#149;&nbsp;Windows 98; =
+Microsoft Small<br>&nbsp;&nbsp;&nbsp;Business =
+Edition<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$899.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"GWGP500MSB"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/emaemon600_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/emaemon600.html">Emachines eMonster =
+600</A></B><BR>&nbsp;&#149;&nbsp;600MHz Intel Pentium =
+III<br>&nbsp;&nbsp;&nbsp;Processor<br>&nbsp;&#149;&nbsp;64MB SDRAM; =
+20.0GB Hard<br>&nbsp;&nbsp;&nbsp;Drive<br>&nbsp;&#149;&nbsp;8x DVD; 8MB =
+AGP Graphics;<br>&nbsp;&nbsp;&nbsp;56K =
+Modem<br>&nbsp;&#149;&nbsp;Microsoft Windows 98<br></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$899.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"EMAEMON600"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/gwgp550msm_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/gwgp550msm.html">Gateway GP =
+7</A></B><BR>&nbsp;&#149;&nbsp;Intel PIII 550MHz =
+Processor<BR>&nbsp;&#149;&nbsp;64MB RAM; 10.0GB =
+HD<BR>&nbsp;&#149;&nbsp;CD-ROM Drive; 56K =
+Modem<BR>&nbsp;&#149;&nbsp;Windows 98; Microsoft =
+Office<br>&nbsp;&nbsp;&nbsp;SBE<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$999.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"GWGP550MSM"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD COLSPAN=3D"3" =
+ALIGN=3D"CENTER"><FONT SIZE=3D"1" FACE=3D"VERDANA,ARIAL,HELVETICA" =
+COLOR=3D"#DF0029"><B>(All monitors shown are =
+optional.)</B></FONT><BR></TD></TR><TR><TD BGCOLOR=3D#6683B2 =
+COLSPAN=3D3><FONT SIZE=3D"1" FACE=3D"VERDANA,ARIAL,HELVETICA" =
+COLOR=3D"#ffffff">&nbsp;&nbsp;<B>Insight =
+Consumables!</B></FONT><BR></TD></TR><TR><TD>&nbsp;</TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_consumablesv1.=
+html">Find your Printer Supplies Here!</A></B><BR><br><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_consumecfc.htm=
+l">Find your Copier & Fax Supplies Here!</A></B><BR><br><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_consumeptlc.ht=
+ml">Find your Paper, Transparencies, & Label Supplies =
+Here!</A></B><BR><br></FONT></TD><TD =
+ALIGN=3D"RIGHT">&nbsp;</TD></TR></TABLE></TD></TR></TABLE></TD><TD =
+WIDTH=3D"50%" VALIGN=3D"TOP"><TABLE BORDER=3D"0" CELLPADDING=3D"1" =
+CELLSPACING=3D"0" WIDTH=3D"100%"><TR><TD BGCOLOR=3D"#000000"><TABLE =
+BORDER=3D"0" CELLPADDING=3D"2" CELLSPACING=3D"0" WIDTH=3D"100%" =
+BGCOLOR=3D"#FFFFEE"><TR><TD BGCOLOR=3D"#6683B2" VALIGN=3D"TOP" =
+COLSPAN=3D"3"><FONT SIZE=3D"2" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#FFFFFe"><B>&nbsp;Notebooks</B></FONT></TD></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/ta1605cds_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/ta1605cds.html">Toshiba Satellite =
+1605CDS</A></B><BR>&nbsp;&#149;&nbsp;450MHz AMD=AE K6-2 =
+with<br>&nbsp;&nbsp;&nbsp;3DNow!=99<BR>&nbsp;&#149;&nbsp;4.3 GB Ultra =
+DMA; 32MB<br>&nbsp;&nbsp;&nbsp;SDRAM<BR>&nbsp;&#149;&nbsp;12.1" =
+Color-bright dual scan<br>&nbsp;&nbsp;&nbsp;display; 24X CD-ROM =
+Drive<BR>&nbsp;&#149;&nbsp;Integrated V.90/K56flex<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$999.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"TA1605CDS"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/ta2180cdt_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/ta2180cdt.html">Toshiba Satellite =
+2180CDT</A></B><BR>&nbsp;&#149;&nbsp;475MHz AMD =
+K6-2<br>&nbsp;&nbsp;&nbsp;Processor w/ =
+3DNow!<BR>&nbsp;&#149;&nbsp;12.1" TFT =
+Active<br>&nbsp;&nbsp;&nbsp;Matrix Display<BR>&nbsp;&#149;&nbsp;64MB =
+SDRAM; 4.3GB HD<BR>&nbsp;&#149;&nbsp;24X CD; 56K =
+Modem;<br>&nbsp;&nbsp;&nbsp;WIN 98<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$1199.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"TA2180CDT"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/ta2210xcds_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/ta2210xcds.html">Toshiba Satellite =
+2210XCDS</A></B><BR>&nbsp;&#149;&nbsp;500MHz Intel =
+Celeron<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;13.0" DSTN =
+Color Bright<br>&nbsp;&nbsp;&nbsp;Display<BR>&nbsp;&#149;&nbsp;64MB =
+SDRAM; 6.0GB Hard<br>&nbsp;&nbsp;&nbsp;Drive<BR>&nbsp;&#149;&nbsp;24X =
+CD; 56K Modem;<br>&nbsp;&nbsp;&nbsp;Windows 98<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$1379.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"TA2210XCDS"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/sopcgf420_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/sopcgf420.html">Sony Vaio =
+F420</A></B><BR>&nbsp;&#149;&nbsp;450 MHz Intel Pentium =
+III<BR>&nbsp;&#149;&nbsp;64 MB SDRAM (up to =
+256MB<br>&nbsp;&nbsp;&nbsp;max.)<BR>&nbsp;&#149;&nbsp;6.0 GB2 fixed =
+hard drive<BR>&nbsp;&#149;&nbsp;13.0" SVGA HPA =
+screen<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$1699.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"SOPCGF420"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/ta4260xdvd_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/ta4260xdvd.html">Toshiba Satellite =
+Pro 4260DVD</A></B><BR>&nbsp;&#149;&nbsp;450MHz Intel Pentium =
+III<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;13.3" Active =
+Matrix;<br>&nbsp;&nbsp;&nbsp;64MB SDRAM<BR>&nbsp;&#149;&nbsp;6GB HDD; =
+6xDVD; 56K/V.90<br>&nbsp;&nbsp;&nbsp;Modem<BR>&nbsp;&#149;&nbsp;Windows =
+98SE; Lotus<br>&nbsp;&nbsp;&nbsp;SmartSuite =
+Millenuim<br>&nbsp;&nbsp;&nbsp;Edition<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$2169.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"TA4260XDVD"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/sopcg-f430_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/sopcg-f430.html">Sony Vaio =
+PCG-F430</A></B><BR>&nbsp;&#149;&nbsp;450 MHz Intel P =
+III<br>&nbsp;&nbsp;&nbsp;processor<BR>&nbsp;&#149;&nbsp;64 MB SDRAM (up =
+to 256MB<br>&nbsp;&nbsp;&nbsp;max.)<BR>&nbsp;&#149;&nbsp;6.0 GB2 fixed =
+hard drive<BR>&nbsp;&#149;&nbsp;14.1" XGA(1024 x =
+768)<br>&nbsp;&nbsp;&nbsp;TFT screen<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$2199.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"SOPCG-F430"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/sopcgf480_sm.gif" =
+height=3D50 width=3D50  BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/sopcgf480.html">Sony Vaio =
+PCG-F480</A></B><BR>&nbsp;&#149;&nbsp;Intel PIII Processor =
+600<BR>&nbsp;&#149;&nbsp;64 MB SDRAM<BR>&nbsp;&#149;&nbsp;12.0 GB2 =
+Fixed HD<BR>&nbsp;&#149;&nbsp;15" XGA (1024 x =
+768)<br>&nbsp;&nbsp;&nbsp;TFT screen<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$3099.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D"SOPCGF480"><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/ibt26455fu_sm.gif" =
+width=3D"50" height=3D"50" BORDER=3D"1" ALT=3D"[Picture]"></TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" COLOR=3D=
+"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatalog=3Dde=
+sktopsnotebooks&ecatlink=3Dproducts/ibt26455fu.html">IBM ThinkPad =
+600X</A></B><BR>&nbsp;&#149;&nbsp;650MHz Intel Pentium =
+III<br>&nbsp;&nbsp;&nbsp;Processor<BR>&nbsp;&#149;&nbsp;13.3" TFT =
+Active Matrix<br>&nbsp;&nbsp;&nbsp;Display<BR>&nbsp;&#149;&nbsp;64MB =
+SDRAM; 12GB =
+Hard<br>&nbsp;&nbsp;&nbsp;Drive<BR>&nbsp;&#149;&nbsp;DVD-ROM; 56K =
+Modem;<br>&nbsp;&nbsp;&nbsp;Windows 98<BR></FONT></TD><FORM =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/mycart.html" =
+method=3D"get"><TD ALIGN=3D"RIGHT"><FONT SIZE=3D"2" =
+FACE=3D"ARIAL,HELVETICA" COLOR=3D"#DF0029"><B>$3869.99</B></FONT><INPUT =
+TYPE=3D"hidden" name=3D"a" value=3D"ca"><INPUT TYPE=3D"hidden" =
+name=3D"d" value=3D""><BR><INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/bt_buy2.gif" height=3D18 =
+width=3D45  ALIGN=3D"MIDDLE" BORDER=3D"0" ALT=3D"BUY NOW!" BORDER=3D"0" =
+ALIGN=3D"TOP"><BR></TD></FORM></TR><TR><TD COLSPAN=3D"3" =
+ALIGN=3D"CENTER">&nbsp;<BR></TD></TR><TR><TD BGCOLOR=3D#6683B2 =
+COLSPAN=3D3><FONT SIZE=3D"1" FACE=3D"VERDANA,ARIAL,HELVETICA" =
+COLOR=3D"#ffffff">&nbsp;&nbsp;<B>Software =
+Deals!</B></FONT><BR></TD></TR><TR><TD>&nbsp;</TD><TD =
+ALIGN=3D"LEFT"><FONT SIZE=3D"1" FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#000000"><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_moreoperating.=
+html">Operating Systems and Networking</A></B><BR><br><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_morebusiness.h=
+tml">Business & Productivity</A></B><BR><br><B><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/ecatalog_bp_linux.html">Li=
+nux Software</A></B><BR><br></FONT></TD><TD =
+ALIGN=3D"RIGHT">&nbsp;</TD></TR></TABLE></TD></TR></TABLE></TD></TR></TA=
+BLE></TD></TR></TABLE></CENTER> <TABLE CELLPADDING=3D"0" =
+CELLSPACING=3D"0" BORDER=3D"0" WIDTH=3D"100%" BGCOLOR=3D"#EFEFEF"> =
+<TR><TD COLSPAN=3D"2" BGCOLOR=3D"#000000" WIDTH=3D"100%"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" HEIGHT=3D"1" =
+BORDER=3D"0"><BR></TD></TR> <TR><TD COLSPAN=3D"2" BGCOLOR=3D"#DF0029" =
+WIDTH=3D"100%"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" HEIGHT=3D"2" =
+BORDER=3D"0"><BR></TD></TR> <TR><TD COLSPAN=3D"2" BGCOLOR=3D"#FFCC00" =
+VALIGN=3D"MIDDLE"><CENTER><FONT FACE=3D"ARIAL,HELVETICA" SIZE=3D"1" =
+COLOR=3D"#000000"><B>Prices and availability of INSIGHT products =
+offered are subject to change without =
+notice.</B></FONT></CENTER></TD></TR> <TR><TD COLSPAN=3D"2" =
+BGCOLOR=3D"#DF0029" WIDTH=3D"100%"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" HEIGHT=3D"2" =
+BORDER=3D"0"><BR></TD></TR> <TR><TD COLSPAN=3D"2" =
+BGCOLOR=3D"#FFFFFF"><FONT SIZE=3D"1" FACE=3D"VERDANA,ARIAL,HELVETICA" =
+COLOR=3D"#000000"><B>&nbsp;Email Customer Support:</B></FONT></TD></TR> =
+<TR><TD COLSPAN=3D"2" BGCOLOR=3D"#FFFFFF"> <TABLE WIDTH=3D"100%" =
+CELLPADDING=3D"2" CELLSPACING=3D"1" BORDER=3D"0"> <TR> <TD =
+WIDTH=3D"50%" VALIGN=3D"Middle"> <FONT SIZE=3D"1" =
+FACE=3D"ARIAL,HELVETICA"> <B>PRE SALES TECH SUPPORT:</B><BR> <A =
+HREF=3D"mailto:presales@insight.com">presales@insight.com</A><BR><BR> =
+<B>CUSTOMER SERVICE & QUESTIONS:</B><BR> <A =
+HREF=3D"mailto:customerservice@insight.com">customerservice@insight.com<=
+/A><BR><BR> <B>LARGE QUANTITY:</B><BR> <A =
+HREF=3D"mailto:largebid@insight.com">largebid@insight.com</A><BR><BR> =
+In business since 1986:<BR> 6820 S. Harl Avenue<BR> Tempe, AZ 85283 =
+</TD> <TD VALIGN=3D"TOP" WIDTH=3D"middle"><FONT SIZE=3D"1" =
+FACE=3D"ARIAL,HELVETICA"> <BR> <B>Change of email address:</B><BR> =
+Email "<A =
+HREF=3D"mailto:chglist@insight.com">chglist@insight.com</A>"<BR>with =
+your old and new email addresses. <BR><BR> <B>Change your subscription =
+preferences<BR>or remove yourself from future emails:</B><BR> Visit <A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatlink=3Dsu=
+bscribe.html">www.insight.com/subscribe</A> <BR><BR> <B>Cannot visit =
+our web site and want to remove<BR>yourself from this specific email =
+list:</B><BR> Reply to this email with the word "remove" in the =
+subject. <BR><BR> <B>Still having trouble getting off this specific =
+email list:</B><BR> Email "<A =
+HREF=3D"mailto:remlist@insight.com">remlist@insight.com</A>" with your =
+email<BR>address for manual processing.<BR> </FONT> </TD> </TR> =
+</TABLE> </TD> </TR> <TR> <TD COLSPAN=3D"2" BGCOLOR=3D"#000000" =
+WIDTH=3D"100%"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" HEIGHT=3D"1" =
+BORDER=3D"0"><BR> </TD> </TR> <TR> <TD> &nbsp;&nbsp;<A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatlink=3Dgd=
+irect.html"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/800-insight.gif" =
+HEIGHT=3D"32" WIDTH=3D"100" BORDER=3D"0" ALT=3D"Insight Logo" =
+VSPACE=3D"3"></A> </TD> <TD> <A =
+HREF=3D"http://www.nasdaq.com/asp/quotes_multi.asp?mode=3DStock&symbol=3D=
+nsit&symbol=3D&symbol=3D&symbol=3D&symbol=3D&symbol=3D&symbol=3D&symbol=3D=
+&symbol=3D&symbol=3D&multi.x=3D66& multi.y=3D6"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/nsit-logo.gif" =
+ALIGN=3D"RIGHT" HEIGHT=3D"32" WIDTH=3D"100" BORDER=3D"0" ALT=3D"nasdaq" =
+VSPACE=3D"3"></A> </TD> </TR> <TR> <TD COLSPAN=3D"2" VALIGN=3D"MIDDLE" =
+BGCOLOR=3D"#000000"><CENTER> &nbsp;&nbsp;<FONT =
+FACE=3D"verdana,arial,helvetica" COLOR=3D"#ffcc00" SIZE=3D"-3">| =
+Insight </FONT><FONT FACE=3D"verdana,arial,helvetica" COLOR=3D"#ffffff" =
+SIZE=3D"-3">eCatalog</FONT><FONT FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#ffcc00" SIZE=3D"-3"> | Insight </FONT><FONT =
+FACE=3D"verdana,arial,helvetica" COLOR=3D"#ffffff" =
+SIZE=3D"-3">eCatalog</FONT><FONT FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#ffcc00" SIZE=3D"-3"> | Insight </FONT><FONT =
+FACE=3D"verdana,arial,helvetica" COLOR=3D"#ffffff" =
+SIZE=3D"-3">eCatalog</FONT><FONT FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#ffcc00" SIZE=3D"-3"> | Insight </FONT><FONT =
+FACE=3D"verdana,arial,helvetica" COLOR=3D"#ffffff" =
+SIZE=3D"-3">eCatalog</B></FONT><FONT FACE=3D"verdana,arial,helvetica" =
+COLOR=3D"#ffcc00" SIZE=3D"-3"> | Insight </FONT><FONT =
+FACE=3D"verdana,arial,helvetica" COLOR=3D"#ffffff" SIZE=3D"-3">eCatalog =
+|</B></FONT> </CENTER> </TD> </TR> </TABLE></TD><TD BGCOLOR=3D"#000000" =
+WIDTH=3D"1"><IMG =
+SRC=3D"http://www.insight.com/web/graphics/1x1trans.gif" WIDTH=3D"1" =
+HEIGHT=3D"1"></TD></TR></TABLE></td></tr></table><CENTER><FONT =
+FACE=3D"ARIAL,HELVETICA" SIZE=3D"1">Prices and availability of INSIGHT =
+products offered are subject to change without notice.<BR>Prices In US =
+Dollars. Copyright =A9 1986-2000 Insight Enterprises, Inc.<BR><A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/helphome.html#return" =
+style=3D"text-decoration: none">Business and Returns =
+Policies</A><BR><BR>Visit <A =
+HREF=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html?ecatlink=3Dsu=
+bscribe.html">http://www.insight.com/subscribe</A> to change your =
+subscription preferences.<BR></FONT><BR> <FORM NAME=3D"unsubscribe" =
+ACTION=3D"http://www.insight.com/cgi-bin/bp/web/stoe472.html" =
+METHOD=3D"post"><INPUT TYPE=3Dhidden name=3D"ecatlink" =
+VALUE=3D"one_click.html"><INPUT TYPE=3Dhidden name=3D"formtype" =
+VALUE=3D"One Click Button"><INPUT TYPE=3Dhidden name=3D"BPFORM" =
+VALUE=3D""><INPUT TYPE=3Dhidden name=3D"iroute" =
+VALUE=3D"auto_unsubscribe"><INPUT TYPE=3Dhidden name=3D"email" =
+VALUE=3D"email@snssoftware.com"><INPUT TYPE=3Dhidden name=3D"list" =
+VALUE=3D"list"><FONT SIZE=3D"-2" FACE=3D"ARIAL,HELVETICA">Click once  =
+to <INPUT TYPE=3D"IMAGE" =
+SRC=3D"http://www.insight.com/web/graphics/remove5.gif" =
+ALIGN=3D"absbottom" BORDER=3D"0" ALT=3D"Remove!"> yourself  from future =
+emails.</FONT><BR></FORM><BR></CENTER><IMG =
+SRC=3D"http://www.insight.com/web/graphics/ecat/src_e472.gif" =
+WIDTH=3D"1" HEIGHT=3D"1"><center><font size=3D"1" =
+face=3D"arial,helvetica,verdana">This was sent =
+to:&nbsp;<b>email@snssoftware.com</b></font></center></BODY></HTML><!-- =
+GRAPHICAL EMAIL ENDS HERE -->
+--------------Insight-59DF3C7BAE95A65C89459F31--
+

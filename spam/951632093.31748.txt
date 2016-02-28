@@ -1,0 +1,40 @@
+Return-Path: <69kG2jHWY@aol.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 1617 invoked by alias); 27 Feb 2000 02:11:05 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 1614 invoked from network); 27 Feb 2000 02:11:04 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 27 Feb 2000 02:11:04 -0000
+Received: (qmail 29154 invoked by uid 530); 27 Feb 2000 02:11:03 -0000
+Delivered-To: bruceg-spam@daedalus.bfsmedia.sk.ca
+Received: (qmail 29147 invoked from network); 27 Feb 2000 02:11:01 -0000
+Received: from hal.qcc.sk.ca (198.169.27.1)
+  by bfsmedia.sk.ca with SMTP; 27 Feb 2000 02:11:01 -0000
+Received: (qmail 20275 invoked by alias); 27 Feb 2000 02:11:00 -0000
+Delivered-To: mikhail-bait@mikhail.qcc.sk.ca
+Received: (qmail 20272 invoked from network); 27 Feb 2000 02:10:59 -0000
+Received: from sbolnet.com (HELO sbol01.olg.com) (206.161.118.65)
+  by hal.qcc.sk.ca with SMTP; 27 Feb 2000 02:10:59 -0000
+Received: from vRqN5RY6d (unverified [38.11.233.90]) by sbol01.olg.com
+ (Rockliffe SMTPRA 3.4.5) with SMTP id <B0000007183@sbol01.olg.com>;
+ Sat, 26 Feb 2000 21:12:59 -0500
+DATE: 26 Feb 00 9:19:10 PM
+FROM: 69kG2jHWY@aol.com
+Message-ID: <1n6TD075QfKpKaD73>
+Received: From supercruz2g@aol.com by supercruz2g@aol.com;Sat, 26 Feb 2000 21:19:10 -400 (EDT)
+SUBJECT: Welcome to your Tickets!
+
+<html>
+
+<head>
+
+
+<body>
+
+<p><font size="6"><a href="http://216.141.99.11/getaway/getaway2/">Click Here</a></font></p>
+
+</body>
+
+</html>
+OR go to    http://216.141.99.11/getaway/getaway2/
+

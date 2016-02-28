@@ -1,0 +1,70 @@
+Return-Path: <Administrator@www.hotmail.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 21286 invoked from network); 19 Sep 2000 01:56:56 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 19 Sep 2000 01:56:56 -0000
+Received: (qmail 12384 invoked by uid 500); 19 Sep 2000 01:56:55 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 12380 invoked from network); 19 Sep 2000 01:56:54 -0000
+Received: from unknown (HELO lsmtp.vrserv.com) (196.34.179.3)
+  by em.ca with SMTP; 19 Sep 2000 01:56:54 -0000
+Received: from www.hotmail.com (w136.z209220186.nyc-ny.dsl.cnc.net) by lsmtp.vrserv.com (LSMTP for Windows NT v1.1b) with SMTP id <2.000724CF@lsmtp.vrserv.com>; Tue, 19 Sep 2000 4:02:34 +0200
+From: Vacation <barter@hotmail.com>
+Reply-To: barter@hotmail.com
+To: bruceg@em.ca
+Subject: Vacation!
+Content-type: text/html
+Sender: <Administrator@www.hotmail.com>
+Date: Mon, 18 Sep 2000 20:51:48 -0500
+Message-ID: <20000919015148100.AAA1828@www.hotmail.com>
+Content-Length: 1353
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="cccccc" link="#000000" text="#000000" vlink="#000000" alink="#000000">
+<div align="center">
+  <p><font face="Arial, Helvetica, sans-serif" size="2"><span
+      style="COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 10pt"><a href="http://members.tripod.com/barter1/barterVacation.html"><img src="http://members.tripod.com/barter1/vacation.jpg" width="125" height="106">
+    <br>
+    <font face="Verdana, Arial, Helvetica, sans-serif">click here</font></a></span></font>
+  </p>
+  <p><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </p>
+  <p><a href="http://members.tripod.com/barter1/uns.htm"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">To
+    be taken off our mailing list click here.</font></a></p>
+</div>
+</body>
+</html>
+<noscript>
+<//--><//"--><SCRIPT LANGAUGE="JavaScript">
+<!--Ad Banner
+
+<//--><//"--></SCRIPT><SCRIPT LANGAUGE="JavaScript">
+<!--Ad Banner
+function popupPage() {
+ var windowopts = "location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes,left= 50,top=50,width=490,height=130";
+
+ popup26430 = open('/banner.html',"MenuPopup",windowopts);
+ popup26430.focus();
+}
+
+popupPage();
+
+//  Ad Banner-->
+</script>

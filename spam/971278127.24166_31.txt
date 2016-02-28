@@ -1,0 +1,153 @@
+Return-Path: <>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 24024 invoked by alias); 11 Oct 2000 14:44:55 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 24021 invoked from network); 11 Oct 2000 14:44:54 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 11 Oct 2000 14:44:54 -0000
+Received: (qmail 4376 invoked by uid 500); 11 Oct 2000 14:44:53 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 4372 invoked by uid 502); 11 Oct 2000 14:44:52 -0000
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 4345 invoked from network); 11 Oct 2000 14:44:10 -0000
+Received: from ts1-200.mtrl.ca.ziplink.net (HELO global.net) (165.154.200.200)
+  by bfsmedia.sk.ca with SMTP; 11 Oct 2000 14:44:10 -0000
+From: 
+To: timolnar@bfsmedia.com
+Subject: Congratulations on your $25 USD win!
+Date: Wed, 11 Oct 2000 10:43:03 -0500
+X-Sender: 
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1
+Content-Type: text/html; charset="iso-8859-1"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 5137
+Lines: 127
+
+<HTML>
+
+<HEAD> <META HTTP-EQUIV="Content-Type" 
+CONTENT="text/html;CHARSET=iso-8859-1"> <TITLE>$$$$$$ </TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" LINK="#DD0000" VLINK="#DD0000" ALINK="#FFFFFF">
+
+<FORM ACTION="default.cgi" METHOD="POST" 
+ENCTYPE="application/x-www-form-urlencoded"> <CENTER> <P>
+<TABLE BORDER="0" WIDTH="478"> <TR> <TD WIDTH="468" VALIGN="BOTTOM" 
+bgcolor="white"> <P
+ALIGN="CENTER"><FONT SIZE="7" COLOR="#DD0000" FACE="Helvetica, 
+Arial"><B>You are a winner
+!!!</B></FONT></P> <P><FONT FACE="Helvetica, Arial">Your email was 
+randomly selected from our opt-in
+lists and you won $25.00 USD in real casino chips from 
+C3-Casino.<BR> <BR> Why are they giving away
+money you ask? Simple...they want you to discover what 1,000's of 
+other people just like you already
+know...online gambling at C3-Casino is fast-paced, interactive and 
+a whole lot of fun.<BR> <BR> But
+that's not all, they are also giving away fabulous instaprizes and 
+bonuses during the download. So
+don't wait. Click on the link below to collect your $25.00 prize 
+now.</FONT></P> <CENTER> <P><A
+HREF="http://www.c3-casino.com/100000/collect.htm"><FONT SIZE="5" 
+FACE="Helvetica, Arial"><B>Collect
+here!</B></FONT></A></P>
+
+<P><FONT FACE="Helvetica, Arial" color="red"><B>If 
+the link above doesn't work,<BR>
+please print, fill in and fax this form to the fax number below</B></FONT></P>
+
+<P> <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="424"> 
+<TBODY> <TR> <TD WIDTH="50%"
+ALIGN="LEFT" VALIGN="BOTTOM"><FONT SIZE="2" FACE="Helvetica, 
+Arial">First Name&nbsp;</FONT><FONT
+SIZE="1" FACE="Helvetica, 13;&#10;Arial">(required)</FONT></TD> <TD 
+WIDTH="15" VALIGN="BOTTOM"><FONT
+SIZE="2" FACE="Helvetica, 13;&#10;Arial">&nbsp;</FONT></TD> <TD 
+WIDTH="48%" VALIGN="BOTTOM"><FONT
+SIZE="2" FACE="Helvetica, Arial">Last Name&nbsp;</FONT><FONT SIZE="1" 
+FACE="Helvetica,
+13;&#10;Arial">(required)</FONT></TD> </TR> <TR> <TD WIDTH="50%" 
+VALIGN="BOTTOM"><INPUT TYPE="TEXT"
+NAME="Firstname" SIZE="32" MAXLENGTH="50"></TD> <TD WIDTH="15" 
+VALIGN="BOTTOM"><FONT SIZE="2"
+FACE="Helvetica, 13;&#10;Arial">&nbsp;</FONT></TD> <TD WIDTH="48%" 
+VALIGN="BOTTOM"><INPUT TYPE="TEXT"
+NAME="lastname" SIZE="32" MAXLENGTH="50"></TD> </TR> <TR> <TD 
+WIDTH="50%" ALIGN="LEFT"
+VALIGN="BOTTOM"><FONT SIZE="2" FACE="Helvetica, Arial">Street 
+Address&nbsp;</FONT><FONT SIZE="1"
+FACE="Helvetica, 13;&#10;Arial">(required)</FONT></TD> <TD WIDTH="15" 
+VALIGN="BOTTOM"><FONT SIZE="2"
+FACE="Helvetica, 13;&#10;Arial">&nbsp;</FONT></TD> <TD WIDTH="48%" 
+VALIGN="BOTTOM"><FONT SIZE="2"
+FACE="Helvetica, 13;&#10;Arial">City&nbsp;</FONT><FONT SIZE="1" 
+FACE="Helvetica,
+Arial">(required)</FONT></TD> </TR> <TR> <TD WIDTH="50%" 
+VALIGN="BOTTOM"><INPUT TYPE="TEXT"
+NAME="address" SIZE="32" MAXLENGTH="50"></TD> <TD WIDTH="15" 
+VALIGN="BOTTOM"><FONT SIZE="2"
+FACE="Helvetica, Arial">&nbsp;</FONT></TD> <TD WIDTH="48%" 
+VALIGN="BOTTOM"><INPUT TYPE="TEXT"
+NAME="city" SIZE="32"></TD> </TR> <TR> <TD WIDTH="50%" 
+VALIGN="BOTTOM"><FONT SIZE="2" FACE="Helvetica,
+13;&#10;Arial">State/Province&nbsp;</FONT><FONT SIZE="1" FACE="Helvetica,
+13;&#10;Arial">(required)</FONT></TD> <TD WIDTH="15" 
+VALIGN="BOTTOM"><FONT SIZE="2" FACE="Helvetica,
+13;&#10;Arial">&nbsp;</FONT></TD> <TD WIDTH="48%" 
+VALIGN="BOTTOM"><FONT SIZE="2" FACE="Helvetica,
+13;&#10;Arial">Country&nbsp;</FONT><FONT SIZE="1" FACE="Helvetica, 
+Arial">(required)</FONT></TD> </TR>
+<TR> <TD WIDTH="50%" ALIGN="LEFT" VALIGN="BOTTOM"><INPUT TYPE="TEXT" 
+NAME="province" SIZE="32"></TD>
+<TD WIDTH="15" VALIGN="BOTTOM"></TD> <TD WIDTH="48%" 
+VALIGN="BOTTOM"><INPUT TYPE="TEXT" NAME="country"
+SIZE="32"></TD> </TR> <TR> <TD WIDTH="50%" VALIGN="BOTTOM"><FONT 
+SIZE="2" FACE="Helvetica,
+13;&#10;Arial">Zip/Postal Code&nbsp;</FONT><FONT SIZE="1" FACE="Helvetica,
+13;&#10;Arial">(required)</FONT></TD> <TD WIDTH="15" 
+VALIGN="BOTTOM"></TD> <TD WIDTH="48%"
+VALIGN="BOTTOM"><FONT SIZE="2" FACE="Helvetica, 
+13;&#10;Arial">E-Mail&nbsp;</FONT><FONT SIZE="1"
+FACE="Helvetica, 13;&#10;Arial">(required)</FONT></TD> </TR> <TR> <TD 
+WIDTH="50%" ALIGN="LEFT"
+VALIGN="BOTTOM"><INPUT TYPE="TEXT" NAME="zip" SIZE="32"></TD> <TD 
+WIDTH="15" VALIGN="BOTTOM"></TD> <TD
+WIDTH="48%" VALIGN="BOTTOM"><INPUT TYPE="TEXT" NAME="email" 
+SIZE="32"></TD> </TR> <TR> <TD
+COLSPAN="3"> <CENTER> <P><BR> <FONT SIZE="6" COLOR="#D80000" 
+FACE="Helvetica, Arial"><B>send fax to
+:</B></FONT>
+
+<TABLE BORDER="1" CELLPADDING="2" CELLSPACING="0" HEIGHT="34" 
+BGCOLOR="#CCCCCC"> <TBODY> <TR> <TD
+NOWRAP><FONT SIZE="6" FACE="Helvetica, Arial" color="black"><B>1- 775 
+- 766 - 2022</B></FONT></TD>
+</TR>
+</TBODY> 
+ 
+ 
+							</TABLE>
+
+</CENTER> </TD> </TR> </TBODY> 
+ 
+		</TABLE>
+
+<HR> <FONT FACE="Helvetica, Arial">Delivered by Segasolution to 
+referrals and opt-ins only. All remove
+requests are honored. All players must be 18 years and over. Bonus 
+dollars are only available to
+credit card depositors. C3-Casino guarantees minimum wins. Good 
+luck!<BR> </FONT> <HR> <FONT
+FACE="Helvetica, Arial"><BR> </FONT><A 
+HREF="mailto:removenow-@china.com"><FONT FACE="Helvetica,
+Arial"><B>Remove</B></FONT></A> </CENTER> </TD> </TR> </TABLE>
+
+</CENTER> <P> </FORM>
+
+
+</BODY>
+
+</HTML>
+

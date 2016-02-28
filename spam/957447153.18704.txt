@@ -1,0 +1,53 @@
+Return-Path: <gft6@aol.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 17901 invoked by alias); 4 May 2000 08:06:19 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 17898 invoked from network); 4 May 2000 08:06:19 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 4 May 2000 08:06:19 -0000
+Received: (qmail 15681 invoked by uid 500); 4 May 2000 08:06:17 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 15676 invoked by uid 502); 4 May 2000 08:06:17 -0000
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 15671 invoked from network); 4 May 2000 08:06:15 -0000
+Received: from unknown (HELO w3.bpilink.com.pe) (root@200.37.242.2)
+  by bfsmedia.sk.ca with SMTP; 4 May 2000 08:06:15 -0000
+Received: from 205.132.151.90 (ip90.hiper2.gnv.accelerate.net [205.132.151.90])
+	by w3.bpilink.com.pe (8.9.3/8.8.7) with SMTP id CAA06606;
+	Thu, 4 May 2000 02:24:53 -0500
+From: gft6@aol.com
+Message-Id: <200005040724.CAA06606@w3.bpilink.com.pe>
+To: lkw3@aol.com
+Subject: Accept Visa and Mastercard Lowest Rates !!!
+Date: Thu, 04 May 00 02:46:10 Eastern Daylight Time
+Reply-To: gft6@aol.com
+X-Priority: 3
+X-MSMailPriority: Normal
+Importance: Normal
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_018C_01BD9940.715D52A0"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_018C_01BD9940.715D52A0
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+
+<FONT face="MS Sans Serif">
+<FONT size=3>
+<FONT color="#000000"> ACCEPT ALL MAJOR CREDIT CARDS<BR>
+99% APPROVAL RATE ALL BUSINESSES ACCEPTED<BR>
+0 DOWN , NO APPLICATION FEES<BR>
+LOWEST RATES,LOW MONTHLY PAYMENTS<BR>
+WE WILL BEAT ANY COMPETITOR'S PRICE<BR>
+CALL NOW 800-487-9955<BR>
+<BR>
+ASK ABOUT OUR $100 CASH BACK<BR>
+<BR>
+<BR>
+</FONT></FONT></BODY></HTML>
+
+

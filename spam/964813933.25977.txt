@@ -1,0 +1,36 @@
+Return-Path: <d1A73qImC@hotmail.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 25810 invoked from network); 28 Jul 2000 19:09:04 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 28 Jul 2000 19:09:04 -0000
+Received: (qmail 19665 invoked by uid 530); 28 Jul 2000 19:09:02 -0000
+Delivered-To: bruceg@daedalus.bfsmedia.sk.ca
+Received: (qmail 19660 invoked by uid 500); 28 Jul 2000 19:09:01 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 19651 invoked from network); 28 Jul 2000 19:09:00 -0000
+Received: from unknown (HELO ESHMAIL.eyoung.es) (194.224.135.1)
+  by em.ca with SMTP; 28 Jul 2000 19:09:00 -0000
+Received: from 8r5z5045r ([151.199.90.177])
+          by ESHMAIL.eyoung.es (Lotus Domino Release 5.0.3 (Intl))
+          with SMTP id 2000072821070226:3206 ;
+          Fri, 28 Jul 2000 21:07:02 +0200 
+DATE: 28 Jul 00 3:05:30 PM
+FROM: d1A73qImC@hotmail.com
+Reply-to: Website@yahoo.com
+Message-ID: <a8048etH1sdOR>
+TO: Investors@anywhere.com
+SUBJECT: Hot , Cheap Stock...
+X-MIMETrack: Itemize by SMTP Server on ESHMAIL/SVR/ErnstYoung/ES(Release 5.0.3 (Intl)|21
+ March 2000) at 07/28/2000 09:07:02 PM,
+	Serialize by Router on ESHMAIL/SVR/ErnstYoung/ES(Release 5.0.3 (Intl)|21
+ March 2000) at 07/28/2000 09:08:43 PM,
+	Serialize complete at 07/28/2000 09:08:43 PM
+MIME-Version: 1.0
+
+What's the BUZZ all about?
+
+Click this link to see the hot stock pick of the day....
+
+
+http://biz.yahoo.com/bw/000711/ca_kleenai_2.html
+

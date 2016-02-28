@@ -1,0 +1,68 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 1160 invoked from network); 10 Jul 2000 04:59:52 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 10 Jul 2000 04:59:52 -0000
+Received: (qmail 779 invoked from network); 10 Jul 2000 04:59:50 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 10 Jul 2000 04:59:50 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156425AbQGJEo2>; Mon, 10 Jul 2000 00:44:28 -0400
+Received: by vger.rutgers.edu id <S156550AbQGJEoT>;
+	Mon, 10 Jul 2000 00:44:19 -0400
+Received: from magnus.plus.net.uk ([195.166.128.27]:28888 "HELO
+	magnus.force9.net") by vger.rutgers.edu with SMTP
+	id <S156516AbQGJEoF>; Mon, 10 Jul 2000 00:44:05 -0400
+Received: (qmail 21386 invoked from network); 9 Jul 2000 23:27:38 -0000
+Received: from unknown (HELO oemcomputer) (212.159.20.4)
+  by magnus.plus.net.uk with SMTP; 9 Jul 2000 23:27:38 -0000
+Received: from login_0246.whynot.net (mx.whynot.net[206.212.231.88]) by whynot.net (8.8.5/8.7.3) with SMTP id XAA02264 for sender422@whynot.net;  Wed, 12 July 2000 23:25:40 -0700 (EDT)
+To: "User" <linesclosesoon@r-h-s.co.uk>
+From: <@bruce-guenter.dyndns.org "User" <linesclosesoon@r-h-s.co.uk>>
+Subject: Lines Close Soon
+Reply-To: sample@whynot.net
+X-PMFLAGS: Content-Type: text/html; charset="us-ascii"
+X-UIDL:	Content-Type: text/html; charset="us-ascii"
+Comments: Authenticated Sender is <user122@whynot.net>
+Message-Id: <36301854_70538585>
+Date:	Mon, 10 Jul 2000 00:44:05 -0400
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+
+
+The great £1 giveaway, get any of these
+products for only £1 each...
+--------------------------------------------
+
+Get a Philips BT Pay as you go mobile phone
+Worth £49.99 for only £1, Call 0906 201 0290*
+ 
+
+Get Bugs life on DVD Worth £19.99,
+for Only £1, Call 0906 201 0291*
+
+
+Get The Mummy on DVD Worth £14.99,
+for Only  £1, Call 0906 201 0292* 
+
+
+Get Blade Runner on DVD Worth £19.99,
+for Only  £1, Call 0906 201 0293* 
+
+Get Starwars The Phantom Menace (VHS) 
+Worth £14.99 for £1, call 0906 201 0294* 
+
+--------------------------------------------
+
+* Calls cost £1 or less, Please get permission to call before dialling.
+One Lucky person on each number will receive that prize, Lines close 30th July 2000.
+(£1 Giveaway)C.UK, Vulcan RD, Litchfield, WS13.
+
+--------------------------------------------
+
+
+
+-
+To unsubscribe from this l

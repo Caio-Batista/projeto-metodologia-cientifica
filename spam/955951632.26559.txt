@@ -1,0 +1,83 @@
+Return-Path: <procmail-request@informatik.rwth-aachen.de>
+Delivered-To: bruceg-lists-procmail@daedalus.bfsmedia.sk.ca
+Received: (qmail 23852 invoked from network); 17 Apr 2000 01:21:48 -0000
+Received: from nets5.rz.rwth-aachen.de (137.226.144.13)
+  by bfsmedia.sk.ca with SMTP; 17 Apr 2000 01:21:48 -0000
+Received: from campino.informatik.rwth-aachen.de (campino.Informatik.RWTH-Aachen.DE [137.226.116.240])
+	by nets5.rz.rwth-aachen.de (8.9.1a/8.9.1/10) with ESMTP id DAA25657;
+	Mon, 17 Apr 2000 03:17:41 +0200 (MET DST)
+Received: (from lists@localhost)
+	by campino.informatik.rwth-aachen.de (8.9.1a/8.9.1/3) id DAA17481;
+	Mon, 17 Apr 2000 03:18:48 +0200 (MET DST)
+Date: Sun, 16 Apr 2000 21:17:30 -0400
+Message-Id: <200004170117.VAB02617@cedarproductions.com>
+To: Procmail@informatik.rwth-aachen.de
+From: tim.brown@onebox.com
+Subject: I thought you might like this one
+X-Mailing-List: <procmail@informatik.rwth-aachen.de> archive/latest/23889
+X-Loop: procmail@informatik.rwth-aachen.de
+Precedence: list
+
+Hey guys,
+
+I thought this was such a great tool, I just had to forward this one to you.
+
+----- Original Message ----- 
+From: eaddy@eaddyfish.com
+To: tim.brown@onebox.com
+Sent: Thursday, April 13, 2000 5:16 PM
+Subject: Finding email addresses is just a click away
+
+From: eaddy@eaddyfish.com
+Subject: Finding email addresses is just a click away
+Status:   
+
+Here is an awesome tool to capture and manage all 
+incoming and outgoing email addresses.
+
+Finding and collecting email addresses is just a click away. eAddy Fish
+is a useful tool for anyone who needs to send information/notification
+to a large number of recipients. This program allows you to collect
+email addresses from your local or network drives to create and
+manage mailing lists. Several mailing lists could be managed by
+using this program. The interface of the program is very simple.
+
+FREE DEMO is available at: http://eaddyfish.com
+Below are some of the features of eAddy Fish:
+
+1. Saves time and money in managing and collecting emails
+2. Contains a built in Database. No need for additional database
+software to run the program
+3. Automatically searches and collects email addresses from any
+local drive or across network drives
+4. Includes an option to include sub folders in your search
+5. Supports Unicode files
+6. Captures email addresses from almost any email client programs,
+not only from the header of the email, but from the body and most
+attachments
+7. Filters Emails
+8. Sorts Emails
+9. Eliminates Duplicates. You have the option to keep or eliminate
+duplicates
+10. Stores email addresses in various places
+11. Merges email lists
+12. Cleans email distribution lists
+13. Prepares bulk email addresses to send
+14. Offers an auto email backup feature
+15. Skip Search feature
+16. Allows for a multiple customized purge lists. In this list you
+can specify domain names, user names, email addresses, or any other
+word that you do not want this program to pick
+17. Supports file name exclusion filter. This gives you the option
+to exclude file names or file types from the search
+18. Produces a final file output that includes all email addresses
+collected in the search is saved in the Text format that is
+readable by any database program
+19. Interfaces easily
+20. Runs on Win 95/98/2000 and NT
+
+IMPORTANT: You are receiving this E-Mail because the sender 
+of this message has collected your E-Mail Address off his hard drive 
+utilizing eAddy Fish.
+
+

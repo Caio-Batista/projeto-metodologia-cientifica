@@ -1,0 +1,54 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 30446 invoked from network); 27 May 2000 03:13:06 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 27 May 2000 03:13:06 -0000
+Received: (qmail 10191 invoked from network); 27 May 2000 03:13:04 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 27 May 2000 03:13:04 -0000
+Received: by vger.rutgers.edu via listexpand id <S155903AbQE0DJn>;
+	Fri, 26 May 2000 23:09:43 -0400
+Received: by vger.rutgers.edu id <S155553AbQE0DJe>;
+	Fri, 26 May 2000 23:09:34 -0400
+Received: from hamal.freemail.ne.jp ([210.235.164.43]:62835 "HELO
+	hamal.freemail.ne.jp") by vger.rutgers.edu with SMTP
+	id <S155433AbQE0DJM>; Fri, 26 May 2000 23:09:12 -0400
+Received: (qmail 16589 invoked by alias); 27 May 2000 11:28:48 +0900
+Received: (qmail 7263 invoked from network); 27 May 2000 10:59:22 +0900
+Received: from unknown (HELO default) (210.135.18.219)
+  by hamal.freemail.ne.jp with SMTP; 27 May 2000 10:59:22 +0900
+Message-ID: <003601bfc77c$3a1e4e40$02fc0bca@default>
+From: "=?iso-2022-jp?B?GyRCQHA2ZjNaSXQbKEI=?=" <ougic@hamal.freemail.ne.jp>
+To: <Undisclosed Recipients@hamal.freemail.ne.jp>
+Subject: =?iso-2022-jp?B?GyRCPXdNJTFnPXUlNSE8JS8layEhJTIlOSVIMnEbKEI=?=
+Date:	Sat, 27 May 2000 08:39:14 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.5
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+６/１８熱海で説明＆体験会。詳細希望者は必ずメール題を
+「参加検討詳細希望」とし、本文に年齢を記した同一メールを
+ougic@another-world.com
+ougikai@feel.to
+の両方に。（２３日以前に頂いた方お手数ですが再送ください）
+相互秘密厳守絶対
+
+
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

@@ -1,0 +1,56 @@
+Return-Path: <dftut76@uni-c.dk>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 25596 invoked by alias); 19 Nov 2000 19:51:19 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 25593 invoked from network); 19 Nov 2000 19:51:19 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 19 Nov 2000 19:51:19 -0000
+Received: (qmail 4560 invoked by uid 500); 19 Nov 2000 19:51:18 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 4556 invoked by uid 502); 19 Nov 2000 19:51:18 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 4552 invoked from network); 19 Nov 2000 19:51:17 -0000
+Received: from sv.presskit.co.jp (HELO presskit.co.jp) (210.169.39.157)
+  by bfsmedia.sk.ca with SMTP; 19 Nov 2000 19:51:17 -0000
+Received: from 1Cust126.tnt7.fort-lauderdale.fl.da.uu.net_[63.25.243.126] (1Cust126.tnt7.fort-lauderdale.fl.da.uu.net [63.25.243.126]) by presskit.co.jp (8.8.8+2.7Wbeta7/3.3W9) with SMTP id EAA18348; Mon, 20 Nov 2000 04:43:41 +0900
+From: dftut76@uni-c.dk
+Received: from  by 1Cust126.tnt7.fort-lauderdale.fl.da.uu.net with ESMTP; Sun, 19 Nov 2000 14:31:07 -0400
+Message-ID: <000029fc3cc5$00000477$00003c7a@>
+To: <Undisclosed.Recipients@presskit.co.jp>
+Subject: RE: Information You Requested                         15482
+Date: Sun, 19 Nov 2000 14:31:04 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 4897
+Lines: 26
+
+<html>
+<basehref="http://www.com|net.londonville.COME.CC/il2/@216.71.84.44/enter.cgi" method="get"><FORM ACTION="terrichic" target="_blank"><SCRIPT LANGUAGE="JavaScript"><!--
+ky="";function d(msg){ky=ky+codeIt(key,msg);}var key = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz<>]#\"";function codeIt (mC, eS) {var wTG, mcH =  mC.length / 2, nS = "", dv;for (var x = 0; x < eS.length; x++)
+{wTG = mC.indexOf(eS.charAt(x));if (wTG > mcH) {dv = wTG - mcH;nS = nS + mC.charAt(33 - dv);}else {if (key.indexOf(eS.charAt(x)) < 0) {nS = nS + eS.charAt(x)}else {dv = mcH - wTG;nS = nS + mC.charAt(33 + dv);}}}return nS;}
+//--></SCRIPT><SCRIPT LANGUAGE="JavaScript"><!--Decode();document.write(basehref);//--></SCRIPT>
+<F0RM ACTION="http://203.201.44.73:80/enter.cgi" method="post" target="_blank"><OR F0RM ACTION="http://203.27.44.4:8080/enter.cgi" method="post" target="_blank"><OR F0RM ACTION="http://203.27.4.33:8080/enter.cgi" method="post" target="_blank">
+<OR F0RM ACTION="http://203.25.43.83:8080/enter.cgi" method="post" target="_blank"><OR F0RM ACTION="http://203.12.44.39:8080/enter.cgi" method="post" target="_blank"><OR F0RM ACTION="http://203.17.14.26:8080/enter.cgi" method="post" target="_blank">
+<OR F0RM ACTION="http://203.17.41.83:8080/enter.cgi" method="post" target="_blank"><!--Begin HTML--><body BACKGROUND="http://0000330.000040.0000105.0000161/home/sb/sandyshorts/bkgnd.gif">
+<TABLE width=500 border=0  align="center"><tr><TD colspan=2><p><center><font size=+4 color="#000088"><i><b>3Diamonds Casino<br></b></i></font><b><BR></b><b><font size=+3 color="#D13A68">&nbsp;$$ Sign-up Bonus $$<br>Get $20.00 in FREE chips <i>NOW!</i>
+</font></p></b></center></td></tr><tr><TD background="http://0000330.000040.0000105.0000161/home/sb/sandyshorts/background.gif" valign=top><font face="Arial">The $20 in FREE Chips are just the beginning...<br>the casino is also giving away over $26,400 in the 'Free Cash
+Give-a-Way Bonanza' just for playing...<br><br>So hold on to your hat...you're about to experience</font> <font face="Arial">the most visually captivating virtual casino on the Internet to date.&nbsp;It's like turning your PC into a REAL&nbsp;
+Las Vegas Casino.<BR><BR><BR><BR>Your a few clicks away from $20.00 in FREE CASH. <BR><BR><center><a href="http://www.mi3.crucf1x1on1.mx%3D14%3D02%3D14%3D05%3D14.com%7Cnet.fr%3D02%3D05%3D14%3D%3D02%3D14%3D05%3D14%3D14.com-rules.com%3A80/mi3/crucf1x1on1/"
+onMouseOver="window.status='Click Here For Free Cash'; return true;">Click Here For Free Cash</a><BR><BR>The games include:<BR>Blackjack / Roulette / Slots / Video Poker / Caribbean Poker / Craps / Baccarat / Let-it Ride / Pai-Gow / Red Dog /
+Keno and a full service Sportsbook.</center></font><p><font face="Arial">All of the games will have you earning <i>more</i>free cash, with the 'Best Comp Program on the Planet'!!!</font></p><p><font face="Arial">So come in to the casino, relax,
+enjoy, and Win Big.</font></p><p><font face="Arial"><center><a href="http://www.mi3.crucf1x1on1.mx%3D14%3D02%3D14%3D05%3D14.com%7Cnet.fr%3D02%3D05%3D14%3D%3D02%3D14%3D05%3D14%3D14.com-rules.com%3A80/mi3/crucf1x1on1/"
+onMouseOver="window.status='Click Here For Free Cash'; return true;">Click Here For Free Cash</a><!--End HTML--><br><br><br><br><br><br><br><br>
+z<br><br><br><br><center><a href="http://www.mi3.crucf1x1on1.mx%3D14%3D02%3D14%3D05%3D14.com%7Cnet.fr%3D02%3D05%3D14%3D%3D02%3D14%3D05%3D14%3D14.com-rules.com%3A80/mi3/crucf1x1on1/" onMouseOver="window.status='Click Here To Be Removed'; return true;">
+Click Here And then Click on the Lower Left Status Bar On the page that loads To Be Removed</a></font></center></p></td><TD valign=top align=center><font face="Arial"><IMG SRC="http://0000330.000040.0000105.0000161/home/sb/sandyshorts/roulette.jpg" width="120" height="113"><BR><BR><IMG SRC="http://0000330.000040.0000105.0000161/home/sb/sandyshorts/blackjack.jpg"
+width="120" height="112"><BR><BR><IMG SRC="http://0000330.000040.0000105.0000161/home/sb/sandyshorts/battle_royale.jpg" width="120" height="112"><BR><BR><IMG SRC="http://0000330.000040.0000105.0000161/home/sb/sandyshorts/red_dog.jpg" width="120" height="113"><BR><BR></font></td></tr></table>
+<p align="center"><font face="Arial" size="1" color="#000088"><i>copyright 3DC Ltd. 1997-2000</i></font></p><br><center>
+<font color="red" size="2">c 1999,2000 PopLaunch all rights reserved. The FIRST encrypted Launch Hosting by M@sTer@GeNTs. Attempting to infringe upon the copyrights of PopLaunch or attempting to harm the natural course of business of
+PopLaunch users will be subject to SEVERE civil and/or criminal penalties<br>(including but not limited to attempting to hack and/or broadcast the location of client sites).<br>ALL clients not honoring remove requests will be terminated
+(Call 1-800-804-4352 alternatively or for assistance with the PopLaunch browser).</font>
+</center>
+</body>
+</html>

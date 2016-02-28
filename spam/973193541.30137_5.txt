@@ -1,0 +1,49 @@
+Return-Path: <Alex32@postmark.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 29825 invoked by alias); 2 Nov 2000 18:35:53 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 29822 invoked from network); 2 Nov 2000 18:35:52 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 2 Nov 2000 18:35:52 -0000
+Received: (qmail 29059 invoked by uid 500); 2 Nov 2000 18:35:51 -0000
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 29055 invoked from network); 2 Nov 2000 18:35:50 -0000
+Received: from ns.crcwnet.com (root@208.23.144.2)
+  by em.ca with SMTP; 2 Nov 2000 18:35:50 -0000
+Received: from localhost (p7-dyn142.crcwnet.com [208.23.148.142])
+	by ns.crcwnet.com (8.9.1a/8.9.1) with ESMTP id KAA22876
+	for <bait@em.ca>; Thu, 2 Nov 2000 10:34:29 -0800
+Message-Id: <200011021834.KAA22876@ns.crcwnet.com>
+X-Sender: Alex32@postmark.net
+From: Alex32 <Alex32@postmark.net>
+To: bait@em.ca
+Date: Thu, 02 Nov 2000 03:38:25 -0800
+Subject: Hey ..
+Reply-To: Alex32@postmark.net
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: base64
+Content-Transfer-Encoding: base64
+Content-Length: 1356
+Lines: 20
+
+DQpZb3UgYXJlIGN1cnJlbnRseSBsaXN0ZWQgYXM6IGJhaXRAZW0uY2EgDQoNClRoaXMgaXMg
+c2VudCB0byBteSBQcmlvcml0eSBMaXN0IC4uIEkgc2F2ZWQgeW91ciANCmVtYWlsIGFkZHJl
+c3MgZnJvbSBvdXIgcGFzdCBjb3JyZXNwb25kZW5jZS4gIElmIA0KeW91IGFyZSBubyBsb25n
+ZXIgaW50ZXJlc3RlZCBpbiBpbnRlcmNoYW5naW5nIA0KaW5mb3JtYXRpb25zLCBwbGVhc2Ug
+YWNjZXB0IG15IHNpbmNlcmUgYXBvbG9neSANCmFuZCByZXBseSB3aXRoICJSZW1vdmUiLg0K
+DQo9PT09PT09PT09PT09PT09PT09PT09PT09DQoNCkNBTiBJIEFTSyBZT1UgQSBRVUVTVElP
+Tj8/DQoNCkFyZSBZb3UgVGlyZWQgb2YgU3VyZmluZyB0aGUgTmV0LCBMb29raW5nIGZvciBh
+biBPbmxpbmUNCkJ1c2luZXNzLCBhbmQNCk5ldmVyIEdldHRpbmcgQW55d2hlcmU/DQoNCldI
+QVQgSUYNCg0KVGhlcmUgd2FzIGEgd2F5Lg0KDQpodHRwOi8vd3d3LnByb2hlbHB5b3Utb25s
+aW5lLmNvbS8zNS5odG1sDQoNCg0KX19fX19fX19fX19fX19fX19fX19fX18NCg0KVG8gcmVt
+b3ZlLCBoaXQgcmVwbHkgYW5kIHR5cGUgInJlbW92ZSIgYXQgc3ViamVjdC4NCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg==
+

@@ -1,0 +1,69 @@
+Return-Path: <Wired.fail.5@specials.lycos.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 3701 invoked by alias); 6 Mar 2000 03:42:25 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 3698 invoked from network); 6 Mar 2000 03:42:24 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 6 Mar 2000 03:42:24 -0000
+Received: (qmail 22725 invoked by uid 530); 6 Mar 2000 03:42:23 -0000
+Delivered-To: bruceg-spam@daedalus.bfsmedia.sk.ca
+Received: (qmail 22722 invoked from network); 6 Mar 2000 03:42:22 -0000
+Received: from hal.qcc.sk.ca (198.169.27.1)
+  by bfsmedia.sk.ca with SMTP; 6 Mar 2000 03:42:22 -0000
+Received: (qmail 8816 invoked by uid 559); 6 Mar 2000 03:42:22 -0000
+Delivered-To: bguenter-wirednews@qcc.sk.ca
+Received: (qmail 8813 invoked from network); 6 Mar 2000 03:42:21 -0000
+Received: from mailout1.e-dialog.com (207.31.244.123)
+  by hal.qcc.sk.ca with SMTP; 6 Mar 2000 03:42:21 -0000
+Received: from e-dialog.com (mailfeed-src.e-dialog.com [10.0.1.1])
+	by mailout1.e-dialog.com (8.9.3/8.8.7) with SMTP id WAA12651
+	for bguenter-wirednews@qcc.sk.ca; Sun, 5 Mar 2000 22:41:53 -0500
+Date: Sun, 5 Mar 2000 22:41:53 -0500
+Message-Id: <200003060341.WAA12651@mailout1.e-dialog.com>
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+Mime-Version: 1.0
+From: "The Lycos Network " <Wired.5@specials.lycos.com>
+To: bguenter-wirednews@qcc.sk.ca
+Subject: FREE INTERNET ACCESS - GO GET IT!
+X-Mailer: EDMAIL 5.02.00
+X-Types: 010
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain
+Content-Disposition: inline
+
+Dear Wired subscriber, 
+
+Lycos is offering Free Internet Access.  That's right!  There are no strings attached and no access charges to pay.  Simply click on http://specials.lycos.com/go/0229free/wi1/?wi1free-713385 and sign up today.  
+
+What do you want for nothing?  How about this:
+
+* A personalized My Lycos start page
+* Incredible search and navigation tools from Lycos and 
+  HotBot designed to help you harness the power of the Web
+* Free e-mail, accessible from any computer, anywhere in 
+  the world
+* Free home page building capability through the award-winning 
+  Tripod Homepage Studio featuring 11 MB of space
+* Fast, reliable connections with speeds up to 56K
+* A local call in 95% of the calling area within the U.S.
+
+Do you know of anyone else who wants to get online for free?  Forward this e-mail to a friend or family member today.
+
+Lycos Free Internet Access.  Unleash the power of the Web... for free!
+
+http://specials.lycos.com/go/0229free/wi2/?wi2free-713385
+
+~~~~~~~~~~~~~~~~~
+
+You are receiving this e-mail because you have opted in to periodically receive email notification of new features and special offers from Lycos Network companies.  If you would like to be removed from our special offers please unsubscribe by clicking here:
+http://specials.lycos.com/go/0229free/wi/UNSUB/?0229wi-713385
+
+[[713385]]
+
+
+
+---_-_-_-_-_1234567890--

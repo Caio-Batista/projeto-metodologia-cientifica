@@ -1,0 +1,80 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 20143 invoked from network); 26 Feb 2000 17:28:18 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 26 Feb 2000 17:28:18 -0000
+Received: (qmail 16673 invoked from network); 26 Feb 2000 17:28:16 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 26 Feb 2000 17:28:16 -0000
+Received: by vger.rutgers.edu via listexpand id <S154446AbQBZNPy>;
+	Sat, 26 Feb 2000 08:15:54 -0500
+Received: by vger.rutgers.edu id <S154415AbQBZNPf>;
+	Sat, 26 Feb 2000 08:15:35 -0500
+Received: from [210.164.214.226] ([210.164.214.226]:4531 "HELO mail.asa.ne.jp")
+	by vger.rutgers.edu with SMTP id <S154759AbQBZNO5>;
+	Sat, 26 Feb 2000 08:14:57 -0500
+Received: from ppp-199.isnet.ne.jp by mail.asa.ne.jp (AIX 4.1/UCB 5.64/4.03.16)
+          id AA18196; Sun, 27 Feb 2000 02:28:13 +0900
+Date:   Sun, 27 Feb 2000 02:28:13 +0900
+Message-Id: <10002261728.AA18196@mail.asa.ne.jp>
+From: =?iso-2022-jp?B?GyRCJW8lcyVAITwlaSUkJVUbKEI=?= <wonder04@hotmail.com>
+To: =?iso-2022-jp?B?bGludXgta2VybmVsQHZnZXIucnV0Z2Vycy5lZHU=?= <linux-kernel@vger.rutgers.edu>
+Subject: =?iso-2022-jp?B?RE0bJEJNUSVhITwlayUiJUklbCU5GyhC?=
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset= "ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+　突然のメール大変失礼します。
+　不要でしたら削除をお願いいたします。
+
+　掲示板に投稿するより効果的です！
+
+　　　　　　☆　ＤＭ用メールアドレス３０万個　☆
+
+　宣伝の効果抜群！大好評！アクセス数の少ない掲示板では・・・
+
+　電子ダイレクトメール用メールアドレスが３０万個あります。
+　ご希望であれば、１万個単位で値段は１個０．５円(相場は１円)
+　でお譲りいたします（テキストファイル）。なお、まとめてご購入
+　される場合は割引いたします。（下記参照）
+　これからのビジネスには大量のメールアドレスを所有することは
+　不可欠です。
+　値段は少々高いと思われるかもしれませんが、ＤＭを郵送するため
+　の切手代、手間等を考えると、割安であると考えます。
+　なお、重複しているメールアドレスは有りませんが、使用できなく
+　なっているものは多少ございます。ですが、あらかじめその不足分
+　を十分考慮して割増してありますのでご安心下さい。
+
+　ご希望でしたら、wonderlife@yo-mail.co.jp に「メルアド希望」
+　とメール下さい。その際、ご希望個数と代金振込時の銀行口座の
+　所有者名義（カタカナ）をお知らせ下さい。
+  折り返し、メールアドレスを添付し代金の振込先銀行口座番号を
+　ご連絡いたします。
+　なお、転送時間短縮のため自己解凍方式の圧縮ファイル（ZIP形式）
+　でお送りします。
+　また、その圧縮ファイルはパスワード付ですので、入金確認後に
+　それをお知らせいたします。
+
+  価格表：
+
+   1万件： 5,000円
+   2万件： 9,000円(-10%)
+   5万件：20,000円(-20%)
+  10万件：35,000円(-30%)
+  20万件：60,000円(-40%)
+  30万件：75,000円(-50%)
+
+
+　　ワンダーライフ
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

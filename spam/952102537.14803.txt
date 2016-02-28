@@ -1,0 +1,52 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 14064 invoked from network); 3 Mar 2000 16:22:47 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 3 Mar 2000 16:22:47 -0000
+Received: (qmail 14540 invoked from network); 3 Mar 2000 16:22:45 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 3 Mar 2000 16:22:45 -0000
+Received: by vger.rutgers.edu via listexpand id <S154758AbQCCMBJ>;
+	Fri, 3 Mar 2000 07:01:09 -0500
+Received: by vger.rutgers.edu id <S154756AbQCCL7a>;
+	Fri, 3 Mar 2000 06:59:30 -0500
+Received: from smtp.clubnet.net.uk ([195.188.59.4]:2737 "EHLO
+        serve2.clubnet.net.uk") by vger.rutgers.edu with ESMTP
+	id <S154790AbQCCL4j>; Fri, 3 Mar 2000 06:56:39 -0500
+Received: from nigel (10mbps-office.clubnet.net.uk [195.188.59.253])
+	by serve2.clubnet.net.uk (8.9.3/8.9.1) with SMTP id QAA04252
+	for <linux-kernel@vger.rutgers.edu>; Fri, 3 Mar 2000 16:34:18 GMT
+Date:   Fri, 3 Mar 2000 16:34:18 GMT
+From: freeads78@hotmail.com
+Message-Id: <200003031634.QAA04252@serve2.clubnet.net.uk>
+To: linux-kernel@vger.rutgers.edu
+X-Mailer: a0d39088370fcad647f9c74db35132e8
+Subject: FreeOnlineads.com advertise your product, service, website for FREE.
+Organization: freeonlineads.com
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+Dear Sir/madam
+
+I found your site on the internet and thought you might intrested in 
+our FREE service.
+Initally let me intoduce ourselves to you as www.freeonlineads.com,
+we are a FREE internet Classified service.  Whether you're looking 
+to promote, sell, hire or simply let the world know who you are and 
+what you or your organization, club or community group is doing, 
+we're sure www.freeadsonle.com will make your experience fast, 
+easy, fun and absolutly free.
+
+We hope you like the site and find it useful to your business.
+
+Best regards
+
+Sam Lunar
+www.freeonlineads.com
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

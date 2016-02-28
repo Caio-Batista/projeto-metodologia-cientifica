@@ -1,0 +1,95 @@
+Return-Path: <webmaker@695infosite.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 13755 invoked by alias); 24 Oct 2000 23:57:50 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 13752 invoked from network); 24 Oct 2000 23:57:49 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 24 Oct 2000 23:57:49 -0000
+Received: (qmail 12465 invoked by uid 500); 24 Oct 2000 23:57:48 -0000
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 12459 invoked from network); 24 Oct 2000 23:57:46 -0000
+Received: from unknown (HELO public.sy.hb.cn) (202.103.10.46)
+  by em.ca with SMTP; 24 Oct 2000 23:57:46 -0000
+Received: from unknown ([64.182.254.21])
+	by public.sy.hb.cn (8.8.8+Sun/8.8.8) with SMTP id GAA04801;
+	Wed, 25 Oct 2000 06:57:34 +0800 (CST)
+From: <webmaker@695infosite.com>
+Subject: Re: Your Web Site for $6.95
+Date: Tue, 24 Oct 2000 20:08:04
+Message-Id: <893.306241.311560@unknown>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 3075
+Lines: 71
+
+
+
+<html>
+
+<head>
+</head>
+<body>
+
+
+<p><b><font size="5" color="#000080" face="Arial">$6.95 per Month Web
+Hosting!!&nbsp;</font></b><font face="Arial" color="#FF0000"><br>
+</font><b><font size="4" face="Arial" color="#FF0000">Can you believe it??
+Believe It!!</font></b><font face="Arial" size="2"><br>
+Web hosting for your domain on quality NT Servers with&nbsp;<br>
+all of the benefits you would expect for much higher monthly rates!<br>
+<br>
+</font><b><font face="Arial" size="5" color="#FF0000">Web Hosting $6.95 per
+month!!&nbsp;&nbsp;<br>
+</font><font face="Arial" size="4" color="#000080">No Gimmicks! Believe it!!</font></b>T<br>
+<font face="Arial" size="2">Your&nbsp; first month is always free - Paying More
+Is Too Much!!<br>
+No Banner Ads - Plenty of disk space.<br>
+<br>
+</font><b><font face="Arial" size="5" color="#000080">For $6.95 Per Month</font></b><font face="Arial" size="2"><br>
+</font><b><font color="#FF0000" face="Arial" size="4">You get:</font></b><font face="Arial" size="2"><br>
+30Mb Disk Space<br>
+2000Mb transfer per month<br>
+3&nbsp;E-mail addresses with unlimited forwarding including a Catch All mailbox<br>
+Free Auto Responder for E-Mail<br>
+FrontPage Enabled if you want it -<br>
+FTP access 24 X 7<br>
+Free Graphical Statistics Server with real time &quot;Who's On&quot;<br>
+Your own CGI-bin - Password protected Control Panel - FrontPage Forms to E-Mail<br>
+Page Counters<br>
+Free Qualified Technical Support<br>
+99.9% up time<br>
+SQL 7 packages available<br>
+Additional drive space and mailboxes available<br>
+Windows 2000 Advanced Servers<br>
+ASP ready<br>
+Plus many other extras<br>
+<br>
+We are a no hassle quality Web Host that believes that if you<br>
+pay more than $6.95 per month,&nbsp; you are paying TOO MUCH!!&nbsp;&nbsp;<br>
+We can offer you the same EXTRAS as other sites charging&nbsp;<br>
+three times mo</font><font face="Arial" size="2">re</font><font size="3" face="Arial">.</font></p>
+<p><font size="3" face="Arial"><b>If you would like more information on this extraordinary
+offer, <br>
+just fill in the form below. There are no Gimmicks!</b></font></p>
+<form method="POST" action="http://www.tipjar.com/cgi-bin/generic">
+  <p><font face="Arial" size="2">Name: <!--webbot bot="Validation"
+  B-Value-Required="TRUE" --><input type="text" name="name" size="38"><br>
+  E-Mail Address:&nbsp;&nbsp; <!--webbot bot="Validation"
+  B-Value-Required="TRUE" --><input type="text" name="mailfrom" size="29"><br>
+  This is an existing domain <input type="checkbox" name="existingdomain" value="ON">
+  This is a new domain <input type="checkbox" name="newdomain" value="ON"></font><br>
+  <br>
+  <b><font size="2" face="Arial">Please contact me with all the details for
+  $6.95 per month web hosting:</font></b><br>
+  <input type="submit" value="Submit" name="B1"><input type="reset" value="Reset" name="B2"></p>
+  <input type="hidden" name="subject" value="New Customer"><input type="hidden" name="mailto" value="695@i1internet.net">
+</form>
+<p><font size="3" face="Arial"><br>
+</font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+</body>
+
+</html>

@@ -1,0 +1,63 @@
+Return-Path: <lltt1009@forthelife.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 21421 invoked by alias); 6 Dec 2000 20:45:41 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 21418 invoked from network); 6 Dec 2000 20:45:40 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 6 Dec 2000 20:45:40 -0000
+Received: (qmail 30828 invoked by uid 500); 6 Dec 2000 20:45:38 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 30824 invoked by uid 502); 6 Dec 2000 20:45:37 -0000
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 30820 invoked from network); 6 Dec 2000 20:45:35 -0000
+Received: from koywa.com (root@203.85.16.240)
+  by bfsmedia.sk.ca with SMTP; 6 Dec 2000 20:45:35 -0000
+Received: from mail60.nailpolishremover.net (ip201-26.telodigm.net [216.144.201.26] (may be forged)) by koywa.com (8.9.0/8.7.3) with SMTP id EAA25623; Thu, 7 Dec 2000 04:48:10 +0800
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Received: from mail60.nailpolishremover.net [216.144.201.26] by 6gr4.mail60.nailpolishremover.net with SMTP; Wed, 06 Dec 2000 15:45:39 -0500
+From: lltt1004@forthelife.net
+Date: Wed, 06 Dec 2000 15:45:39 -0500
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+CC: gmyers@sunwalk.com, gmymo@sunwalk.com, gn0@sunwalk.com, gn@sunwalk.com,
+        gn@sunwalk.com, gn@sunwalk.com, gn@sunwalk.com, gn@sunwalk.com,
+        gn@sunwalk.com, gn@sunwalk.com
+To: localuser@sunwalk.com
+Subject: Make IT work for you!!!!
+Message-Id: <766t5.3l23epapi55c1gdu3b@mail60.nailpolishremover.net>
+Content-Length: 806
+Lines: 32
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Knowledge is Power</title>
+</head>
+
+<body>
+
+<p>Knowledge is Power!</p>
+<p>We will teach you how to get the best bang for your buck!</p>
+<p>You'll receive a FREE audio cassette on currency trading!</p>
+<p>It's simple.</p>
+<p>It's fun.</p>
+<p>Most of all...</p>
+<p>it can make you RICH!</p>
+<p>To receive this valuable information <a href="http://www.backtoday.
+com/currency">CLICK
+HERE!</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To be removed from future mailings <a href="http://www.backtoday.
+com/remove">click
+here</a></p>
+
+</body>
+
+</html>
+

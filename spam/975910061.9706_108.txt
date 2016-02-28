@@ -1,0 +1,22 @@
+Return-Path: <info@OnlineStockChallenge.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 21346 invoked from network); 4 Dec 2000 05:51:55 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 4 Dec 2000 05:51:55 -0000
+Received: (qmail 6700 invoked by uid 500); 4 Dec 2000 05:51:53 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 6693 invoked from network); 4 Dec 2000 05:51:53 -0000
+Received: from unknown (HELO info@onlinestockchallenge.com) (64.16.16.66)
+  by em.ca with SMTP; 4 Dec 2000 05:51:53 -0000
+From: info@OnlineStockChallenge.com
+To: info@OnlineStockChallenge.com
+Subject: Online Stock Challenge 2000 (win $1000.00)
+Content-Length: 202
+
+Stock challenge 2000 invites you to test your skill.
+Succesfully predict the future of 2 pre-selected public companies and you can win $1000.00
+ 
+Visit our site and give it a try:
+http://64.16.16.66/
+
+

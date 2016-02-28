@@ -1,0 +1,70 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 10569 invoked from network); 29 Feb 2000 14:14:16 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 29 Feb 2000 14:14:16 -0000
+Received: (qmail 14821 invoked from network); 29 Feb 2000 14:14:14 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 29 Feb 2000 14:14:14 -0000
+Received: by vger.rutgers.edu via listexpand id <S155510AbQB2Jwr>;
+	Tue, 29 Feb 2000 04:52:47 -0500
+Received: by vger.rutgers.edu id <S153977AbQB2JpN>;
+	Tue, 29 Feb 2000 04:45:13 -0500
+Received: from 98A8FCC6.ipt.aol.com ([152.168.252.198]:2618 "HELO
+        mailme970.compuserve.com") by vger.rutgers.edu with SMTP
+	id <S155156AbQB2JoG>; Tue, 29 Feb 2000 04:44:06 -0500
+From: <hifiber7@compuserve.com>
+To: <linux-kernel@vger.rutgers.edu>
+Date:   Tue, 29 Feb 2000 05:17:30
+Message-Id: <199.43937.265559@mailme970.compuserve.com>
+Subject: AD:Family Reunion T Shirts & More
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+Message sent by:  Kuppler Graphics, 32 West Main Street, Maple 
+Shade, New Jersey, 08052,
+1-800-810-4330.   This list will NOT be sold.  All addresses 
+are automatically added to our remove list.
+
+Hello.  My name is Bill from Kuppler Graphics.  We do 
+screenprinting on T Shirts, Sweatshirts,
+Jackets, Hats, Tote Bags and more!
+
+Do you or someone you know have a Family Reunion coming up?  
+Kuppler Graphics would like to
+provide you with some great looking T Shirts for your Reunion.
+
+Kuppler Graphics can also provide you with custom T's and 
+promotional items such as imprinted
+magnets, keychains, pens, mugs, hats, etc. for your business or 
+any fundraising activity
+(church, school, business etc.) We also can provide you with 
+quality embroidery. 
+
+We are a family owned company with over 15 years of experience.  
+
+All work is done at this location.  No middle man.  Our prices 
+are great!
+
+Click reply to email us or call 1-800-810-4330 for more info
+
+
+Bill
+Kuppler Graphics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

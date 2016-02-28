@@ -1,0 +1,49 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 4231 invoked from network); 15 May 2000 00:48:34 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 15 May 2000 00:48:34 -0000
+Received: (qmail 30588 invoked from network); 15 May 2000 00:48:30 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 15 May 2000 00:48:30 -0000
+Received: by vger.rutgers.edu via listexpand id <S155911AbQEOAbo>;
+	Sun, 14 May 2000 20:31:44 -0400
+Received: by vger.rutgers.edu id <S155914AbQEOA3x>;
+	Sun, 14 May 2000 20:29:53 -0400
+Received: from photon.idirect.com ([207.136.80.123]:42911 "EHLO
+	photon.idirect.com") by vger.rutgers.edu with ESMTP
+	id <S155968AbQEOAR1>; Sun, 14 May 2000 20:17:27 -0400
+Received: from bc-vic-a53-01-92.look.ca ([216.66.129.92] helo=look.ca)
+	by photon.idirect.com with smtp (Exim 3.12 #9)
+	id 12r8le-0003V7-00; Mon, 15 May 2000 05:29:55 +0500
+From: offshore1444@yahoo.com
+Reply-To: offshore1444@yahoo.com
+To: offshore1444@yahoo.com
+Subject: Tired of the 9 to 5 Yet?
+Message-Id: <E12r8le-0003V7-00@photon.idirect.com>
+Date:	Mon, 15 May 2000 05:29:55 +0500
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+Ladies and Gentlemen,
+
+     We thought this might be of interest to you because we received your commercial email, or you were referred to us as someone interested in business opportunities. WE PROMPTLY HONOR ALL REMOVE REQUESTS. To be removed from all future mailings, please reply with REMOVE in the subject heading
+
+     Do you have the desire to make $2000 to $5000 PLUS PER WEEK, beginning almost immediately? How does $10,000 TO $20,000 PLUS PER MONTH, and a realistic STRONG SIX FIGURES this year sound? And, how about generating all of this by just sharing information?
+
+     This is NOT, Lotions, Potions, Pills, Water Filters, Shopping Clubs, Long Distance Services. No Hype, No Meetings, No MLM! There Is No One Else Doing What We're Doing! 
+
+    If you can bring desire and an honest effort to the table, we can show you how to NEVER WORRY ABOUT MONEY AGAIN! Opportunity is truly knocking! To find out more, call Toll Free.
+
+
+                                                      1-800-636-6773 ext 3886
+God bless
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

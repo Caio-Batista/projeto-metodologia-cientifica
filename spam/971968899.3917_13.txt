@@ -1,0 +1,57 @@
+Return-Path: <info1309@trim-slim.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 2797 invoked by alias); 19 Oct 2000 09:52:30 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 2794 invoked from network); 19 Oct 2000 09:52:30 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 19 Oct 2000 09:52:30 -0000
+Received: (qmail 31426 invoked by uid 500); 19 Oct 2000 09:52:29 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 31422 invoked by uid 502); 19 Oct 2000 09:52:28 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 31416 invoked from network); 19 Oct 2000 09:52:27 -0000
+Received: from www.area.pi.cnr.it (HELO www.) (146.48.64.130)
+  by bfsmedia.sk.ca with SMTP; 19 Oct 2000 09:52:27 -0000
+Received: from mail.trim-slim.com by www. (SMI-8.6/SMI-SVR4)
+	id LAA16241; Thu, 19 Oct 2000 11:51:17 -0100
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Received: from mail.trim-slim.com [209.224.112.14] by 0tx.mail.trim-slim.com with SMTP; Wed, 18 Oct 2000 05:51:34 -0500
+Message-Id: <6x835h.pwvt5q0ujmjxg@mail.trim-slim.com>
+Date: Wed, 18 Oct 2000 05:51:34 -0500
+Subject: WEALTH & TRAVEL FREE
+To: $user@mailexcite.com
+CC: goose-bumps@mailexcite.com, goose-bumps@mailexcite.com,
+        goose-cds@mailexcite.com, goose-jr@mailexcite.com,
+        goose-me@mailexcite.com, goose.gander@mailexcite.com,
+        goose.goose@mailexcite.com, goose.kennels@mailexcite.com,
+        goose.man@mailexcite.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+From: info1303@trim-slim.com
+Content-Length: 578
+Lines: 23
+
+<p>GET YOUR FREE VACATION WHEN<br>
+<br>
+VISITING OUR WEB SITE!<br>
+<br>
+ONLY 14 ASSOCIATES NEEDED!<br>
+<br>
+We will train hard working and ethical candidates.<br>
+<br>
+HUGE COMPENSATION PLAN AVAILABLE!<br>
+<br>
+This is your chance to get in on the ground floor of the<br>
+<br>
+Multi-Billion-Dollar Home Based Business Revolution.<br>
+<br>
+Receive a COMPLIMENTARY Weekend GetAway<br>
+<br>
+when visiting our site.<br>
+<br>
+<a href="http://www.trim-slim.com/income">CLICK HERE</a><br>
+<br>
+To be removed<br>
+<a href="mailto:remove@trim-slim.com?Subject=REMOVE">CLICK HERE</a></p>
+

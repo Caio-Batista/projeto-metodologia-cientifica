@@ -1,0 +1,141 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Received: (listrecv, mailbox 'linux-kernel' opened at Mon Aug 14 08:00:46 2000)
+Received: (listsend invoked at Mon Aug 14 08:00:46 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 22075 invoked from network); 14 Aug 2000 08:00:46 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 14 Aug 2000 08:00:46 -0000
+Received: (qmail 24381 invoked from network); 14 Aug 2000 08:00:44 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 14 Aug 2000 08:00:44 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S160821AbQHNH0Q>; Mon, 14 Aug 2000 03:26:16 -0400
+Received: by vger.rutgers.edu id <S160587AbQHNHZU>;
+	Mon, 14 Aug 2000 03:25:20 -0400
+Received: from 231.c132.ethome.net.tw ([202.178.132.231]:1305 "HELO 
+	kimo.com.tw") by vger.rutgers.edu with SMTP id <S160802AbQHNHYL>;
+	Mon, 14 Aug 2000 03:24:11 -0400
+From:	=?big5?B?2HDYcA==?= <denics@kimo.com.tw>
+Subject: =?big5?B?pqilXKq6sbaufA==?=
+Date:	Fri, 11 Aug 2000 15:33:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0012_01C003A9.7E1A8F00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Unsent: 1
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Message-Id: <20000814072457Z160802-19203+306@vger.rutgers.edu>
+To:	unlisted-recipients:; (no To-header on input)
+Sender:	owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_01C003A9.7E1A8F00
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0013_01C003A9.7E1A8F00"
+
+
+------=_NextPart_001_0013_01C003A9.7E1A8F00
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=ACO=A7_=A7A=C4=B1=B1o$=AB=E7=BB=F2=C1=C8=B3=A3=A4=A3=B0=F7
+=BD=D0=B1z=B8=F2=A7=DA=A8=D3
+=A5=D1=A4U=B6i=A4J
+
+
+------=_NextPart_001_0013_01C003A9.7E1A8F00
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dbig5" http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2614.3500" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dcenter><FONT =
+size=3D4><STRONG>=ACO=A7_=A7A=C4=B1=B1o$=AB=E7=BB=F2=C1=C8=B3=A3=A4=A3=B0=
+=F7</STRONG></FONT></DIV>
+<DIV align=3Dcenter><STRONG>=BD=D0=B1z=B8=F2=A7=DA=A8=D3</STRONG></DIV>
+<DIV align=3Dcenter><FONT=20
+size=3D2><STRONG><EM><U>=A5=D1=A4U=B6i=A4J</U></EM></STRONG></FONT></DIV>=
+
+<DIV align=3Dcenter><A =
+href=3D"http://www.100fect.com/is.php3?id=3D20135149"><IMG=20
+align=3Dbaseline alt=3D"" border=3D0 hspace=3D0=20
+src=3D"cid:000d01c00366$6ed9f820$6401a8c0@ethome.net.tw"></A></DIV></BODY=
+></HTML>
+
+------=_NextPart_001_0013_01C003A9.7E1A8F00--
+
+------=_NextPart_000_0012_01C003A9.7E1A8F00
+Content-Type: image/gif;
+	name="click.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <000d01c00366$6ed9f820$6401a8c0@ethome.net.tw>
+
+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
+CAmNAQUuB48BBzsajwYEAJQBOx+UnBEAOw==
+
+------=_NextPart_000_0012_01C003A9.7E1A8F00--
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

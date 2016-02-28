@@ -1,0 +1,58 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Received: (listrecv, mailbox 'linux-kernel' opened at Sun Sep 10 21:49:29 2000)
+Received: (listsend invoked at Sun Sep 10 21:49:29 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 7736 invoked from network); 10 Sep 2000 21:49:28 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bfsmedia.sk.ca with SMTP; 10 Sep 2000 21:49:28 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S129711AbQIJVrF>; Sun, 10 Sep 2000 17:47:05 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129704AbQIJVq4>; Sun, 10 Sep 2000 17:46:56 -0400
+Received: from mail2.natel.net ([207.177.74.16]:40108 "EHLO mail2.natel.net")
+	by vger.kernel.org with ESMTP id <S129625AbQIJVqw> convert rfc822-to-8bit;
+	Sun, 10 Sep 2000 17:46:52 -0400
+Received: from GAMERM (209.152.117.178) by mail2.natel.net with SMTP (Eudora
+ Internet Mail Server 2.2.2); Sun, 10 Sep 2000 16:33:55 -0500
+From:	Walter Day <reference@twingalaxies.com>
+To:	linux-kernel@vger.kernel.org;
+Subject: Reference Tool - Video Game World Records  
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8BIT
+Date:	Sun, 10 Sep 2000 16:33:55 -0500
+Message-ID: <1243500861-24738078@mail2.natel.net>
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1121
+
+Dear News Reporter,
+
+The high-score database containing the official world records for video game and pinball 
+
+playing is now available on the Internet as a free reference source.
+
+It can be found by clicking on SEARCH SCORES at: 
+http://www.twingalaxies.com
+
+This body of information is essentially the statistical history of video game and pinball 
+
+playing from 1977 to present and has already been used as a reference source by many news 
+
+agencies and Hollywood producers, including the Guinness Book of World Records, ABC-TV’s 
+
+That’s Incredible and Jeopardy, the TV game show. In the next month, this data will be 
+
+supplemented with 15,000 further high scores which represent the new world records on 
+
+today's current game titles.
+
+If this announcement has reached your desk in error, we’ll remove you from our contact list. 
+
+Please hit reply and paste REMOVE in the subject field and send us back an email.
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

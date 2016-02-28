@@ -1,0 +1,57 @@
+Return-Path: <qmail-return-56657-bruceg-lists-djb-qmail=daedalus.bfsmedia.sk.ca@list.cr.yp.to>
+Received: (listrecv, mailbox 'djb-qmail' opened at Thu Oct 26 14:19:07 2000)
+Received: (listsend invoked at Thu Oct 26 14:19:07 2000)
+Delivered-To: bruceg-lists-djb-qmail@daedalus.bfsmedia.sk.ca
+Received: (qmail 23515 invoked from network); 26 Oct 2000 14:19:06 -0000
+Received: from muncher.math.uic.edu (131.193.178.181)
+  by bfsmedia.sk.ca with SMTP; 26 Oct 2000 14:19:06 -0000
+Received: (qmail 631 invoked by uid 1002); 26 Oct 2000 14:15:22 -0000
+Mailing-List: contact qmail-help@list.cr.yp.to; run by ezmlm
+Precedence: bulk
+Delivered-To: mailing list qmail@list.cr.yp.to
+Received: (qmail 19740 invoked from network); 26 Oct 2000 14:15:20 -0000
+Received: from radiant.net (207.194.200.18)
+  by muncher.math.uic.edu with SMTP; 26 Oct 2000 14:15:20 -0000
+Received: from radiant.net [216.21.139.44] by radiant.net
+  (SMTPD32-6.04) id A89410D4009C; Thu, 26 Oct 2000 05:50:28 -0700
+From: writer@radiant.net
+Reply-To: writer@radiant.net
+To: qmail@list.cr.yp.to
+Subject: Documentation Specialist Seeking Contract Work
+Message-Id: <200010260550546.SM02500@radiant.net>
+Date: Thu, 26 Oct 2000 07:04:45 -0700
+Content-Length: 1413
+
+Documentation Specialists Seeking Contract Work - Technical Writing, 
+Editing,Graphics, Robohelp, HTML, SGML, etc. 
+
+Senior technical writers, senior editors, project leaders and electronic documentation 
+specialists seek contract work. Clients have included companies such 
+as Microsoft and Koch Petroleum. Excellent communication skills, able 
+to work with all levels of the company from programmers to CEO.  
+Excellent background in technical, marketing and creative writing.
+Familiar with educational material as well as e-commerce.  
+Writing samples, full resume and references available on request.
+
+Experience in creating both published and online documentation.
+
+REQUIRED:
+Prefer Corp to Corp Sole relationship directly with the client. 
+Agents are also welcome in the same capacity.
+
+Production is done at our facility.  We are fully equipped. 
+
+PLEASE REPLY ONLY BY PHONE
+Contact - Casey Lea or Domhnall CGN Adams, CS - 
+
+TO INQUIRE ABOUT SERVICES, AVAILABILITY, OR TO CONFIRM REMOVAL FROM OUR LIST 
+CALL 780-998-4066 PST
+
+Rates: Fees are charged by the hour or by the project.  
+_________________________________________________________
+This Message was Composed by a user of Extractor Pro '98 Bulk E- Mail Software. If 
+you wish to be removed from this advertiser's future mailings, please reply 
+with the subject "Remove" and this software will automatically block you 
+from their future mailings.
+
+

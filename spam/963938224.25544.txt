@@ -1,0 +1,57 @@
+Return-Path: <qmail-return-50426-bruceg-lists-djb-qmail=daedalus.bfsmedia.sk.ca@list.cr.yp.to>
+Delivered-To: bruceg-lists-djb-qmail@daedalus.bfsmedia.sk.ca
+Received: (qmail 19728 invoked from network); 18 Jul 2000 07:23:31 -0000
+Received: from muncher.math.uic.edu (131.193.178.181)
+  by bfsmedia.sk.ca with SMTP; 18 Jul 2000 07:23:31 -0000
+Received: (qmail 5029 invoked by uid 1002); 18 Jul 2000 07:22:21 -0000
+Mailing-List: contact qmail-help@list.cr.yp.to; run by ezmlm
+Precedence: bulk
+Delivered-To: mailing list qmail@list.cr.yp.to
+Received: (qmail 19116 invoked from network); 18 Jul 2000 07:22:20 -0000
+Received: from www.brainbench.com (64.14.126.119)
+  by muncher.math.uic.edu with SMTP; 18 Jul 2000 07:22:20 -0000
+Received: (qmail 15469 invoked from network); 18 Jul 2000 07:21:23 -0000
+Received: from localhost (HELO www.brainbench.com) (127.0.0.1)
+  by localhost with SMTP; 18 Jul 2000 07:21:23 -0000
+Message-ID: <30577882.963904882600.JavaMail.root@www.brainbench.com>
+From: support@brainbench.com
+To: qmail@list.cr.yp.to
+Subject: Certify your skills online at Brainbench
+Mime-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+Ramy Hassan at ramy@aast.edu
+thought you might be interested in having your skills
+certified online by Brainbench
+at http://www.brainbench.com/cert/reg.jsp?vid=frnd1017637 
+
+If you want some personal feedback on your skills or 
+you want to show how good you are to employers, a 
+Brainbench Certification is just what you need. Brainbench
+Certifications are recognized by many major employers, and 
+the list is growing. They are also endorsed by the International 
+Webmasters Association (http://www.iwanet.org).
+
+You can register and take an online exam in any of 120+ areas 
+that are available to you.  While the focus is still technical, 
+we've begun expanding into areas such as Business Skills, 
+Financial, Health Care, Industry Knowledge, Languages and Sales.
+If you pass, Brainbench will send you a hardcopy 
+certificate.  You can also create links to your test results 
+from your personal web page or an email message.
+
+More than 1,000,000 Brainbench Certifications have been ordered 
+to date!
+
+The best part is that Brainbench Certifications are currently FREE. 
+However, this won't last much longer, so register today. You
+can register now, then take the exam any time in the next 30 
+days. Just go to http://www.brainbench.com/cert/reg.jsp?vid=frnd1017637 
+to get started today!
+
+If you don't know Ramy Hassan, please disregard
+this note or forward it to mailto:support@brainbench.com 
+(originating IP: 163.121.43.69).
+
+

@@ -1,0 +1,113 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Received: (listrecv, mailbox 'linux-kernel' opened at Sun Aug 13 11:15:52 2000)
+Received: (listsend invoked at Sun Aug 13 11:15:52 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 3957 invoked from network); 13 Aug 2000 11:15:52 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 13 Aug 2000 11:15:52 -0000
+Received: (qmail 18563 invoked from network); 13 Aug 2000 11:15:50 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 13 Aug 2000 11:15:50 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S160273AbQHMKm6>; Sun, 13 Aug 2000 06:42:58 -0400
+Received: by vger.rutgers.edu id <S160572AbQHMKmj>;
+	Sun, 13 Aug 2000 06:42:39 -0400
+Received: from frodo.avunet.de ([212.204.0.81]:39759 "EHLO frodo.avunet.de")
+	by vger.rutgers.edu with ESMTP id <S160589AbQHMKmO>;
+	Sun, 13 Aug 2000 06:42:14 -0400
+Received: from scapingfromyap.com
+          (sdn-ar-007nynyorP262.dialsprint.net [158.252.36.24])
+          by frodo.avunet.de (Netscape Mail Server v2.02) with SMTP
+          id AAA7949 for <linux-kernel@vger.rutgers.edu>;
+          Sun, 13 Aug 2000 09:31:59 +0100
+From:	<asapinfo12@earthlink.net>
+To:	<linux-kernel@vger.rutgers.edu>
+Date:	Mon, 14 Aug 2000 00:51:25
+Message-Id: <413.324288.306792@scapingfromyap.com>
+Subject: Top 10 positions. GUARANTEED!
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender:	owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+You pay only after results are shown to you. How about that!?
+
+We can list your website in all major Search Engines and achieve 
+Top 10 positions. GUARANTEED! 
+
+If people cannot find your business in the first 
+30 matches of a search, then submitting was a waste of time,
+money and hope.
+
+Search engine positioning is the most cost effective way 
+of promoting your Website.
+
+We key on the following major search engines:
+Yahoo-AltaVista-Dogpile-WebCrawler-Lycos-Excite-iwon-Looksmart-
+AskJeeves-AOL Search-Netscape-HotBot-MSN-Infoseek-Snap-
+Google-Northern Light-Open Directory-Findwhat-Magellan-Goto-
+and Canada
+
+Let us start launching your pages to the top of the search 
+results today!
+
+Top 10 positions. GUARANTEED! 
+
+
+Pay on Performance. You pay only after we show you the results.
+
+You choose how many search engines you want and we take your 
+website to the TOP. As simple as that!!!
+
+For more information email us at:loginginfo@earthlink.net 
+with this subject: Send me more information 
+
+
+Or call:
+
+
+Nick Velez
+1-718-583-3134
+
+Monday-Friday 11AM to 7PM Eastern Time
+
+
+
+
+
+
+
+-------------------------------------------------------------
+Under Bill s.1618 TITLE III passed by the 105th U.S. Congress 
+this letter cannot be considered "spam" as long as we include: 
+1) contact information (see above); and, 
+2) the way to be removed from future mailings (see below). 
+
+To be removed from this list, please mail to: 
+asapinfo12@earthlink.net with 'remove' in 
+subject line and you will be removed from our list.
+------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

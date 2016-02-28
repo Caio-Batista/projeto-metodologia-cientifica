@@ -1,0 +1,125 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 4807 invoked from network); 13 Feb 2000 20:51:04 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 13 Feb 2000 20:51:04 -0000
+Received: (qmail 21295 invoked from network); 13 Feb 2000 20:51:01 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 13 Feb 2000 20:51:01 -0000
+Received: by vger.rutgers.edu via listexpand id <S154412AbQBMQhj>;
+	Sun, 13 Feb 2000 11:37:39 -0500
+Received: by vger.rutgers.edu id <S154479AbQBMQWP>;
+	Sun, 13 Feb 2000 11:22:15 -0500
+Received: from smtp.thrunet.com ([210.117.65.9]:1327 "EHLO smtp.thrunet.com")
+	by vger.rutgers.edu with ESMTP id <S154054AbQBMQUr>;
+	Sun, 13 Feb 2000 11:20:47 -0500
+Received: from thrunet ([210.205.197.163]) by smtp.thrunet.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Mon, 14 Feb 2000 05:10:47 +0900
+From: =?ISO-8859-1?Q?=C0=CC=C7=F6=BF=EC <olk@olk.co.kr>,
+  ?=@bruce-guenter.dyndns.org
+To: linux-kernel@vger.rutgers.edu
+Subject: =?ISO-8859-1?Q?=BF=B5=BE=EE,=C0=CF=BE=EE?= =?ISO-8859-1?Q?=BB=FD=C8=B0=C8=B8=C8=AD?= =?ISO-8859-1?Q?=B9=AB=B7=E1?= mailing service =?ISO-8859-1?Q?=BE=C8=B3=BB!!?=
+Date:   Mon, 14 Feb 00 05:13:12 =?ISO-8859-1?Q?=B4=EB=C7=D1=B9=CE=B1=B9?= =?ISO-8859-1?Q?=C7=A5=C1=D8=BD=C3?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=AD_2000_PART_BOUNDARY_19990606
+Message-ID: <09baa4710200d20SMTP@smtp.thrunet.com>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+This is a multi-part message in MIME format.
+
+--AD_2000_PART_BOUNDARY_19990606
+Content-Type: text/plain
+Content-Transfer-Encoding: 7Bit
+
+안녕하세요? 
+
+저희는 전화를 이용해서 강사와 1:1로 외국어 학습을 할 수 있는 
+"Online korea"라고 합니다.
+
+허락없이 편지 드려 죄송합니다. 너그러운 용서를......
+
+저희 회사에서는 생활 회화에 관심있는 네티즌 여러분에게
+매일(월-금), 실 생활에 필요한 생활회화 한 문장씩을 
+무료로 보내 드리고 있어요.
+
+서비스 내용은 아래와 같이 구성 되오니 받아보길 원하시는 분은 
+≪ olk@olk.co.kr ≫로 "yes"라는 메일을 주시면 된답니다.
+
+그리고, 저희 전화 외국어 강의가 궁금하신 분들을 위해 "시범강의"도 
+무료로 실시하고 있으니 많이 신청해 주세요.
+
+무료 시범강의 신청 방법은 << http//www.d-day.co.kr >> 에 접속하신 후 
+"강의소개"란을 클릭하신다음 "강의신청"란을 보시면 시범강의를 
+신청하실 수 있어요.
+
+아무쪼록 이 학습법으로 회화 실력 향상에 작은 보템이 되었으면 합니다.
+
+감사합니다.
+
+불필요한 정보였다면 대단히 죄송합니다.
+
+☏ 매일 받아보실 영어,일어 생활회화 예문.(무료 서비스)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☎ 오늘의 유우머-2000.02.14(월)
+
+    ◐ I just lick'em now and then. ◑ ≪─  주 2 회 발송(화,목) 발송.
+
+  When an old lady saw that a 10-year-old was at the 
+counter in the bakery shop she smiled and said :
+ "Don't you find yourself mighty tempted to eat one of 
+those good cupcakes?" 
+ "Yes, I do, ma'am, but that would be stealing, 
+so I just lick'em now and then," replied the girl.
+
+ 어떤 할머니가 제과점 카운터에서 10살 먹은 소녀가 일하고 있는 것을
+보고 미소를 지으며 
+"저 맛있는 컵케이크 하나쯤 먹고 싶은 생각이 간절하지 않니?" 라고 묻자 
+소녀가 대답했다. 
+"네, 먹고 싶어요. 하지만 먹으면 도둑질이 되니까 이따금씩 핥기만 해요."
+
+ * mighty  : 여기서는  매우(=very)의 의미로 씌였어요.
+ * lick'em :[발음에 유의해 주세요.(을리끔)]=lick them
+
+☎ 오늘의 한마디 → 영어(2000.02.14(월))   
+
+    ◐  I felt on top of the world  ◑≪─────  매일(월-금) 발송.
+               
+사람은 누구나 성공하면 기분이 좋은 것은 당연하지요. 
+물론, 어떤 사람들은 성공했을 때에 더 겸손해지지만 대부분의 사람들은 
+[나를 보라! 내가 최고야]라고 생각합니다. 
+이와 같은 기분을 나타내는 표현이 'on top of the world'랍니다.
+
+  on top of the world를 직역하면 [세상 꼭대기에]라는 의미이며 
+I felt on top of the world. 는 (세상 꼭대기에 있는 느낌이었다.)
+즉, (굉장히 기분이 좋았다)를 뜻합니다.
+  흔히 (기분이 좋았어)라는 의미로 I felt good. 만을 생각하기 쉬우나 
+이 표현도 알고 있으면 감정의 표현을 더 잘 할 수 있을 거에요.
+
+⊙ on top of the world는 세상 꼭대기에 있는 느낌. 그렇다면 
+   out of this world 는? 
+   이 세상의 일같지 않게 wonderful[근사한], 
+   fantastic[환상적인]이란 뜻이에요.
+
+A: I heard you were engaged to Marian.
+B: Actually, I was.
+A: Oh, really? So, how did you feel on the night of your engagement?
+B: I felt like I was on top of the world.
+
+A: 메리안과 약혼한다고 들었는데.
+B: 사실 이미 했어.
+A: 어, 정말이야?  그래,약혼식한 그날 밤에 기분이 어땠어?
+B: 세상을 얻은 기분이었지.
+
+☎ 오늘의 한마디 → 일어(2000.02.14(월))≪─주 3 회 발송(월,수,금) 발송.
+
+ 일어 예문도 영어와 같은 형태로 구성 되어 있습니다.
+--AD_2000_PART_BOUNDARY_19990606--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

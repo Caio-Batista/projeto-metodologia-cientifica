@@ -1,0 +1,60 @@
+Return-Path: <vmailmgr-return-4526-em-ca-bruceg=em.ca@lists.em.ca>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 28203 invoked from network); 25 Dec 2000 18:19:03 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 25 Dec 2000 18:19:03 -0000
+Received: (qmail 6198 invoked by uid 500); 25 Dec 2000 18:17:34 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 6172 invoked by uid 534); 25 Dec 2000 18:17:32 -0000
+Mailing-List: contact vmailmgr-help@lists.em.ca; run by ezmlm
+Precedence: bulk
+X-No-Archive: yes
+list-help: <mailto:vmailmgr-help@lists.em.ca>
+list-unsubscribe: <mailto:vmailmgr-unsubscribe@lists.em.ca>
+list-post: <mailto:vmailmgr@lists.em.ca>
+Reply-To: <vmailmgr@lists.em.ca>
+Delivered-To: mailing list vmailmgr@lists.em.ca
+Received: (qmail 6167 invoked from network); 25 Dec 2000 18:17:31 -0000
+Date: Mon, 25 Dec 2000 12:11:37 -0600
+Message-Id: <200012251811.MAA30124@server1.Kpac.org>
+To: vmailmgr@lists.em.ca
+From: kr2@aport2000.ru
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary = b38380cd7358860b7c665782e953cde6a
+Subject: [vmailmgr] ¡≈—œÀ¿“Õ¿ﬂ ƒŒ—“¿¬ ¿ ÕŒ”“¡” Œ¬, Ã”À‹“»Ã≈ƒ»¿-œ–Œ≈ “Œ–Œ¬, Œ¡Œ–”ƒŒ¬¿Õ»ﬂ CISCO
+Content-Length: 1942
+
+This is a MIME encoded message.
+
+--b38380cd7358860b7c665782e953cde6a
+Content-Type: text/html ;	charset="windows-1251"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCg0KPGh0bWw+DQo8aGVhZD4NCgk8dGl0bGU+wcXRz8vA0s3A3yDEztHSwMLKwCDNztPS
+wdPKzsIsIMzTy9zSyMzFxMjALc/QzsXK0s7QzsIsIM7BztDTxM7CwM3I3yBDSVNDTzwvdGl0bGU+
+DQo8L2hlYWQ+DQoNCjxib2R5Pg0Kz/Dl5Ovg4+Dl7CDh5fHv6+Dy7fP+IOTu8fLg4urzIOTuIO70
+6PHgIOIg6/7h7uwg4+7w7uTlINDu8fHo6CDoINHNwyA8Yj48aT7t7vPy4fPq7uIsIOzz6/zy6Ozl
+5OjgLe/w7uXq8u7w7uIsIPHl8uXi7uPuIO7h7vDz5O7i4O3o/yBDSVNDTy48L2k+PC9iPiA8YnI+
+DQoNCtbl7fsg8e3o5uXt+yDv5fDl5CDN7uL77CDj7uTu7C4gz+7k8O7h7e7x8uggIDxhIGhyZWY9
+Imh0dHA6Ly93d3cuYXRhbm9yLnJ1L3Nob3BfZG9zdGF2a2EvIj7n5OXx/DwvYT4uIDxicj4NCg0K
+8uXrLiAoMDk1KSAzOTItMzQtNTQsIDM5Mi05OS05MA0KPGJyPg0KPGJyPg0KDQo8Zm9udCBzaXpl
+PSItMSI+IM/w7vHo7CDv8O755e3o/yDn4CDh5fHv7uru6fHy4u4sIOXx6+gg5ODt7eD/IOjt9O7w
+7OD26P8g7eUg4Ory8+Dr/O3gLjwvZm9udD4NCg0KDQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8
+YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+
+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8
+YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+
+DQo8YnI+DQo8IS0tIFJ1c3NpYW4gTGlua0V4Y2hhbmdlIGNvZGUgU1RBUlQgLS0+DQogIDxpZnJh
+bWUNCiAgc3JjPWh0dHA6Ly93d3cubGlua2V4Y2hhbmdlLnJ1L2NnaS1iaW4vZXJsZS5jZ2k/NDMz
+ODQ/Ng0KICBmcmFtZWJvcmRlcj0wIHZzcGFjZT0wIGhzcGFjZT0wIHdpZHRoPTQ2OCBoZWlnaHQ9
+NjANCiAgbWFyZ2lud2lkdGg9MCAgbWFyZ2luaGVpZ2h0PTAgc2Nyb2xsaW5nPW5vPg0KICA8YSBo
+cmVmPWh0dHA6Ly93d3cubGlua2V4Y2hhbmdlLnJ1L3VzZXJzLzA0MzM4NC9nb3RvLm1hcCB0YXJn
+ZXQ9X3RvcD4NCiAgPGltZyBzcmM9aHR0cDovL3d3dy5saW5rZXhjaGFuZ2UucnUvY2dpLWJpbi9y
+bGUuY2dpPzQzMzg0PzYNCiAgIGFsdD0iUkxFIEJhbm5lciBOZXR3b3JrIiBib3JkZXI9MCBoZWln
+aHQ9NjAgd2lkdGg9NDY4PjwvYT4NCiAgPC9pZnJhbWU+DQo8IS0tIFJ1c3NpYW4gTGlua0V4Y2hh
+bmdlIGNvZGUgRU5EIC0tPg0KDQo8L2JvZHk+DQo8L2h0bWw+DQo=
+
+--b38380cd7358860b7c665782e953cde6a--
+
+
+

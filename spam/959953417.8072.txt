@@ -1,0 +1,99 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 4451 invoked from network); 2 Jun 2000 08:45:35 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 2 Jun 2000 08:45:35 -0000
+Received: (qmail 11298 invoked from network); 2 Jun 2000 08:45:33 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 2 Jun 2000 08:45:33 -0000
+Received: by vger.rutgers.edu via listexpand id <S156754AbQFBIfw>;
+	Fri, 2 Jun 2000 04:35:52 -0400
+Received: by vger.rutgers.edu id <S156663AbQFBIfi>;
+	Fri, 2 Jun 2000 04:35:38 -0400
+Received: from [210.224.176.107] ([210.224.176.107]:1308 "EHLO ns.eronavi.com")
+	by vger.rutgers.edu with ESMTP id <S156684AbQFBIbj>;
+	Fri, 2 Jun 2000 04:31:39 -0400
+Received: from mail.eronavi.com ([210.169.48.118])
+	by ns.eronavi.com (8.9.3/8.9.3) with SMTP id RAA02186
+	for <linux-kernel@vger.rutgers.edu>; Fri, 2 Jun 2000 17:34:03 +0900 (JST)
+	(envelope-from privacy1@mail.goo.ne.jp)
+Date:	Fri, 2 Jun 2000 17:34:03 +0900 (JST)
+Message-Id: <200006020834.RAA02186@ns.eronavi.com>
+From: =?ISO-2022-JP?B?GyRCJVclaSUkJVAlNyE8Py8zMhsoQh==?= <privacy1@mail.goo.ne.jp>
+To: =?ISO-2022-JP?B?bGludXgta2VybmVsQHZnZXIucnV0Z2Vycy5lZHV=?= <linux-kernel@vger.rutgers.edu>
+X-Mailer: Direct Email v0.22
+Subject: =?ISO-2022-JP?B?GyRCJU8lVyVLJXMlMEIzPVAbKEIhIRskQiFaIzIjNDt+NFZFcDsjSFZBSCFbGyhC?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+突然のメールを大変申し訳ございません。
+このダイレクトメールにご興味のない方は
+誠に恐れ入りますが削除下さいますよう
+お願いいたします。
+御迷惑のかかってしまった方、重複して
+配信された方、このメールが不要な方へ
+届いてしまいましたら深くお詫び申し上げます。
+
+━━━━━━━━━━━━━━━━━━━
+　　■実録！！プライバシー侵害 ■
+━━━━━━━━━━━━━━━━━━━
+--------------------------------------
+   ▲２４時間 リアルタイム　盗撮 ▲
+--------------------------------------
+　 ▲素人娘・コギャル・現役モデル▲　　
+--------------------------------------
+　　　　　　無料体験実施中
+━━━━━━━━━━━━━━━━━━━
+この番組は、若くてキレイな女の子だけに
+的を絞り、彼女たちの部屋に取り付けた４つ
+の超小型隠しカメラで、24時間私生活を監視
+することができる、リアルタイム盗撮番組です。
+
+超過激アダルト映像を完全生中継!!
+
+さあ今すぐあなたもこのリアルタイム盗撮に
+参加されてみてはいかがですか？ 
+
+□まずは、無料お試し体験をどうぞ!!□
+http://210.224.176.97:82/joinmemberhp/from.phtml?banner=privacy
+
+■選りすぐりの女の子達をどうぞご覧下さい!!
+http://www.dolphin-web.net/privacy/newface.html
+
+━━━プライバシー侵害　女の子紹介━━━━
+
+総勢なんと１８名!!お好きな女の子をどうぞ!!!
+
+★セクシーモデル→「りん」
+■コギャルレズ→「あみ」と「るみ」
+★現役女子大生→「ひな」
+■Ｂ90巨乳の女→「明美」
+★ＳＭの女王…→「理沙」
+■オナニー専科→「美樹」
+★アメリカ産…→「ゆい」
+■超キティラー→「葉月」
+★オナペット…→「まゆ」
+■SEX観賞専用・→「知美」
+★ガングロ女…→「由利」
+■フリーター…→「あゆみ」
+★フリーター…→「涼子」
+■花屋の店員…→「由美」
+★フェラ専科…→「佳子」
+■コギャル……→「えいな」
+■バイブ専科…→「沙織」
+━━━━━━━━━━━━━━━━━━━━━━ 
+番組名　　実録！！プライバシー侵害
+◆◇http://www.dolphin-web.net/privacy/◇◆
+━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

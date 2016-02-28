@@ -1,0 +1,71 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 16694 invoked from network); 8 May 2000 23:23:59 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 8 May 2000 23:23:59 -0000
+Received: (qmail 16737 invoked from network); 8 May 2000 23:23:52 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 8 May 2000 23:23:52 -0000
+Received: by vger.rutgers.edu via listexpand id <S155039AbQEHWvA>;
+	Mon, 8 May 2000 18:51:00 -0400
+Received: by vger.rutgers.edu id <S155003AbQEHWqR>;
+	Mon, 8 May 2000 18:46:17 -0400
+Received: from IKB35.OC-TO.NET ([210.198.12.35]:4089 "HELO ikb35.oc-to.net")
+	by vger.rutgers.edu with SMTP id <S154987AbQEHWk3>;
+	Mon, 8 May 2000 18:40:29 -0400
+Received: (qmail 47251 invoked from network); 5 May 2000 09:45:42 -0000
+Received: from unknown (HELO www.sky-dream.com) (210.169.48.108)
+  by www.tooree.com with SMTP; 5 May 2000 09:45:42 -0000
+From: =?iso-2022-jp?B?GyRCSVRLIT8vRn4bKEI=?= <samurai@sky-dream.com>
+TO: =?iso-2022-jp?B?bGludXgta2VybmVsQHZnZXIucnV0Z2Vycy5lZHU=?= <linux-kernel@vger.rutgers.edu>
+Subject: =?iso-2022-jp?B?WzAwLzA1LzA1XSAbJEIiIRsoQkdXIRskQjojJDkkMCUiJUAlayVIISoiIRsoQg==?=
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset= "ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Message-Id:<20000508225050Z155003-18454+848@vger.rutgers.edu>
+Date:	Mon, 8 May 2000 18:46:17 -0400
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+=?ISO-8859-1?Q?=1B$BFMA3$N%a!<%k=3F=3D$7Lu$"$j$^$;$s!#=1B(B?=
+=?ISO-8859-1?Q?=1B$B0J2<$O%"%@%k%H%3%s%F%s%D$r4^$=5F$^$9$N$G!"=1B(B?=
+=?ISO-8859-1?Q?=1B$B6=3DL#$NL5$$J}$KFO$-$^$7$=3F>l9g!"ITMW$NJ}$O=1B(B?=
+=?ISO-8859-1?Q?=1B$B$*<j=3Ft$G$9$,!"$3$N$^$^$4JV=3F.$/$@$5$$!#=1B(B?=
+Message-Id:<20000508224544Z154987-18455+853@vger.rutgers.edu>
+Date:	Mon, 8 May 2000 18:40:29 -0400
+X-Orcpt: rfc822;linux-kernel@vger.rutgers.edu
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+
+
+
+
+厳選アダルトサイト!ゴールデンサイト!
+
+ランキングの鬼
+http://www.jn-s.com/oni/
+鬼のようなアダルト専門ランキングサイト登場！！
+無料画像も鬼ほど置いてるオニ〜！！！
+
+
+I LOVE HIP POP
+http://www.sky-dream.com/hippop/
+かわいい女の子の画像を厳選して掲載!
+もちろん完全無料でとり放題♪♪
+
+
+侍ＧＩＲＬＳ
+http://www.sky-dream.com/samurai
+アイドルのお宝画像満載。
+サムネイル表示で見やすい拙者のサイト。
+無論、完全無料でござる！！！
+
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

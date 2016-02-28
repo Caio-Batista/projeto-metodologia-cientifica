@@ -1,0 +1,101 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 8186 invoked from network); 27 Apr 2000 12:01:07 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 27 Apr 2000 12:01:07 -0000
+Received: (qmail 15186 invoked from network); 27 Apr 2000 12:01:05 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 27 Apr 2000 12:01:05 -0000
+Received: by vger.rutgers.edu via listexpand id <S155066AbQD0Lwr>;
+	Thu, 27 Apr 2000 07:52:47 -0400
+Received: by vger.rutgers.edu id <S155055AbQD0Lwa>;
+	Thu, 27 Apr 2000 07:52:30 -0400
+Received: from www3.sppd.co.jp ([210.154.122.53]:1419 "EHLO www3.sppd.co.jp")
+	by vger.rutgers.edu with ESMTP id <S155086AbQD0Lvv>;
+	Thu, 27 Apr 2000 07:51:51 -0400
+Received: from JPS ([210.224.233.106])
+	by www3.sppd.co.jp (8.9.3/3.7W) with SMTP id UAA04866
+	for <linux-kernel@vger.rutgers.edu>; Thu, 27 Apr 2000 20:59:47 +0900
+Date:	Thu, 27 Apr 2000 20:59:47 +0900
+Message-Id: <200004271159.UAA04866@www3.sppd.co.jp>
+Mime-Version: 1.0
+To: linux-kernel@vger.rutgers.edu
+From: mogibiwa staff <staff@mogibiwa.com>
+Subject: =?ISO-2022-JP?B?GyRCPDpOaSQ3JF4kOSEjI0QjTSRHJDkhKhsoSg==?=
+Content-Type: text/plain; charset=iso-2022-jp
+X-MAILER: Mail Explorer For Internet V3.52 No Reginstration
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+はじめまして、突然のメールで大変失礼致します。
+このメールアドレスは インターネット上で取得しお届けしています。
+御迷惑でしたら、心からお詫び申し上げます。
+
+また、あなた（貴社）が本メールの内容に興味をお持ちにならない場合には、
+たいへんお手数ですが、このまま削除して頂きたいと存じます。
+又、すでに一度同じメールがお届けされた場合もお許しください。
+
+
+##mogibiwa.com##mogibiwa.com##mogibiwa.com##mogibiwa.com##
+
+　　　　　長崎県特産の　「茂木びわ」　を産地から直送！
+
+　　　　　　　　希少価値の高い　季節の果物　
+
+　　　その中でも最高種の　「茂木びわ」　を貴方の食卓に！
+
+##mogibiwa.com##mogibiwa.com##mogibiwa.com##mogibiwa.com##
+
+この度、インターネット上にて、
+長崎県特産の季節の果物「茂木びわ」を
+販売するサイト「茂木びわ.com」を開設いたしました。
+
+今年は、特に不作の年　（例年の半分くらい）　の為
+あまり市場にも出回りにくいと思われますが、
+今回特別に、生産者のご好意により
+５００ケース限定にて、ご用意させていただきました。
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+募集期間
+　2000年4月20日〜5月15日
+
+発送期間
+　2000年5月20日位から順次発送いたします。
+
+お支払方法
+　全品商品代引き
+
+ご注文方法
+　下記のアドレスからお願いいたします。
+
+　　　http://www.mogibiwa.com
+
+お問い合わせ
+　staff@mogibiwa.com
+　または、
+　095-814-4535　　担当：　中村まで
+
+ご利用お待ちしております。
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+茂木びわ.comスタッフ一同
+
+
+■■■■■■  思案橋.com(www.shianbashi.com)  ■■■■■■
+■■ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　■■
+■■ 長崎は観光の街、県外からのお客様は見知らぬ街は .■■
+■■　  何かと不安なもの、インターネットを使い情報入手！.■■
+■■    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    ■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

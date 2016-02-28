@@ -1,0 +1,98 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 11776 invoked from network); 27 Apr 2000 15:58:09 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 27 Apr 2000 15:58:09 -0000
+Received: (qmail 22693 invoked from network); 27 Apr 2000 15:58:07 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 27 Apr 2000 15:58:07 -0000
+Received: by vger.rutgers.edu via listexpand id <S155016AbQD0Pmc>;
+	Thu, 27 Apr 2000 11:42:32 -0400
+Received: by vger.rutgers.edu id <S155162AbQD0Pj2>;
+	Thu, 27 Apr 2000 11:39:28 -0400
+Received: from ssemail001a.hitmail.net ([210.239.63.7]:33021 "EHLO
+	ssemail001a.hitmail.net") by vger.rutgers.edu with ESMTP
+	id <S155153AbQD0Pcg>; Thu, 27 Apr 2000 11:32:36 -0400
+Received: from w2000hand (ppp414.os.rim.or.jp [202.247.135.114])
+	by ssemail001a.hitmail.net (8.9.3/3.7W Hitmail) with SMTP id AAA25357
+	for <linux-kernel@vger.rutgers.edu>; Fri, 28 Apr 2000 00:38:47 +0900 (JST)
+Date:	Fri, 28 Apr 2000 00:38:47 +0900 (JST)
+Message-Id: <200004271538.AAA25357@ssemail001a.hitmail.net>
+From: dmdaiko <dmhand@kowakai.or.jp>
+To: <linux-kernel@vger.rutgers.edu>
+Subject: =?ISO-2022-JP?B?GyRCOWJOKDx9Rn4lUyU4JU0lOSRyJCpDNSQ3JE5KfSRLGyhC?=
+ =?ISO-2022-JP?B?GyRCO3FOQRsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Achi-Kochi Mail ver1.01
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+■■■■■■■■■■■　５億９千万円成功の証明　■■■■■■■■■■■
+高率収入をお探しの皆様へ。資料は無料で送付致します！！
+
+ごく最近参加された方が、ＤＭ・インターネットで活動され大きな収入を取ら
+れています。
+この事実はまだまだこのビジネスの可能性を示す良い例でしょう。
+
+(株)全信協のビジネスはＳＯＨＯ・ＤＭ・ポスティング等で手軽に展開する事
+ができ、また、社会に貢献もできるビジネスです。
+
+_/_/_/_/_/_/　(株)全信協のビジネス三つの事実の証明　_/_/_/_/_/_/
+■東京高等裁判所の判決による事業の正当性。（判決の事実）
+■５億９千万円・３億円等の収入の実績！！本部で確認が可。（実績の事実）
+■日本経済新聞を始め多くの新聞記事が後押し！！（新聞記事の事実）
+
+　■□■□■□■　全国身元保証受託協会保証実績　■□■□■□■
+　■　保証効力発生金額　　：１１０,２４０,９５０,０００円  　 ■
+　■　保証代弁金（無利息）：８１,３２１,４５８円　 　　　　　■
+　■　回　収　金　額　　　：４４,４５５,９１７円　 　　　　　■
+　■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■
+
+また、個人に保証の責任が掛る事が有りませんので安心して取り組む事が出来
+ます。
+
+社会に貢献する事が収入につながるビジネス！！今なら資料を無料で進呈中！
+
+(株)全信協は３４年目を迎える実績のある会社です。
+(株)全信協では公認顧問の募集をしております。
+一千万円以上の収入者も多く出ています。
+この事業で５億９千万円の収入を実現された方もいます！！
+１０分の１で５千９百万円　１００分の１でも５９０万円の収入！！
+（その事実の証拠は東京本部でお確かめ頂くことが出来ます）
+顧問契約金だけでビジネスに参加できその後の月会費・年会費等追加資金は
+必要ありません。
+ただし、二十歳以下の方は顧問には成れません。
+
+資料請求フォーム
+------------------------------------------
+保証事業のビジネス資料を無料で送付を望む。
+整理番号：80-6194
+郵便番号：〒
+御住所：
+御氏名：
+御職業：
+御年令：
+メールアドレス：
+御電話：
+------------------------------------------
+以上をご記入の上メール差出人までご返送下さい。
+
+注：資料は全信協本部より宅配メール便にて送付いたします。
+
+==============================================================
+　　　　　株式会社 全　　　信　　　協
+　　　　　株式会社 全国身元保証受託協会
+本部
+〒160-0023　東京都渋谷区道玄坂２丁目１５番地１号全信協第三別館
+この広告のお問い合せは、
+dmhand@kowakai.or.jp
+--------------------------------------------------------------
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

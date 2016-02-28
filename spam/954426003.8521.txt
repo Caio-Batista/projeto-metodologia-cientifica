@@ -1,0 +1,138 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 7216 invoked from network); 30 Mar 2000 12:11:03 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 30 Mar 2000 12:11:03 -0000
+Received: (qmail 12796 invoked from network); 30 Mar 2000 12:11:01 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 30 Mar 2000 12:11:01 -0000
+Received: by vger.rutgers.edu via listexpand id <S154156AbQC3MFk>;
+	Thu, 30 Mar 2000 07:05:40 -0500
+Received: by vger.rutgers.edu id <S154150AbQC3MFU>;
+	Thu, 30 Mar 2000 07:05:20 -0500
+Received: from tulum.brsys.com ([216.15.105.2]:3807 "EHLO tulum.brsys.com")
+	by vger.rutgers.edu with ESMTP id <S154146AbQC3ME7>;
+	Thu, 30 Mar 2000 07:04:59 -0500
+Received: from localhost ([63.249.254.3]) by tulum.brsys.com (8.8.8/8.6.12) with SMTP id EAA08370 for <linux-kernel@vger.rutgers.edu>; Thu, 30 Mar 2000 04:18:52 -0800 (PST)
+From: lindia23@email.com
+X-Mailer: Internet Mail Service [18.2.3253.50] (Solaris; Sparc12)
+Date:	Thu, 30 Mar 2000 06:23:45
+X-Accept-Language: en
+To: <linux-kernel@vger.rutgers.edu>
+References: 0FCDEF587
+Subject: Email Advertising Works--Special Rates till Friday
+X-References: 0DB3D6FAC, 0E338E665
+X-Other-References: 032219C03
+X-See-Also: 04F3A1C14
+Message-ID: <r5meefib1kgkl8r.300320000623@localhost>
+Sensitivity: Company-Confidential
+Content-Type: text/plain
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+PUT EMAIL MARKETING TO WORK FOR YOU...
+
+Call NOW and receive 50,000
+additional emails with your order
+for only $100. Thats 40,000 FREE emails!!!
+
+WE HAVE OPT-IN LISTS!!!!
+
+see below for removal.
+
+Special Ends Friday March 31, 2000
+
+MLM'ers, We can build your downline.
+
+Imagine having a product or idea and selling it
+for only $10.
+
+Now imagine sending an ad for your product or idea
+to 25 million people!
+
+If you only get a 1/10 of 1% response
+you have just made $250,000!!
+
+You hear about people getting rich off
+the Internet everyday on TV,
+now is the perfect time for you
+to jump in on all the action.
+
+FACT.
+With the introduction of the Internet, one primary
+KEY to conducting your business successfully is
+creating massive exposure in a cost effective
+manner.
+
+FACT.
+The experts agree that email marketing is one of
+the most cost effective forms of promotion in
+existence today.
+
+Electronic mail has overtaken the telephone as the
+primary means of business communication.(American
+Management Association)
+
+Of online users 41 percent check their email daily.
+
+"A gold mine for those who can take advantage of
+bulk email programs"- The New York Times
+
+"Email is an incredible lead generation tool"
+-Crains Magazine
+
+"Blows away traditional Mailing"-Advertising Age
+
+"It's truly arrived. Email is the killer app so
+far in the online world"-Kate Delhagen, Forrester
+Research Analyst
+
+Why not let a professional company handle your
+direct email marketing efforts for you?
+
+*We will assist you in developing your entire
+campaign!
+
+*We can even create your ad or annoucement for
+you!
+
+*No responses? We resend at no cost!
+
+For More Information CALL NOW-702-248-1043
+
+
+For removal see below.
+
+SPECIAL RATES
+SPECIAL ENDS Friday March 31, 2000
+
+Targeted Rates Upon Request.
+
+BONUS!!!
+Call In and receive 50,000 Extra Emails at
+No Cost!
+
+Call NOW - 702-248-1043
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+We are terribly sorry if you received this message
+in error.
+If you wish to be removed. Please, type "REMOVE"
+in the subject line:   outnow@fiberia.com
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

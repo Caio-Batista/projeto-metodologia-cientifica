@@ -1,0 +1,55 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 13753 invoked from network); 1 Jul 2000 09:50:14 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 1 Jul 2000 09:50:14 -0000
+Received: (qmail 25009 invoked from network); 1 Jul 2000 09:50:12 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 1 Jul 2000 09:50:12 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156419AbQGAJiY>; Sat, 1 Jul 2000 05:38:24 -0400
+Received: by vger.rutgers.edu id <S157102AbQGAJiD>;
+	Sat, 1 Jul 2000 05:38:03 -0400
+Received: from [210.227.158.210] ([210.227.158.210]:26271 "EHLO ns.merix.co.jp")
+	by vger.rutgers.edu with ESMTP id <S156419AbQGAJhx>;
+	Sat, 1 Jul 2000 05:37:53 -0400
+Received: from 192.168.1.1 ([192.168.1.12])
+	by ns.merix.co.jp (8.9.2/8.9.2) with SMTP id SAA11225
+	for <"linux-kernel@vger.rutgers.edu">; Sat, 1 Jul 2000 18:47:23 +0900 (JST)
+Date:	Sat, 1 Jul 2000 18:47:23 +0900 (JST)
+Message-Id: <200007010947.SAA11225@ns.merix.co.jp>
+From: =?ISO-2022-JP?B?GyRCM3Q8MDJxPFIlUiVlITwlXiVzJU0lQyVIGyhC?= <>
+To: =?ISO-2022-JP?B??= <"linux-kernel@vger.rutgers.edu"@ns.merix.co.jp>
+X-Mailer: Direct Email v0.22
+Subject: =?ISO-2022-JP?B?GyRCIiEhfiIhRy88fSMxIzUjMCFzI1UjUCRyTFw7WCQ5PSI/Jj1RISoiISF+IiEbKEI=?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+〜〜〜〜突然申し訳ございません。〜〜〜〜
+
+　　ヒューマンネットの就職・転職情報です。
+　　◆◆◆◆http://www.hyuman.com◆◆◆◆
+
+
+・今すぐ御仕事をお探しの方！！
+・年収ＵＰの転職を目指す方！！
+・新卒。第二新卒の方！！
+・ＳＯＨＯの方！！
+・アルバイトをお探しの方！！
+
+　　　〜是非ご覧下さい〜
+
+｛只今、ご登録者全員にもれなくプレゼント！！｝
+
+株式会社ヒューマン・ネット　　http://www.hyuman.com　 へどうぞ・・
+            メールアドレス　　tanigou@hyuman.com
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

@@ -1,0 +1,72 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 25656 invoked from network); 11 Jul 2000 03:22:50 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 11 Jul 2000 03:22:50 -0000
+Received: (qmail 7767 invoked from network); 11 Jul 2000 03:22:47 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 11 Jul 2000 03:22:47 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S157020AbQGKDEN>; Mon, 10 Jul 2000 23:04:13 -0400
+Received: by vger.rutgers.edu id <S156960AbQGKDDw>;
+	Mon, 10 Jul 2000 23:03:52 -0400
+Received: from [210.232.155.114] ([210.232.155.114]:4342 "EHLO
+	ns.topseed.co.jp") by vger.rutgers.edu with ESMTP
+	id <S157058AbQGKC4g>; Mon, 10 Jul 2000 22:56:36 -0400
+Received: from ns ([210.232.155.122])
+	by ns.topseed.co.jp (8.8.7/3.6Wbeta7) with SMTP id MAA26553;
+	Tue, 11 Jul 2000 12:00:02 +0900 (JST)
+Message-ID: <030901bfeae2$1d05efa0$7a9be8d2@topseed.co.jp.topseed.co.jp>
+From: "SEED1" <seed1@topseed.co.jp>
+To: <Undisclosed-Recipient: ;;@bruce-guenter.dyndns.org>
+Subject: =?iso-2022-jp?B?GyRCJDMkcyRLJEEkTxsoQg==?=
+Date:	Tue, 11 Jul 2000 11:45:44 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+以前何らかの形でメールのやり取りが有った方、又はロッボト型収集でメールアドレ
+スを収集してお送りしました。不要な方はお手数ですが、削除お願いします。
+複数回送信しないよう注意しておりますがこちらでも削除いたしますので一切不要と
+いう方はそのままの状態でご返信下さい。
+
+私達は、週２、３時間という短時間で１ケ月２０万円から５０万円の間の副収入を得
+る方法をお教えします。お金と時間がいらないビジネスに魅力があります。
+
+たとえ借金があっても、やる気と勉強する姿勢があれば、成功へ導く素晴らしい、段
+階を踏んだトレーニング制度を用意しております。
+
+今の仕事とライフスタイルに影響なく仕事を始めたい方で、副収入２０万円から５０
+万円の収入を得たい人。又は本業として１ケ月に５０万円から１００万円以上の収入
+を望んでいる方を募集しています。
+
+私達は、机上の空論ではなく、実績に基づいて案内しています。
+サラリーマンの生涯賃金を４年で得ました。
+
+やる気と学ぶ姿勢の有る方、少しでも興味があれば、詳しい資料を送付します。
+
+　　　　　　　　　　　　　　　                           　千恵美
+
+■資料請求フォーム■     このままコピーして送付して下さい
+ビジネス名：ＣＯＢビジネス
+　　お名前：
+　　　住所：
+　　ＴＥＬ：
+　　ＦＡＸ：
+　　　携帯：
+     Ｅmail:　
+　受付番号:01:L711
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

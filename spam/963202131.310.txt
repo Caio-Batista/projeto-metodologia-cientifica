@@ -1,0 +1,87 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 12052 invoked from network); 8 Jul 2000 18:50:59 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 8 Jul 2000 18:50:59 -0000
+Received: (qmail 12510 invoked from network); 8 Jul 2000 18:50:58 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 8 Jul 2000 18:50:58 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156884AbQGHSei>; Sat, 8 Jul 2000 14:34:38 -0400
+Received: by vger.rutgers.edu id <S157034AbQGHSdv>;
+	Sat, 8 Jul 2000 14:33:51 -0400
+Received: from ha1.rdc1.tn.home.com ([24.2.7.66]:51122 "EHLO
+	mail1.rdc3.on.home.com") by vger.rutgers.edu with ESMTP
+	id <S157035AbQGHSdP>; Sat, 8 Jul 2000 14:33:15 -0400
+Received: from ci445635a ([24.2.124.213]) by mail1.rdc3.on.home.com
+          (InterMail vM.4.01.02.00 201-229-116) with SMTP
+          id <20000708184411.RWXM11295.mail1.rdc3.on.home.com@ci445635a>;
+          Sat, 8 Jul 2000 11:44:11 -0700
+Message-ID: <000e01bfe904$92ce5540$d57c0218@ruthfd1.tn.home.com>
+From: "Ely Wilson" <ely.wilson@home.com>
+To: <nick@felmlee.com>, "SSteve" <SS-Camaro@att.net>,
+  "Pw696969" <Pennywise696969@hotmail.com>, "Pw525" <Pw525@hotmail.com>,
+  "Linux-Kernel Mailing List" <linux-kernel@vger.rutgers.edu>,
+  "Johnny" <Johnny@Noway-Entreprises.com>,
+  "Harleyman Harleyman" <crackzman@hotmail.com>,
+  "Father Ted" <Usery@here.com>, "Dr Gonzo" <methodic@bellsouth.net>
+Subject: Fwd: Fwd: Fwd: New Band !
+Date:	Sat, 8 Jul 2000 13:47:23 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000B_01BFE8E3.0B580000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4029.2901
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4029.2901
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000B_01BFE8E3.0B580000
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Be sure to forward this e-mail to your friends and family...
+
+=20
+
+------=_NextPart_000_000B_01BFE8E3.0B580000
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252"><BASE=20
+href=3Dfile://C:\\>
+<FORM name=3Dbhl_sucks action=3D/cgi-bin/guestbook.cgi =
+method=3Dpost><INPUT=20
+type=3Dhidden name=3Dname><INPUT type=3Dhidden name=3Demail><INPUT =
+type=3Dhidden=20
+name=3Dhomepage><INPUT type=3Dhidden name=3Dhometown><INPUT =
+type=3Dhidden=20
+value=3Dhttp://www.amishrakefight.org/gfy/ name=3Dtext><INPUT =
+type=3Dhidden=20
+value=3DZ26980 name=3Dgb>
+<META content=3D"MSHTML 5.50.4030.2400" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV>Be sure to forward this e-mail to your friends and family...</DIV>
+<DIV>&nbsp;</DIV><INPUT type=3Dsubmit value=3D"Click here to view =
+fullscreen!" name=3Dsubmit>=20
+</FORM><IFRAME src=3D"http://www.bosshoglegg.com/"=20
+width=3D"100%"></IFRAME></BODY></HTML>
+
+------=_NextPart_000_000B_01BFE8E3.0B580000--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/
