@@ -1,0 +1,87 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 16045 invoked from network); 9 Jul 2000 00:58:19 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 9 Jul 2000 00:58:19 -0000
+Received: (qmail 22363 invoked from network); 9 Jul 2000 00:58:17 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 9 Jul 2000 00:58:17 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S157115AbQGIAir>; Sat, 8 Jul 2000 20:38:47 -0400
+Received: by vger.rutgers.edu id <S157126AbQGIAib>;
+	Sat, 8 Jul 2000 20:38:31 -0400
+Received: from dsmtp4.dion.ne.jp ([210.172.64.83]:58624 "EHLO
+	dsmtp4.dion.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S157096AbQGIAh0>; Sat, 8 Jul 2000 20:37:26 -0400
+Received: from mail.dion.ne.jp by dsmtp4.dion.ne.jp (8.9.3/3.7W-00031710)
+	id JAA17550; Sun, 9 Jul 2000 09:48:26 +0900 (JST)
+Date:	Sun, 9 Jul 2000 09:48:26 +0900 (JST)
+Message-Id: <200007090048.JAA17550@dsmtp4.dion.ne.jp>
+From: =?ISO-2022-JP?B?SGVhcnR=?= <heart24@v7.com>
+To: =?ISO-2022-JP?B?IP==?= <linux-kernel@vger.rutgers.edu>
+X-Mailer: Direct Email v0.22
+Subject: =?ISO-2022-JP?B?GyRCMEI/NCQ3JEYkRCQrJCgkayRIJDMkbRsoQh==?=
+Reply-To: heart24@v7.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+  $B$O$8$a$^$7$F!#FMA3$N%a!<%k!"BgJQ<:Ni$$$?$7$^$9!#(B
+$B!!2<5-$N>pJs$,ITMW$JJ}$KFO$$$F$7$^$$$^$7$?$i!"K\Ev$K(B
+$B!!?=$7Lu$"$j$^$;$s!#:G8e$K%j%9%H$+$i$N:o=|0FFb$,$"$j$^$9!#(B
+
+  //////////  $B%M%C%H$NLBO)$KF~$C$F$7$^$&A0$K!*(B ////////////
+$B!!$R(B $B$H(B $BL#(B $B0c(B $B$&(B $B%5(B $B%$(B $B%H(B $B$@(B $B$1(B $B$r(B $BJ,(B $BN`(B $B$7(B $B$F(B $B$_(B $B$^(B $B$7(B $B$?(B $B!#(B
+$B!!$9(B $B$Y(B $B$F(B $B!V(B $BL5(B $BNA(B $B$*(B $B;n(B $B$7(B $B!W(B $B$G(B $B$-(B $B$k(B $B$H(B $B$3(B $B$m(B $B$G(B $B$9(B $B!#(B
+
+  $B"!(B $B%U%'%A8fMQC#$N$A$g$C$HJQ$o$C$?@8Cf7Q%5%$%H(B $B"!(B
+
+  $B-!(B  $B%J(B $B!<(B $B%9!&(B $B%9(B $B%F(B $B!<(B $B%7(B $B%g(B $B%s(B $B@8(B $BCf(B $B7Q(B
+  http://www.arap.ne.jp/nurse/
+  $BGr0a$NCf$O$H$C$F$b%+%i%U%k"v(B $B4y$N2<!"%H%$%l!"990a<<(B
+  $BK;$7$$4G8nIX$5$s$N6y$+$i6y$^$GB*$($F$$$^$9!#(B
+  $B;~$K$O>P$$!";~$K$ON^!#(B
+  $B%J!<%9%9%F!<%7%g%s$O:#Lk$b%I%i%^%A%C%/$G$9!#(B
+
+  $B-"!!5S(B $B%U(B $B%'(B $B%A(B $B!&(B $B%Q(B $B%s(B $B%A(B $B%i(B $B9%(B $B$-(B $BI,(B $B8+(B $B!*(B
+  http://www.arap.ne.jp/sekuhara/
+  $BLk6P$N#O#L$K;E3]$1$i$l$?f+!*%;%/%O%i2]D9$,?&8"MtMQ!#(B
+
+
+  $B"!(B $B2hA|$D$-$N%i%$%V%A%c%C%H(B $B"!(B 
+
+  $B-#!!=w(B $B$N(B $B5S(B $B$K(B $B$O(B $BI=(B $B>p(B $B$,(B $B$"(B $B$j(B $B$^(B $B$9(B
+$B!!(Bhttp://www.eurus.dti.ne.jp/~aiwai10/d-joshiryo/X92/
+$B!!%A%c%C%H$N$*Aj<j$O!VH~5S!W!#$7$+$b!"%+%a%i$O=w$N;R$N(B
+  $B<+Bp$K$D$J$.$C$Q$J$7!*$H$$$&$3$H$O!"!"!"!"!"(B
+  $B2hA|$D$-%A%c%C%H$HGA$-$,F1;~?J9T$NJ#9g%3%s%F%s%D%5%$%H!#(B
+
+$B!!-$!!%A(B $B%c(B $B%C(B $B%H(B $B$9(B $B$k(B $B$J(B $B$i(B $B2D(B $B0&(B $B$$(B $B;R(B
+$B!!(Bhttp://www.jade.dti.ne.jp/~gal/lady2/
+  $B=P2q$$$N7G<(HD$+$i2hA|$D$-%A%c%C%H$^$G!"$b$j$@$/$5$s!#(B
+
+  $B"!(B $BEpD02;@<$D$-%j%"%k%?%$%`Ep;#(B $B"!(B
+
+$B!!-%(B  $BH~(B $B=w(B $B8B(B $BDj(B $B$N(B $B%9(B $B%H(B $B!<(B $B%-(B $B%s(B $B%0(B
+$B!!(Bhttp://www.st5.com/cgi-bin/hole.cgi?banner=lady
+$B!!87A*$5$l$F$$$^$9!#=w@-$N<A$O6H3&$G%H%C%W%l%Y%k$G$7$g$&!#(B
+$B!!Bg<j#A#V$N8=Lr=wM%$,Fs?M$b$$$^$9!#;(;o$G$b$h$/>R2p$5$l$F(B
+$B!!$$$^$9$+$i!"$4B8CN$NJ}$bB?$$$O$:!#:#$,:G9b$K=\$N%5%$%H!#(B
+
+$B!!-&(B  $BKe(B $B$N(B $BIt(B $B20(B $B$r(B $B$N(B $B$>(B $B$$(B $B$F(B $B$$(B $B$k(B $B$h(B $B$&(B $B$J(B $B?F(B $B6a(B $B46(B
+$B!!(Bhttp://210.224.176.100/joinmemberhp/from.phtml?banner=peep159-2
+$B!!=w$N;R$N%[!<%`%Z!<%8$,$"$C$?$j$7$F!"$[$N$\$N$7$F$$$^$9!#(B
+
+
+  $B$3$3$^$G$*FI$_$/$@$5$$$^$7$F!"$"$j$,$H$&$4$6$$$^$9!#(B
+  $B:#8e!"%a!<%kG[?.$,ITMW$NJ}$O7oL>$K!VITMW!W$H$45-F~$N$&$((B
+  $B$*<j?t$G$9$,!"$4JV?.$/$@$5$$$^$;!#(B     heart24@v7.com
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

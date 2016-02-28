@@ -1,0 +1,64 @@
+From owner-linux-kernel-outgoing@vger.rutgers.edu Sat Jan 08 12:21:52 2000
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 4666 invoked from network); 8 Jan 2000 12:21:51 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 8 Jan 2000 12:21:51 -0000
+Received: (qmail 14172 invoked from network); 8 Jan 2000 12:21:50 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 8 Jan 2000 12:21:50 -0000
+Received: by vger.rutgers.edu via listexpand id <S157508AbQAHMUw>;
+	Sat, 8 Jan 2000 07:20:52 -0500
+Received: by vger.rutgers.edu id <S157153AbQAHMTy>;
+	Sat, 8 Jan 2000 07:19:54 -0500
+Received: from [216.61.45.8] ([216.61.45.8]:2662 "EHLO votris.mrdata.com")
+	by vger.rutgers.edu with ESMTP id <S157533AbQAHMSt>;
+	Sat, 8 Jan 2000 07:18:49 -0500
+Received: from mrdata.com (98C9FD37.ipt.aol.com [152.201.253.55])
+	by votris.mrdata.com (8.9.3/8.8.5) with SMTP id GAA14581;
+	Sat, 8 Jan 2000 06:18:43 -0600 (CST)
+From:   abtecagasa@aol.com
+Date:   Sat, 08 Jan 00 05:51:31 EST
+To:     Friend@public.com
+Subject: A Search Engine Just For You !
+Message-ID: <>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+This e-mail is to inform you of a new search engine for adult web sites:
+http://www.adultfairlinks.com.
+
+Fairlinks is being built at this time and will be launched in a few months.
+We are contacting webmasters now so you can take a look at the site and give
+us any input you may have.  This site will be unique since it will be a TRUE
+SEARCH ENGINE FOR ADULT SITES.  There will be no banner ads, no support from
+any adult site.  All categories will rotate so that each site will be at the
+top.  Two thirds of all money collected will then be used to promote
+Fairlinks.  Most advertising will be done off the web with plans already
+made to market the site on the Internet.  We are going to pool thousands of
+adult sites together to form a partnership that will make a formidable force
+and to have funds for national advertising.
+
+Please take a look, join in and get your site promoted as it should be!
+http://www.adultfairlinks.com
+
+
+
+
+
+
+
+
+ To be removed, call (888) 341-4786 and  Clearly spell your email address
+and you will be removed.
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

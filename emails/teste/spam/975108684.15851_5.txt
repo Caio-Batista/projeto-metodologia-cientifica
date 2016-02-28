@@ -1,0 +1,50 @@
+Return-Path: <NEWCAR@flyingleemersonline.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 15817 invoked by alias); 24 Nov 2000 23:29:42 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 15814 invoked from network); 24 Nov 2000 23:29:42 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 24 Nov 2000 23:29:42 -0000
+Received: (qmail 31213 invoked by uid 500); 24 Nov 2000 23:29:37 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 31167 invoked by uid 502); 24 Nov 2000 23:29:30 -0000
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 31140 invoked from network); 24 Nov 2000 23:29:26 -0000
+Received: from unknown (HELO flyingleemersonline.com) (216.144.219.61)
+  by bfsmedia.sk.ca with SMTP; 24 Nov 2000 23:29:26 -0000
+From: "NEW CAR" <NEWCAR@flyingleemersonline.com>
+To: <gn@bfsmedia.com>
+Subject: BEST DEAL ON NEW CARS AND TRUCKS!!!
+Sender: "NEW CAR" <NEWCAR@flyingleemersonline.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Fri, 24 Nov 2000 18:30:06 -0800
+Content-Transfer-Encoding: 8bit
+Content-Length: 1167
+Lines: 25
+
+<HTML>
+<BODY BGCOLOR="#FFFFFF"><CENTER>
+
+<TABLE BORDER=0>
+<td width="224" height="13" align="left" valign="top"><img height="225" width="224" src="
+http://www.rewardvisit.com/users/apa1/carpic.jpg" border="0"></td>
+<TD><FONT COLOR="#0000a0" SIZE=4 FACE="VERDANA,ARIAL"><CENTER>
+<B>Get The Lowest Price On Your New Car<BR>
+Without Negotiating For Hours!</b><FONT SIZE=2><P>
+<P ALIGN=CENTER>Would you like to get a straight-forward answer from<br>
+a sales professional that does not have to "check with his manager"?<br>
+<CENTER><P><TABLE BORDER=0><TR><TD ALIGN=LEFT><FONT COLOR="#ff0000" SIZE=2><b>
+                           <LI> Prices based on dealer invoice.
+                           <LI> No aggravation.
+                           <LI> Instant Quotes online.
+                           <LI> All brands, new, used, take your pick.</FONT><P>
+</TD></TR></TABLE>
+<FONT COLOR="#0000a0" SIZE=5 FACE="VERDANA,ARIAL"><b>
+<A HREF="http://www.rewardvisit.com/users/apa1">Click Here</A>
+<p>&nbsp;<p>
+<FONT COLOR="#0000a0" SIZE=1 FACE="VERDANA,ARIAL">
+<A HREF="mailto:remove@myderky.com">To be removed from future mailings click here</a>
+</TD></TR></TABLE>
+</BODY>
+</HTML>

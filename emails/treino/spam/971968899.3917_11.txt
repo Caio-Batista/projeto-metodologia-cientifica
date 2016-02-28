@@ -1,0 +1,61 @@
+Return-Path: <info1301@trim-slim.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 2715 invoked by alias); 19 Oct 2000 09:02:29 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 2712 invoked from network); 19 Oct 2000 09:02:29 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 19 Oct 2000 09:02:29 -0000
+Received: (qmail 30458 invoked by uid 500); 19 Oct 2000 09:02:28 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 30454 invoked by uid 502); 19 Oct 2000 09:02:28 -0000
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 30442 invoked from network); 19 Oct 2000 09:02:25 -0000
+Received: from unknown (HELO ns1.wieser.co.at) (193.186.166.2)
+  by bfsmedia.sk.ca with SMTP; 19 Oct 2000 09:02:25 -0000
+Received: from dsl14.baseballbual.com (dsl14.baseballbual.com [209.224.112.14]) by ns1.wieser.co.at (NTMail 4.30.0013/LG0009.00.df6c93d0) with ESMTP id iibebaaa for <gn@bfsmedia.com>; Thu, 19 Oct 2000 11:01:53 +0000
+CC: gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com,
+	gn@caravan.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Received: from mail.trim-slim.com [209.224.112.14] by 207v.mail.trim-slim.com with SMTP; Wed, 18 Oct 2000 05:02:54 -0500
+From: info1304@trim-slim.com
+Date: Wed, 18 Oct 2000 05:02:54 -0500
+Subject: WEALTH & TRAVEL FREE!!!!
+Message-Id: <4jpc0j5udf8.8xlepe81he2@mail.trim-slim.com>
+To: $user@caravan.com
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+X-UnexpectedSender: info1301@trim-slim.com
+Content-Length: 578
+Lines: 23
+
+<p>GET YOUR FREE VACATION WHEN<br>
+<br>
+VISITING OUR WEB SITE!<br>
+<br>
+ONLY 14 ASSOCIATES NEEDED!<br>
+<br>
+We will train hard working and ethical candidates.<br>
+<br>
+HUGE COMPENSATION PLAN AVAILABLE!<br>
+<br>
+This is your chance to get in on the ground floor of the<br>
+<br>
+Multi-Billion-Dollar Home Based Business Revolution.<br>
+<br>
+Receive a COMPLIMENTARY Weekend GetAway<br>
+<br>
+when visiting our site.<br>
+<br>
+<a href="http://www.trim-slim.com/income">CLICK HERE</a><br>
+<br>
+To be removed<br>
+<a href="mailto:remove@trim-slim.com?Subject=REMOVE">CLICK HERE</a></p>
+

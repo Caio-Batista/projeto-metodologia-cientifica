@@ -1,0 +1,145 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Received: (listrecv, mailbox 'linux-kernel' opened at Mon Jul 31 08:36:32 2000)
+Received: (listsend invoked at Mon Jul 31 08:36:32 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 30942 invoked from network); 31 Jul 2000 08:36:31 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 31 Jul 2000 08:36:31 -0000
+Received: (qmail 24667 invoked from network); 31 Jul 2000 08:36:29 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 31 Jul 2000 08:36:29 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S157445AbQGaIJo>; Mon, 31 Jul 2000 04:09:44 -0400
+Received: by vger.rutgers.edu id <S157501AbQGaIIG>;
+	Mon, 31 Jul 2000 04:08:06 -0400
+Received: from pns.wobline.de ([212.68.68.5]:3821 "EHLO mcqueen.wolfsburg.de")
+	by vger.rutgers.edu with ESMTP id <S157543AbQGaIHG>;
+	Mon, 31 Jul 2000 04:07:06 -0400
+Received: from S.Debler (bitways-gw.wobline.de [212.68.68.216])
+	by mcqueen.wolfsburg.de (8.9.3/8.9.1/tw-2000524) with SMTP id KAA03879
+	for <linux-kernel@vger.rutgers.edu>; Mon, 31 Jul 2000 10:27:07 +0200
+Date:	Mon, 31 Jul 2000 10:27:07 +0200
+Message-Id: <200007310827.KAA03879@mcqueen.wolfsburg.de>
+From:	"S.Debler (Bitways)" <Stefan.Debler@bitways.de>
+To:	linux-kernel@vger.rutgers.edu
+Subject: Urgent inquiry for Paper bags!
+X-Mailer: SIMTEX 1.0 maintaince release
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender:	owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+
+Urgent inquiry for Paper bags,
+
+
+Dear Sirs,
+
+We are an international trading company, mainly serving the European industry.
+
+The Bitways Group purchases globally on own account and then resells the products to various clients. Our aim is to source globally and to offer our clients the best prices worldwide.
+
+From one of our own or rented databases we have retrieved your address as potential supplier of the product(s) we would like to purchase this time. If you can promptly give us your very best quote you might be chosen as the supplier we have been looking for as early as next week.
+
+In conclusion I would like to ask you to make us your best quote as this will enable us to work more efficiently.
+
+This email is confidential. If you are not the intended recipient, you must
+not copy, disclose or use its contents. If you have received it in error,
+please inform us immediately by return email and delete the document.
+
+Please check the Specifications:
+
+Inquiry for paper bags!
+
+
+Position                  Product
+
+1	paper bag
+
+
+Quantity: 150 000 pcs.
+
+Productpecification: 
+
+Paper bag with carrying bail.
+
+Dimensions: 320mm x 320mm + 220mm
+
+Weight : 80g/qm
+
+Material : Natronbleached
+
+Imprint : 2 colours (Manuscript is on compact or floppy disk)
+
+Packaging: In cartons. Item number has to be printed on the carton.
+
+
+
+Position                       Product
+
+2	paper bag
+
+
+Quantity: 150 000 pcs.
+
+Productspecification:
+ 
+Paper bag without a carrying bail.
+
+Dimensions: 220mm x 380mm + 100mm
+
+Weight : 50g/qm
+
+Material : Natronbleached
+
+Imprint : 2 colours (Manuscript is on compact or floppy disk)
+
+Packaging: In cartons. Item number has to be printed on the carton.
+
+
+
+
+
+Position                     Product
+
+3	paper bag (biscuit bag)
+
+Quantity: 19 000 000 pcs.
+
+Productspecifications:
+
+Dimensions: 140mm x 70mm x 280mm
+
+Weight : 40g/qm
+
+Material : parchment  substitute 
+                 Oxygen bleached
+
+Imprint : 2 colours (Manuscript is on compact or floppy disk)
+
+Packaging: In cartons. Item number has to be printed on the carton.
+
+
+
+
+Yours Sincerely,
+
+Stefan Debler
+Global Sourcing Operator
+Global Sourcing Team
+
+BITWAYS GLOBAL SOURCING GMBH
+Berliner Brücke, BZO, House 20,
+InnovationsCampus,
+D-38448 Wolfsburg, Germany
+Fon: +49 (0) 5361 275789
+Fax: +49 (0) 5361 275799
+Email: Stefan.Debler@bitways.de
+www.bitways.de
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

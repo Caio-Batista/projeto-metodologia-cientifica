@@ -1,0 +1,29 @@
+From MAILER-DAEMON Fri Jan 28 10:08:54 2000
+Return-Path: <>
+Delivered-To: bruceg-spam@daedalus.bfsmedia.sk.ca
+Received: (qmail 2369 invoked from network); 28 Jan 2000 10:08:53 -0000
+Received: from hal.qcc.sk.ca (198.169.27.1)
+  by bfsmedia.sk.ca with SMTP; 28 Jan 2000 10:08:53 -0000
+Received: (qmail 24070 invoked by uid 559); 28 Jan 2000 10:08:53 -0000
+Delivered-To: bguenter-vmailmgr-subscribe@qcc.sk.ca
+Received: (qmail 24067 invoked from network); 28 Jan 2000 10:08:50 -0000
+Received: from gateway.novasoft.com (208.208.92.2)
+  by hal.qcc.sk.ca with SMTP; 28 Jan 2000 10:08:50 -0000
+Received: from brick.factpoint.com (irx.novasoft.com [208.208.92.1]) by gateway.novasoft.com (8.7.1/8.7.1) with SMTP id FAA03175; Fri, 28 Jan 2000 05:07:22 -0500 (EST)
+DATE: 28 Jan 00 5:02:31 AM
+Message-ID: <fBbEw1rXPkvfzqi>
+SUBJECT: Here's your cruise tickets thanks !
+
+<html>
+
+<head>
+
+
+<body>
+
+<p><font size="6"><a href="http://208.142.202.20/getaway/">Click Here</a></font></p>
+
+</body>
+
+</html>
+OR go to     http://208.142.202.20/getaway/

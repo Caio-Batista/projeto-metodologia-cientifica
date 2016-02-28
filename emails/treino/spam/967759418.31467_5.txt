@@ -1,0 +1,108 @@
+Return-Path: <neworderproductions@home.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 31435 invoked by alias); 31 Aug 2000 21:41:23 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 31432 invoked from network); 31 Aug 2000 21:41:22 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 31 Aug 2000 21:41:22 -0000
+Received: (qmail 27540 invoked by uid 500); 31 Aug 2000 21:41:20 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 27536 invoked by uid 500); 31 Aug 2000 21:41:20 -0000
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 27532 invoked from network); 31 Aug 2000 21:41:19 -0000
+Received: from mail2.rdc2.ab.home.com (24.64.2.49)
+  by em.ca with SMTP; 31 Aug 2000 21:41:19 -0000
+Received: from home.com ([24.68.182.86]) by mail2.rdc2.ab.home.com
+          (InterMail vM.4.01.02.00 201-229-116) with ESMTP
+          id <20000831214111.WDKM377.mail2.rdc2.ab.home.com@home.com>;
+          Thu, 31 Aug 2000 14:41:11 -0700
+Message-ID: <39AED085.3E5FA545@home.com>
+Date: Thu, 31 Aug 2000 15:39:17 -0600
+From: Kim Fontaine & Albert Couillard <neworderproductions@home.com>
+X-Mailer: Mozilla 4.7C-CCK-MCD {C-UDP; EBM-APPLE} (Macintosh; I; PPC)
+X-Accept-Language: en,pdf
+MIME-Version: 1.0
+To: nikkih2@home.com, damitch@telusplanet.net,
+ 	radiomal@mala.bc.ca, dennis.smith@shaw.cable.ca,
+ 	l.lawlor@iname.com, virtualjoe@cyberdude.com,
+ 	tim.zerr@sk.sympatico.ca, sweetness_53@hotmail.com,
+ 	jadesjar@julian.uwo.ca, gardnerross@hotmail.com,
+ 	chrisbelsito@hotmail.com, bohrson@hotmail.com,
+ 	ss216@sk.sympatico.ca, darryl@pointsnorth.com,
+ 	b.wagner@sk.sympatico.ca, marianne@the.link.ca,
+ 	dwschaeffer@hotmail.com, brass.g@sk.sympatico.ca,
+ 	ccfitz@sk.sympatico.ca, lewisfer@mailcity.com,
+ 	nweinrauch@home.com, cl.bLue@sk.sympatico.ca,
+ 	jLL130@mail.USASK.ca, oskar_lesa@hotmail.com,
+ 	a123happygirl@yahoo.com, fameguy@hotmail.com,
+ 	riffmaker@hotmail.com, WJK392@mail.USASK.ca, SWIKKI@hotmail.com,
+ 	martindi@yahoo.com, SuperStar778@hotmail.com, burbur@fcmail.com,
+ 	ghol@innocent.com, HULKEVIN@hotmail.com,
+ 	nicolisch@sk.sympatico.ca, bakerbr@sk.sympatico.ca,
+ 	truitt@dlcwest.com, c.tomes@fire.tas.gov.au, cecemisch@aol.com,
+ 	900@ckbi.com, themeprk@aol.com, franc6@francismarchildon.com,
+ 	info@furyguitar.com, what@ican.net, sabko@sk.sympatico.ca,
+ 	j.semple@sk.sympatico.ca, jeremyr@idirect.com,
+ 	j.speirs@sk.sympatico.ca, osac@sk.sympatico.ca,
+ 	kat.lawrence@sk.sympatico.ca, KBloomquist@golder.com,
+ 	jgordon@kenora.com, lorena@em.ca, msimard@net1fx.com,
+ 	mark.schmidt@earthlingsound.com, sodarock@aol.com,
+ 	megan@meganm.com, info@righttracks.com,
+ 	birdsell@artsboard.sk.ca, song.centre@sk.sympatico.ca,
+ 	trendysenator@hotmail.com, varcity.fruit@sk.sympatico.ca,
+ 	t33455699@hotmail.com, jean_bouffard@radio-canada.ca,
+ 	ss216@sk.sympatico.ca, safety@webster.sk.ca
+Subject: A Message from Prairie Music Week
+Content-Type: multipart/alternative;
+ boundary="------------D4171B39DFB786FD739CFEEE"
+Content-Length: 1896
+Lines: 48
+
+
+--------------D4171B39DFB786FD739CFEEE
+Content-Type: text/plain; charset=us-ascii; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 7bit
+
+If you've already received this message, I apologize for sending it
+again.
+
+Saskatoon Prairie Music Award Nominee (for outstanding video), Nicol
+Lischka has arranged a celebration and get together for all
+Saskatoon-based Prairie Music Award and Industry Award Nominees.
+
+It will be held this Saturday September 7th at Lydia's Pub on Broadway.
+
+Nicol, along with Eileen Laverty, Crooked Creek, Jen Lane and Ben
+Schenstead will be performing between 10:00 pm and 2:00 am.
+
+You are invited to come out, meet the nominees and soak up the music.
+
+If you have any questions, please contact me at 652-2540. Email:
+neworderproductions@home.com
+
+We hope you can attend.
+
+Kim Fontaine
+Prairie Music Week Media Coordinator
+
+--------------D4171B39DFB786FD739CFEEE
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+If you've already received this message, I apologize for sending it again.
+<p>Saskatoon Prairie Music Award Nominee (for outstanding video), Nicol
+Lischka has arranged a celebration and get together for all
+<br>Saskatoon-based Prairie Music Award and Industry Award Nominees.
+<p>It will be held this Saturday September 7th at Lydia's Pub on Broadway.
+<p>Nicol, along with Eileen Laverty, Crooked Creek, Jen Lane and Ben Schenstead
+will be performing between 10:00 pm and 2:00 am.
+<p>You are invited to come out, meet the nominees and soak up the music.
+<p>If you have any questions, please contact me at 652-2540. Email: <a href="mailto:neworderproductions@home.com">neworderproductions@home.com</a>
+<p>We hope you can attend.
+<p>Kim Fontaine
+<br>Prairie Music Week Media Coordinator</html>
+
+--------------D4171B39DFB786FD739CFEEE--
+

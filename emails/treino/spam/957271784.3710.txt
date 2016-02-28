@@ -1,0 +1,52 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 794 invoked from network); 2 May 2000 07:30:12 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 2 May 2000 07:30:12 -0000
+Received: (qmail 19774 invoked from network); 2 May 2000 07:30:08 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 2 May 2000 07:30:08 -0000
+Received: by vger.rutgers.edu via listexpand id <S154970AbQEBHUI>;
+	Tue, 2 May 2000 03:20:08 -0400
+Received: by vger.rutgers.edu id <S155178AbQEBHT7>;
+	Tue, 2 May 2000 03:19:59 -0400
+Received: from mta1.snfc21.pbi.net ([206.13.28.122]:46916 "EHLO
+	mta1.snfc21.pbi.net") by vger.rutgers.edu with ESMTP
+	id <S154970AbQEBHTn>; Tue, 2 May 2000 03:19:43 -0400
+Received: from earthlink.net ([207.215.186.168])
+ by mta1.snfc21.pbi.net (Sun Internet Mail Server sims.3.5.2000.01.05.12.18.p9)
+ with SMTP id <0FTX00KIN8N3KS@mta1.snfc21.pbi.net> for
+ linux-kernel@vger.rutgers.edu; Tue,  2 May 2000 00:25:54 -0700 (PDT)
+Received: from localhost (user40@localhost) by ibis.prod.itd.earthlink.net
+ (8.9.3/8.9.3) with ESMTP id VAA26114 for <list3b@aol.com>; Wed,
+ 09 Feb 2000 21:13:52 -0800
+Date:	Wed, 09 Feb 2000 11:05:37 -0800
+From: The Digital Yearbook <Tt07@earthlink.net>
+Subject: Hello High School Alumni
+X-Sender: WN76@earthlink.net
+To: Th65@aol.com
+Message-id: <Pine.LNX.4.21.0000572369782.97894-114873@earthlink.net>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=US-ASCII
+Content-transfer-encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+Dear High School Alumni,
+ 
+This email is to inform you of a new website that allows you to stay in touch with your high school friends. <A HREF="http://www.tdyalumni.com">www.tdyalumni.com</A>
+ 
+Wouldn't it be great to surprise an old friend with an email.  Spark up that old friendship, see what the captain of the football team is up to today, find out if the prom queen is still all that.  Go to <A HREF="www.tdyalumni.com">www.tdyalumni.com</A> and contact them now!  This is the number one site for contacting high school alumni.
+ 
+The Digital Yearbook allows you to create your own personal page, which mcan include now and then photos, yearbook pages, group/team photos, or your own collage of photos.  With over 25,000 schools listed on The Digital Yearbook you are able to not only stay in touch with friends from your high school, but you are also able to rekindle friendships with people you meet from any other high school in the United States.
+ 
+ 
+If you would like to be removed from this automated mailing list please <A HREF="mailto:takemeoff2@adexec.com?SUBJECT=REMOVE">CLICK HERE</A>.
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

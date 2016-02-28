@@ -1,0 +1,47 @@
+Return-Path: <carol46@wkbwmail.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 2748 invoked from network); 4 Nov 2000 01:11:12 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 4 Nov 2000 01:11:12 -0000
+Received: (qmail 1527 invoked by uid 500); 4 Nov 2000 01:11:11 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1522 invoked from network); 4 Nov 2000 01:11:10 -0000
+Received: from ma-exc.ilpea.com (212.210.97.70)
+  by em.ca with SMTP; 4 Nov 2000 01:11:10 -0000
+Received: from ma-exc.ilpea.com (unverified [10.1.0.30]) by ma-prx.ilpea.com
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000072035@ma-prx.ilpea.com>;
+ Sat, 04 Nov 2000 02:16:40 +0100
+Message-ID: <B0000072035@ma-prx.ilpea.com>
+Received: from localhost (MA-PRX [10.1.0.32]) by ma-exc.ilpea.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id WG3L9YXY; Sat, 4 Nov 2000 02:10:14 +0100
+X-Sender: carol46@wkbwmail.com
+From: carol46 <carol46@wkbwmail.com>
+To: bruceg@em.ca
+Date: Fri, 03 Nov 2000 10:13:44 -0800
+Subject: Hey .....
+Reply-To: carol46@wkbwmail.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: base64
+Content-Length: 1372
+
+DQpZb3UgYXJlIGN1cnJlbnRseSBsaXN0ZWQgYXM6IGJydWNlZ0BlbS5jYSANCg0KVGhpcyBp
+cyBzZW50IHRvIG15IFByaW9yaXR5IExpc3QgLi4gSSBzYXZlZCB5b3VyIA0KZW1haWwgYWRk
+cmVzcyBmcm9tIG91ciBwYXN0IGNvcnJlc3BvbmRlbmNlLiAgSWYgDQp5b3UgYXJlIG5vIGxv
+bmdlciBpbnRlcmVzdGVkIGluIGludGVyY2hhbmdpbmcgDQppbmZvcm1hdGlvbnMsIHBsZWFz
+ZSBhY2NlcHQgbXkgc2luY2VyZSBhcG9sb2d5IA0KYW5kIHJlcGx5IHdpdGggIlJlbW92ZSIu
+DQoNCj09PT09PT09PT09PT09PT09PT09PT09PT0NCg0KQ0FOIEkgQVNLIFlPVSBBIFFVRVNU
+SU9OPz8NCg0KQXJlIFlvdSBUaXJlZCBvZiBTdXJmaW5nIHRoZSBOZXQsIExvb2tpbmcgZm9y
+IGFuIE9ubGluZQ0KQnVzaW5lc3MsIGFuZA0KTmV2ZXIgR2V0dGluZyBBbnl3aGVyZT8NCg0K
+V0hBVCBJRg0KDQpUaGVyZSB3YXMgYSB3YXkuDQoNCmh0dHA6Ly93d3cucHJvaGVscHlvdS1v
+bmxpbmUuY29tLzMyLmh0bWwNCg0KDQpfX19fX19fX19fX19fX19fX19fX19fXw0KDQpUbyBy
+ZW1vdmUsIGhpdCByZXBseSBhbmQgdHlwZSAicmVtb3ZlIiBhdCBzdWJqZWN0Lg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg==
+

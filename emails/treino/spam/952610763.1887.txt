@@ -1,0 +1,75 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 32638 invoked from network); 9 Mar 2000 10:54:53 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 9 Mar 2000 10:54:53 -0000
+Received: (qmail 32348 invoked from network); 9 Mar 2000 10:54:51 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 9 Mar 2000 10:54:51 -0000
+Received: by vger.rutgers.edu via listexpand id <S156298AbQCIGvQ>;
+	Thu, 9 Mar 2000 01:51:16 -0500
+Received: by vger.rutgers.edu id <S156282AbQCIGvG>;
+	Thu, 9 Mar 2000 01:51:06 -0500
+Received: from [210.146.252.72] ([210.146.252.72]:59638 "EHLO 001.co.jp")
+	by vger.rutgers.edu with ESMTP id <S156347AbQCIGuk>;
+	Thu, 9 Mar 2000 01:50:40 -0500
+Received: from ej1.001.co.jp.001.co.jp ([192.168.100.33])
+	by 001.co.jp (8.8.8/3.6W:Mon Mar 16 22:26:19 JST 1998) with SMTP id SAA00004;
+	Thu, 9 Mar 2000 18:38:16 +0900 (JST)
+Message-ID: <009301bf89ad$88eacce0$2164a8c0@ej1.001.co.jp.001.co.jp>
+From: "=?iso-2022-jp?B?GyRCJTAlbCE8JUglOCVjITwlSyE8GyhC?=" <mic@001.co.jp>
+To: <mic@001.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIXYhdiUwJWwhPCVIJTglYyE8JUshPBsoQiBORVc=?=
+	=?iso-2022-jp?B?UxskQiF2IXYbKEIgKDAzMDkxMDA4KQ==?=
+Date:   Thu, 9 Mar 2000 18:53:46 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3612.1700
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3612.1700
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+グレートジャーニーNEWS
+
+突然のメール送信する事をお許しください。
+
+
+好評に付き　第２弾！！新春キャンペーンです。
+
+
+〜ダイバー必見：パプアニューギニア〜
+〜新企画！！：マレー鉄道で巡る３都市
+　（シンガポール・マラッカ・クアラルンプール）〜
+〜人気のグアム３日間・４日間〜
+
+是非ご利用ください。
+
+
+グレートジャーニーNEWS
+
+◆◇春よこい！キャンペーン◇◆
+
+http://www.001.co.jp/mic/gj/beach/supuringkyanpen2.html
+
+お問い合わせを心よりお待ち申し上げております。
+
+株式会社ミクロネシア
+（運輸大臣登録旅行業632号・日本旅行業協会正会員）
+電話：０３−３７９７−５７１１（東京）
+       ０６−６２６３−３５０５（大阪）
+一般旅行業務取扱主任者 ： 佐藤・中塚
+
+
+   　　　
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

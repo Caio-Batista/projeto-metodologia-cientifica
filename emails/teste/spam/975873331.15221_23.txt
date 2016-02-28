@@ -1,0 +1,54 @@
+Return-Path: <tigerline@onetel.net.uk>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 13492 invoked by alias); 3 Dec 2000 11:15:22 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 13489 invoked from network); 3 Dec 2000 11:15:22 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 3 Dec 2000 11:15:22 -0000
+Received: (qmail 18483 invoked by uid 500); 3 Dec 2000 11:15:21 -0000
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 18479 invoked from network); 3 Dec 2000 11:15:20 -0000
+Received: from mail3.svr.pol.co.uk (195.92.193.19)
+  by em.ca with SMTP; 3 Dec 2000 11:15:20 -0000
+Received: from [195.92.168.141] (helo=tmailb1.svr.pol.co.uk)
+	by mail3.svr.pol.co.uk with esmtp (Exim 3.13 #0)
+	id 142X6l-0003um-00
+	for bait@em.ca; Sun, 03 Dec 2000 11:15:03 +0000
+Received: from modem-470.red-naped-sapsucker.dialup.pol.co.uk ([62.137.209.214] helo=onetel.net.uk)
+	by tmailb1.svr.pol.co.uk with smtp (Exim 3.13 #0)
+	id 142X6z-0004r1-00
+	for bait@em.ca; Sun, 03 Dec 2000 11:15:17 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=200012031111="
+To: bait@em.ca
+From: tigerline@onetel.net.uk
+X-Mailer: 7B85CEEE.2CB48D62.a99cfcbc1bdd90561dc930da93ac02fc
+Subject: 
+Organization: Mike Lewis
+Message-Id: <E142X6z-0004r1-00.2000-12-03-11-15-17@tmailb1.svr.pol.co.uk>
+Date: Sun, 03 Dec 2000 11:15:17 +0000
+Content-Length: 567
+Lines: 21
+
+--=200012031111=
+Content-Type: text/plain;charset=US-ASCII
+
+Hello,
+
+If you've ever dreamt of making a fortune on the Stock Market then you
+need the "insider" information I will give you. I want to make you a very special offer. I want to invite you to start receiving some of the 
+most powerful information about the Stock Market - and to discover why you don't need loads of money to make money.
+
+
+Join our FREE Newsletter today.
+
+Send a blank email with "Tigerline Newsletter" in the subject line.
+
+Mike Lewis, Editor
+tigerline@onetel.net.uk
+
+
+
+--=200012031111=--
+

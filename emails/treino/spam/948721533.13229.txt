@@ -1,0 +1,100 @@
+Return-Path: <#@[]>
+Message-ID: <20000124122713.12358.qmail@daedalus.bfsmedia.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 12352 invoked by alias); 24 Jan 2000 12:27:12 -0000
+Delivered-To: root@daedalus.bfsmedia.com
+Received: (qmail 12349 invoked by alias); 24 Jan 2000 12:27:11 -0000
+Delivered-To: postmaster@daedalus.bfsmedia.com
+Received: (qmail 12346 invoked for bounce); 24 Jan 2000 12:27:11 -0000
+Date: 24 Jan 2000 12:27:11 -0000
+From: MAILER-DAEMON@daedalus.bfsmedia.com
+To: postmaster@daedalus.bfsmedia.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at daedalus.bfsmedia.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<JU27Vm5fH@edifica.com.br>:
+200.242.16.226 does not like recipient.
+Remote host said: 550 unknown user <JU27Vm5fH@edifica.com.br>
+Giving up on 200.242.16.226.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 12343 invoked for bounce); 24 Jan 2000 12:27:06 -0000
+Date: 24 Jan 2000 12:27:06 -0000
+From: MAILER-DAEMON@daedalus.bfsmedia.com
+To: JU27Vm5fH@edifica.com.br
+Subject: failure notice
+
+Hi. This is the qmail-send program at daedalus.bfsmedia.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<user.name@em.ca>:
+vdeliver: ERROR: Invalid or unknown virtual user
+
+--- Below this line is a copy of the message.
+
+Return-Path: <JU27Vm5fH@edifica.com.br>
+Received: (qmail 12339 invoked from network); 24 Jan 2000 12:27:05 -0000
+Received: from nmr500.abct.polyu.edu.hk (HELO nmr500.) (158.132.214.250)
+  by em.ca with SMTP; 24 Jan 2000 12:27:05 -0000
+Received: from y585Gk2gD  by nmr500. (SMI-8.6/SMI-SVR4)
+	id UAA06440; Mon, 24 Jan 2000 20:19:27 +0800
+From: JU27Vm5fH@edifica.com.br
+DATE: 24 Jan 00 7:21:31 AM
+Message-ID: <gQdmvhI8DyZr4L>
+Received: From 21563lo21yuk36 by 658jfk561kim21;Mon, 24 Jan 2000 7:21:31 -400 (EDT)
+SUBJECT: Important Notice-Anti-aging
+Apparently-To: <usrry@earthlink.net>
+Apparently-To: <usrpr0036a@earthlink.net>
+Apparently-To: <usronaldo@earthlink.net>
+Apparently-To: <usrngrx@earthlink.net>
+Apparently-To: <usrabbits@aol.com>
+Apparently-To: <usm@idnnkmwnrkb.ge>
+Apparently-To: <usincorporation@huntingreport.com>
+Apparently-To: <users-optimas@optimas.com>
+Apparently-To: <user.name@em.ca>
+Apparently-To: <usb@sam.sdu.dk>
+Apparently-To: <usamamo@antwerpen.com>
+Apparently-To: <usamall@juno.com>
+Apparently-To: <usamail@goettfert.com>
+Apparently-To: <usamababy@norcalis.net>
+Apparently-To: <usama@webtv.net>
+Apparently-To: <usama@ibm.net>
+Apparently-To: <usama69@yahoo.com>
+Apparently-To: <usalungcare@yahoo.com>
+Apparently-To: <usaltair@xmission.com>
+
+Medial News -- Anti-aging Breakthrough-- You Can Grow 10 to 20 Years Younger
+
+As announced on NBC News, Dateline NBC, 20/20, Oprah Winfrey and many other news programs and talk shows, you can stop the aging process and actually reverse it.
+
+These scientific and medical breakthroughs, which can help millions of Americans better defend against the most devastating diseases of aging such as heart disease, cancer and stroke, are now available to the public. This news is important to every person over 40 and affects every family. 
+
+Educate yourself. Get the facts now. Documentation beats conversation. Go to our comprehensive scientific Anti-Aging Web site extension- http://63.87.81.235/ -- to view the latest medical information on these incredible breakthroughs.
+
+Medical experts report that aging is now classified as a disease -- a disease that can be prevented. Scientists have also determined what causes aging and have identified the cure. Getting old isn't inevitable. The biological clock can now be turned back -- 10 to 20 years. A more vital, vibrant and healthy life is possible for everyone.
+
+With the new scientific breakthrough products available to the public, you can also monitor your biological age and watch yourself turn the clock back 10, 15 even 20 years.
+
+We have scientific evidence that proves you can turn back the clock several years in the first 30 days, while feeling and seeing the following benefits: Reversing the effects of aging; lessening stress levels; strengthening the immune system; lowering blood pressure and cholesterol; improving sexual performance; losing fat; building muscle; removing wrinkles; eliminating cellulite; improving sleep quality; fighting osteoporosis; calming menopause; improving your outlook on life and much more.
+
+Go to our scientific Web site extension - http://63.87.81.235/ for complete information. 
+
+Best of all -- these products are affordably priced and there is nothing to lose with the products -- but years. You can prove that the products work with a simple at-home laboratory test and the products are backed by a 90-day, 100-percent, money-back guarantee from one of the largest FDA-approved pharmaceutical laboratories in the United States.
+
+Don't miss this opportunity to educate yourself. Go to our scientific Web site extension- http://63.87.81.235/ -- and gather all the scientific facts.
+
+Best regards,
+Jim Roberts
+Anti-Aging Counselor
+
+
+****** We apologize if you are not interested in medical news. The Internet is the fastest method of distributing this type of timely medical information. If you wish to have your e-mail address deleted from our scientific update database, DO NOT USE THE REPLY BUTTON. Simply click here - http://63.87.81.235/  and select the unsubscribe button at the top right side of the page.
+
+
+
+

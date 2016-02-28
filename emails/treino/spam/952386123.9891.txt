@@ -1,0 +1,72 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 9861 invoked from network); 6 Mar 2000 23:40:19 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 6 Mar 2000 23:40:19 -0000
+Received: (qmail 14352 invoked from network); 6 Mar 2000 23:40:16 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 6 Mar 2000 23:40:16 -0000
+Received: by vger.rutgers.edu via listexpand id <S161025AbQCFSBP>;
+	Mon, 6 Mar 2000 13:01:15 -0500
+Received: by vger.rutgers.edu id <S156061AbQCFRws>;
+	Mon, 6 Mar 2000 12:52:48 -0500
+Received: from home.mbox.co.jp ([210.141.69.43]:42440 "EHLO smtp.mbox.co.jp")
+	by vger.rutgers.edu with ESMTP id <S160983AbQCFRn5>;
+	Mon, 6 Mar 2000 12:43:57 -0500
+Received: from LocalHost (pc4.manga507-unet.ocn.ne.jp [211.6.164.76])
+	by smtp.mbox.co.jp (8.9.1+3.1W/3.7W) with SMTP id EAA13680;
+	Tue, 7 Mar 2000 04:46:25 +0900 (JST)
+Message-ID: <044701bf87a5$426a9ca0$1901a8c0@manga507unet.ocn.ne.jp>
+From: "manami" <manami@mbox.co.jp>
+To: <Undisclosed-Recipient: ;;@bruce-guenter.dyndns.org>
+Subject: =?iso-2022-jp?B?GyRCTS1MPiU/JWwlcyVINktIayNTI00xR0F8GyhC?=
+Date:   Tue, 7 Mar 2000 02:42:26 +0900
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02FB_01BF87DE.C66599E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_02FB_01BF87DE.C66599E0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+http://k.manami.tripod.com/
+を参照してください
+
+
+------=_NextPart_000_02FB_01BF87DE.C66599E0
+Content-Type: text/html;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-2022-jp" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2614.3500" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><A =
+href=3D"http://k.manami.tripod.com/">http://k.manami.tripod.com/</A></DIV=
+>
+<DIV><FONT size=3D2>=1B$B$r;2>H$7$F$/$@$5$$=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_02FB_01BF87DE.C66599E0--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

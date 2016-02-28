@@ -1,0 +1,226 @@
+Return-Path: <committee@iftp.org>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 4207 invoked by alias); 11 Dec 2000 18:27:05 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 4204 invoked from network); 11 Dec 2000 18:27:05 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 11 Dec 2000 18:27:05 -0000
+Received: (qmail 8638 invoked by uid 500); 11 Dec 2000 18:27:03 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 8634 invoked by uid 500); 11 Dec 2000 18:27:02 -0000
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 8630 invoked from network); 11 Dec 2000 18:27:01 -0000
+Received: from python.iftp.org (root@207.0.41.5)
+  by em.ca with SMTP; 11 Dec 2000 18:27:01 -0000
+Received: from localhost (Class20.nissan.net [207.0.41.181])
+	by python.iftp.org (8.9.3/8.8.7) with ESMTP id NAA08687
+	for <lorena@em.ca>; Mon, 11 Dec 2000 13:24:14 -0500
+Message-Id: <200012111824.NAA08687@python.iftp.org>
+X-Sender: committee@iftp.org
+From: "committee@iftp.org" <committee@iftp.org>
+To: lorena@em.ca
+Date: Mon, 11 Dec 2000 13:24:42 -0500
+Subject: BOYCOTT The "Reverse Domain Name Hijackers"
+Reply-To: members@iftp.org
+Organization: The Internet For The People Committee
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001__1630836675_48282.19"
+Content-Length: 11383
+Lines: 195
+
+This is a Multipart MIME message.
+
+------=_NextPart_000_001__1630836675_48282.19
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Internet For The People
+
+Dear Internet User,
+
+In an effort to prevent deep pocket corporations from taking control of the 
+Internet by hijacking domain names from their rightful owners, particularly 
+small businesses, we are taking it upon ourselves to bring a classic case of 
+“Reverse Domain Name Hijacking” to the public and ask you to take a stand.
+
+Uzi Nissan, an Israeli-American, is the founder and president of Nissan Computer 
+Corp., incorporated in Raleigh, NC in 1991.  Nissan registered the domain names 
+NISSAN.COM in 1994 to help expand his computer business and NISSAN.NET in1996 
+to provide Internet Services (ISP). 
+
+Recently, Nissan Motor Co Ltd. and Nissan North America, Inc. (the automaker), 
+filed a lawsuit against Nissan Computer Corp. for owning NISSAN.COM and NISSAN.NET. 
+They alleged trademark infringement and dilution in an attempt to bankrupt 
+the Nissan Computer Company, and are now dragging them through federal court 
+in their own back yard (Los Angeles).
+
+Nissan’s last name has been in his family for more then seven generations and 
+can be traced back to biblical days (identifying the seventh month in the Jewish 
+calendar), long before Nissan Motors was in existence.
+
+Nissan Computer Corp. has created a website dedicated to this matter at www.ncchelp.org.   
+Public awareness is the most effective way to fight back against these giant 
+corporations.  Our goal is to reach out and inform you, the public, of this 
+ridiculous and bogus lawsuit.TAKE  A  STAND
+
+Visit www.ncchelp.org, read the complete story, the people's opinions and take 
+a stand by:
+
+1.         Join the BOYCOTT movement already in progress against these hijackers.
+            See what other concerned Internet users think.
+
+2.         Let your voice be heard in protest of this ridiculous and bogus 
+lawsuit.  
+            by sending an email to these hijackers from:  
+            www.ncchelp.org/email
+
+3.         Email this important message to your friends,
+            family and colleagues, and ask them to do the same. 
+
+4.         Let your Congressmen and Senators know about this problem and your 
+opinion. 
+
+YOU  CAN  HELP
+
+Remember, it can happen to you or to someone you know.  No domain name will 
+be safe if these hijackers get their way.  Every deep pocket entity will be 
+able to use the court system to bankrupt legitimate small businesses and hijack 
+their domain names. 
+
+ 
+
+Thanking you in advance for helping and taking a stand.
+
+The "Internet For The People" Committee 
+
+http://www.iftp.org/
+
+members@iftp.org
+
+This is a one-time message, it will NOT be repeated, there is no need to unsubscribe.
+
+
+------=_NextPart_000_001__1630836675_48282.19
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9u
+YWwvL0VOIj4NCjxIVE1MPjxIRUFEPjxUSVRMRT5JbnRlcm5ldCBGb3IgVGhlIFBlb3BsZTwv
+VElUTEU+DQo8TUVUQSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0L2h0
+bWw7IGNoYXJzZXQ9d2luZG93cy0xMjUyIj4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA1LjUw
+LjQxMzQuNjAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+DQo8Qk9EWSBsYW5nPUVOLVVTIHN0
+eWxlPSJ0YWItaW50ZXJ2YWw6IC41aW4iIHZMaW5rPSMwMDAwZmYgbGluaz0jMDAwMGZmPg0K
+PFAgY2xhc3M9TXNvTm9ybWFsPjxGT05UIGZhY2U9QXJpYWw+PEI+RGVhciBJbnRlcm5ldCAN
+ClVzZXI8L0I+LDxPOlA+PC9POlA+PC9GT05UPjwvUD4NCjxQIGNsYXNzPU1zb05vcm1hbD48
+Rk9OVCBmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+SW4gYW4gZWZmb3J0
+IHRvIA0KcHJldmVudCBkZWVwIHBvY2tldCBjb3Jwb3JhdGlvbnMgZnJvbSB0YWtpbmcgY29u
+dHJvbCBvZiB0aGUgSW50ZXJuZXQgYnkgDQpoaWphY2tpbmcgZG9tYWluIG5hbWVzIGZyb20g
+dGhlaXIgcmlnaHRmdWwgb3duZXJzLCBwYXJ0aWN1bGFybHkgc21hbGwgDQpidXNpbmVzc2Vz
+LCB3ZSBhcmUgdGFraW5nIGl0IHVwb24gb3Vyc2VsdmVzIHRvIGJyaW5nIGEgDQpjbGFzc2lj
+IGNhc2Ugb2Ygk1JldmVyc2UgRG9tYWluIE5hbWUgSGlqYWNraW5nlCB0byB0aGUgcHVibGlj
+IGFuZCBhc2sgeW91IHRvIA0KdGFrZSBhIHN0YW5kLjxPOlA+PC9POlA+PC9GT05UPjwvUD4N
+CjxQIGNsYXNzPU1zb05vcm1hbD48Rk9OVCBmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1w
+dHlQYXJhc10+VXppIE5pc3NhbiwgYW4gDQpJc3JhZWxpLUFtZXJpY2FuLCBpcyB0aGUgZm91
+bmRlciBhbmQgcHJlc2lkZW50IG9mIE5pc3NhbiBDb21wdXRlciBDb3JwLiwgDQppbmNvcnBv
+cmF0ZWQgaW4gUmFsZWlnaCwgTkMgaW4gMTk5MS4gJm5ic3A7Tmlzc2FuIHJlZ2lzdGVyZWQg
+dGhlIGRvbWFpbiBuYW1lcyA8U1BBTiANCnN0eWxlPSJGT05ULVZBUklBTlQ6IHNtYWxsLWNh
+cHMiPk5JU1NBTi5DT008L1NQQU4+IGluIDE5OTQgdG8gaGVscCBleHBhbmQgaGlzIA0KY29t
+cHV0ZXIgYnVzaW5lc3MgYW5kIDxTUEFOIHN0eWxlPSJGT05ULVZBUklBTlQ6IHNtYWxsLWNh
+cHMiPk5JU1NBTi5ORVQgDQo8L1NQQU4+aW4xOTk2IHRvIHByb3ZpZGUgSW50ZXJuZXQgU2Vy
+dmljZXMgKElTUCkuJm5ic3A7PC9GT05UPjwvUD4NCjxQIGNsYXNzPU1zb05vcm1hbD48Rk9O
+VCBmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+UmVjZW50bHksIE5pc3Nh
+biANCk1vdG9yIENvIEx0ZC4gYW5kIE5pc3NhbiBOb3J0aCBBbWVyaWNhLCBJbmMuICh0aGUg
+YXV0b21ha2VyKSwgZmlsZWQgYSBsYXdzdWl0IA0KYWdhaW5zdCBOaXNzYW4gQ29tcHV0ZXIg
+Q29ycC4gZm9yIG93bmluZyA8U1BBTiANCnN0eWxlPSJGT05ULVZBUklBTlQ6IHNtYWxsLWNh
+cHMiPk5JU1NBTi5DT008L1NQQU4+IGFuZCA8U1BBTiANCnN0eWxlPSJGT05ULVZBUklBTlQ6
+IHNtYWxsLWNhcHMiPk5JU1NBTi5ORVQuPC9TUEFOPiBUaGV5IGFsbGVnZWQgdHJhZGVtYXJr
+IA0KaW5mcmluZ2VtZW50IGFuZCBkaWx1dGlvbiBpbiBhbiBhdHRlbXB0IHRvIGJhbmtydXB0
+IHRoZSBOaXNzYW4gQ29tcHV0ZXIgQ29tcGFueSwgDQphbmQgYXJlIG5vdyBkcmFnZ2luZyB0
+aGVtIHRocm91Z2ggZmVkZXJhbCBjb3VydCBpbiB0aGVpciBvd24gYmFjayB5YXJkIChMb3Mg
+DQpBbmdlbGVzKS48TzpQPjwvTzpQPjwvRk9OVD48L1A+DQo8UCBjbGFzcz1Nc29Cb2R5VGV4
+dD48Rk9OVCBmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+Tmlzc2FuknMg
+bGFzdCANCm5hbWUgaGFzIGJlZW4gaW4gaGlzIGZhbWlseSBmb3IgbW9yZSB0aGVuIHNldmVu
+IGdlbmVyYXRpb25zIGFuZCBjYW4gYmUgdHJhY2VkIA0KYmFjayB0byBiaWJsaWNhbCBkYXlz
+IChpZGVudGlmeWluZyB0aGUgc2V2ZW50aCBtb250aCBpbiB0aGUgSmV3aXNoIGNhbGVuZGFy
+KSwgDQpsb25nIGJlZm9yZSBOaXNzYW4gTW90b3JzIHdhcyBpbiBleGlzdGVuY2UuPC9GT05U
+PjwvUD4NCjxQIGNsYXNzPU1zb05vcm1hbD48Rk9OVCBmYWNlPUFyaWFsPjwhW2lmICFzdXBw
+b3J0RW1wdHlQYXJhc10+Tmlzc2FuIENvbXB1dGVyIA0KQ29ycC4gaGFzIGNyZWF0ZWQgYSB3
+ZWJzaXRlIGRlZGljYXRlZCB0byB0aGlzIG1hdHRlciBhdCA8QSANCmhyZWY9Imh0dHA6Ly93
+d3cubmNjaGVscC5vcmcvIj48U1BBTiANCnN0eWxlPSJGT05ULVZBUklBTlQ6IHNtYWxsLWNh
+cHMiPnd3dy5uY2NoZWxwLm9yZzwvU1BBTj48L0E+LiZuYnNwOyZuYnNwOyBQdWJsaWMgDQph
+d2FyZW5lc3MgaXMgdGhlIG1vc3QgZWZmZWN0aXZlIHdheSB0byBmaWdodCBiYWNrIGFnYWlu
+c3QgdGhlc2UgZ2lhbnQgDQpjb3Jwb3JhdGlvbnMuICZuYnNwO091ciBnb2FsIGlzIHRvIHJl
+YWNoIG91dCBhbmQgaW5mb3JtIHlvdSwgdGhlIHB1YmxpYywgb2YgdGhpcyANCnJpZGljdWxv
+dXMgYW5kIGJvZ3VzIGxhd3N1aXQuPEJSIHN0eWxlPSJtc28tc3BlY2lhbC1jaGFyYWN0ZXI6
+IGxpbmUtYnJlYWsiPjwhW2lmICFzdXBwb3J0TGluZUJyZWFrTmV3TGluZV0+PEJSIA0Kc3R5
+bGU9Im1zby1zcGVjaWFsLWNoYXJhY3RlcjogbGluZS1icmVhayI+PCFbZW5kaWZdPjxPOlA+
+PC9POlA+PEI+PEZPTlQgDQpjb2xvcj0jZmYwMDAwPlRBS0UmbmJzcDsgQSZuYnNwOyBTVEFO
+RDwvRk9OVD48TzpQPjwvTzpQPjwvQj48L0ZPTlQ+PC9QPg0KPFAgY2xhc3M9TXNvTm9ybWFs
+PjxGT05UIGZhY2U9QXJpYWw+PCFbaWYgIXN1cHBvcnRFbXB0eVBhcmFzXT5WaXNpdCA8QSAN
+CmhyZWY9Imh0dHA6Ly93d3cubmNjaGVscC5vcmcvIj48U1BBTiANCnN0eWxlPSJGT05ULVZB
+UklBTlQ6IHNtYWxsLWNhcHMiPnd3dy5uY2NoZWxwLm9yZzwvU1BBTj48L0E+LCByZWFkIHRo
+ZSBjb21wbGV0ZSANCnN0b3J5LCB0aGUgcGVvcGxlJ3Mgb3BpbmlvbnMgYW5kIHRha2UgYSBz
+dGFuZCBieTo8TzpQPjwvTzpQPjwvRk9OVD48L1A+DQo8UCBjbGFzcz1Nc29Ob3JtYWw+PEZP
+TlQgDQpmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+MS4mbmJzcDsmbmJz
+cDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgDQpKb2luIHRoZSA8Qj5C
+T1lDT1RUPC9CPiBtb3ZlbWVudCBhbHJlYWR5IGluIHByb2dyZXNzIGFnYWluc3QgdGhlc2Ug
+DQpoaWphY2tlcnMuPEJSPiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyANCjxBIGhyZWY9Imh0dHA6Ly93d3cubmNj
+aGVscC5vcmcvUGFnZV8xL3BhZ2VfMS5zaHRtbCI+PFNQQU4gDQpzdHlsZT0iRk9OVC1WQVJJ
+QU5UOiBzbWFsbC1jYXBzIj5TZWUgd2hhdCBvdGhlciBjb25jZXJuZWQgSW50ZXJuZXQgdXNl
+cnMgDQp0aGluay48L1NQQU4+PC9BPjwvRk9OVD48L1A+DQo8UCBjbGFzcz1Nc29Ob3JtYWw+
+PEZPTlQgDQpmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+Mi4mbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgDQpMZXQgeW91ciB2
+b2ljZSBiZSBoZWFyZCBpbiBwcm90ZXN0IG9mIHRoaXMgcmlkaWN1bG91cyBhbmQgYm9ndXMg
+bGF3c3VpdC4gDQombmJzcDs8QlI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IA0KYnkgc2VuZGluZyBhbiBlbWFp
+bCB0byB0aGVzZSBoaWphY2tlcnMgZnJvbTombmJzcDsgPFNQQU4gDQpzdHlsZT0iRk9OVC1W
+QVJJQU5UOiBzbWFsbC1jYXBzIj48QlI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IA0KPEEgaHJlZj0iaHR0cDov
+L3d3dy5uY2NoZWxwLm9yZy9lbWFpbCI+d3d3Lm5jY2hlbHAub3JnL2VtYWlsPC9BPjwvU1BB
+Tj4gDQo8TzpQPjwvTzpQPjwvRk9OVD48L1A+DQo8UCBjbGFzcz1Nc29Ob3JtYWw+PEZPTlQg
+DQpmYWNlPUFyaWFsPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+My4mbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgDQpFbWFpbCB0aGlzIGltcG9y
+dGFudCBtZXNzYWdlIHRvIHlvdXIgDQpmcmllbmRzLDxCUj4mbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgDQpmYW1p
+bHkgYW5kIGNvbGxlYWd1ZXMsIGFuZCBhc2sgdGhlbSB0byBkbyB0aGUgc2FtZS4gPE86UD48
+L086UD48L0ZPTlQ+PC9QPg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxGT05UIA0KZmFjZT1Bcmlh
+bD48IVtpZiAhc3VwcG9ydEVtcHR5UGFyYXNdPjQuJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IA0KTGV0IHlvdXIgQ29uZ3Jlc3NtZW4gYW5kIFNl
+bmF0b3JzIGtub3cgYWJvdXQgdGhpcyBwcm9ibGVtIGFuZCB5b3VyIG9waW5pb24uIA0KPE86
+UD48L086UD48L0ZPTlQ+PC9QPg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxCPjxGT05UIGZhY2U9
+QXJpYWw+PEZPTlQgY29sb3I9I2ZmMDAwMD5ZT1UmbmJzcDsgQ0FOJm5ic3A7IA0KSEVMUDwv
+Rk9OVD48TzpQPjwvTzpQPjwvRk9OVD48L0I+PC9QPg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxG
+T05UIGZhY2U9QXJpYWw+UmVtZW1iZXIsIGl0IGNhbiBoYXBwZW4gdG8geW91IG9yIHRvIHNv
+bWVvbmUgDQp5b3Uga25vdy4gJm5ic3A7Tm8gZG9tYWluIG5hbWUgd2lsbCBiZSBzYWZlIGlm
+IHRoZXNlIGhpamFja2VycyBnZXQgdGhlaXIgd2F5LiZuYnNwOyANCkV2ZXJ5IGRlZXAgcG9j
+a2V0IGVudGl0eSB3aWxsIGJlIGFibGUgdG8gdXNlIHRoZSBjb3VydCBzeXN0ZW0gdG8gYmFu
+a3J1cHQgDQpsZWdpdGltYXRlIHNtYWxsIGJ1c2luZXNzZXMgYW5kIGhpamFjayB0aGVpciBk
+b21haW4gbmFtZXMuIA0KPE86UD48L086UD48L0ZPTlQ+PC9QPjwhW2lmICFzdXBwb3J0RW1w
+dHlQYXJhc10+PCFbZW5kaWZdPjwhW2lmICFzdXBwb3J0RW1wdHlQYXJhc10+PCFbZW5kaWZd
+Pg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxGT05UIGZhY2U9QXJpYWw+PC9GT05UPiZuYnNwOzwv
+UD4NCjxQIGNsYXNzPU1zb05vcm1hbD48Rk9OVCBmYWNlPUFyaWFsPlRoYW5raW5nIHlvdSBp
+biBhZHZhbmNlIGZvciBoZWxwaW5nIGFuZCANCnRha2luZyBhIHN0YW5kLjxPOlA+PC9POlA+
+PC9GT05UPjwvUD4NCjxQIGNsYXNzPU1zb05vcm1hbD48Rk9OVCANCmZhY2U9QXJpYWw+PCFb
+aWYgIXN1cHBvcnRFbXB0eVBhcmFzXT48IVtlbmRpZl0+PE86UD48L086UD48L0ZPTlQ+PC9Q
+Pg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxGT05UIGZhY2U9QXJpYWw+VGhlICJJbnRlcm5ldCBG
+b3IgVGhlIFBlb3BsZSIgQ29tbWl0dGVlIA0KPE86UD48L086UD48L0ZPTlQ+PC9QPg0KPFAg
+Y2xhc3M9TXNvTm9ybWFsPjxGT05UIGZhY2U9QXJpYWw+PEEgDQpocmVmPSJodHRwOi8vd3d3
+LmlmdHAub3JnLyI+aHR0cDovL3d3dy5pZnRwLm9yZy88L0E+PE86UD48L086UD48L0ZPTlQ+
+PC9QPg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxGT05UIGZhY2U9QXJpYWw+PEEgDQpocmVmPSJt
+YWlsdG86bWVtYmVyc0BpZnRwLm9yZyI+bWVtYmVyc0BpZnRwLm9yZzwvQT48TzpQPjwvTzpQ
+PjwvRk9OVD48L1A+DQo8UCBjbGFzcz1Nc29Ob3JtYWw+PEZPTlQgDQpmYWNlPUFyaWFsPjwh
+W2lmICFzdXBwb3J0RW1wdHlQYXJhc10+PCFbZW5kaWZdPjxPOlA+PC9POlA+PC9GT05UPjwv
+UD4NCjxQIGNsYXNzPU1zb05vcm1hbD48Rk9OVCBmYWNlPUFyaWFsPjxGT05UIGNvbG9yPSNm
+ZjAwMDA+PFNQQU4gDQpzdHlsZT0iRk9OVC1WQVJJQU5UOiBzbWFsbC1jYXBzIj48Qj5UaGlz
+IGlzIGEgb25lLXRpbWUgbWVzc2FnZSwgaXQgd2lsbCBOT1QgYmUgDQpyZXBlYXRlZCwgdGhl
+cmUgaXMgbm8gbmVlZCB0byANCnVuc3Vic2NyaWJlLjwvQj48L1NQQU4+PC9GT05UPjxPOlA+
+PC9POlA+PC9GT05UPjwvUD4NCjxQIGNsYXNzPU1zb05vcm1hbD48Rk9OVCANCmZhY2U9QXJp
+YWw+PCFbaWYgIXN1cHBvcnRFbXB0eVBhcmFzXT48IVtlbmRpZl0+PE86UD48L086UD48L0ZP
+TlQ+PC9QPg0KPFAgY2xhc3M9TXNvTm9ybWFsPjxGT05UIA0KZmFjZT1BcmlhbD48IVtpZiAh
+c3VwcG9ydEVtcHR5UGFyYXNdPjwhW2VuZGlmXT48TzpQPjwvTzpQPjwvRk9OVD48L1A+PC9C
+T0RZPjwvSFRNTD4NCg==
+
+------=_NextPart_000_001__1630836675_48282.19--
+

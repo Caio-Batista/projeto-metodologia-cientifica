@@ -1,0 +1,130 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 15736 invoked from network); 28 May 2000 15:04:40 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 28 May 2000 15:04:40 -0000
+Received: (qmail 4207 invoked from network); 28 May 2000 15:04:38 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 28 May 2000 15:04:38 -0000
+Received: by vger.rutgers.edu via listexpand id <S156235AbQE1O6K>;
+	Sun, 28 May 2000 10:58:10 -0400
+Received: by vger.rutgers.edu id <S156221AbQE1O6D>;
+	Sun, 28 May 2000 10:58:03 -0400
+Received: from [194.73.73.138] ([194.73.73.138]:36292 "EHLO
+	ruthenium.btinternet.com") by vger.rutgers.edu with ESMTP
+	id <S155945AbQE1O5l>; Sun, 28 May 2000 10:57:41 -0400
+Received: from [62.7.107.60] (helo=localhost)
+	by ruthenium.btinternet.com with esmtp (Exim 2.05 #1)
+	id 12w4Wb-0003NF-00; Sun, 28 May 2000 15:58:46 +0100
+X-Sender: SergeChilon@compuserve.com
+From: serge chilon <SergeChilon@compuserve.com>
+To: "e-mail to all" <SergeChilon@compuserve.com>
+Date:	Sun, 28 May 2000 15:59:03 +0100
+Subject: ATLANTIS SHOPPING ONLINE NEWSWEEKLY
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+Message-Id: <E12w4Wb-0003NF-00@ruthenium.btinternet.com>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+================================================================================================
+                              ATLANTIS SHOPPING ONLINE 
+                                      NEWS
+                                   may 27,2000
+
+                            http://atlantisshopping.com
+ISSUE #3
+================================================================================================
+*NOTICE*
+WE ARE SENDING YOU THIS NEWSLETTER BECAUSE WE HAVE RECIEVED E-MAIL FROM YOU IN 
+THE PAST, TO THANK YOU PLEASE READ OUR *FREE* NEWSLETTER.
+
+
+*GET LISTED IN YAHOO FOR FREE 
+
+*At http://atlantisshopping.com you will find many  tools to increase your traffic 
+for FREE 
+
+*Try for free "WEBPOSITION GOLD works well for me   ,word of mouth it will work 
+for you too",get listed in the top TEN position in yahoo and altavista and just 
+sit down, watch the t.v and while your clicks go  through the roof!
+==================================================================================================================================================================================================
+*           *ROIBOT KILLER TACTICS*                 
+
+TURN WORDS INTO CASH WITH KILLER COPY TACTICS A GROUND BREAKING TOUR-DE-FORCE, 
+INTERACTIVE, MULTIMEDIA COURSE BY DAVID GARFINKEL"THE WORLD'S GREATEST COPYRIGHTING 
+COACH" . THIS COURSE SET THE BAR FOR WHAT INTERNET BASED LEARNING SHOULD BE .
+THE URL IS : http://www.roibot.com/w.cgi?R1904
+==================================================================================================================================================================================================
+* Click on our webmarketing page you will find FREE marketing tools to earn extra 
+cash.
+================================================================================================
+* EARN MONEY WHILE SURFING THE INTERNET WITH CASHSURFERS !!!
+================================================================================================
+* EARN MONEY WHILE LISTENING TO THE RADIO WITH RADIOFREECASH !!!
+================================================================================================
+* GET ALL YOUR MARKETING TOOLS ,AUTO RESPONDER,NEWSLETTER TRACKER,SUBMISSION 
+SERVER AND LOT'S     MORE AT ROIBOT 
+================================================================================================
+* EARN BIG MONEY IN OUR GAMBLING ZONE PARIS CASINO WITH ROULETTE,DICE,CARDS,POKER,SLOTS,FOOTBALL 
+    AND LOTS MORE
+================================================================================================
+* CHAT LIVE TO ALL YOUR FRIENDS AROUND THE WORLD
+================================================================================================
+* GET ALL THE INFO YOU NEED IN OUR INFO ZONE
+================================================================================================
+* Roibot killer tactic advertising Guaranty money magnets. 
+================================================================================================
+* try trellian award winning engine submission for free .
+================================================================================================
+* cashflow dlx most powerful marketing secrets by Bill Gates microsoft.
+================================================================================================
+* Computer tution, web design , free internet and lots more ALL FOR FREE !!! 
+================================================================================================
+* Play and record your own music , or listen to the radio  go to http://atlantisshopping.com 
+to our play music zone !!!
+================================================================================================================================================================================================
+* While you are here don't forget to browse in our shop. Atlantis shopping online 
+is a great place for shopping, you can buy anything you want from designer clothing-perfumes-cosmetics-vitamins-gifts-books-music-cd's-dvd's-audio 
+books-flowers-hotels-theatres-and concert tickets-travel and airline bookings-computers-tvs-videos-top 
+brand cars-lots more at lowest prices we guarantee good quality-best services-prompt 
+deliveries-and safe credit card transaction.
+================================================================================================================================================================================================
+Bill Gates' Success Recipe
+Obviously, there are many variables leading to anyone's success, including Bill 
+Gates', but here is the "meat and potatoes":
+ 	First, Bill Gates is the "boss" (or one of them) of the company; he works for 
+himself. (You've got to go into business for yourself if you are ever going to 
+be financially successful. You've got to stop making your boss rich and start 
+making money for YOU!)	
+ 	Second, he makes and sells products that are in very high demand. He knows 
+what people need and want --then he solves their problems quickly and easily. 
+(People are impatient and want their problems solved now, not next year.)	
+ 	Lastly and most importantly, he sells products that have very low costs, yet 
+extremely high mark-ups. (You have to know your margins. You'll never make money 
+buying for $5 and selling for $8. The so-called "$3 profit" will go straight 
+into your expenses... which means that you may actually lose money with such 
+small mark-ups!)	
+go to
+ http://atlantisshopping.com/reporter/  
+to find out more or place your order now for a discount
+================================================================================================================================================================================================
+*** tell us how you find our site.            ***
+please don't forget to subscribe to our free newsletter you may win a free holiday 
+to Hawaii , web camera , free software.
+
+Serge 
+
+EMAIL:
+SergeChilon@compuserve.com?atlantisshoppingnews
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

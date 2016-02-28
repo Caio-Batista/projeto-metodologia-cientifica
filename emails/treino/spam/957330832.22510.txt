@@ -1,0 +1,271 @@
+Return-Path: <bounce-update-5-106285@submit-yellow.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 15454 invoked by alias); 3 May 2000 04:29:12 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 15451 invoked from network); 3 May 2000 04:29:12 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 3 May 2000 04:29:12 -0000
+Received: (qmail 22020 invoked by uid 500); 3 May 2000 04:29:10 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 22015 invoked by uid 500); 3 May 2000 04:29:08 -0000
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 22010 invoked from network); 3 May 2000 04:29:05 -0000
+Received: from submit-yellow.com (205.238.174.158)
+  by em.ca with SMTP; 3 May 2000 04:29:05 -0000
+Message-Id: <LYRIS-106285-101-2000.05.02-19.38.18--lorena#em.ca@submit-yellow.com>
+Date: Tue, 02 May 2000 20:11:51 -0500
+To: lorena@em.ca
+From: On-Top Newsletter <newsletter@theyellowpages.org>
+Subject: [Update May, 2000] Optimize Your Site
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+List-Unsubscribe: <mailto:leave-update-5-106285F@submit-yellow.com>
+Reply-To: newsletter@theyellowpages.org
+
+Subject: Member Newsletter
+From:    Laurie Anderson, TheYellowPagesDotCom
+
+
+  ==================================================================
+  O n - T o p  (tm)                                        May, 2000
+
+  "Resources for your website"                    A Free Publication
+  ==================================================================
+
+
+                   .............................
+
+                         Sponsor Message:
+ 
+  Internet Marketing SuperConference 2000 - Las Vegas, June 16-18
+  ---------------------------------------------------------------
+  This conference is one of the only Internet marketing conferences 
+  that we personally recommend. You'll literally rub shoulders with 
+  some of the "movers and shakers" on the Internet, including Corey 
+  Rudl, Marlon Sanders, Jonathan Mizel, and many more. This is a 
+  *must* attend event. Discounted registration until May 15th.
+  http://209.40.121.97/conference2000/ims2.htm
+
+                   .............................
+
+
+      ***************************************************			
+      The On-Top Newsletter is dedicated to those who
+      want to promote and market their website. Be sure 
+      to take our interactive reader poll for a good
+      chance at winning a digital camera! (see below)
+      ***************************************************
+
+
+
+  "Here's how to Optimize your site for the Search Engines - Part 1" 
+   ================================================================
+                         by Paul Short
+
+
+  Optimizing your website for better search engine rankings 
+  requires some special knowlege and also takes a lot of time and 
+  hard work to be done effectively. This article outlines only 
+  the basic mechanics of website optimization. It is not meant to 
+  be taken as a total solution to getting your site listed higher 
+  in the search engine listings.
+
+  Keep in mind the following main points as they are the basis 
+  for the whole process.
+
+  Focus: Your site should be focused on no more than three main 
+  keywords or keyword phrases for maximum results.
+
+  Content: Your site should be set up as a valuable resource of 
+  information on one particular topic. This is how you'll 
+  generate your keywords and phrases.
+
+  Uniqueness: Your site should offer something that no one else 
+  has. Concentrate on this as the theme of your site.
+
+  Ok, let's jump right into the action.
+
+  Optimizing Your Title
+  ---------------------
+
+  The main purpose of the title is to accurately describe what 
+  your web page is all about. It tells in a few words why a 
+  visitor is either on your site right right now, or why they 
+  should click on your site in a search engine listing. You could 
+  also look at it as your sites "Headline", and write it as just 
+  that, a headline.
+
+  Pick 3 main keywords or 2 - 3 keyword phrases and use them in 
+  your title, but make sure the title still makes sense and also 
+  offers the viewer a reason to choose your site. Be creative but 
+  keep it relevant and stress your sites theme. Benefits sell. 
+  Show the potential viewer the benefits right in the title.
+
+  How am I suppose to include all that in my sites title? you 
+  ask. Well, the most effective way is to do some research. Go to 
+  the major search engines and type in keywords and phrases that 
+  a potential viewer may enter if they were looking for the type 
+  of information your site is offering. Out of the top 10 or so 
+  sites that are listed, which has the most compelling title? In 
+  other words, what would make you want to click on their site?
+
+  Do this with several keywords and phrases, log the results on 
+  on paper for use later and move on to the next section.
+
+  Keyword selection
+  -----------------
+
+  This seems to be the "Holy Grail" of search engine submission 
+  services and novices alike. The perfect keyword phrases. 
+  Although having the right mix of keywords is important, your 
+  goal is not only to get listed high in search results, but also 
+  to get the right type of people to click on your site. 
+
+  Prequalifying your sites viewers will bring quality traffic, 
+  people more likely to take advantage of what your site has to 
+  offer.
+
+  With this in mind, write up a list of at least 25 keywords 
+  and/or phrases based on the info you gathered in the previous 
+  section on titles. Then take your list and cut and slash it 
+  down to no more than 3 keywords or phrases most accurately 
+  related to your sites content and purpose. These three keywords 
+  will be the basis for your whole optimization process.
+
+  They'll be used in your title, your META tags, the description 
+  and body copy of your pages and even in the ALT text of your 
+  images.
+
+
+  META Tags
+  --------- 
+
+  The two main META tags used by most search engines are the:
+
+  <META NAME="keywords" CONTENT="your,keywords,here,">
+
+  <META NAME="description" CONTENT="your description here"> 
+
+  They are used by some, not all search engines along with your 
+  sites title to index and rate your site in their listings and 
+  also to provide the viewer with the text that appears when your 
+  site shows up in search results.
+
+  META keywords:
+  -------------- 
+
+  Use your keywords here with the most important ones first. Use 
+  different variations like capitalized and lowercase, commonly 
+  misspelled words etc. all followed by a comma with no space 
+  after the comma and do not go over 255 characters.
+
+  META description:
+  -----------------
+
+  Up to about 500 - 700 characters can be used here in the form 
+  of a short keyword loaded descriptive paragraph.
+
+  I cannot stress enough the importance of a good description 
+  that accurately describes the benefits of your site, uses 
+  your main keywords and phrases and also gives a compelling 
+  reason for the potential viewer to click on your site in the 
+  search results.
+
+  You see, your sites title is the headline, the keywords give 
+  the search engine spider the info on where to place your site 
+  in it's database and the description you provide is like the ad 
+  copy in a classified ad. Give the viewer a reason to click on 
+  your site, sell them on what your website has to offer. 
+
+          <Part 2 will be continued in the next Issue>
+
+  ---------------------------------------------------------------
+  For top search engine rankings, Email Paul at pauls99@sprint.ca
+  ---------------------------------------------------------------
+  For more of Paul Short's articles on search engine optimization 
+  and other website traffic building techniques, visit
+  http://bizwhiz.vr9.com and don't forget to subscribe to his
+  weekly newsletter "The BizWhiz Herald" while you're there!
+  ---------------------------------------------------------------
+
+
+
+  About This Newsletter
+  ---------------------
+  The Update designed to give you a quick summary, with pointers, 
+  to the the best tools and techniques we've found for promoting 
+  and improving your web site. We discover these resources from 
+  the thousands of web sites that we review every month, and from 
+  suggestions from subscribers. This newsletter is our way to 
+  pass this information on to you.
+
+  Please, forward this newsletter to all your friends and 
+  associates who might be interested!
+
+
+
+  Sincerely,
+
+  Laurie Anderson
+  Customer Service
+  TheYellowPagesDotCom(tm)
+
+                   .............................
+
+                         Sponsor Message:
+ 
+                  Automatically Check Your Links
+                  ------------------------------
+  Are you losing web site traffic due to bad links? This amazing 
+  software automatically downloads your web pages from the 
+  internet, then checks the validity of all links.  Can check 
+  multiple web sites at once, completely automated.  Free demo 
+  version: http://www.alertbookmarks.com/lr
+
+                   .............................
+
+
+  --------------------------------------------------------------- 
+
+  This newsletter is sent to you as part of The Yellow Pages Dot
+  Com (tm) free service. 
+
+  We want this newsletter to be the best one around. If you have 
+  suggestions, ideas, or feedback about this newsletter, feel 
+  free to email us at mailto:laurie99@swbell.net
+
+  To subscribe to this newsletter, please send an email message 
+  with the word "subscribe" in the body text to 
+  mailto:update@submit-yellow.com
+
+                -----------------------------------
+                TAKE OUR READER POLL - WIN A CAMERA
+                -----------------------------------
+
+  Your feed-back is valuable to us. So, we give a digital camera
+  away every month to one lucky person who fills out our quick
+  survey form. Help us to improve and tailor this newsletter's 
+  content to your specific needs and take the survey now:
+  http://www.zoomerang.com/survey.zgi?DXCENLTJY0EYANHD88Y1SGK6
+
+  NOTE: The polling web site does not work with all browsers. If
+        you get an error when trying to access, please accept
+        our appologies.  The programmers are working to correct
+        this as soon as possible.
+  --------------------------------------------------------------
+
+
+
+
+
+
+
+
+--------------------------------------------------
+You are currently subscribed to the Update as: 
+lorena@em.ca
+To Unsubscribe, use this link: 
+mailto:leave-update-5-106285F@submit-yellow.com
+
+
+(c) Copyright 2000, TheYellowPagesDotCom

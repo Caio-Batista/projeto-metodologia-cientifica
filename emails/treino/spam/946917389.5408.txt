@@ -1,0 +1,38 @@
+From owner-linux-kernel-outgoing@vger.rutgers.edu Fri Dec 31 18:16:03 1999
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 6373 invoked from network); 31 Dec 1999 18:16:03 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 31 Dec 1999 18:16:03 -0000
+Received: (qmail 4593 invoked from network); 31 Dec 1999 18:16:01 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 31 Dec 1999 18:16:01 -0000
+Received: by vger.rutgers.edu via listexpand id <S160474AbPLaSOC>;
+	Fri, 31 Dec 1999 13:14:02 -0500
+Received: by vger.rutgers.edu id <S160298AbPLaSNq>;
+	Fri, 31 Dec 1999 13:13:46 -0500
+Received: from verj.com ([209.63.149.37]:41421 "EHLO nato-victims.com")
+	by vger.rutgers.edu with ESMTP id <S160445AbPLaSNX>;
+	Fri, 31 Dec 1999 13:13:23 -0500
+Received: (from natov@localhost) by nato-victims.com (8.8.8/8.7.1) id LAA00092 for linux-kernel@vger.rutgers.edu; Fri, 31 Dec 1999 11:23:41 -0700 (MST)
+Date:   Fri, 31 Dec 1999 11:23:41 -0700 (MST)
+From:   inf <natov@nato-victims.com>
+Message-Id: <199912311823.LAA00092@nato-victims.com>
+Subject:  Visit www.markojan.co.yu 
+To:     unlisted-recipients:; (no To-header on input)
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+Content-Length: 242
+Lines: 8
+
+Posetite www.markojan.co.yu
+
+[Nickeldon inc. www.nickeldon.com]
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

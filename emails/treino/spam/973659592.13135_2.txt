@@ -1,0 +1,204 @@
+Return-Path: <didios@amele.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 12777 invoked by alias); 8 Nov 2000 04:29:31 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 12771 invoked from network); 8 Nov 2000 04:29:30 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 8 Nov 2000 04:29:30 -0000
+Received: (qmail 15793 invoked by uid 500); 8 Nov 2000 04:29:28 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 15785 invoked by uid 502); 8 Nov 2000 04:29:27 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 15778 invoked from network); 8 Nov 2000 04:29:22 -0000
+Received: from unknown (HELO Adman.caltiger.com) (202.86.166.51)
+  by bfsmedia.sk.ca with SMTP; 8 Nov 2000 04:29:22 -0000
+Received: by Adman.caltiger.com id JAA0000017055; Wed, 8 Nov 2000 09:25:05 +0500 (GMT+0500)
+From: <didios@amele.com>
+Subject: TARGETED MARKETING CAMPAIGN PROMOTION.
+Date: Tue, 7 Nov 2000 19:45:19
+Message-Id: <748.26350.730573@amele.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 7035
+Lines: 180
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#000000" text="#6699FF">
+<div align="center">
+  <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr> 
+      <td> 
+        <div align="center"><font face="Arial, Helvetica, sans-serif"><b>
+<img src="http://www.marketingyouonline.com/marketing/banner.gif" width="600" height="30" alt="More Leads = More Sales!!! More Sales = Greater Income!!!"></b></font></div>
+      </td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td valign="top" width="231"> 
+        <p><img src="http://www.marketingyouonline.com/marketing/newpic.jpg" width="226" height="295"> </p>
+    
+        <hr>
+        <p align="center"><br>
+        </p>
+        <p align="center"><font face="Arial, Helvetica, sans-serif" color="#FFF00"><b>IF 
+          YOU'RE SERIOUS ABOUT <br>
+          YOUR BUSINESS, PLEASE <br>
+          FILL OUT THE FORM BELOW <br>
+          AND ONE OF OUR STAFF <br>
+          MEMBERS WILL CONTACT YOU. </b></font></p>
+        <div align="center"><font face="Arial, Helvetica, sans-serif" color="#FFF00"><b>
+          <p>or
+          <p> Call Now!<br>
+            <font size="6" color="#0000FF">877-529-7358</font><br>
+            9AM - 9PM (EST) M-F<br>
+            Operators Standing By</p>
+          </b></font> 
+          <p>&nbsp;</p>
+        </div> 	
+      </td>
+      <td width="11"> 
+        <p>&nbsp;</p>
+        </td>
+      <td width="358"> 
+        <p><font color="#0066FF"><br>
+          <font size="4">WE DELIVER THE MOST UNIQUE DIRECT E-MAIL MARKETING CAMPAIGN 
+          IN THE WORLD</font></font> <br>
+          <font size="4" color="#FFFFFF"><i>With 
+          a database of over 350 million potential customers/clients, we can reach 
+          your clients anywhere in the world. With graphics, pictures and bullet 
+          descriptions, your potential client will not miss your message.</i></font></p>
+
+
+
+        <p><font size="4" color="#FF0000">PUT 
+          OUR PROFESSIONAL MARKETERS ON YOUR TEAM</font><br>
+
+          <font color="#FFFFFF" size="4"><i>Our staff members are graduates from major 
+          MBA Universities, with years of experience in the marketing field. We 
+          can craft an advertising campaign, specifically targeted to your client 
+          base, which will generate serious leads in huge numbers.</i></font></p>
+
+
+
+        <p><font color="#0066FF" size="4">OUR "OPT-IN" LISTS ARE THE CLEANEST IN 
+          THE INDUSTRY</font><br>
+
+          <font color="#FFFFFF" size="4"><i>Directing E-mail marketing is a proven method 
+          to reach global and local markets with a small expense compared to that 
+          of conventional marketing. Quality work and a dedicated professional 
+          staff will ensure your ad campaign is successful.</i></font></p>
+
+
+
+        <p><font color="#FF0000"><font size="4">GREATEST RETURN ON YOUR MARKETING 
+          DOLLAR</font></font> <font size="4" color="#FFFFFF"><br>
+          <i>To reach millions of potential clients via newspapers, 
+          radio and television would cost tens of thousands. We can produce 
+          and deliver your message/advertisement to the greatest number of clients, 
+          resulting in the greatest number of sales. Hence, we give you the 
+          greatest return on your marketing dollar.</i></font></p>
+      </td>
+    </tr>
+  </table>
+  <table width="600" cellspacing="0" cellpadding="3" bordercolorlight="#FFFFCC" bordercolordark="#333300">
+    <tr> 
+      <td>
+<form action="mailto:logan293@excite.com?cc=long160@n2mail.com&subject=DIRECT MARKETING INQUIRY" enctype=text/plain method=post>
+          <hr>
+          <table width="100%">
+            <tbody> 
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Your 
+                  Name:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=NAME>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Your 
+                  Web Address:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=URL value="http://">
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Company 
+                  Name:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input coname=COMPANY_NAME name="Input">
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">State:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=STATE size=2>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Business 
+                  Phone:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=BUS_PHONE>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Home 
+                  Phone:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=HOME_PHONE>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Email:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=EMAIL>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align="right"><font color="#0066FF"><b><font face="Arial, Helvetica, sans-serif">Type 
+                  of Business:</font></b></font></div>
+              </td>
+              <td width="51%"> 
+                <input name=TYPE_OF_BUSINESS>
+              </td>
+            </tr>
+            </tbody> 
+          </table>
+          <div align="center">
+            <hr>
+            <br>
+            <input type=submit value="Submit Information" name="submit">
+          </div>
+          </form>
+      </td>
+    </tr>
+  </table>
+  <p><font size="2"><b><font face="Arial, Helvetica, sans-serif">If you received 
+    this in error or would like to <br>
+    be removed from our list, <a 
+      href="mailto:vic111@n2mail.com?subject=RemoveName_DirectMarketing">PLEASE CLICK 
+    HERE</a></font></b></font></p>
+  </div>
+</body>
+</html>

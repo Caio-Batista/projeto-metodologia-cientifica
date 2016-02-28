@@ -1,0 +1,40 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 3662 invoked from network); 24 Apr 2000 03:47:27 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 24 Apr 2000 03:47:27 -0000
+Received: (qmail 6198 invoked from network); 24 Apr 2000 03:47:25 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 24 Apr 2000 03:47:25 -0000
+Received: by vger.rutgers.edu via listexpand id <S154711AbQDXDim>;
+	Sun, 23 Apr 2000 23:38:42 -0400
+Received: by vger.rutgers.edu id <S154762AbQDXDiS>;
+	Sun, 23 Apr 2000 23:38:18 -0400
+Received: from [209.208.163.35] ([209.208.163.35]:3220 "EHLO
+	glitch.crosswinds.net") by vger.rutgers.edu with ESMTP
+	id <S154733AbQDXDh7>; Sun, 23 Apr 2000 23:37:59 -0400
+Received: from roumengishe (pool10.ppp.net-bg.net [212.124.88.202])
+	by glitch.crosswinds.net (8.9.3/8.9.3) with SMTP id XAA11444
+	for <linux-kernel@vger.rutgers.edu>; Sun, 23 Apr 2000 23:42:04 -0400 (EDT)
+	(envelope-from roumengishe@crosswinds.net)
+Message-Id: <200004240342.XAA11444@glitch.crosswinds.net>
+From: roumengishe <roumengishe@crosswinds.net>
+To: linux-kernel@vger.rutgers.edu
+Subject: http://www.crosswinds.net/~roumengishe/
+X-Mailer: Mail Bomber
+Reply-To: roumengishe@crosswinds.net
+Date:	Mon, 24 Apr 2000 06:42:27 +0200
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+http://www.crosswinds.net/~roumengishe/
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

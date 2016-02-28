@@ -1,0 +1,44 @@
+Return-Path: <kloi890@india.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 30900 invoked by alias); 2 Nov 2000 23:09:17 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 30897 invoked from network); 2 Nov 2000 23:09:17 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 2 Nov 2000 23:09:17 -0000
+Received: (qmail 7883 invoked by uid 500); 2 Nov 2000 21:22:34 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 7879 invoked by uid 502); 2 Nov 2000 21:22:34 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 7875 invoked from network); 2 Nov 2000 21:22:33 -0000
+Received: from unknown (HELO server.shinbiro.com) (203.228.133.65)
+  by bfsmedia.sk.ca with SMTP; 2 Nov 2000 21:22:33 -0000
+Received: from 1Cust238.tnt1.modesto.ca.da.uu.net by server.shinbiro.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.0.1457.7)
+	id WD3M55RH; Fri, 3 Nov 2000 06:05:41 +0900
+DATE: 02 Nov 00 1:05:20 PM
+FROM: kloi890@india.com
+Reply-to: kloi890@india.com
+TO: kloi890@india.com
+SUBJECT: New Policy for Domain Names - Protect Your Name
+Content-Length: 1182
+Lines: 20
+
+New Top Level Domains to come out early next year!
+
+Domain Policy Overview:
+
+July 16, 2000 - Yokohama, Japan -ICANN (Internet Corporation for Assigned Names and Numbers) announced that it adopted a policy that will introduce new global top-level domains (TLDs).
+
+July 17, 2000 - Companies around the world begin the application process.
+
+Oct 2, 2000 - Application process for new TLD's is finalized.
+
+Oct 3, 2000 - Marina del Rey, California - ICANN announces that the application process has been completed.  The new domain extensions will be awarded to registries in December 2000.  The proposed new domains include: .web, .inc, .kids, .shop, .store, .firm, .law, .biz, .nom, .news, .site .xxx, .tel, .sex and more. The approved TLDs are scheduled to be made available starting early 2001. ICAAN however has not released the exact time and date.
+
+In anticipation of high demand, you can pre-register for these names prior to their official public opening via a centralized pre-registration database. For further information about the pre-registration process please visit:
+
+http://www.newdomainzone.com
+
+
+sent by cybernet--to be removed go to helloremove@umpire.com
+209-669-0176
+

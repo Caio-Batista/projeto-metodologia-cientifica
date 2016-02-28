@@ -1,0 +1,144 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 19130 invoked from network); 13 Mar 2000 20:23:02 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 13 Mar 2000 20:23:02 -0000
+Received: (qmail 20642 invoked from network); 13 Mar 2000 20:22:59 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 13 Mar 2000 20:22:59 -0000
+Received: by vger.rutgers.edu via listexpand id <S160612AbQCMP6E>;
+	Mon, 13 Mar 2000 10:58:04 -0500
+Received: by vger.rutgers.edu id <S161360AbQCMPEJ>;
+	Mon, 13 Mar 2000 10:04:09 -0500
+Received: from [210.238.235.242] ([210.238.235.242]:3426 "HELO
+        dns1.info-us-shop.net") by vger.rutgers.edu with SMTP
+	id <S161284AbQCMOzp>; Mon, 13 Mar 2000 09:55:45 -0500
+Received: (qmail 8378 invoked by uid 0); 14 Mar 2000 03:40:32 +0900
+Received: from dhcp3.info-us-shop.net (HELO del) (210.238.235.245)
+  by dns1.info-us-shop.net with SMTP; 14 Mar 2000 03:40:32 +0900
+X-Sender: info@dns1.info-us-shop.net
+X-Mailer: Windows Eudora Pro Version 3.0-J (32)
+Date:   Tue, 14 Mar 2000 03:18:07 +0900
+From: DM <info@dns1.info-us-shop.net>
+Subject: =?ISO-2022-JP?B?GyRCN3I5Lz8pSUokSEA4M2gyfkExTHQ+cEpzGyhK?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-2022-JP"
+Message-Id: <20000313150354Z161284-9175+1249@vger.rutgers.edu>
+To: unlisted-recipients: ;(no To-header on input)
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+突然のメール失礼いたします。このようなメールが必要でない方はおっしゃって
+頂ければ一切送信いたしません。
+
+
+▼▽=========================================================
+CROSS CREEK INTERNATIONAL INC.
+225 Ninth Street Palisades Park,NJ 07650 USA
+1-201-944-9462
+クロスクリークインターナショナル社▲△============================
+▼▽=========================================================
+BOKJEE PHARMACEUTICAL CARE
+903 S. Crenshaw Blvd., #102-B, Los Angeles,CA 90019
+1-323-932-0202
+BOKJEE PHARMACEUTICAL CARE▲△============================
+
+
+話題の生活改善薬から、健康食品まで、ヘルスケア最新価格でお届け致します。
+http://www.jbclub.com/ccreek/index.html
+sales-v@jbclub.com
+
+価格は全て送料込み価格(1ドル=￥105換算の場合）です。
+ご注文はメールでも受付いたします。
+ご注文・お問い合わせは,日本語でＯＫ。お気軽にお問い合わせ下さい。
+
+■■ 性的能力治療・改善薬　■■
+
+★【バイアグラ】…１錠を２〜３つに割って服用されても十分な効果があります。
+バイアグラ
+100mg 10錠 ………………………………… $145.0(約15,225円)
+100mg 30錠/１ボトル  ……………………… $305(約32,025円)
+
+
+★【バソマックス Z-MAX】…バイアグラとならぶ、新しい男性機能回復薬です。
+バソマックス
+40mg 5  錠 ………………………………… $90.0(約9,450円)
+40mg 10錠 ………………………………… $160.0(約16,800円)
+
+★【ヴィガレックス】…天然・安心・効果の高い精力増強剤です。女性用も人気。
+<男性用>
+  ヴィガレックス(60 カプセル) ……………… $80.0(約8,400円)
+<女性用>
+  ヴィガレックス(60 カプセル) ……………… $80.0(約8,400円)
+
+★【ハーバルＶ】…ソフトで優しいラブドラックです。
+ハーバルＶ
+30錠/１ボトル ……………………………… $70.0(約7,350円)
+
+★【ダイフルカン】…今アメリカの女性の間で、話題の性生活のお供。
+50mg/３０錠　・・・・・・・・・・・・・・・・・・・・・　　$142(約14,910円)
+100mg/３０錠　・・・・・・・・・・・・・・・・・・・・・・　$223(約23,400円)
+200mg/３０錠　・・・・・・・・・・・・・・・・・・・・・・　$364(約38,220円)
+　
+
+■■ 　育　毛　　■■
+
+★【ロゲイン】…驚異的効果の米国製育毛剤「リゲイン５」ミノキシジル5%の塗って効く男性用育毛剤です。
+ロゲイン
+60ml/3本セット ……………………………… $99(約10,390円)
+
+★【プロペシア】…大人気の飲んで効く男性育毛剤です。
+プロペシア
+1mg 30錠 …………………………………… $75.0(約7,870円)
+1mg 90錠 …………………………………… $185.0(約19,425円)
+
+
+■■ 　ダイエット　その他　 ■■
+
+★【メリディア】…即効性あってリバウンドなし。努力いらずのダイエット薬。
+メリディア
+5mg   30錠 ……………………………………$215(約22,575円) 
+10mg 30錠 …………………………………… $215(約22,575円)  
+
+★【システムシックス】…代表的なウエイトコントロール・サプリメントです。
+
+システムシックス
+120錠/１ボトル ……………………………… $45.0(約4,725円)
+
+★【プロザック】…副作用の少ない画期的な抗うつ剤です。
+プロザック
+
+20mg 30錠 …………………………………… $125.0(約13,125円)
+20mg 60錠 …………………………………… $220.0(約23,100円)
+
+★【プリベン】…世界初の女性の事後避妊薬。女性の常備薬に。
+プリベン
+
+20mg １セット(４錠ｘ１) ………………………… $ 55.0(約5,575円)
+20mg ３セット(４錠ｘ３) ………………………… $135.0(約14,175円)
+
+
+★【レノバ】Renova----若返り最先端スキンケア米国話題騒然
+　　　　　　　　　　　シミ・シワ取り日経ヘルスでスクープ！
+20mg/チューブ１本……………………………………… $60.0(6,300円)
+　　　☆★☆★☆　リクエストコーナー　★☆★☆
+
+★【セレブレックス】Celebrex-----関節炎でお悩みの方に、副作用少ない今
+　　　　　　　　　　　　　　　　全米で最も話題の間接炎の新薬です。
+
+　　　　　　　　　　　　　　
+こんなものがほしい。こんなものを探している。
+お気軽にお気軽にお尋ね下さい。
+sales-v@jbclub.com
+
+
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

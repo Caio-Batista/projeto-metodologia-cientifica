@@ -1,0 +1,83 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 18841 invoked from network); 22 Mar 2000 12:28:23 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 22 Mar 2000 12:28:23 -0000
+Received: (qmail 1225 invoked from network); 22 Mar 2000 12:28:21 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 22 Mar 2000 12:28:21 -0000
+Received: by vger.rutgers.edu via listexpand id <S155184AbQCVLfT>;
+	Wed, 22 Mar 2000 06:35:19 -0500
+Received: by vger.rutgers.edu id <S154770AbQCVKYh>;
+	Wed, 22 Mar 2000 05:24:37 -0500
+Received: from [210.146.252.72] ([210.146.252.72]:59175 "EHLO 001.co.jp")
+	by vger.rutgers.edu with ESMTP id <S154169AbQCVJZc>;
+	Wed, 22 Mar 2000 04:25:32 -0500
+Received: from ej1.001.co.jp.001.co.jp ([192.168.100.41])
+	by 001.co.jp (8.8.8/3.6W:Mon Mar 16 22:26:19 JST 1998) with SMTP id RAA15912;
+	Wed, 22 Mar 2000 17:11:20 +0900 (JST)
+Message-ID: <001e01bf93d8$d93966e0$2964a8c0@ej1.001.co.jp.001.co.jp>
+From: "=?iso-2022-jp?B?GyRCJTAlbCE8JUglOCVjITwlSyE8GyhC?=" <mic@001.co.jp>
+To: <mic@001.co.jp>
+Subject: =?iso-2022-jp?B?IBskQiUwJWwhPCVIJTglYyVLITwbKEIgTkVXUyAbJEIhShsoQnZvbC4x?=
+	=?iso-2022-jp?B?ORskQiFLGyhCIDAzMjIxMDIw?=
+Date:	Wed, 22 Mar 2000 17:29:46 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3612.1700
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3612.1700
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B
+$BFMA3$N%a!<%k$9$k$3$H$r$*5v$72<$5$$!#(B
+$B8fLBOG$N$+$+$C$F$7$^$C$?J}!"$3$N%a!<%k$,ITMW$JJ}$XFO$$$F(B
+$B$7$^$C$F$$$^$7$?$i?<$/$*OM$S?=$7>e$2$^$9!#(B
+$B8fMF<O2<$5$$$^$;!#(B
+$B!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=!=(B
+
+$B%0%l!<%H%8%c!<%K!<(BNEWS(vol $B#1#9(B)
+
+$B#47n$+$i$N3$30N99T!'?7>&IJ$N$40FFb$G$9!#(B
+
+$BEv<R?M5$#3%3!<%9$r%T%C%/%"%C%W$7$F$_$^$7$?!#(B
+$B$*F@$J@_Dj$H$J$C$F$*$j$^$9!#@'Hs$4MxMQ$/$@$5$$!#(B
+
+$B%0%l!<%H%8%c!<%K!<(BNEWS
+---$B!~"!!~#47n$+$i$N?7>&IJ"!!~(B---
+
+http://www.001.co.jp/mic/gj/beach/supuringkyanpen3.html
+
+$B-!(B $BF|K\9R6uMxMQ!A%"%8%"$NN9!A!!(B
+$B!J9a9A!&%7%s%,%]!<%k!&%^%l!<%7%"!&%?%$!&%U%#%j%T%s!&%;%V(B
+$B!&%P%j!&%Y%H%J%`!&4Z(B
+$B9q!K(B
+
+$B-"(B $B%b%k%G%#%V%D%"!<(B
+$B#37nCf$K$4M=Ls$rD:$$$?J}$K$O!"0lN'!o#5!"#0#0#0$N%G%#%9%+(B
+$B%&%s%H!*!*(B
+
+$B-#(B $B%S%s%?%sEg!u%7%s%,%]!<%k#5F|4V(B
+$B!A:#$A$g$C$H$7$?%V!<%`$K$J$C$F$^$9!A(B
+
+
+$B$*Ld$$9g$o$;$r?4$h$j$*BT$A?=$7>e$2$F$*$j$^$9!#(B
+
+$B3t<02q<R%_%/%m%M%7%"(B
+$B!J1?M"Bg?CEPO?N99T6HBh#6#3#29f!&F|K\N99T6H6(2q@52q0w!K(B
+$B%0%l!<%H%8%c!<%K!<(B
+$BC4Ev!':4F#(B
+$BEEOC!'#0#3!=#3#7#9#7!=#5#7#1#1(B $B!!!!!!(B
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

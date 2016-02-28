@@ -1,0 +1,63 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 28391 invoked from network); 20 Jun 2000 09:49:06 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 20 Jun 2000 09:49:06 -0000
+Received: (qmail 10998 invoked from network); 20 Jun 2000 09:49:04 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 20 Jun 2000 09:49:04 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156418AbQFTJmG>; Tue, 20 Jun 2000 05:42:06 -0400
+Received: by vger.rutgers.edu id <S156494AbQFTJl5>;
+	Tue, 20 Jun 2000 05:41:57 -0400
+Received: from smtp.freeserve.ne.jp ([210.197.120.3]:4604 "EHLO
+	smtp.freeserve.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S156418AbQFTJlm>; Tue, 20 Jun 2000 05:41:42 -0400
+Received: from smtp.freeserve.ne.jp (obp5-76.teleway.ne.jp [210.234.74.76])
+	by smtp.freeserve.ne.jp (8.9.3/3.7W) with SMTP id SAA22782
+	for <linux-kernel@vger.rutgers.edu>; Tue, 20 Jun 2000 18:44:56 +0900
+Date:	Tue, 20 Jun 2000 18:44:56 +0900
+Message-Id: <200006200944.SAA22782@smtp.freeserve.ne.jp>
+From: =?ISO-2022-JP?B?GyRCJGgkbSQ3JC8bKEI=?= <peep@fli.freeserve.ne.jp>
+To: =?ISO-2022-JP?B??= <linux-kernel@vger.rutgers.edu>
+X-Mailer: Direct Email v0.22
+Subject: =?ISO-2022-JP?B?GyRCTTckUyReJDskcyQrISkbKEI=?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+こんにちわ。このメールはアダルトコンテンツを含んでいるので
+興味のない方、未成年の方に届きました時には
+深くお詫び申し上げると共に
+メールに手を加えず削除いただきます様お願い致します。
+それ以外の方はこのまま下へＧＯ！！
+
+
+
+
+
+
+回回回回回回回回回回回回回回回回回回回回回回回回回回回回回回
+　　　　　　　こんにちわ。あやなです
+回回回回回回回回回回回回回回回回回回回回回回回回回回回回回回
+
+こんにちわ。あやなです。わたし、お友達のさくらchanと
+アイドル目指してがんばってます。
+さくらちゃんってすごいんですよ！
+何がすごいって？それはここを見てね。
+メロメロになっちゃいますよ♪
+http://www.fuhou2.com/sample1/
+
+
+私にはここで会いましょうね♪
+トップページ　　http://www.micro-japan.com/netidol/
+会員登録ページ　http://210.239.132.102/joinmemberhp/from2.phtml
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

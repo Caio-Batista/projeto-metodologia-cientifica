@@ -1,0 +1,46 @@
+Return-Path: <pgsql-general-owner+M146@postgresql.org>
+Received: (listrecv, mailbox 'pgsql-general' opened at Wed Nov  1 18:04:20 2000)
+Received: (listsend invoked at Wed Nov  1 18:04:20 2000)
+Delivered-To: bruceg-lists-pgsql-general@daedalus.bfsmedia.sk.ca
+Received: (qmail 5513 invoked from network); 1 Nov 2000 18:04:19 -0000
+Received: from 216.126.85.28 (HELO mail.postgresql.org) (216.126.85.28)
+  by bfsmedia.sk.ca with SMTP; 1 Nov 2000 18:04:19 -0000
+Received: from mail.postgresql.org ([216.126.85.28])
+	by mail.postgresql.org (8.11.1/8.11.1) with SMTP id eA1I4Fl81811;
+	Wed, 1 Nov 2000 13:04:15 -0500 (EST)
+	(envelope-from pgsql-general-owner+M146@postgresql.org)
+Received: from news.tht.net (news.hub.org [216.126.91.242])
+	by mail.postgresql.org (8.11.1/8.11.1) with ESMTP id eA1I4El81806
+	for <pgsql-general@postgresql.org>; Wed, 1 Nov 2000 13:04:14 -0500 (EST)
+	(envelope-from news@news.tht.net)
+Received: (from news@localhost)
+	by news.tht.net (8.9.3/8.9.3) id MAA74303
+	for pgsql-general@postgresql.org; Wed, 1 Nov 2000 12:36:08 -0500 (EST)
+	(envelope-from news)
+X-Authentication-Warning: news.tht.net: news set sender to <news> using -f
+Reply-To: "cfd" <jer550@earthlink.net>
+From: "cfd" <jer550@earthlink.net>
+X-Newsgroups: comp.databases.pick,comp.databases.postgresql.general,comp.databases.sybase,comp.dcom.lans.ethernet,comp.dcom.modems,comp.dcom.modems.cable,comp.dcom.sys.cisco
+Subject: [GENERAL] Hardwood Website
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Newsreader: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <bwYL5.10028$Pw6.653773@newsread1.prod.itd.earthlink.net>
+Date: Wed, 01 Nov 2000 17:36:07 GMT
+X-Complaints-To: abuse@earthlink.net
+X-Trace: newsread1.prod.itd.earthlink.net 973100167 216.98.87.212 (Wed, 01 Nov 2000 09:36:07 PST)
+Organization: EarthLink Inc. -- http://www.EarthLink.net
+To: pgsql-general@postgresql.org
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by mail.postgresql.org id eA1I4El81807
+Precedence: bulk
+Sender: pgsql-general-owner@postgresql.org
+Content-Length: 147
+Lines: 4
+
+Hardwood floors and more! See the natural beauty of hardwood flooring and hardwood designs at www.classicdistributors.com or http://209.35.59.31!
+

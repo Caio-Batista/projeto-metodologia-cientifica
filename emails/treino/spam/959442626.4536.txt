@@ -1,0 +1,155 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 3046 invoked from network); 27 May 2000 13:07:00 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 27 May 2000 13:06:59 -0000
+Received: (qmail 25725 invoked from network); 27 May 2000 13:06:57 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 27 May 2000 13:06:57 -0000
+Received: by vger.rutgers.edu via listexpand id <S156117AbQE0NBk>;
+	Sat, 27 May 2000 09:01:40 -0400
+Received: by vger.rutgers.edu id <S156109AbQE0NBU>;
+	Sat, 27 May 2000 09:01:20 -0400
+Received: from ma4p.justnet.ne.jp ([133.130.3.12]:54736 "HELO
+	ma4.justnet.ne.jp") by vger.rutgers.edu with SMTP
+	id <S156117AbQE0NBH>; Sat, 27 May 2000 09:01:07 -0400
+Received: (qmail 25333 invoked from network); Sat, 27 May 2000 22:01:42 +0900
+Received: (ofmipd 133.130.60.90); Sat, 27 May 2000 22:01:42 +0900
+Date:	Sat, 27 May 2000 22:01:36 +0900
+Message-ID: <392FC730.71C0503B@msn.com>
+From: =?iso-2022-jp?B?GyRCQmc/TSROPnBKczRbGyhC?= <otona@msn.com>
+Cc: recipient list not shown: ;
+X-Mailer: Mozilla 4.7 [ja] (Win95; I)
+X-Accept-Language: ja
+MIME-Version: 1.0
+Subject: =?iso-2022-jp?B?GyRCQmc/TSROPnBKczRbGyhC?=
+Content-Type: multipart/alternative;
+ boundary="------------DA53F157291DDAE05D067A84"
+To: unlisted-recipients: ;(no To-header on input)
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+--------------DA53F157291DDAE05D067A84
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+　　　　　〜大人の情報館〜
+
+　アダルトの為のお役立ち情報満載！！
+
+　　'99年度アダルト大賞受賞サイト
+
+私共のスタッフが去年一年間を通して調べた結果を
+集計し厳選な審査の結果選びに選んだ選りすぐりのサイトです。
+スタッフのコメントを参考に皆様も一度は利用してみてはいかがでしょうか。
+
+＝ギャンブル編＝
+　　　
+　　　　★大賞受賞
+　　　　　　 WINNER'S CLUB.
+        ＜スタッフコメント＞
+　　　　　　・確実に勝つ為の競馬情報サイト
+　　　　　　的中率回収率共に納得の数字。
+　　　　　　スタッフの間でも大好評。
+　　　　　　穴馬捨てて確実に勝ち小遣いを稼ごう。
+　　　　
+　　　　★審査員特別賞
+　　　　　　攻略の帝王
+　　　　＜スタッフコメント＞
+　　　　　　・パチンコ、パチスロの攻略法が格安で手に入るサイト。
+　　　　　　攻略サイトにもいろいろあるが、料金、情報共に充実しています。
+
+　　　　　　攻略法が格安料金で手に入れば言うことナシ！！
+　　　　　　パチンコ好きの貴方から、初心者の貴方迄御利用できます。
+
+＝出会い編＝
+　　　　
+　　　　★大賞受賞
+　　　　　　あっちゃんLOVE2コネクション
+　　　　＜スタッフコメント＞
+　　　　　　・出会いを求めるなら絶対にこれ！間違いなし。
+　　　　　　登録者の人数の多さ、利用の簡単さ、お薦めです。
+　　　　　　出会いを求め積極的にアタック。アタック。アタック。
+
+＝欲求不満解消編＝
+
+　　　　★大賞受賞
+　　　　　　 A BABE FOR YOU
+
+　　　　＜スタッフコメント＞
+　　　　　　・freeのサイトなので安心して見て回れるのが最高。
+　　　　　　いろいろな女の子がいろんなスタイルで待っています。
+　　　　　　もちろん奥に進めば進むほどいろんな物が見えてくるはず・・・。
+
+　　　　　　でも、危険なサイトには要注意。
+
+　　　　　　
+　　　　　　ＣＵＴＩＥ
+
+　　　　＜スタッフコメント＞
+　　　　　　・憧れのＡＶ女優達と楽しい一時を過ごせます。
+　　　　　　ファンの人必見のサイトです。
+
+--------------DA53F157291DDAE05D067A84
+Content-Type: text/html; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+　　　　　<b><font face="ＤＨＰ隷書体"><font size=+3>〜大人の情報館〜</font></font></b>
+<p>　<b><font face="ＤＨＰ中楷書体"><font size=+2>アダルトの為のお役立ち情報満載！！</font></font></b>
+<p>　　<b><font face="ＤＨＰ中楷書体"><font size=+2>'99年度アダルト大賞受賞サイト</font></font></b>
+<p>私共のスタッフが去年一年間を通して調べた結果を
+<br>集計し厳選な審査の結果選びに選んだ選りすぐりのサイトです。
+<br>スタッフのコメントを参考に皆様も一度は利用してみてはいかがでしょうか。
+<p><b><font face="ＤＨＰ隷書体"><font size=+1>＝ギャンブル編＝</font></font></b>
+<br>　　　
+<br>　　　　<b><font face="ＤＨＰ隷書体"><font size=+1>★大賞受賞</font></font></b>
+<br>　　　　　　 <b><font face="ＭＳ Ｐ明朝"><font size=+1><a href="http://www4.justnet.ne.jp/~winclub">WINNER'S
+CLUB.</a></font></font></b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ＜スタッフコメント＞
+<br>　　　　　　・確実に勝つ為の競馬情報サイト
+<br>　　　　　　的中率回収率共に納得の数字。
+<br>　　　　　　スタッフの間でも大好評。
+<br>　　　　　　穴馬捨てて確実に勝ち小遣いを稼ごう。
+<br>　　　　
+<br>　　　　<b><font face="ＤＦ隷書体"><font size=+1>★審査員特別賞</font></font></b>
+<br>　　　　　　<font face="ＭＳ Ｐ明朝"><font size=+1><a href="http://www4.justnet.ne.jp/~i.d.c.japan">攻略の帝王</a></font></font>
+<br>　　　　＜スタッフコメント＞
+<br>　　　　　　・パチンコ、パチスロの攻略法が格安で手に入るサイト。
+<br>　　　　　　攻略サイトにもいろいろあるが、料金、情報共に充実しています。
+<br>　　　　　　攻略法が格安料金で手に入れば言うことナシ！！
+<br>　　　　　　パチンコ好きの貴方から、初心者の貴方迄御利用できます。
+<p><b><font face="ＤＨＰ中楷書体"><font size=+1>＝出会い編＝</font></font></b>
+<br>　　　　
+<br>　　　　<font face="ＤＨＰ中楷書体"><font size=+1>★大賞受賞</font></font>
+<br>　　　　　　<b><font face="ＭＳ Ｐ明朝"><font size=+1><a href="http://www.acchan.com/">あっちゃんLOVE2コネクション</a></font></font></b>
+<br>　　　　＜スタッフコメント＞
+<br>　　　　　　・出会いを求めるなら絶対にこれ！間違いなし。
+<br>　　　　　　登録者の人数の多さ、利用の簡単さ、お薦めです。
+<br>　　　　　　出会いを求め積極的にアタック。アタック。アタック。
+<p><font face="ＤＨＰ隷書体"><font size=+1>＝欲求不満解消編＝</font></font>
+<p>　　　　<b><font size=+1>★大賞受賞</font></b>
+<br>　　　　　　 <b><font face="ＭＳ Ｐ明朝"><font size=+1><a href="http://www.babes4free.com/">A
+BABE FOR YOU</a></font></font></b>
+<p>　　　　＜スタッフコメント＞
+<br>　　　　　　・freeのサイトなので安心して見て回れるのが最高。
+<br>　　　　　　いろいろな女の子がいろんなスタイルで待っています。
+<br>　　　　　　もちろん奥に進めば進むほどいろんな物が見えてくるはず・・・。
+<br>　　　　　　でも、危険なサイトには要注意。
+<p>　　　　　　
+<br>　　　　　　<b><font face="ＭＳ Ｐ明朝"><font size=+1><a href="http://www.ionpromotion.net">ＣＵＴＩＥ</a></font></font></b>
+<p>　　　　＜スタッフコメント＞
+<br>　　　　　　・憧れのＡＶ女優達と楽しい一時を過ごせます。
+<br>　　　　　　ファンの人必見のサイトです。</html>
+
+--------------DA53F157291DDAE05D067A84--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

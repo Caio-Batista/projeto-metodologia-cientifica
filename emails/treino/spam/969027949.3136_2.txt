@@ -1,0 +1,72 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Received: (listrecv, mailbox 'linux-kernel' opened at Fri Sep 15 13:09:30 2000)
+Received: (listsend invoked at Fri Sep 15 13:09:29 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 28930 invoked from network); 15 Sep 2000 13:09:28 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bfsmedia.sk.ca with SMTP; 15 Sep 2000 13:09:28 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S129859AbQIONGF>; Fri, 15 Sep 2000 09:06:05 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129861AbQIONFz>; Fri, 15 Sep 2000 09:05:55 -0400
+Received: from zaphod.kpnqwest.ch ([146.228.10.43]:11532 "EHLO
+	zaphod.kpnqwest.ch") by vger.kernel.org with ESMTP
+	id <S129859AbQIONFh>; Fri, 15 Sep 2000 09:05:37 -0400
+Received: from oettinger.davidoff.ch ([195.49.110.243]) by zaphod.kpnqwest.ch (relay.kpnqwest.ch) (8.9.3/1.0) via ESMTP id MAA21154
+	for <linux-kernel@vger.redhat.com>; Fri, 15 Sep 2000 12:21:07 GMT
+	env-from (vdfvdii@mail.motorama.com.au)
+Received: from mail.mindspring.com by oettinger.davidoff.ch via SMTP
+	id smtp\t9eg5b_2.in; 14 Sep 2000 16:41:00 +0200
+From:	<vdfvdii@mail.motorama.com.au>
+To:	<linux-kernel@vger.kernel.org>
+Date:	Thu, 14 Sep 2000 07:06:28
+Message-Id: <369.721927.327485@mail.mindspring.com>
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 950
+
+GET YOUR OWN 100 MEG WEBSITE FOR ONLY $11.95 PER MONTH TODAY!
+
+STOP PAYING $19.95 or more TODAY for your web site, WHEN YOU CAN 
+GET ONE FOR ONLY $11.95 PER MONTH!
+
+DO YOU ALREADY HAVE A WEBSITE? ALL YOU HAVE TO DO IS TRANSFER THE 
+DOMAIN TO OUR SERVERS AND UPLOAD YOUR DATA AND YOU ARE READY TO 
+GO! YOUR NEW WEB SPACE CAN BE CREATED INSTANTLY WITH JUST A 
+SIMPLE PHONE CALL TO  OUR OFFICE.
+
+YOU CAN CHANGE THE DESIGN OF YOUR SITE AS MUCH AS YOU WANT with 
+no extra charge!  UNLIMITED TRAFFIC -- no extra charge!
+
+FRONT PAGE EXTENSIONS are FULLY SUPPORTED.
+
+A SET UP FEE OF $40.00 APPLIES for FIRST TIME CUSTOMERS.
+
+ALL FEES PREPAID IN ADVANCE FOR THE YEAR PLUS A $40.00 SET UP 
+CHARGE.
+
+FOR DETAILS CALL 1 888 248 0765  
+
+Webhosting International
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

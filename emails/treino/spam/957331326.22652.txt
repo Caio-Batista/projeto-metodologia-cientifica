@@ -1,0 +1,18 @@
+Return-Path: <p.arbiol@teleline.es>
+Message-ID: <20000503051905.22608.qmail@daedalus.bfsmedia.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22604 invoked from network); 3 May 2000 05:19:03 -0000
+Received: from mailhost.teleline.es (HELO tsmtp4.mail.isp) (195.235.113.141)
+  by em.ca with SMTP; 3 May 2000 05:19:03 -0000
+Received: from negligencias.com ([195.235.118.150]) by
+          tsmtp4.mail.isp (Netscape Messaging Server 4.1 Apr 11 2000
+          15:38:15) with SMTP id FTYXAZ06.D7O for <bruceg@em.ca>; Wed, 3
+          May 2000 07:16:11 +0200 
+To: bruceg@em.ca
+From: "Pedro Arbiol Camps" <p.arbiol@teleline.es>
+Date: Wed,  3 May 2000 07:17:41 +0200
+Subject: Negligencias medicas
+X-Mailer: WM - negligencias.com
+
+Todo lo que necesita saber para concienciarse de la Sanidad y sus carencias. No dude en aportar sus conocimientos, comentarios, dudas o experiencias a NEGLIGENCIAS.COM - EL BUSCADOR                                                                http://www.negligencias.com                                                                                                                                                                                                         http://www.negligencias.com
+

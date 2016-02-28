@@ -1,0 +1,87 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 7531 invoked from network); 16 Jul 2000 09:04:53 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 16 Jul 2000 09:04:53 -0000
+Received: (qmail 10689 invoked from network); 16 Jul 2000 09:04:52 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 16 Jul 2000 09:04:52 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156199AbQGPIqG>; Sun, 16 Jul 2000 04:46:06 -0400
+Received: by vger.rutgers.edu id <S156369AbQGPIpz>;
+	Sun, 16 Jul 2000 04:45:55 -0400
+Received: from mailgw.cablecom.ne.jp ([202.248.199.37]:41665 "EHLO
+	mailgw.cablecom.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S156199AbQGPIpq>; Sun, 16 Jul 2000 04:45:46 -0400
+Received: from srv2.cablecom.ne.jp by mailgw.cablecom.ne.jp (8.9.3/3.7W) id SAA28330; Sun, 16 Jul 2000 18:00:11 +0900 (JST)
+Received: from htm01404 by srv2.cablecom.ne.jp (8.9.3/3.7W) id SAA11439; Sun, 16 Jul 2000 18:00:10 +0900 (JST)
+To: linux-kernel@vger.rutgers.edu
+From: =?ISO-2022-JP?B?GyRCM3Q8MDJxPFIlLyVtJTklXSUkJXMlSBsoQg==?= <master@crosspoint.co.jp>
+Date:	Sun, 16 Jul 2000 17:59:40 +0900
+Subject: =?ISO-2022-JP?B?GyRCJGgkbSQ3JC8kKjRqJCQkJCQ/JDckXiQ5GyhC?=
+X-Mailer: IM2000 Version 1.01
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=iso-2022-jp
+Message-Id: <0716100175940.61479@htm01404>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+★
+突然のメールで失礼いたします
+
+http://www.crosspoint.co.jp
+当社は、東京八王子の映像制作会社です。
+
+
+いろいろな形で映像パッケージを制作しませんか？
+
+当社は、企業用ビデオ制作（企画、撮影、編集）学校用イベント記録制作、ビデオ、写真の出張撮影、編集
+CD-ROM,DVD-Rのデジタルコンテンツ作成、プレス、映像機器レンタル、総合企画をおこなっております。
+ 
+ 
+たとえば、皆さんの身近なところでは婚礼用ビデオ、写真撮影、大学及び専門学校の文化祭、各種記録、吹奏楽等の音楽映像
+幼稚園の発表会、園ガイド、竣工式、パーティ記録、企業用ＰＲビデオ、マニュアルビデオ、オンエア用ＣＭ
+各種財団記録用映像撮影などに携わる制作のお手伝いを致します。
+
+デジタルコンテンツでは、CD-ROM,DVD,オーサリングからプレスまで
+そして２０００年大ヒットの名刺型CD-ROM,DVD-Rの制作
+名刺型ＣＤロムは１枚２００円より　　一発でホームページへアクセスします。
+印刷コスト、名刺コスト、ＰＲコストを省いてくれます。
+ 
+今までの映像制作に満足されていますか？
+ビデオ、ＣＤ制作は高額だとあきらめていませんか？
+ 
+ビデオ制作、データ制作は、低コストで可能な時代です。
+直接当社にお問い合わせ下さい。中間マージンはありません。映像、コンテンツ制作の専門プロ集団です。
+信頼と技術を低価格で提供致します。
+ 
+文字と映像、音声で初めて作品が生きてくるのです。
+当社と十分にコミニュケーションを取りすばらしい作品をのこしませんか？
+
+当社で制作すれば、ビデオ、ＣＤ　ＤＶＤほか、あらゆるメディアに変換が容易に可能になります。
+
+
+名刺型ＣＤ制作実績、ダイハツ自動車工業、旭ガラス、駿河精機、空気環境健康協会等、国内実績多数あり
+販売代理店、協賛企業、技術者募集中
+ 
+お気軽にお問い合わせ下さい
+master@crosspoint.co.jp
+株式会社クロスポイント
+
+
+最後になりましたが、突然メールをおくらせていただきました
+こと深くお詫び申し上げます。
+
+
+
+★
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

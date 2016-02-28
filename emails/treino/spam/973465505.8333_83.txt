@@ -1,0 +1,72 @@
+Return-Path: <info0125@weakhomeonline.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 7557 invoked by alias); 5 Nov 2000 17:43:01 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 7554 invoked from network); 5 Nov 2000 17:43:00 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 5 Nov 2000 17:43:00 -0000
+Received: (qmail 12526 invoked by uid 500); 5 Nov 2000 17:43:00 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 12522 invoked by uid 519); 5 Nov 2000 17:42:59 -0000
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 12518 invoked from network); 5 Nov 2000 17:42:58 -0000
+Received: from unknown (HELO pwtctsv1.pwtc.com.my) (202.187.90.2)
+  by snssoftware.com with SMTP; 5 Nov 2000 17:42:58 -0000
+Received: from mail.haircutgonewrong.com ([204.176.137.9])
+          by pwtctsv1.pwtc.com.my (Netscape Mail Server v2.02) with SMTP
+          id AAA409; Mon, 6 Nov 2000 01:45:01 +0800
+CC: email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com,
+	email@spookyfilm.com
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+To: $user@spookyfilm.com
+Subject: Boost Your Windows reliability!!!!!
+Received: from mail.haircutgonewrong.com [204.176.137.9] by 6lqiy.mail.haircutgonewrong.com with SMTP; Mon, 06 Nov 2000 00:58:34 -0500
+Date: Mon, 06 Nov 2000 00:58:34 -0500
+From: info0120@weakhomeonline.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Message-Id: <6q1rhx2q843a14th.tp672h3gbhrk0r2a3jc@mail.haircutgonewrong.com>
+Content-Length: 1079
+Lines: 33
+
+<p>Dear Windows User,<br>
+<br>
+Now you can boost the reliability of ordinary Windows 3.x, 95 and 98 to<br>
+nearly the level of Windows NT or 2000, Microsoft's professional and&nbsp;
+<br>
+industrial<br>
+version of Windows.<br>
+<br>
+The new WinFix 4.3 is a very effective way to improve the reliability of<br>
+Windows, because it makes Windows fault-tolerant and self-repairing. And<br>
+WinFix is very safe, because it operates completely independent of<br>
+Windows.<br>
+<br>
+<a href="http://www.haircutgonewrong.com/comph">Click here</a> to find out 
+more about WinFix,<br>
+the safest, most effective way to keep you working, by keeping your PC<br>
+working non-stop.<br>
+<br>
+Arlen Dixon, CEO<br>
+Westwood Software Marketing<br>
+<br>
+* * * * * * * * * * * * * * * * *<br>
+This announcement is being sent to PC users who asked to be kept<br>
+informed about new developments in Windows(tm) technology.<br>
+To be removed from our mailing list, go to the Email-us page.<br>
+OR<br>
+To be removed <a href="http://www.haircutgonewrong.com/remove">click here</a>.
+</p>
+
+</body>
+
+</html>
+

@@ -1,0 +1,66 @@
+Return-Path: <christine@talentprofiles.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 23494 invoked from network); 5 Sep 2000 21:58:38 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 5 Sep 2000 21:58:38 -0000
+Received: (qmail 17035 invoked by uid 500); 5 Sep 2000 21:58:37 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17031 invoked from network); 5 Sep 2000 21:58:36 -0000
+Received: from polk.reticular.com (199.106.0.15)
+  by em.ca with SMTP; 5 Sep 2000 21:58:36 -0000
+Received: from thompkins (thompkins.reticular.com [199.106.0.100])
+	by polk.reticular.com (8.8.8/8.8.8) with SMTP id OAA18908
+	for <bruceg@em.ca>; Tue, 5 Sep 2000 14:58:24 -0700 (PDT)
+From: christine@talentprofiles.com
+Message-ID: <1680197.968191585497.JavaMail.SYSTEM@thompkins>
+Date: Tue, 5 Sep 2000 15:04:58 -0700 (PDT)
+To: bruceg@em.ca
+Subject: The status of your Resume: Resume Id=189719
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="1692287.968191585457.JavaMail.SYSTEM@thompkins"
+Content-Length: 2081
+
+--1692287.968191585457.JavaMail.SYSTEM@thompkins
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<HTML><BODY><PRE>TalentProfiles.com found your resume on the web. Since you have
+already gone through the effort of creating and posting your resume on
+the web, TalentProfiles.com can help you by further promoting your
+personal resume page; free of charge and with little or no effort
+on your part.
+
+How? TalentProfiles.com is a web based search site used by staffing
+specialists to find qualified candidates, kind of a Yahoo like
+directory, but just for resumes. Because your resume page has already
+been detected, matched and requested by staffing specialists, the only
+thing you need to do to participate is to register by confirming the
+status of your resume. Hiring managers using our system can then simply
+link to your personal web page, review your resume web page for
+consideration and contact you directly. We're not a "recruiting
+company" and we charge no placement fees.
+
+To confirm the status of your page as well as to view or modify your
+resume information go to <a href="http://www.talentprofiles.com/art/servlet/candidate?page=updateResume&resumeId=189719&url=http%3A%2F%2Fwww.em.ca%2F%7Ebruceg%2Fresume.html">here</a>.
+
+ OR for Hotmail users you will probably need to cut and
+paste the entire url below into your browser's address line.
+
+http://www.talentprofiles.com/art/servlet/candidate?page=updateResume&resumeId=189719&url=http%3A%2F%2Fwww.em.ca%2F%7Ebruceg%2Fresume.html
+
+
+
+We will use any modifications or information you want to provide to
+ensure that your resume gets you the results you want.
+
+Thanks for your participation!
+
+Sincerely,
+Christine McKenna
+TalentScout
+www.TalentProfiles.com
+
+
+We apologize if you have received more than one copy of this email.  This probably happened because your resume web page has multiple URL's or has been categorized by our system in more than one job category. You can modify your job category when you update your resume information.</PRE></BODY></HTML>
+--1692287.968191585457.JavaMail.SYSTEM@thompkins--
+

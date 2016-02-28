@@ -1,0 +1,82 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 30899 invoked from network); 8 Jun 2000 19:42:02 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 8 Jun 2000 19:42:02 -0000
+Received: (qmail 22086 invoked from network); 8 Jun 2000 19:42:01 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 8 Jun 2000 19:42:01 -0000
+Received: by vger.rutgers.edu via listexpand id <S156142AbQFHTcy>;
+	Thu, 8 Jun 2000 15:32:54 -0400
+Received: by vger.rutgers.edu id <S156194AbQFHTcp>;
+	Thu, 8 Jun 2000 15:32:45 -0400
+Received: from dsmtp6.dion.ne.jp ([210.196.3.180]:38771 "EHLO
+	dsmtp6.dion.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S156142AbQFHTce>; Thu, 8 Jun 2000 15:32:34 -0400
+Received: from mail.dion.ne.jp by dsmtp6.dion.ne.jp (8.9.3/3.7W-00031710)
+	id EAA27915; Fri, 9 Jun 2000 04:39:31 +0900 (JST)
+Date:	Fri, 9 Jun 2000 04:39:31 +0900 (JST)
+Message-Id: <200006081939.EAA27915@dsmtp6.dion.ne.jp>
+From: =?ISO-2022-JP?B?TEVOc0==?= <lens@mbox.co.jp>
+To: =?ISO-2022-JP?B?IP==?= <linux-kernel@vger.rutgers.edu>
+X-Mailer: Direct Email v0.22
+Subject: =?ISO-2022-JP?B?GyRCJCgkaSRTJF4kNyQ/ISobKEI=?=
+Reply-To: lens@mbox.co.jp
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+ 突然の失礼、お許しください。
+ もし、下記の情報があなたにとって有益ではなかった場合
+ 当方の手違いですので、このまま破棄してください。
+ 最後にリストからの削除案内をしてあります。
+
+　　 今回は時期限定、お得な優良サイト情報をお届けします。
+　　 数ある出会い系、Ｈ系サイトのなかでも特に
+
+ ★ユーザー対応がしっかりしている
+ ★ホームページがわかりやすく、デザインも◎
+ ★他の同類のサイトとは一線を画するものがある
+ ★常にページを更新している
+　　　　　　　　　　　　　（このへんを重視して選びました）
+
+
+ ◆〜〜〜〜〜 Free Chat / 画像つきCHATの無料コーナー 〜〜〜〜〜〜◆
+ http://www3.tky.3web.ne.jp/~sexychat/freechat/
+ その気になるまでは、ずっとタダ！！かわいい女の子が相手だと
+ チャットにも気合がはいりますよね♪ 口説くのもＯＫ、らしい。
+ 人の会話を読んでるだけでも面白いですが、気軽に参加してみては？
+
+ ◆〜〜〜〜〜 タレント＠私生活生中継 〜〜〜〜〜〜〜〜〜〜〜〜〜〜◆
+ http://210.224.176.100/joinmemberhp/from.phtml?banner=peep159-2
+ 詳細なプロフィールや近況報告から、女の子の個性がよく分かります。
+ 本格的にタレント活動をしている子もいて、今後の展開が楽しみです。
+ エッチなのに親近感がわいてくるサイトです。
+
+ ◆〜〜〜〜〜 女性の質、NO.1 / 盗聴 + 盗撮 〜〜〜〜〜〜〜〜〜〜〜◆
+ http://www3.tky.3web.ne.jp/~sexychat/st5/
+ Targetの女性を相当厳選したうえで、ストーキングを実行しています。
+ 全室が美人ぞろい、というサイトは滅多にないはず。ハズレなし。
+ イタズラ電話、パンティー泥棒・・様々な攻撃を音声つきで生中継！
+
+ ◆〜〜〜〜〜 ＯＬ＠夜勤オフィス 〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜◆
+ http://www.arap.ne.jp/sekuhara
+ セクハラ願望を炸裂させたサイト。脚フェチ・パンチラ好きの方には
+ 必見のカメラワークをしています。小心者の課長が職権濫用して実現！
+ ＯＬの制服姿（かなりのミニ）にムラムラッときてしまいます。
+
+
+ ここまでお読みくださいまして、ありがとうございます。
+ 今後、メール配信が不要の方は件名に「不要」とご記入のうえ
+ お手数ですが、ご返信くださいませ。    　lens@mbox.co.jp
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

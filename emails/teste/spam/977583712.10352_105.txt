@@ -1,0 +1,69 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 8529 invoked from network); 23 Dec 2000 04:58:42 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by 10.2.1.99 with SMTP; 23 Dec 2000 04:58:42 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S130092AbQLWF2Y>; Sat, 23 Dec 2000 00:28:24 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129707AbQLWF2O>; Sat, 23 Dec 2000 00:28:14 -0500
+Received: from mail1.allenovery.com ([194.129.43.121]:18699 "EHLO
+	aomswin1.allenovery.com") by vger.kernel.org with ESMTP
+	id <S129706AbQLWF2F>; Sat, 23 Dec 2000 00:28:05 -0500
+Received: from mail.mindspring.com (unverified) by aomswin1.allenovery.com
+ (Content Technologies SMTPRS 4.1.5) with SMTP id <Tc124ee7911150a6b18f3e@aomswin1.allenovery.com> for <linux-kernel@vger.kernel.org>;
+ Sat, 23 Dec 2000 04:33:58 +0000
+From:	<vdfpovpo@mail.eventus.co.il>
+To:	<linux-kernel@vger.kernel.org>
+Date:	Fri, 22 Dec 2000 19:52:57
+Message-Id: <204.727368.851484@mail.mindspring.com>
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1001
+
+GET YOUR OWN 100 MEG WEBSITE FOR ONLY $11.95 PER MONTH TODAY!
+
+STOP PAYING $19.95 or more TODAY for your web site, WHEN YOU CAN 
+GET ONE FOR ONLY $11.95 PER MONTH!
+
+DO YOU ALREADY HAVE A WEBSITE? ALL YOU HAVE TO DO IS TRANSFER THE 
+DOMAIN TO OUR SERVERS AND UPLOAD YOUR DATA AND YOU ARE READY TO 
+GO! YOUR NEW WEB SPACE CAN BE CREATED INSTANTLY WITH JUST A 
+SIMPLE PHONE CALL TO  OUR OFFICE.
+
+YOU CAN CHANGE THE DESIGN OF YOUR SITE AS MUCH AS YOU WANT with 
+no extra charge!  UNLIMITED TRAFFIC -- no extra charge!
+
+FRONT PAGE EXTENSIONS are FULLY SUPPORTED.
+
+A SET UP FEE OF $40.00 APPLIES for FIRST TIME CUSTOMERS.
+
+ALL FEES PREPAID IN ADVANCE FOR THE YEAR PLUS A $40.00 SET UP 
+CHARGE.
+
+FOR DETAILS CALL 1 888 248 0765  if you are outside the USA,
+please fax 240 337 8325
+
+Webhosting International
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

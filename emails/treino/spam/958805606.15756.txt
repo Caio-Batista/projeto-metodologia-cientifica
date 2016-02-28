@@ -1,0 +1,130 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 13357 invoked from network); 20 May 2000 03:02:46 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 20 May 2000 03:02:46 -0000
+Received: (qmail 27618 invoked from network); 20 May 2000 03:02:44 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 20 May 2000 03:02:44 -0000
+Received: by vger.rutgers.edu via listexpand id <S155598AbQETCqE>;
+	Fri, 19 May 2000 22:46:04 -0400
+Received: by vger.rutgers.edu id <S155430AbQETCpn>;
+	Fri, 19 May 2000 22:45:43 -0400
+Received: from [209.52.182.131] ([209.52.182.131]:26909 "EHLO
+	res.topchoice.com") by vger.rutgers.edu with ESMTP
+	id <S155624AbQETCpd>; Fri, 19 May 2000 22:45:33 -0400
+Received: from area51.japannet.com (sdn-ar-008nynyorP034.dialsprint.net [158.252.35.146])
+	by res.topchoice.com (8.8.5/8.8.5) with SMTP id CAA13575
+	for <linux-kernel@vger.rutgers.edu>; Sat, 20 May 2000 02:56:34 -0700
+From: <regardinginfo12@earthlink.net>
+To: <linux-kernel@vger.rutgers.edu>
+Date:	Fri, 19 May 2000 19:15:57
+Message-Id: <583.415968.393253@area51.japannet.com>
+Subject: We can list Your Website
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+We can list your website in all 
+major Search Engines and achieve Top 30 positions. GUARANTEED! 
+
+If people cannot find your business in the first 
+10 to 30 matches of a search, then submitting was a waste of 
+time.
+
+Search engine positioning is the most cost effective way 
+of promoting your Website.
+
+Why Search Engine Top Rankings?
+
+Simply submitting your pages to search engines using the 
+conventional way does not guarantee you'll rank high in the 
+results. 
+People usually read only the first 10 to 30 matches of their 
+search. 
+
+If your page did not appear in the first 30, most people won't 
+get to it. 
+That's why it's a good investment achieving search engines top 
+rankings.
+
+Also,
+
+Nearly everyone (95% of Internet users) begins their Web travel 
+at a major search engine. When people find your pages using 
+search engines is because they are looking for the type of 
+company, service or 
+product you offer. 
+
+Hence, it's more probable they buy from you. 
+Studies have proven that people coming to your site from search 
+engines are more likely to buy than if you attract them using 
+other forms 
+of Web promotion. 
+
+
+We key on the following 20 major search engines:
+Yahoo-AltaVista-WebCrawler-Lycos-Excite-iwon-Looksmart-
+AskJeeves-AOL Search-Netscape-HotBot-MSN-Infoseek-Snap-
+Google-Northern Light-Open Directory-Findwhat-Magellan-Goto
+
+Once your site is listed at or near the top of a major search 
+engine, it can stay there for some time. However, it can also 
+fall in 
+rank over time. That's why we resubmit any of your pages dropped 
+by a major search engine for a period of 4 months.
+
+Let us start launching your pages to the top of the search 
+results today!
+
+Our goal is to list your website in all
+major search engines and achieve Top 30 positions. 
+GUARANTEED! 
+
+For more information please email us with this subject: 
+Send me more information to sendmeinfo@earthlink.net
+   
+
+Or call:
+
+
+Nick Velez
+1-718-583-3134  Monday-Friday 11AM to 7PM Eastern Time
+
+
+
+
+
+
+
+-------------------------------------------------------------
+Under Bill s.1618 TITLE III passed by the 105th U.S. Congress 
+this letter cannot be considered "spam" as long as we include: 
+1) contact information (see above); and, 2) the way to be removed 
+from future mailings (see below). 
+
+To be removed from this list, please mail to: 
+regardinginfo12@earthlink.net with 'remove' in 
+subject line and you will be removed from our list.
+------------------------------------------------------------
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

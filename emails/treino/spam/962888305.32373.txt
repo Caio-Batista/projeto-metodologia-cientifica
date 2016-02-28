@@ -1,0 +1,115 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 28992 invoked from network); 6 Jul 2000 06:09:59 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 6 Jul 2000 06:09:59 -0000
+Received: (qmail 4799 invoked from network); 6 Jul 2000 06:09:56 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 6 Jul 2000 06:09:56 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156373AbQGFFzz>; Thu, 6 Jul 2000 01:55:55 -0400
+Received: by vger.rutgers.edu id <S156414AbQGFFzq>;
+	Thu, 6 Jul 2000 01:55:46 -0400
+Received: from frontier0.air.ne.jp ([210.159.72.20]:1900 "EHLO
+	frontier0.air.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S156373AbQGFFzZ>; Thu, 6 Jul 2000 01:55:25 -0400
+Received: from ns ([210.166.229.28])
+	by frontier0.air.ne.jp (8.9.3+3.2W/3.7W/99042021) with SMTP id PAA20397
+	for <linux-kernel@vger.rutgers.edu>; Thu, 6 Jul 2000 15:05:08 +0900 (JST)
+From: "=?ISO-2022-JP?B?GyRCSiFLXCEhPWc7UhsoQg==?=" <news@index-tv.com>
+To: "linux-kernel@vger.rutgers.edu" <linux-kernel@vger.rutgers.edu>
+Organization: "=?ISO-2022-JP?B?GyRCM3Q8MDJxPFIlJCVzJUclQyUvJTkhJhsoQg==?=
+ =?ISO-2022-JP?B?GyRAGyRCJUYlIyE8JVMhPBsoQg==?="
+Subject: =?ISO-2022-JP?B?GyRCGyRCOD02YhsoQg==?= 10
+ =?ISO-2022-JP?B?GyRAGyRCS3wxXyEqJVclbCU5JUYjMiEqOWsyWj5eSUokLEV2JD8bKEI=?=
+ =?ISO-2022-JP?B?GyRAGyRCJGshKhsoQg==?=
+X-Mailer: MagicalMail Standard Edition Version 1.0.1 REL-1
+Date:	Thu, 06 Jul 2000 15:06:20 +0900
+Message-ID: <000706150620.012AC8A3.news@index-tv.com>
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+☆現金10万円！プレステ２！豪華賞品が当たる！☆
+　　　〜　Index-TV視聴者様　謝恩キャンペーン　〜
+
+このメールはIndex-TVの視聴登録者およびその方々
+からご紹介いただいた方に出させていただいておりま
+す。日頃は、Ｉｎｄｅｘ−ＴＶをご利用いただくとともに、
+貴重なご意見をいただき、ありがとうございます。
+
+このたび、Index-TV視聴者様、およびご紹介いただ
+いた皆様を対象として、ささやかですが、謝恩懸賞
+キャンペーンを実施いたします。参加は無料です。
+この機会にぜひ、ご参加ください。　　一回目〆切り
+は７月31日（月）15：00ｐｍです。ふるってご応募下さい。
+
+【賞品】
+１等　１０万円　×　1名様
+２等　ソニープレステ２　×　1名様
+３等　３万円　×　1名様
+４等　１万円　×　5名様
+５等　お台場の観覧車無料券　×　10組20名様
+　　　ネオジオパスポート引換券　×　5組10名様
+　　　ナムコナンジャタウン
+　　　　　　　　VIPパスポート引換券 X 5組10名様
+　　　ナムコワンダーエッグ
+　　　　　　　　VIPパスポート引換券 X 5組10名様
+
+【応募方法】
+○　ウェブにてお申込の場合はこちら
+　　→http://www.index-tv.com/japan/15cam_dm.html
+○　FAXにてお申込の、またはメールにてお申込みの場合は
+　　以下の項目を印刷またはコピーした上でご応募ください。
+　　また、その際に簡単なアンケートにご協力ください。
+　　・　メール→info@index-tv.com（件名：「15万人突破記念」）
+　　・　ファックス→03-5352-5665
+
+----------アンケート内容（ココから）-----------
+
+　Index-TV視聴者様　謝恩キャンペーン　
+
+１）お名前：
+　　２）ふりがな：
+　　３）E-Mail：
+　　３）年齢：
+　　５）お住まい（都道府県）：
+　　６）性別：
+　　７）職業：
+　　８）Index-TVをご存知の場合どこでお知りになったか
+　　　　お書きください：
+
+
+----------------（ココまで）----------------
+
+Index−TVをご存知ですか？：
+Index-TVはパソコンの画面上に現れる小さなテレビです。
+いまインターネットにはたくさんの情報があふれていて、
+どれにしようか、どこに行こうか迷った経験ありませんか？
+Index-TVは、面白い情報、必要な情報だけを、２４時間、
+３６５日、みなさんのデスクトップに配信してくれる便利な
+道具です。
+
+※Index-TVビューワ（無償）はこちら
+　→http://www.index-tv.com/japan/jget.html
+※お問い合わせはこちら
+　株式会社インデックス-TV　
+　TEL　03-5352-7721　
+　FAX　03-5352-5665
+　メール　info@index-tv.com
+
+-----------------------------------------DMここまで
+
+
+
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

@@ -1,0 +1,76 @@
+Return-Path: <David@xycorp.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 31417 invoked from network); 2 Aug 2000 21:06:02 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 2 Aug 2000 21:06:02 -0000
+Received: (qmail 11000 invoked by uid 530); 2 Aug 2000 21:06:01 -0000
+Delivered-To: bruceg@daedalus.bfsmedia.sk.ca
+Received: (qmail 10997 invoked by uid 500); 2 Aug 2000 21:06:01 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10992 invoked from network); 2 Aug 2000 21:06:00 -0000
+Received: from unknown (HELO mail.xycorp.com) (209.226.74.2)
+  by em.ca with SMTP; 2 Aug 2000 21:06:00 -0000
+Received: from XYTOR-Message_Server by mail.xycorp.com
+	with Novell_GroupWise; Wed, 02 Aug 2000 16:58:55 -0400
+Message-Id: <s988534f.020@mail.xycorp.com>
+X-Mailer: Novell GroupWise 5.5.4
+Date: Wed, 02 Aug 2000 16:58:19 -0400
+From: "David Smith" <David@xycorp.com>
+To: <bruceg@em.ca>
+Subject: URGENT - your $$ referrals $$ sought for 10-SMALLTALK
+	developers - Ontario, Canada
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+** Confidential **
+
+Once Again ...Pardon the intrusion....(especially if you've been contacted =
+by us b4).... Our company Xycorp Inc. in Toronto is involved with various =
+clients across the NAFTA marketplace. Currently we  require an 10 =
+accomplished Smalltalk developers at all levels.=20
+
+To facilitate these opportunities we are happy to extend a $500Cdn.  =
+referral bonus for any Smalltalk developers referred our way who we end up =
+employing for these assignments.
+
+Don't hesitate to visit our web site for a "current" snapshot of our =
+current projects/contract assignments and career positions.
+
+Typically we are looking now for IT professionals at all levels, all roles =
+- =20
+in any of the following areas:
+
+Needed pro's w/expertise in any of the following (on-going):
+* VisualAge products (i.e. - VisualAge JAVA)
+* WebSphere
+* MQ-Series
+* TUXEDO
+* DB2udb
+* ClearCase/ClearQuest (Rational Rose Products)
+* SS7/WAP (Wireless Application Protocols)
+* PKI
+* SAP - BASIS; ABAP; ALE
+* SALES/MARKETING -eCRM Software/Applications - USA/Canada
+
+Our Bios:
+
+ Xycorp Inc.  -25 years in business, Canadian, Privately owned and =
+operated. Serving CANADA/NAFTA region with emphasis on the Ontario =
+marketplace. Serving both the contract/consulting marketplace and the =
+permanent employment market.
+
+David R. Smith; 15+ years in the contract/consulting market, 10+ years =
+with Xycorp Inc.
+
+THANK YOU!!
+
+David R. Smith, V.P. Professional Services
+Xycorp Inc.
+Suite 2001, 365 Bloor Street East,
+Toronto, Ontario, Canada, M4W-3L4
+Tel. (416) 923-4344 x365 (w/confidential voice-mail)
+Fax. (416) 923-0120 (please address to my attention)
+E-mail: david@xycorp.com
+URL: www.xycorp.com

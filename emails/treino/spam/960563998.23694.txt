@@ -1,0 +1,1480 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 17481 invoked from network); 9 Jun 2000 07:09:59 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 9 Jun 2000 07:09:59 -0000
+Received: (qmail 10816 invoked from network); 9 Jun 2000 07:09:57 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 9 Jun 2000 07:09:57 -0000
+Received: by vger.rutgers.edu via listexpand id <S156142AbQFIHBk>;
+	Fri, 9 Jun 2000 03:01:40 -0400
+Received: by vger.rutgers.edu id <S155605AbQFIG4F>;
+	Fri, 9 Jun 2000 02:56:05 -0400
+Received: from [200.41.127.94] ([200.41.127.94]:61271 "EHLO atlas.i-team.com")
+	by vger.rutgers.edu with ESMTP id <S156168AbQFIGyU>;
+	Fri, 9 Jun 2000 02:54:20 -0400
+Received: from 200.41.127.82 ([200.41.127.82]) by atlas.i-team.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id MK61JCS6; Fri, 9 Jun 2000 00:32:53 -0300
+Received: from mail pickup service by 200.41.127.82 with Microsoft SMTPSVC;
+	 Fri, 9 Jun 2000 00:30:05 -0300
+From: <info@hi-netsa.com.ar>
+To: <linux-kernel@vger.rutgers.edu>
+Subject: =?iso-8859-1?Q?D=EDa_del_Padre_-_Orientation_Shop?=
+Date:	Fri, 9 Jun 2000 00:30:04 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_23CBC_01BFD1A9.DB5D8280"
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Message-ID: <075200530030960FRODO@200.41.127.82>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_23CBC_01BFD1A9.DB5D8280
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+   =20
+
+Carrito de compras
+<https://secure.i-team.com:443/shop/shopper_lookup.asp?target=3Dbasket%2E=
+a
+sp&urlOrigin=3D1>  Ayuda <http://200.41.127.86:80/shop/about.asp?>
+Contactenos <mailto:info@hi-netsa.com.ar>  Inicio
+<http://200.41.127.86:80/shop/default.asp?> =20
+-----
+  =20
+Principal <http://200.41.127.86:80/shop/default.asp?>  > D=EDa del Padre =
+
+   Calvin Klein - Contradiction Men Eau de Toilette Vap. 100 ml
+$69,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+000
+012>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+000
+012>   =20
+-----
+   Calvin Klein - Contradiction Men Eau de Toilette Vap. X 50 ml
+$52,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+000
+029>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+000
+029>   =20
+-----
+   Calvin Klein - CK Be Eau de Toilette x 100 ml
+$55,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+104
+406>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+104
+406>   =20
+-----
+   Calvin Klein - CK Be Eau de Toilette x 200 ml
+$73,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+104
+437>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+104
+437>   =20
+-----
+   Calvin Klein - CK One Eau de Toilette Vap. X 100 ml
+$55,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+107
+407>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+107
+407>   =20
+-----
+   Calvin Klein - CK One Eau de Toilette Vap. X 200 ml
+$75,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+107
+438>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+107
+438>   =20
+-----
+   Calvin Klein - CK One Eau de Toilette X 50 ml
+$35,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+107
+681>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D088300=
+107
+681>   =20
+-----
+   EL GAUCHO - Bonifacio del Carril
+$64,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D13248>=
+=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D13248>=
+ =20
+
+-----
+   Canciones ilustradas de los Beatles - Alan Aldridge
+$37,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D19408>=
+=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D19408>=
+ =20
+
+-----
+   Billetera "Dollar Con Ventana"
+$29,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D312BIS=
+>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D312BIS=
+> =20
+
+-----
+   Yves Saint Laurent - Jazz Eau de Toilette X 100 ml
+$65,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D336544=
+000
+1855>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D336544=
+000
+1855>   =20
+-----
+   Yves Saint Lauren - Jazz Eau de Toilette Vap. X 50 ml
+$45,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D336544=
+000
+1862>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D336544=
+000
+1862>   =20
+-----
+   Hugo Boss - Hugo Boss Men Eau de Toilette Vap. X 100 mi
+$58,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D737052=
+320
+052>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D737052=
+320
+052>   =20
+-----
+   Carolina Herrera - Herrera For Men Eau de Toilette Vap. X 100 ml
+$79,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+108
+1600>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+108
+1600>   =20
+-----
+   Carolina Herrera - Herrera For Men Eau de Toilette Vap. X 50 ml
+$59,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+108
+1709>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+108
+1709>   =20
+-----
+   Carolina Herrera - 212 Men Eau de Toilette Vap. X 100 ml
+$73,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+134
+1605>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+134
+1605>   =20
+-----
+   Carolina Herrera - 212 Men Eau de Toilette Vap. X 50 ml
+$54,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+134
+1704>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D841106=
+134
+1704>   =20
+-----
+   Calvin Klein - Eternity Men Eau de Toilette x 50 ml
+$52,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D883001=
+053
+04>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D883001=
+053
+04>   =20
+-----
+   Calvin Klein - Eternlty Men Eau de Toilette x 100 ml
+$69,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D883001=
+055
+19>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D883001=
+055
+19>   =20
+-----
+   Organizador TEXAS INSTRUMENTS AVIGO 10
+$149,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DAVIGO1=
+0BI
+S>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DAVIGO1=
+0BI
+S>   =20
+-----
+   Selecci=F3n de Wilbur Smith Nro 1
+$49,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBO1=
+>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBO1=
+> =20
+
+-----
+   Selecci=F3n de Wilbur Smith Nro 2
+$39,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBO2=
+>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBO2=
+> =20
+
+-----
+   Afeitadora Philishave serie 4000 MICRO ACTION, Action Clear Bomba y
+Action Clear Fluid
+$149,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBOA=
+FEI
+TADORA>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBOA=
+FEI
+TADORA>   =20
+-----
+   Taladro Percutor BLACK & DECKER 10mm
+$41,00
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBOB=
+D>=20
+=20
+=20
+<http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3DCOMBOB=
+D>
+  =20
+-----
+Principal <http://200.41.127.86:80/shop/default.asp?>  > D=EDa del Padre =
+
+-----
+Carrito de compras
+<https://secure.i-team.com:443/shop/shopper_lookup.asp?target=3Dbasket%2E=
+a
+sp&urlOrigin=3D1>  Ayuda <http://200.41.127.86:80/shop/about.asp?>
+Contactenos <mailto:info@hi-netsa.com.ar>  Inicio
+<http://200.41.127.86:80/shop/default.asp?> =20
+Estamos comprometidos a proteger su privacidad. Utilizamos la
+informaci=F3n que recibimos para que usted pueda hacer sus compras  y
+proporcionarle la mejor experiencia al adquirir productos por internet.
+Condiciones y t=E9rminos de uso
+<http://200.41.127.86:80/shop/disclaimer.asp?> .
+
+
+En caso de que no desee volver a recibir ofertas nuestras, por favor,
+env=EDe un e-mail a info@hi-netsa.com.ar <mailto:info@hi-netsa.com.ar> .
+
+=20
+
+------=_NextPart_000_23CBC_01BFD1A9.DB5D8280
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+    <title>Orientation Shop: 'D&#237;a del Padre'</title>
+   =20
+</head>
+
+<body BGCOLOR=3D"#FFFFFF" TEXT=3D"#000000" LINK=3D"#FF0000" =
+VLINK=3D"#FF0000" ALINK=3D"#FF0000">
+
+
+<FONT FACE=3D"Arial" SIZE=3D"2">
+
+<TABLE BORDER=3D"0">
+    <TR ALIGN=3D"LEFT">
+    	<OBJECT classid=3D"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" =
+codebase=3D"http://active.macromedia.com/flash2/cabs/swflash.cab#version=3D=
+4,0,0,0" ID=3D"Movie2" WIDTH=3D"468" HEIGHT=3D"65">
+		<PARAM NAME=3Dmovie =
+VALUE=3D"http://200.41.127.86/shop/assets/images/bannerHINET.swf">
+		<PARAM NAME=3Dquality VALUE=3Dhigh>
+		<PARAM NAME=3Dbgcolor VALUE=3D#FFFFFF>
+		<EMBED src=3D"http://200.41.127.86/shop/assets/images/bannerHINET.swf" =
+quality=3Dhigh bgcolor=3D#FFFFFF  WIDTH=3D"468" HEIGHT=3D"65" =
+TYPE=3D"application/x-shockwave-flash" =
+PLUGINSPAGE=3D"http://www.macromedia.com/shockwave/download/index.cgi?P1_=
+Prod_Version=3DShockwaveFlash">
+		</EMBED>
+	</OBJECT>
+		<br>
+
+
+       =20
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"514">
+  			<tr>
+    			<td width=3D"328" valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/titulo.gif" width=3D"328" =
+height=3D"25"></td>
+    			<td width=3D"16" valign=3D"top"></td>
+           =20
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?target=3Dba=
+sket%2Easp&urlOrigin=3D1"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/cart.gif" width=3D"42" =
+height=3D"25" alt=3D"Carrito de compras"></a></td>
+           =20
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"http://200.41.127.86:80/shop/about.asp?"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/help.gif" width=3D"42" =
+height=3D"25" alt=3D"Ayuda"></a></td>
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"mailto:info@hi-netsa.com.ar"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/contact.gif" width=3D"42" =
+height=3D"25" alt=3D"Contactenos"></a></td>
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"http://200.41.127.86:80/shop/default.asp?"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/Home B.gif" width=3D"42" =
+height=3D"25" alt=3D"Inicio"></a></td>
+  		</tr>
+  		<tr>
+    			<td width=3D"514" valign=3D"top" colspan=3D"6">
+      			<hr size=3D"1" color=3D"#C0C0C0">
+    		</td>
+  		</tr>
+		</table>
+       =20
+    </TR>
+
+</TABLE>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"514">
+  <tr>
+    <td valign=3D"top">
+
+
+
+      <font face=3D"Arial" size=3D"2">
+<center>
+<object classid=3D"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" =
+codebase=3D"http://active.macromedia.com/flash2/cabs/swflash.cab#version=3D=
+4,0,0,0" ID=3D"Movie2" WIDTH=3D"340" HEIGHT=3D"130">
+  <param name=3D"_cx" value=3D"8996">
+  <param name=3D"_cy" value=3D"3440">
+  <param name=3D"Movie" =
+value=3D"http://200.41.127.86/shop/assets/images/banner_dia_del_padre.swf=
+">
+  <param name=3D"Src" =
+value=3D"http://200.41.127.86/shop/assets/images/banner_dia_del_padre.swf=
+">
+  <param name=3D"WMode" value=3D"Window">
+  <param name=3D"Play" value=3D"-1">
+  <param name=3D"Loop" value=3D"-1">
+  <param name=3D"Quality" value=3D"High">
+  <param name=3D"SAlign" value>
+  <param name=3D"Menu" value=3D"-1">
+  <param name=3D"Base" value>
+  <param name=3D"Scale" value=3D"ShowAll">
+  <param name=3D"DeviceFont" value=3D"0">
+  <param name=3D"EmbedMovie" value=3D"0">
+  <param name=3D"BGColor" value=3D"FFFFFF">
+  <param name=3D"SWRemote" value><embed =
+src=3D"http://200.41.127.86/shop/assets/images/DIF.swf" quality=3D"high" =
+bgcolor=3D"#FFFFFF" WIDTH=3D"340" HEIGHT=3D"130" =
+TYPE=3D"application/x-shockwave-flash" =
+PLUGINSPAGE=3D"http://www.macromedia.com/shockwave/download/index.cgi?P1_=
+Prod_Version=3DShockwaveFlash">
+</object>
+</center>
+            <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" =
+width=3D"100%">
+              <tr>
+                <td width=3D"100%" bgcolor=3D"#C0C0C0"><b><font =
+face=3D"Arial" size=3D"2"><a =
+href=3D"http://200.41.127.86:80/shop/default.asp?"><font =
+color=3D"#FFFFFF">Principal</font></a> > D&#237;a del =
+Padre</font></b></td>
+		<td width=3D"100%"><font face=3D"Arial" size=3D"2"> </font></td>
+              </tr>
+            </table>
+
+       =20
+                <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" =
+width=3D"100%">
+               =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300000012">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - =
+Contradiction Men Eau de Toilette Vap. 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$69,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300000012"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300000012sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300000012">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300000029">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - =
+Contradiction Men Eau de Toilette Vap.  X 50 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$52,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300000029"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300000029sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300000029">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300104406">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - CK Be Eau =
+de Toilette x 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$55,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300104406"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300104406sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300104406">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300104437">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - CK Be Eau =
+de Toilette x 200 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$73,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300104437"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300104437sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300104437">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300107407">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - CK One =
+Eau de Toilette Vap.  X 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$55,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300107407"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300107407sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300107407">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300107438">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - CK One =
+Eau de Toilette Vap.  X 200 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$75,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300107438"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300107438sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300107438">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"088300107681">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - CK One =
+Eau de Toilette X 50 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$35,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300107681"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/088300107407sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+088300107681">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"13248">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">EL GAUCHO - Bonifacio =
+del Carril</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$64,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+13248"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/13248sm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+13248">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"19408">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Canciones ilustradas de =
+los Beatles - Alan Aldridge</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$37,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+19408"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/19408sm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+19408">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"312BIS">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Billetera "Dollar Con =
+Ventana"</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$29,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+312BIS"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/312sm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+312BIS">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"3365440001855">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Yves Saint Laurent - =
+Jazz Eau de Toilette X 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$65,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+3365440001855"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/3365440001862sm.jp=
+g" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+3365440001855">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"3365440001862">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Yves Saint Lauren - Jazz =
+Eau de Toilette Vap.  X 50 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$45,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+3365440001862"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/3365440001862sm.jp=
+g" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+3365440001862">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"737052320052">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Hugo Boss - Hugo Boss =
+Men Eau de Toilette Vap.  X 100 mi</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$58,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+737052320052"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/737052320052sm.jpg=
+" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+737052320052">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"8411061081600">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Carolina Herrera - =
+Herrera For Men Eau de Toilette Vap.  X 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$79,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061081600"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/8411061081600sm.jp=
+g" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061081600">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"8411061081709">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Carolina Herrera - =
+Herrera For Men Eau de Toilette Vap.  X 50 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$59,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061081709"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/8411061081600sm.jp=
+g" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061081709">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"8411061341605">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Carolina Herrera - 212 =
+Men Eau de Toilette Vap.  X 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$73,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061341605"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/8411061341605sm.jp=
+g" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061341605">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"8411061341704">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Carolina Herrera - 212 =
+Men Eau de Toilette Vap.  X 50 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$54,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061341704"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/8411061341704sm.jp=
+g" align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+8411061341704">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"88300105304">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - Eternity =
+Men Eau de Toilette x 50 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$52,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+88300105304"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/88300105304sm.jpg"=
+ align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+88300105304">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"88300105519">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Calvin Klein - Eternlty =
+Men Eau de Toilette x 100 ml</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$69,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+88300105519"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/88300105519sm.jpg"=
+ align=3D"left" width=3D"80" =
+height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+88300105519">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"AVIGO10BIS">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Organizador TEXAS =
+INSTRUMENTS AVIGO 10</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$149,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+AVIGO10BIS"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/AVIGO10sm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+AVIGO10BIS">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"COMBO1">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Selecci=F3n de Wilbur =
+Smith Nro 1</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$49,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBO1"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/COMBO1sm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBO1">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+      =20
+		<tr>
+=09
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"COMBO2">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Selecci=F3n de Wilbur =
+Smith Nro 2</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$39,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBO2"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/COMBO2sm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBO2">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"COMBOAFEITADORA">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Afeitadora Philishave =
+serie 4000 MICRO ACTION, Action Clear Bomba y Action Clear =
+Fluid</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$149,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBOAFEITADORA"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/HQ4845bissm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBOAFEITADORA">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		<td valign=3D"top"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/arrow.gif" width=3D"8" =
+height=3D"16"></td>
+	=09
+		<form METHOD=3D"POST" =
+ACTION=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?urlOrigin=
+=3D1">
+		<input TYPE=3D"HIDDEN" NAME=3D"target" =
+VALUE=3D"xt_orderform_additem.asp">
+	=09
+		<input TYPE=3D"HIDDEN" NAME=3D"pf_id" VALUE=3D"COMBOBD">
+		<input TYPE=3D"HIDDEN" NAME=3D"dept_id" VALUE=3D"76">
+       <td valign=3D"top">
+        <strong><font size=3D"2" face=3D"Arial">Taladro Percutor BLACK & =
+DECKER 10mm</font></strong><br>
+		<strong><font color=3D"#D62C10" =
+size=3D"3">$41,00</font></strong></font><a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBOBD"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/product_images/7935BSsm.jpg" =
+align=3D"left" width=3D"80" height=3D"80"></a><p>&nbsp;<p>&nbsp;<p><font =
+size=3D"1" face=3D"Arial">
+		<a =
+href=3D"http://200.41.127.86:80/shop/product.asp?dept%5Fid=3D76&pf%5Fid=3D=
+COMBOBD">
+		<img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/detalles.gif" =
+width=3D"60" height=3D"14"></a>&nbsp;
+	=09
+		<input TYPE=3D"Image" =
+SRC=3D"http://200.41.127.86/shop/assets/images/comprar.gif" WIDTH=3D"60" =
+HEIGHT=3D"14" BORDER=3D"0" ALT ALIGN>
+	=09
+        </font>
+		<hr size=3D"1" color=3D"#C0C0C0">
+		</td></form>
+      =20
+		</tr>
+       </table>
+               =20
+
+            <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" =
+width=3D"100%">
+              <tr>
+                <td width=3D"100%" bgcolor=3D"#C0C0C0"><b><font =
+face=3D"Arial" size=3D"2"><a =
+href=3D"http://200.41.127.86:80/shop/default.asp?"><font =
+color=3D"#FFFFFF">Principal</font></a> > D&#237;a del =
+Padre</font></b></td>
+		<td width=3D"100%"><font face=3D"Arial" size=3D"2"> </font></td>
+              </tr>
+            </table>
+
+<TABLE border=3D0 cellPadding=3D0 cellSpacing=3D0 width=3D514>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE border=3D0 cellPadding=3D0 cellSpacing=3D0 width=3D514>
+        <TBODY>
+        <TR>
+          <TD colSpan=3D6 vAlign=3Dtop width=3D514>
+            <HR color=3D#c0c0c0 SIZE=3D1>
+          </TD></TR>
+        <TR>
+          <TD vAlign=3Dcenter width=3D328><FONT face=3DArial =
+size=3D2><IMG border=3D0=20
+            height=3D38 =
+src=3D"http://200.41.127.86/shop/assets/images/log_hinet.gif" =
+width=3D115><IMG border=3D0=20
+            height=3D38 =
+src=3D"http://200.41.127.86/shop/assets/images/log_oca.gif" =
+width=3D65><IMG border=3D0=20
+            height=3D38 =
+src=3D"http://200.41.127.86/shop/assets/images/log_verisign.gif" =
+width=3D76><IMG border=3D0=20
+            height=3D38 =
+src=3D"http://200.41.127.86/shop/assets/images/log_cybercash.gif"=20
+          width=3D33></FONT></TD><FONT face=3DArial size=3D2>
+          <TD vAlign=3Dtop width=3D16></FONT></TD>
+           =20
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"https://secure.i-team.com:443/shop/shopper_lookup.asp?target=3Dba=
+sket%2Easp&urlOrigin=3D1"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/cart.gif" width=3D"42" =
+height=3D"25" alt=3D"Carrito de compras"></a></td>
+           =20
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"http://200.41.127.86:80/shop/about.asp?"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/help.gif" width=3D"42" =
+height=3D"25" alt=3D"Ayuda"></a></td>
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"mailto:info@hi-netsa.com.ar"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/contact.gif" width=3D"42" =
+height=3D"25" alt=3D"Contactenos"></a></td>
+    			<td width=3D"44" valign=3D"top" align=3D"center"><a =
+href=3D"http://200.41.127.86:80/shop/default.asp?"><img border=3D"0" =
+src=3D"http://200.41.127.86/shop/assets/images/Home B.gif" width=3D"42" =
+height=3D"25" alt=3D"Inicio"></a></td>
+        </TR>
+        <TR>
+          <TD colSpan=3D6 vAlign=3Dtop width=3D520><FONT face=3DVerdana =
+size=3D1>Estamos=20
+            comprometidos a proteger su privacidad. Utilizamos la =
+informaci=F3n=20
+            que recibimos para que usted pueda hacer sus compras&nbsp; y =
+
+            proporcionarle la mejor experiencia al adquirir productos =
+por=20
+            internet. <a =
+href=3D"http://200.41.127.86:80/shop/disclaimer.asp?">Condiciones y =
+t&eacute;rminos de uso</a>.<BR></FONT></TD>
+        </TR>
+        <TR>
+          <TD colSpan=3D6 vAlign=3Dtop width=3D520><FONT face=3DVerdana =
+size=3D1><br>En caso de que no desee volver a recibir=20
+            ofertas nuestras, por favor, env=EDe un e-mail a <a =
+href=3D"mailto:info@hi-netsa.com.ar">info@hi-netsa.com.ar</a>.<BR></FONT>=
+</TD>
+        </TR>
+      </TBODY></TABLE>
+      <P><FONT face=3D"Arial, Helvetica" size=3D1><center>
+      <embed width=3D"468" height=3D"60" =
+src=3D"http://200.41.127.86:80/shop/Assets/images/ban.swf" =
+quality=3D"high" type=3D"application/x-shockwave-flash" =
+pluginspage=3D"http://www.macromedia.com/shockwave/download/"></embed>
+      </center></FONT></P>
+</TD></TR></TBODY></TABLE></FONT></BODY></HTML>
+
+
+</body>
+
+</html>
+------=_NextPart_000_23CBC_01BFD1A9.DB5D8280--
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

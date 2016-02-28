@@ -1,0 +1,239 @@
+Return-Path: <k.ballard2@sprintmail.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 918 invoked by alias); 12 Nov 2000 01:18:35 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 915 invoked from network); 12 Nov 2000 01:18:35 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 12 Nov 2000 01:18:35 -0000
+Received: (qmail 2959 invoked by uid 500); 12 Nov 2000 01:18:33 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 2942 invoked by uid 502); 12 Nov 2000 01:18:29 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 2926 invoked from network); 12 Nov 2000 01:18:27 -0000
+Received: from unknown (HELO mail.listcn.com) (210.77.157.175)
+  by bfsmedia.sk.ca with SMTP; 12 Nov 2000 01:18:27 -0000
+Received: from 209.178.164.167 [209.178.164.167] by mail.listcn.com
+  (SMTPD32-6.04) id A205BD00E8; Mon, 09 Oct 2000 02:50:45 +0800
+Message-ID: <000049c64020$00001d53$00004e5b@>
+To: <Undisclosed Recipients>
+From: k.ballard2@sprintmail.com
+Subject: Accept Credit Cards - Free Setup                         20059
+Date: Sun, 08 Oct 2000 11:53:51 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 4829
+Lines: 209
+
+<html>
+<head>
+<title>Quick Application</title>
+
+
+
+
+</head>
+
+<body bgcolor=3D#99CCff>
+<br>
+
+
+
+<b>HOW TO SUBSTANTIALLY INCREASE SALES</b><br><br>
+
+
+Easily accept major credit cards right away!<br><br>
+
+
+Act now and all Setup & App. fees waived<br><br>
+
+
+
+Merchant Status will help you increase sales by an <br>
+
+incredible 50% to 400%. Stop losing valuable sales!<br><br>
+
+
+
+With one phone call you can be:<br><br>
+
+
+Accepting all major credit cards!<br>
+
+Accepting checks over the net or by Fax!<br>
+
+Accepting real time processing for member sites!<br>
+
+Gaining costumer loyalty and trust!<br>
+
+
+Close the sale now. No more wondering if "The check <br>
+
+is in the mail"<br><br>
+
+
+We specialize in helping those entrepreneurs who <br>
+
+are just starting out: no credit, poor credit, or <br>
+
+even if you have great credit.<br><br>
+
+
+Almost everyone is approved!<br><br>
+
+
+For the next 5 days we will waive all Setup & App. <br>
+
+fees! (other companies charge $200 to $500 to set up)<br>
+
+
+<br><br><br>
+<hr>
+<br><br><br>
+
+
+
+<tr><td bgcolor=3D#0000ff align=3Dcenter colspan=3D2><font size=3D6 face=3D=
+arial
+color=3D#000000><strong><center>Our 30 second
+application</center></strong></font><br>
+</td></tr></td></tr></table>
+
+<center><font face=3D"Arial" size=3D"4" color=3D"#000000"><em><strong>Fill=
+ out
+this short form to receive your
+
+free information.</strong></em></font></p>
+Or, call our courteous customer care reps Now at
+<strong>800-561-3128</strong>. <br>	Leave your Name, Phone Number and
+Best Time To Call. </center>
+
+
+<form name=3D"application"  method=3D"post"
+action=3D"mailto:credform2243@yahoo.com?SUBJECT=3Dcredit" enctype=3D"text/=
+plain">
+
+
+<div align=3D"center">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D6 width=3D400>
+
+<tr>
+<td width=3D15 align=3Dleft><font size=3D3 face=3Darial><strong>1.</strong=
+></font></td>
+<td align=3Dleft width=3D365><font size=3D3 face=3Darial><strong>Please en=
+ter your
+full name:</strong></font></td>
+<td align=3Dleft width=3D370><input type=3D"text" size=3D"20" maxlength=3D=
+"30"
+name=3D"Your_name">
+</td></tr>
+
+<tr valign=3Dtop>
+<td width=3D15 align=3Dleft><font size=3D3 face=3Darial><strong>2.</strong=
+></font></td>
+<td align=3Dleft width=3D365><font size=3D3 face=3Darial><strong>Please en=
+ter your
+phone number:</strong></font><br><font size=3D2 face=3Darial>
+(xxx-xxx-xxxx)</font></td>
+<td align=3Dleft width=3D370><input type=3D"text" size=3D"12" maxlength=3D=
+"12"
+name=3D"Your_phone"><br>
+<input type=3Dradio NAME=3D"Call where" VALUE=3D"home" checked><font size=3D=
+2
+face=3Darial>Home</font>
+<input type=3Dradio NAME=3D"Call where" VALUE=3D"work"><font size=3D2
+face=3Darial>Work</font>
+</td></tr>
+
+<tr>
+<td width=3D15 align=3Dleft><font size=3D3 face=3Darial><strong>3.</strong=
+></font></td>
+<td align=3Dleft width=3D365><font size=3D3 face=3Darial><strong>What is t=
+he best
+time to phone you?</strong></font></td>
+<td align=3Dleft width=3D370><select name=3D"Best_time_to_call" size=3D"1"=
+>
+
+                <option selected>Anytime</option>
+                <option>9AM to 11AM</option>
+                <option>11AM to 1PM</option>
+                <option>1PM to 3PM</option>
+                <option>3PM to 5PM</option>
+                <option>5PM to 7PM</option>
+                <option>7PM to 9PM</option>
+                </select>
+</td></tr>
+
+<tr>
+<td width=3D15 align=3Dleft><font size=3D3 face=3Darial><strong>4.</strong=
+></font></td>
+<td align=3Dleft width=3D365><font size=3D3 face=3Darial><strong>State or =
+Province
+where you live?</strong></font></td>
+<td align=3Dleft width=3D370><input type=3D"text" size=3D"20" maxlength=3D=
+"30"
+name=3D"Your_state">
+</td></tr>
+
+<tr>
+<td width=3D15 align=3Dleft><font size=3D3 face=3Darial><strong>5.</strong=
+></font></td>
+<td align=3Dleft width=3D365><font size=3D3 face=3Darial><strong>Country w=
+here you
+live?</strong></font></td>
+<td align=3Dleft width=3D370><select name=3D"Your_country" size=3D"1">
+
+                <option selected></option>
+                <option>US</option>
+                <option>Outside US</option>
+                </select>
+</td></tr>
+
+
+
+<tr>
+<td width=3D15 align=3Dleft><font size=3D3 face=3Darial><strong>6.</strong=
+></font></td>
+<td align=3Dleft width=3D365><font size=3D3 face=3Darial><strong>Please en=
+ter your
+email address:</strong></font></td>
+<td align=3Dleft width=3D370><input type=3D"text" size=3D"20" maxlength=3D=
+"30"
+name=3D"Your_email">
+</td></tr>
+<tr><td>&nbsp;</td><td align=3Dleft><input type=3D"submit" value=3D"Submit
+Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=3D"reset"
+value=3D"Reset Application"><br><br>
+
+
+If you received this in error or would like to be <BR>
+
+removed from our list, <A
+href=3D"mailto:removeadd6@china.com?subject=3Dremove">PLEASE CLICK HERE</A=
+>
+</table>
+
+
+</div>
+
+
+<BR><BR>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

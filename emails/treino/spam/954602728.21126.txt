@@ -1,0 +1,39 @@
+Return-Path: <qmail-return-44946-bruceg-lists-djb-qmail=daedalus.bfsmedia.sk.ca@list.cr.yp.to>
+Delivered-To: bruceg-lists-djb-qmail@daedalus.bfsmedia.sk.ca
+Received: (qmail 19640 invoked from network); 1 Apr 2000 13:59:36 -0000
+Received: from muncher.math.uic.edu (131.193.178.181)
+  by bfsmedia.sk.ca with SMTP; 1 Apr 2000 13:59:36 -0000
+Received: (qmail 11440 invoked by uid 1002); 1 Apr 2000 13:59:06 -0000
+Mailing-List: contact qmail-help@list.cr.yp.to; run by ezmlm
+Precedence: bulk
+Delivered-To: mailing list qmail@list.cr.yp.to
+Received: (qmail 25239 invoked from network); 1 Apr 2000 13:59:05 -0000
+Received: from www.elol.com (HELO elol.eLOL.com) (216.200.46.228)
+  by muncher.math.uic.edu with SMTP; 1 Apr 2000 13:59:05 -0000
+Received: from www (www [10.200.201.16])
+	by elol.eLOL.com (8.9.1b+Sun/8.9.1) with SMTP id FAA09685
+	for <qmail@list.cr.yp.to>; Sat, 1 Apr 2000 05:58:28 -0800 (PST)
+From: chris@pds2k.com
+Message-ID: <518920299.954597683382.JavaMail.submitor@www>
+Date: Sat, 1 Apr 2000 06:01:23 -0800 (PST)
+To: qmail@list.cr.yp.to
+Subject: spam
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="518920943.954597683375.JavaMail.submitor@www"
+
+--518920943.954597683375.JavaMail.submitor@www
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hey!
+I discovered this free service called eLOL, electronic Laugh Out Loud
+that sends jokes to you every day. It uses some sort of "smart technology" that learns your sense of humor.
+This "spam" joke is so funny I had to send it to you.
+
+ Check this link to view the joke: http://www.elol.com/site/ViewJoke?title=spam&url=05/600028.gif&name=CTarricone 
+ By registering for eLOL today you're automatically entered to WIN A BRAND NEW PALM V. 
+ eLOL not only delivers the best jokes on the net, it actually learns your sense of humor and sends the jokes you'll like most.
+	Download is availabe from http://www.elol.com/download/
+
+--518920943.954597683375.JavaMail.submitor@www--
+

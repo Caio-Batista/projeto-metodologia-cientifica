@@ -1,0 +1,54 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 21696 invoked from network); 20 May 2000 17:17:25 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 20 May 2000 17:17:25 -0000
+Received: (qmail 14803 invoked from network); 20 May 2000 17:17:23 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 20 May 2000 17:17:23 -0000
+Received: by vger.rutgers.edu via listexpand id <S155400AbQETQ7P>;
+	Sat, 20 May 2000 12:59:15 -0400
+Received: by vger.rutgers.edu id <S155267AbQETQ6y>;
+	Sat, 20 May 2000 12:58:54 -0400
+Received: from www02.speed.co.jp ([210.163.139.11]:1735 "HELO
+	www02.speed.co.jp") by vger.rutgers.edu with SMTP
+	id <S155400AbQETQ6r>; Sat, 20 May 2000 12:58:47 -0400
+Received: (qmail 24093 invoked from network); 19 May 2000 20:40:07 -0000
+Received: from dh013.speed.co.jp (HELO oemcomputer) (210.163.139.33)
+  by www02.speed.co.jp with SMTP; 19 May 2000 20:40:07 -0000
+From: dmdaiko <hand@tk1.speed.co.jp>
+To: <linux-kernel@vger.rutgers.edu>
+Subject: =?ISO-2022-JP?B?GyRCJTIhPCVgNDYzUCRHO08kYSRpJGwka0Q2NEpDMSVTGyhC?=
+ =?ISO-2022-JP?B?GyRCJTglTSU5GyhC?=
+ !
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Achi-Kochi Mail ver1.03
+Message-Id:<20000520165849Z155400-1958+185@vger.rutgers.edu>
+Date:	Sat, 20 May 2000 12:58:47 -0400
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+ニュービジネス速報！ネットワークビジネスの決定版！
+
+ジュエリーネット！！ゲーム感覚で始められる超簡単ビジネス！
+
+初期投資　１９，８００円のみ。それ以上お金はかかりません！
+
+誰でも成功できるシステムと素敵なジュエリーが貴方を待っています！
+
+詳細はこちら→http://www.rd.mmtr.or.jp/~devil666/houseki
+
+お問い合せは
+hand@tk1.speed.co.jp
+まで.
+まで.
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

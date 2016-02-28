@@ -1,0 +1,60 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 22999 invoked from network); 20 May 2000 20:07:40 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 20 May 2000 20:07:40 -0000
+Received: (qmail 18569 invoked from network); 20 May 2000 20:07:38 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 20 May 2000 20:07:38 -0000
+Received: by vger.rutgers.edu via listexpand id <S155532AbQETTtL>;
+	Sat, 20 May 2000 15:49:11 -0400
+Received: by vger.rutgers.edu id <S155548AbQETTsx>;
+	Sat, 20 May 2000 15:48:53 -0400
+Received: from [198.60.218.2] ([198.60.218.2]:3850 "HELO hobbs.D91.K12.ID.US")
+	by vger.rutgers.edu with SMTP id <S155483AbQETTsq>;
+	Sat, 20 May 2000 15:48:46 -0400
+Received: from waf-dc1c-31.rasserver.net ([206.216.87.31])
+	 by hobbs.d91.k12.id.us (UCX V4.2-21E, OpenVMS V7.1 Alpha);
+	Sat, 20 May 2000 14:01:29 -0600
+Message-Id: <4.2.0.58.20000520155615.0096bab0@1.1.1.1>
+X-Sender: barrett@1.1.1.1
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.2.0.58 
+Date:	Sat, 20 May 2000 15:57:08 -0400
+To: barrett@srv.net
+From: Barrett Southworth <barrett@srv.net>
+Subject: Free Disk Space
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====================_91177453==_.ALT"
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+--=====================_91177453==_.ALT
+Content-Type: text/plain; charset="us-ascii"; format=flowed
+
+Go to Free Disk Space for free storage space on the Internet.  Get up to 
+300 MB of storage space on-line.  You can access the data from any computer 
+that is connected to the Internet.
+
+My referal ID is: U0018CBA1
+
+--=====================_91177453==_.ALT
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+Go to Free Disk Space for free storage space on the Internet.&nbsp; Get
+up to 300 MB of storage space on-line.&nbsp; You can access the data from
+any computer that is connected to the Internet.&nbsp; <br>
+<br>
+My referal ID is: <font size=4>U0018CBA1<br>
+</font></html>
+
+--=====================_91177453==_.ALT--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

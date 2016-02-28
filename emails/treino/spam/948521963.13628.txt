@@ -1,0 +1,156 @@
+From owner-linux-kernel-outgoing@vger.rutgers.edu Fri Jan 21 19:17:45 2000
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 3447 invoked from network); 21 Jan 2000 19:17:45 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 21 Jan 2000 19:17:45 -0000
+Received: (qmail 19080 invoked from network); 21 Jan 2000 19:17:41 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 21 Jan 2000 19:17:41 -0000
+Received: by vger.rutgers.edu via listexpand id <S153885AbQAUR43>;
+	Fri, 21 Jan 2000 12:56:29 -0500
+Received: by vger.rutgers.edu id <S153941AbQAURgl>;
+	Fri, 21 Jan 2000 12:36:41 -0500
+Received: from ABD1D937.ipt.aol.com ([171.209.217.55]:1167 "HELO
+        clmin3-ext.prodigy.com") by vger.rutgers.edu with SMTP
+	id <S155164AbQAURVg>; Fri, 21 Jan 2000 12:21:36 -0500
+From:   <tohello@yahoo.com>
+Subject: Save 50-80% on International Calls and Win $500 in Free phone calls
+Date:   Fri, 21 Jan 2000 08:46:18
+Message-Id: <602.5905.342741@clmin3-ext.prodigy.com>
+To:     unlisted-recipients:; (no To-header on input)
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+For more information email us: sayhello@altavistausa.com
+
+Save up to 80% on your INTERNATIONAL long distance phone bill.  
+
+Join our easy-to-use callback service today for FREE. There are no monthly minimums, surcharges 
+or set-up fees, just low flat rates 24 hours, everyday.
+
+Visit our website: http://hometown.aol.com/callhello/ and win $500 in FREE phone calls.    
+
+Email: sayhello@altavistausa.com
+http://hometown.aol.com/callhello/
+
+Sample our LOW rate chart below.  To determine the rates add cost of country you are calling FROM 
+to cost of country you are calling TO.  Complete rate list available on our website. Prices are 
+per minute in USD.  
+
+Algeria                  0.31
+Australia                0.08
+Austria                  0.12
+Azerbaijan               0.42
+Bahamas                  0.18
+Bahrain                  0.41
+Bangladesh               0.60
+Bangladesh  Dhaka        0.49
+Belgium                  0.08
+Brazil                   0.28
+Canada                   0.06
+Chile                    0.15
+China                    0.32
+Colombia                 0.25
+Cyprus                   0.28
+Denmark                  0.08
+Djibouti                 0.69
+Dominican Rep.           0.17
+Egypt                    0.59
+Ethiopia                 0.95
+Finland                  0.11
+France                   0.07
+Georgia                  0.46
+Germany                  0.06
+Greece                   0.25
+Hong  Kong               0.07
+Hungary                  0.23
+India                    0.69
+India New Delhi          0.66
+India-Bomba              0.54
+India-Madras             0.62
+India-Bangalore          0.54
+Indonesia                0.35
+Iran                     0.58
+Iraq                     0.68
+Ireland                  0.09
+Israel                   0.13
+Italy                    0.11
+Japan                    0.09
+Japan-Tokyo              0.08
+Jordan                   0.43
+Kazakhstan               0.49
+Kenya                    0.60
+Kuwait                   0.54
+Kyrgyzstan               0.57
+Lebanon                  0.38
+Liberia                  0.43
+Libya                    0.32
+Malaysia                 0.22
+Malta                    0.17
+Mauritania               0.66
+Mexico                   0.15
+Morocco                  0.42
+Nepal                    0.83
+Netherlands              0.07
+New  Zealand             0.09
+Nigeria                  0.69
+Norway                   0.11
+Oman                     0.47
+Pakistan                 0.58
+Pakistan\Karachi         0.56
+Philippines              0.26
+Poland                   0.25
+Qatar                    0.46
+Romania                  0.37
+Russia                   0.31
+Russia-Moscow            0.12
+Russia-St.Petersberg     0.22
+Saudi  Arabia            0.62
+Singapore  Rep.          0.15
+Somalia                  0.68
+South  Africa            0.34
+South Korea              0.12
+Spain                    0.11
+Sri  Lanka               0.74
+Sudan                    0.43
+Sweden                   0.05
+Switzerland              0.09
+Syria                    0.51
+Taiwan                   0.14
+Tajikistan               0.46
+Tanzania                 0.42
+Thailand                 0.35
+Thailand bangkok         0.29
+Tunisia                  0.42
+Turkey                   0.31
+Turkmenistan             0.54
+Ukraine                  0.29
+United  Arab Emirates    0.30
+United Kingdom           0.05
+USA                      0.05
+Yemen                    0.63
+
+Hello Corp
+Hello Building
+434 Sunrise Highway
+West Islip N.Y. 11795
+Tel: 516-321-1204
+Fax: 516-321-1758
+Email: sayhello@altavistausa.com
+http://hometown.aol.com/callhello/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

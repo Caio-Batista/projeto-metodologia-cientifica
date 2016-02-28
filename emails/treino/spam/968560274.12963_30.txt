@@ -1,0 +1,220 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Received: (listrecv, mailbox 'linux-kernel' opened at Sun Sep 10 02:18:56 2000)
+Received: (listsend invoked at Sun Sep 10 02:18:56 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 18891 invoked from network); 10 Sep 2000 02:18:55 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bfsmedia.sk.ca with SMTP; 10 Sep 2000 02:18:55 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S130614AbQIJCRK>; Sat, 9 Sep 2000 22:17:10 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S130620AbQIJCRB>; Sat, 9 Sep 2000 22:17:01 -0400
+Received: from [216.205.135.98] ([216.205.135.98]:37325 "EHLO
+	oracle.aweber.com") by vger.kernel.org with ESMTP
+	id <S130632AbQIJCQx>; Sat, 9 Sep 2000 22:16:53 -0400
+Received: from aweber.com (mysql.aweber.com [216.205.135.99])
+	by oracle.aweber.com (8.10.1/8.10.1) with ESMTP id e8A2Ko810019
+	for <linux-kernel@vger.kernel.org>; Sat, 9 Sep 2000 22:20:55 -0400 (EDT)
+Received: (from daemon@localhost)
+	by aweber.com (8.8.8/8.8.8) id WAA00064;
+	Sat, 9 Sep 2000 22:25:42 -0400 (EDT)
+Date:	Sat, 9 Sep 2000 22:25:42 -0400 (EDT)
+Message-Id: <200009100225.WAA00064@aweber.com>
+To:	linux-kernel@vger.kernel.org
+From:	"David Greenwalt" <dpower@thepowerstore.com>
+X-Loop:	powerstorenews@aweber.com
+X_Id:	13575:1:linux-kernel@vger.kernel.org
+Subject: Dave's Power Store News Welcomes You!
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 8759
+
+Who is Dave and What is Dave's Power Store?
+
+Dave of Dave's Power Store is David Greenwalt, a midwestern 
+born and raised 35 year old who lives and loves his family, 
+business, and the sports of bodybuilding and powerlifting in 
+that order. In fact Dave is the one writing this so I'll 
+quit talking in the third person. :-)
+
+In 1987, after attaining a Bachelor in Science degree from 
+an Illinois state university and marrying my high school 
+sweetheart I started my first business by purchasing an 
+existing, but failing gym in the small town of Dixon 
+Illinois.  Co-Ed Fitness Center was mine! At the same time I 
+was a Dixon Police Officer.  Even though I put in 40-50 
+hours of shift work per week as a police officer the 
+additional hours necessary to make Co-Ed thrive were hours 
+that really didn't feel that much like work.  I knew right 
+away that the health business was where my heart really 
+stood.  After all, weight lifting was a passion I'd had 
+since 1982.
+
+After a couple of years of growth, new equipment purchases 
+and other improvements, Co-Ed continued to grow, however, in  
+a town of only 15,000 people "making it" in the gym business 
+was becoming less of a reality.  I continued to work as a 
+police officer and in 1990 was hired by the Illinois State 
+Police.
+
+Shortly after being hired by the State Police I sold Co-Ed 
+Fitness.  The Illinois State Police requires all recruits to 
+attend a state police academy for six full months!  I knew I 
+wouldn't be able to run the gym and attend the academy at 
+the same time.
+
+After graduating from the academy and getting settled, 
+finally back in my home town of Dixon, I felt an emptiness 
+and knew I wanted to start another business again.  It was 
+in 1992 that I started a tiny little company called The 
+Power Store by selling supplements to a few local people.  
+And when I say a few local people, I mean a few local 
+people!  People were coming to my home to buy them or I 
+hand-delivered all of them to their home and hoped they'd 
+pay me in a reasonable time.  To say my business plan was 
+suffering is an understatement.
+
+During The Power Store's formative years I took every call, 
+ordered every product for inventory (3 shelves in a room 10 
+X 15), picked every product and packed every order.  My wife 
+was working full time during The Power Store's early years 
+and we had two of our now three beautiful children.  So in 
+between wiping snotty noses, giving hugs, changing diapers, 
+reading stories and wrestling with my two boys I worked full 
+time as an Illinois State Trooper.  I can still remember a 
+common practice that makes me cringe a bit today and wonder 
+how I really did it then.  It wasn't uncommon to have 2-4 
+orders per day during this time and I always wanted to make 
+sure the orders got out on time, regardless of the seasons 
+or weather in Illinois.  In the Winter time the routine 
+consisted of packing two orders on a bitterly cold day that 
+had to get out to be delivered on time.  What did this mean 
+for me then?  It meant continuing to juggle the duties of a 
+State Trooper with packing up one infant boy and a toddler 
+in full Winter gear into my beater car, after packing the 
+whopping two orders, and driving fifteen miles to a UPS 
+center so I could make sure the orders got out on time.  I 
+finally grew enough to ask UPS to come to my home.  Thank 
+goodness for that!
+
+The Power Store continued to grow by word of mouth and small 
+advertisements in magazines and in 1993 I had to move the 
+business out of my home.  I'm generally a very private 
+person and I just couldn't have all these local people 
+coming to my home at all hours of the day and night.  I 
+hired my first real employee in September of 1993 and hoped 
+the phone would keep ringing.  Remember, no internet in 
+1993.  And the phone did keep ringing.  In fact, the phone 
+has been ringing ever since but now the internet is 
+beginning to silence the tone.
+
+By 1997 The Power Store was one of the largest sports 
+supplement catalog retailers in the country.  I attribute 
+the growth to my midwestern values learned from my mother 
+and father who instilled in me a commitment to service and 
+quality.  I then instilled the same values into every 
+employee I hired and continue to do so.  "Getting by" or 
+"good enough" didn't cut it and never has cut it.  Because 
+I'm such a strong critic of the way others don't service 
+their customers and make their customers feel as though they 
+are the ones being done the favor I have made sure that 
+Power Store customers know the relationship is a mutual one. 
+Yes, The Power Store provides high quality products at 
+unbelievable prices but if it weren't for our customers we 
+wouldn't exist and we value every customer, big or small.
+
+To wrap up the store's history quickly, The Power Store 
+continues to live it's own life as a strong catalog/internet 
+company with a retail store in Sterling Illinois as well.  
+We continue to deliver quality products at the absolute 
+lowest everyday prices and I still understand the importance 
+of delivering service and products on-time and so do my 
+employees, many of who have been with me since 1993 or 1994.
+
+As far as me personally, well, I no longer work for the 
+Illinois State Police but still believe it's one of the 
+greatest organizations a police officer could work for.  In 
+1996 I committed to running The Power Store full time and 
+then some as anyone who owns their own business and loves it 
+can imagine.
+
+I still reside in Dixon Illinois and even though we don't 
+have a great restaurant or Broadway in this small town we 
+have family values and the same midwestern ethics that 
+helped me become the husband, father and businessman I am 
+today.
+
+I've competed in powerlifting (was NASA Wisconsin state 
+champ at 220 pounds) and been a powerlifting meet promoter 
+on no less than ten occasions.  In 1995 I turned in my 
+enthusiasm for powerlifting competitions in favor of 
+bodybuilding competitions and continue to train for and 
+compete in natural bodybuilding competitions today.
+
+Although I attained a Bachelor in Science I really learned 
+about dietary supplements by reading everything I could get 
+my hands on, finding out what Medline was and reading 
+endless stacks of full research papers, and living the fat 
+loss/muscle gain lifestyle for the past 20 years.  I've also 
+written well over a hundred articles on supplements and 
+training, many of which can be found at our website under 
+the ARTICLES link.  I've also been published in Muscle & 
+Fitness, Peak Training, and been a ghost writer for many 
+others.  I'm also a Certified Strength & Conditioning 
+Specialist (CSCS) certified by the National Strength & 
+Conditioning Association.  I presently coach over 200 people 
+every month through my Coaching Club and thoroughly enjoy 
+the friendships and amazing transformations I've been partly 
+responsible for creating through the club.
+
+I recently wrote a book called "The Leanness Lifestyle", 
+currently in its 3rd edition, which is a 350 page compendium 
+of everything I currently know to help anyone wanting to 
+strip fat and add or keep precious muscle.
+
+Thank you so much for your time and getting to know me a 
+bit.  If you are inclined to do so don't hesitate to drop me 
+a note on paper or e-mail.  I try to answer every letter but 
+it might take a while.
+
+In health & performance,
+
+
+David Greenwalt CSCS - President 
+Dave's Power Store 
+1011 North Galena Ave 
+Dixon, IL  61021 
+815-288-7432 
+800-382-9611 
+815-288-7433 FAX 
+http://www.thepowerstore.com
+
+P.S.: If you would like to secure your own copy of "The 
+Leanness Lifestyle" or find out more about the latest 
+edition of it please go directly to 
+http://www.thepowerstore.com/engines/?ID=aweber&KW=leanness
+
+P.P.S.:  If you would like to find out more about becoming a 
+Coaching Club member go directly to
+http://www.thepowerstore.com/whyjoin.html
+
+Make sure your good friends, coworkers and family members 
+don't miss out on Dave's Power Store FREE News E-zine! Send
+them this section below so they can also join.
+
+---------------------------------------------------------
+"To sign up for Dave's Power Store FREE News E-zine just 
+send an e-mail to powerstorenews@aweber.com and you'll 
+immediately be subscribed for FREE.  It's simple and you can 
+unsubscribe any time if you don't like all the discounts and 
+news on supplements."
+---------------------------------------------------------
+
+To stop additional follow up messages click below:
+http://www.aweber.com/r.php?i=powerstorenews&e=linux-kernel%40vger.kernel.org
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

@@ -1,0 +1,144 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Received: (listrecv, mailbox 'linux-kernel' opened at Mon Sep 25 09:30:04 2000)
+Received: (listsend invoked at Mon Sep 25 09:30:04 2000)
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 23797 invoked from network); 25 Sep 2000 03:15:02 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bfsmedia.sk.ca with SMTP; 25 Sep 2000 03:15:02 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S129632AbQIYDNh>; Sun, 24 Sep 2000 23:13:37 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129800AbQIYDN0>; Sun, 24 Sep 2000 23:13:26 -0400
+Received: from eagle.prod.itd.earthlink.net ([207.217.120.24]:47063 "EHLO
+	eagle.prod.itd.earthlink.net") by vger.kernel.org with ESMTP
+	id <S129632AbQIYDNO>; Sun, 24 Sep 2000 23:13:14 -0400
+Received: from 38.38.27.227 (ip227.jacksonville4.fl.pub-ip.psi.net [38.38.27.227])
+	by eagle.prod.itd.earthlink.net (8.9.3-EL_1_3/8.9.3) with SMTP id TAA28209
+	for <linux-kernel@vger.kernel.org>; Sun, 24 Sep 2000 19:57:12 -0700 (PDT)
+From:	sisterd@excite.com
+Message-Id: <200009250257.TAA28209@eagle.prod.itd.earthlink.net>
+To:	<linux-kernel@vger.kernel.org>
+Subject: Hot Stock Picks
+Date:	Sun, 24 Sep 00 19:38:14 Pacific Daylight Time
+X-Priority: 3
+X-MSMailPriority: Normal
+Importance: Normal
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_018C_01BD9940.715D52A0"
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 6800
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_018C_01BD9940.715D52A0
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+
+<FONT face="MS Sans Serif">
+<FONT size=2>  <BR>
+<BR>
+Mile High PR Announces Investment Opinion on Carnegie International <BR>
+Corporation OTCBB:CGYC<BR>
+<BR>
+Carnegie International Corporation <A HREF="www.CARNEGIEINT.com">www.CARNEGIEI<BR>
+NT.com</A> is now more than ever focused on potential acquisitions, mergers, <BR>
+joint ventures and partnerships. In order to create more profit opportunities <BR>
+for CGYC, chairman David Gable recently retained Investec Ernst & Company of <BR>
+New York City as a financial advisor and investment banker.<BR>
+We believe that CGYC could realize an additional $4.5 million in profit in <BR>
+the Midwest alone, and could achieve 20% in the market over the next year.  <BR>
+With a stock price of over $3.75 a share<BR>
+CGYC is looking forward to the increase in revenues of about $15 million due <BR>
+to the agreement its subsidiary Paramount International Telecom just signed <BR>
+with RoomLinX to offer wireless, high speed internet access in hotel and <BR>
+hospital rooms across North America.<BR>
+<BR>
+Carnegie International Corporation (OTCBB: <A HREF="aol://4785:CGYC">CGYC</A>)<BR>
+, (<A HREF="www.carnegieint.com">www.carnegieint.com</A>) is an Internet <BR>
+support and computer telephony holding company with specialization in <BR>
+telecommunications products, services and distribution, and in E-Commerce and <BR>
+EDI. Its primary wholly-owned subsidiaries include: RomNet Support Services, <BR>
+Inc., an Internet, e-business and technical support services company, Profit <BR>
+Through Telecommunications (Europe) Ltd. (PTT), a telecommunications software <BR>
+company providing business solutions utilizing proprietary speech <BR>
+recognition, touch tone and bar code responses to send and/or receive <BR>
+information; ACC Telecom of Columbia, Maryland, a leading reseller of <BR>
+equipment and business telephone systems from Comdial(TM), Lucent(R), SONY(R) <BR>
+and Sprint(R); American Telephone & Computer, an Ameritech and Comdial dealer <BR>
+based in Elmhurst, Illinois, in the Chicago suburbs; Voice Quest, Inc., of <BR>
+Sarasota, Florida, a developer and provider of speech recognition and voice <BR>
+mail technologies and products, Paramount International Telecommunications, <BR>
+Inc., of Vista, California, which serves hotels and other businesses, <BR>
+primarily in 0+/- call auditing and international one-plus sectors, and <BR>
+Federation of Associated Health Systems, Inc., of San Antonio, Texas, which <BR>
+serves more than 700 hospitals with telecommunications services, primarily in <BR>
+0+/- call auditing and international one-plus sectors.<BR>
+<BR>
+Private Securities Litigation Reform Act of 1995 provides a "safe harbor" for <BR>
+forward-looking statements. Certain information included in this Press <BR>
+Release (as well as information in oral statements or other written <BR>
+statements made or to be made by Carnegie International Corporation) contain <BR>
+statements that are forward-looking, such as statements relating to the <BR>
+future anticipated direction of the telecommunications industry, plans for <BR>
+future expansion, various business development activities, planned capital <BR>
+expenditures, future funding sources, anticipated sales growth, and potential <BR>
+contracts. Such forward-looking information involves important risks and <BR>
+uncertainties that could significantly affect anticipated results in the <BR>
+future, and accordingly, such results may differ from those expressed in any <BR>
+forward-looking statements made by or on behalf of Carnegie International <BR>
+Corporation. These risks and uncertainties included, but are not limited to, <BR>
+those relating to development and expansion activities, dependence on <BR>
+existing management, financing activities, domestic and global economic <BR>
+conditions, change in Federal or state laws, and market competition factors. <BR>
+<BR>
+Mile High PR was developed solely for experienced, risk tolerant investors. <BR>
+Subscribers to Mile High PR.com receive reports for select companies trading <BR>
+on various markets. Sophisticated investors are also able to receive for <BR>
+free, select, rare research reports and investor kits on up and coming <BR>
+emerging companies while they are still not widely known.<BR>
+<BR>
+About Mile High PR Inc.<BR>
+Mile High PR introduces what in its opinion are undervalued companies to the <BR>
+investment community. Mile High PR strives to locate companies with enormous <BR>
+growth potential. Mile High PR is a full service public relations / Investor <BR>
+relations firm. <BR>
+<BR>
+All material herein was prepared by Mile High PR based upon information <BR>
+supplied by the company or other sources believed to be reliable. The <BR>
+information contained herein is not guaranteed by Mile High PR to be <BR>
+accurate, and should not be considered to be all-inclusive. The companies <BR>
+that are discussed in this opinion have not approved the statements made in <BR>
+this opinion. This opinion contains forward-looking statements that involve <BR>
+risks and uncertainties. A company's actual results could differ materially <BR>
+from those described in any forward-looking statements or announcements <BR>
+discussed herein. This material is for informational purposes only and should <BR>
+not be construed as an offer or solicitation of an offer to buy or sell <BR>
+securities. Mile High PR is not a licensed broker, broker dealer, market <BR>
+marker, investment banker, investment advisor, analyst or underwriter. Please <BR>
+consult a broker before purchasing or selling any securities viewed on <A <BR>
+HREF="www.carnegieint.com">www.CARNEGIEINT.com</A>. Mile High PR has not yet <BR>
+been compensated by third party shareholders on behalf of one or more of the <BR>
+companies mentioned in this opinion. (300,000 CGYC ). Mile High PR intends to <BR>
+sell its shares. Mile High PR may sell its shares for less than the target <BR>
+price given in this opinion. Mile High PR's affiliates, officers, directors <BR>
+and employees may also have bought or may buy the shares discussed in this <BR>
+opinion and may profit in the event those shares rise in value. Mile High PR <BR>
+will not advise as to when it decides to sell and does not and will not offer <BR>
+any opinion as to when others should sell; each investor must make that <BR>
+decision based on his or her judgment of the market.<BR>
+<BR>
+<BR>
+To be removed please call: 1-800-222-6000 ext 957-8776<BR>
+<BR>
+</FONT></FONT></BODY></HTML>
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

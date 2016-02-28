@@ -1,0 +1,207 @@
+Return-Path: <root@pixar.pixarsales.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 17863 invoked by alias); 3 Jun 2000 19:31:35 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 17860 invoked from network); 3 Jun 2000 19:31:34 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 3 Jun 2000 19:31:34 -0000
+Received: (qmail 2452 invoked by uid 500); 3 Jun 2000 19:31:32 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 2447 invoked by uid 500); 3 Jun 2000 19:31:31 -0000
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 2442 invoked from network); 3 Jun 2000 19:31:30 -0000
+Received: from unknown (HELO pixar.pixarsales.com) (207.212.137.1)
+  by em.ca with SMTP; 3 Jun 2000 19:31:30 -0000
+From: <root@pixar.pixarsales.com>
+To: <darklord@em.ca>
+Date: Sat, 3 Jun 2000 08:52:05
+Message-Id: <230.235029.462193@pixar.pixarsales.com>
+Subject: CatalogBuilder Cart (DM)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+
+	<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+
+	<head>
+		<meta http-equiv="content-type" 
+content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 4">
+		<title>CatalogBuilder Cart</title>
+		<style type="text/css"><!--
+			blockquote.cite { }
+			span.tabooheader { }
+			tt { }-->
+		</style>
+	</head>
+
+	<body>
+		<table border="0" cellpadding="0" cellspacing="0" 
+width="600">
+			<tr>
+				<td>
+					<table border="0" 
+cellpadding="0" cellspacing="0" width="600">
+						<tr>
+							<td 
+width="109"><img height="75" width="600" 
+src="http://207.212.136.15/mall/email_messages/images/CBHeader.gif"></td
+>
+							<td></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td><a 
+href="http://www.eCatalogBuilders.com"><img height="14" border="0" 
+width="69" 
+src="http://207.212.136.15/mall/email_messages/images/ButnCompanyover.gi
+f"></a><a 
+href="http://www.eCatalogBuilders.com/CatalogBuilder/CBGlKit20Mar00/KitD
+ownload.html"><img height="14" border="0" width="113" 
+src="http://207.212.136.15/mall/email_messages/images/ButnInformationove
+r.gif"></a><a 
+href="http://www.catalogbuilder.com/demosite/default.asp"><img 
+height="14" border="0" width="110" 
+src="http://207.212.136.15/mall/email_messages/images/ButnDemonstrations
+over.gif"></a><a 
+href="http://www.catalogbuilder.com/merchantservices.htm"><img 
+height="14" border="0" width="121" 
+src="http://207.212.136.15/mall/email_messages/images/ButnMerchantServic
+esover.gif"></a><a 
+href="http://web1.netlink.net/common/purchasecbcart/buy_now_ad.htm"><img 
+height="14" border="0" width="72" 
+src="http://207.212.136.15/mall/email_messages/images/ButnPurchasingover
+gif"></a><a 
+href="http://www.ecatalogbuilders.com/CommonPages/Products.htm"><img 
+height="14" border="0" width="101" 
+src="http://207.212.136.15/mall/email_messages/images/ButnMoreSolutionso
+ver.gif"><a/></td>
+			</tr>
+			<tr>
+				<td>
+					<table border="0" 
+cellpadding="0" cellspacing="5" width="600">
+						<tr>
+							<td><br>
+								<font 
+size="4" face="Arial,Helvetica"><b>To:</b> </font><font size="2" 
+face="Arial,Helvetica">All Merchants and Wholesalers</font>
+								<p><font 
+size="4" face="Arial,Helvetica"><b>From:</b></font><font 
+face="Arial,Helvetica"> </font><a 
+href="http://www.eCatalogBuilders.com"><font size="2" 
+face="Arial,Helvetica"><b>eCatalogBuilders</b></font></a></p>
+								<p><font 
+size="4" face="Arial,Helvetica"><b>Message:</b></font> <a 
+href="http://www.CatalogBuilder.com"><font size="2" 
+face="Arial,Helvetica"><b>CatalogBuilder Cart</b></font></a><font 
+size="2" face="Arial,Helvetica"> is a versatile, economical, designer 
+and customer-friendly shopping cart for all sizes of e-commerce Web 
+sites. There is no new code to learn. The designer simply selects an 
+object, places it on the page and types in the product number, name and 
+price information, using his or her favorite authoring program. This 
+ease of use does not interfere with direct hand coding for those who 
+prefer that method. Click here for a working <a 
+href="http://www.catalogbuilder.com/demosite/default.asp">demonstration 
+</a>. CatalogBuilder Cart comes with a credit card interface or can be 
+setup to capture order information within a database. Full back-end 
+accounting interfaces can be provided as well.<br>
+								
+</font></p>
+								<p><font 
+size="2" face="Arial,Helvetica">
+								<table 
+border="0" cellpadding="0" cellspacing="5">
+									
+<tr>
+										
+<td><img height="69" width="68" 
+src="http://207.212.136.15/mall/email_messages/images/planetsails.gif"> 
+</td>
+										
+<td><a 
+href="http://www.eCatalogBuilders.com/CatalogBuilder/CBGlKit20Mar00/KitD
+ownload.html"><font size="2" face="Arial,Helvetica">Click 
+Here</font></a><font size="2" face="Arial,Helvetica"> to Download the 
+CatalogBuilder Kit. </font>
+										
+</td>
+									
+</tr>
+								</table>
+								
+</font></td>
+							<td><img 
+height="2" width="30" src="blank.gif"></td>
+							<td>
+								<center>
+									
+<img height="244" width="268" 
+src="http://207.212.136.15/mall/email_messages/images/wr60100a.jpg"></ce
+nter>
+								<center>
+									
+<p><a href="http://www.catalogbuilder.com/demosite/default.asp"><font 
+size="2" face="Arial,Helvetica">Online Demonstration Site</font></a></p>
+								
+</center>
+								<p>
+								<hr 
+size="1" width="100%">
+								</p>
+								<center>
+									
+<p><a href="mailto:info@CatalogBuilder.com?Subject=CatalogBuilder Cart 
+Email Message"><font size="2" face="Arial,Helvetica">Send us an 
+Email</font></a></center>
+							</td>
+						</tr>
+					</table>
+					<table border="0" 
+cellpadding="0" cellspacing="0" width="600">
+						<tr>
+							<td>
+								<center>
+									
+<br>
+									
+<hr width="600">
+									
+<br>
+<font size="2" color="green" face="Arial,Helvetica">Mention this Ad and 
+Save 30%. <a 
+href="http://web1.netlink.net/common/purchasecbcart/buy_now_ad.htm">Clic
+k Here and Order Now</a></font>
+<P>
+									
+<hr width="600">
+									
+<br>
+									
+<font size="2" face="Arial,Helvetica">To unsubscribe to this list, 
+please <a 
+href="mailto:list@pixar.pixarsales.com?Subject=unsubscribe&Body=unsubscr
+ibe">Click Here</a></font>
+									
+<p><font size="2" face="Arial,Helvetica">Copyright &copy; 1999-2000 <a 
+href="http://www.eCatalogBuilders.com">eCatalogBuilders.</a> All rights 
+reserved.</font></center>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+
+</html>
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,296 @@
+From gasta06@earthlink.net Sun Aug 13 18:12:38 2000
+Return-Path: <gasta06@earthlink.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 7579 invoked by alias); 13 Aug 2000 18:12:38 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 7576 invoked from network); 13 Aug 2000 18:12:37 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 13 Aug 2000 18:12:37 -0000
+Received: (qmail 10442 invoked by uid 500); 13 Aug 2000 18:12:37 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 10437 invoked by uid 500); 13 Aug 2000 18:12:36 -0000
+Delivered-To: em-ca-bob.smith@em.ca
+Received: (qmail 10432 invoked from network); 13 Aug 2000 18:12:32 -0000
+Received: from unknown (HELO kamoi.utashinai-j.ed.jp) (210.151.238.66)
+  by em.ca with SMTP; 13 Aug 2000 18:12:32 -0000
+Received: from xa2.so-net.or.jp ([206.133.174.219])
+          by kamoi.utashinai-j.ed.jp (post.office MTA v1.9.3
+          ID# 0100111-40246) with SMTP id ACX235;
+          Sun, 13 Aug 2000 14:16:02 +0900
+Message-ID: <00003f2a409f$00003298$0000478a@mail.cefal.com.tw>
+To: <admin@notodrugs.org>
+From: gasta06@earthlink.net
+Subject: Don't gamble with your money                         18314
+Date: Sun, 13 Aug 2000 00:19:18 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: admin@notodrugs.org
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<SCRIPT LANGUAGE=3D"JavaScript1.1">
+
+
+
+<!-- Begin
+function right(e)
+
+
+ {
+
+
+var msg =3D "Not Available";
+
+
+if (navigator.appName =3D=3D 'Netscape' && e.which =3D=3D 3)
+
+
+ {
+
+
+alert(msg);  // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+else
+
+
+if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && event.button=
+=3D=3D2)
+
+
+ {
+
+
+alert(msg); // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+return true;
+
+
+}
+var mclick =3D  0;
+function cy(form)
+{
+    var mthanks =3D 'Thank  You For Your Interest';
+    var mclick =3D mclick+1;
+    var remmsg =3D "Error! Missing Data.";
+    if (!form.remove.value)
+         {
+         var remmsg =3D" Error!  Please enter an email address";
+         alert(remmsg);
+          return;
+          }
+    else
+         {
+            form.submit();
+            return;  
+         }
+           
+       
+} // End of function validate_remove
+
+
+function cyorder(form)
+{
+  var x=3D1;
+  var ordermsg =3D "Error!  Missing Data";
+  
+if (!form.State.value) {
+        var ordermsg =3D "Error!  Please enter your state.";
+         x=3D2; } 
+ if (!form.City.value){
+        var ordermsg =3D "Error!  Please enter your city name.";
+          x=3D2; } 
+ if (!form.Phone.value){
+        var ordermsg =3D "Error!  Please enter your phone number.";
+          x=3D2; }
+ if (!form.Name.value){
+        var ordermsg =3D "Error!  Please enter your name.";
+          x=3D2; }
+if (x=3D=3D2) 
+{
+   alert(ordermsg);
+   return; 
+}else{
+      form.submit();
+     return; }
+   
+} // End of function validate_remove
+  
+
+document.onmousedown =3D right;
+
+// End -->
+
+
+</SCRIPT>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Do You Yen To Be A Millionaire!</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#FFFFFF" LINK=3D"#FF0000" VLINK=3D"#FF0000" ALINK=3D"#FF0=
+000">
+
+<P><FORM ACTION=3D"mailto:casino@swordyealding.com?subject=3DCasino Inform=
+ation Request" METHOD=3D"POST" ENCTYPE=3D"text/plain"><FONT
+COLOR=3D"#DD0000" face=3D"Arial"><B>DO NOT GAMBLE WITH YOUR MONEY!!!<BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial">As </FONT><FONT COLOR=3D=
+"#DD0000" face=3D"Arial"><B>Steve Wynn of Mirage
+Resorts</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B> </B>Says... <=
+/FONT><FONT COLOR=3D"#DD0000" face=3D"Arial"><B><BR>
+The Only Way To Make Money In A Casino Is To Own One.</B></FONT><FONT COLO=
+R=3D"#0033FF" face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B>Consider These Two Fa=
+cts:<BR>
+</B></FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B><BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial">1. Internet use is conti=
+nuing to explode! It is estimated that a
+million<BR>
+new people every day are joining the hundreds of millions already online.<=
+BR>
+<BR>
+2. Legalized gaming has become the top revenue earner for all forms of<BR>
+entertainment in the U.S. today.<BR>
+<BR>
+The independent and overwhelming success of both the internet and gaming i=
+ndustries<BR>
+are sure indicators of the profit potential that can be achieved through t=
+he effective merger<BR>
+of the two. In fact PC Computing Magazine has conservatively estimated tha=
+t the US internet<BR>
+gaming market could soon reach $20 billion in annual revenue.<BR>
+<BR>
+In other words: </FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B>Internet =
+Technology + Legalized Gaming =3D Profits</B></FONT><FONT
+COLOR=3D"#000000" face=3D"Arial"><BR>
+<BR>
+And for once, it is not too late to get in on the earnings! While few of<B=
+R>
+us have the millions it would take to build and staff a new brick-and-mort=
+ar <BR>
+casino, owning a profitable virtual casino gateway web page is within your=
+ reach.<BR>
+<BR>
+Contact us for your FREE VIDEO AND INFORMATION KIT on how you<BR>
+can own your own online internet casino and sports book. Our company is<BR=
+>
+strategically aligned with industry leaders and ready to launch an<BR>
+aggressive marketing strategy.<BR>
+<BR>
+Do not wait-we are poised for success, and looking for people to share in<=
+BR>
+that success! The opportunity is here-you owe it to yourself to find out a=
+ll<BR>
+you can about it. Contact us today.<BR>
+<BR>
+<B>YOU MUST INCLUDE YOUR PHONE NUMBER, CITY AND<BR>
+STATE TO RECEIVE ADDITIONAL INFORMATION!</B></FONT><FONT COLOR=3D"#0033FF"=
+ face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial">For additional informati=
+on fill in the form and click on the <B>I
+Authorize</B> button below.</FONT><INPUT TYPE=3D"HIDDEN" NAME=3D"coopid" S=
+IZE=3D"-1" VALUE=3D"0002"><BR>
+<INPUT TYPE=3D"HIDDEN" NAME=3D"activity" SIZE=3D"-1" VALUE=3D"F"><BR>
+<FONT COLOR=3D"#FF0000"><B>U.S and Canadian Residents Only</B></FONT></P>
+
+<P>
+<TABLE BORDER=3D"0" WIDTH=3D"68%">
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">Name
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"Name" SIZE=3D"25"><FONT C=
+OLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">Phone Number
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"Phone" SIZE=3D"25"><FONT =
+COLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">City
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"25"><FONT C=
+OLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">State
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"State" SIZE=3D"25"><FONT =
+COLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">E-Mail
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"25"><FONT =
+COLOR=3D"#000000"><B>Optional</B></FONT><FONT COLOR=3D"#FFFFFF"><B>xxxxxxx=
+xxxx</B></FONT></TD>
+	</TR>
+</TABLE>
+<BR>
+<blink><FONT SIZE=3D"4" COLOR=3D"#DD0000"><B>(Request without phone number=
+ will not be processed)</B></FONT></blink><BR>
+<BR>
+<FONT COLOR=3D"#000000" face=3D"Arial">Your email address will be held pri=
+vate for in house use only.<BR>
+We will not release your email address to any other party.<BR>
+</FONT><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"I Authorize" onClic=
+k=3D"cyorder(this.form)"> </FORM>
+<FORM ACTION=3D"mailto:gasta06@earthlink.net?subject=3DRemove Casino Reque=
+st" METHOD=3D"POST" ENCTYPE=3D"text/plain"> <FONT
+SIZE=3D"4">PLEASE CLICK ONE TIME ONLY---IT MAY TAKE UP TO 30 SECONDS</FONT=
+></P>
+<P><FONT COLOR=3D"#000000" face=3D"Arial">If you wish to be removed, pleas=
+e type in your email<BR>
+address in the above remove box and click the remove button.</FONT></P>
+
+<P><INPUT TYPE=3D"HIDDEN" NAME=3D"activity" SIZE=3D"-1" VALUE=3D"R"><INPUT=
+ TYPE=3D"HIDDEN" NAME=3D"coopid" SIZE=3D"-1" VALUE=3D"0002"><BR>
+<INPUT TYPE=3D"TEXT" NAME=3D"remove" SIZE=3D"25"><BR>
+<INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"Remove">
+</FORM>
+
+
+</BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><p><HTML><p><p><p><p>
+</BODY>
+</HTML>
+
+

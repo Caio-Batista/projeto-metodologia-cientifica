@@ -1,0 +1,71 @@
+Return-Path: <info1@networkshosts.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 32624 invoked by alias); 26 Dec 2000 22:38:47 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 32621 invoked from network); 26 Dec 2000 22:38:47 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 26 Dec 2000 22:38:47 -0000
+Received: (qmail 27965 invoked by uid 500); 26 Dec 2000 22:38:46 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 27961 invoked by uid 502); 26 Dec 2000 22:38:45 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 27957 invoked from network); 26 Dec 2000 22:38:44 -0000
+Received: from unknown (HELO mcm.multiconsult.com) (212.131.143.6)
+  by bfsmedia.sk.ca with SMTP; 26 Dec 2000 22:38:44 -0000
+Received: from commadus14.salesforlife.net ([63.27.69.21])
+          by mcm.multiconsult.com (Post.Office MTA v3.5.3 release 223
+          ID# 35-61228U1000L100S0V35) with SMTP id com;
+          Tue, 26 Dec 2000 23:28:48 +0100
+From: info1@networkshosts.com
+Subject: OPTIMIZE YOUR WINDOWS OPERATING SYSTEM!!!!
+CC: goose.kennels@bga.com,
+	gpickren@bga.com,
+	gler@bga.com,
+	glidewellart@bga.com,
+	gboles@bga.com,
+	gbarnett@bga.com
+Date: Wed, 27 Dec 2000 05:38:22 -0500
+Content-Type: text/plain;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+To: $user@bga.com
+Message-Id: <8ty80t86xshq4.0cur1r311n@commadus14.salesforlife.net>
+Content-Length: 920
+Lines: 36
+
+Dear Windows User,
+
+Now you can boost the reliability of ordinary Windows 3.x, 95 and 98 to
+nearly the level of Windows NT or 2000, Microsoft's professional and 
+industrial version of Windows.
+
+The new WinFix 4.3 is a very effective way to improve the reliability of
+Windows, because it makes Windows fault-tolerant and self-repairing. And
+WinFix is very safe, because it operates completely independent of Windows.
+
+http://www3.networkshosts.com/comph to find out more about WinFix,
+the safest, most effective way to keep you working, by keeping your PC
+working non-stop.
+
+
+Arlen Dixon, CEO
+
+Westwood Software Marketing
+
+
+* * * * * * * * * * * * * * * * *
+
+This announcement is being sent to PC users who asked to be kept
+informed about new developments in Windows(tm) technology.
+
+To be removed from our mailing list, go to the Email-us page
+
+
+OR
+
+To be removed
+
+mailto:remove@www3.networkshosts.com?Subject=REMOVE
+
+
+

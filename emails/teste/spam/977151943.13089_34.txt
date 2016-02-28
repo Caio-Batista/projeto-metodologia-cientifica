@@ -1,0 +1,92 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 32218 invoked from network); 16 Dec 2000 14:58:15 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by 10.2.1.99 with SMTP; 16 Dec 2000 14:58:15 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S132107AbQLPP2E>; Sat, 16 Dec 2000 10:28:04 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S132048AbQLPP1x>; Sat, 16 Dec 2000 10:27:53 -0500
+Received: from h-62.96.221.229.host.de.colt.net ([62.96.221.229]:34825 "HELO
+	brain06") by vger.kernel.org with SMTP id <S129345AbQLPP1q>;
+	Sat, 16 Dec 2000 10:27:46 -0500
+Received: from brain06 (127.0.0.1)
+          by brain06 with MERCUR-SMTP/POP3/IMAP4-Server (v3.30.03 Unregistered)
+          for <linux-kernel@vger.kernel.org>; Sat, 16 Dec 2000  15:47:34 +0100
+Date:	Sat, 16 Dec 2000 15:47:34 -0100
+Subject: Advertisement GloMaP.com
+To:	linux-kernel@vger.kernel.org
+From:	contact@glomap.com
+Message-Id: <00121615473435500@brain06>
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 3222
+
+
+
+Dear Sirs,
+
+Times in shipping and transportation are changing, development is
+unpredictable fast and the past or current means to do business may not be
+the same in the future: The maritime and transport industry is facing
+e-commerce.
+
+Since May this year, GloMaP.com of Hamburg, Germany is offering with
+www.glomap.com an online marketplace and seafreight exchange for all parties
+in the maritime chartering and transportation industry. GloMaP.com is
+changing the landscape in which traditional shipping and transportation
+business is done: Trading of cargoes / shipments in an online environment.
+Within the first few months of GloMaP, already some 1.800 customers
+registered with GloMaP.com, some 800 cargoes were placed on www.glomap.com
+and carriers?, agents? and brokers? quotations and bids were given for more
+than 60% of all the cargoes shown on www.glomap.com. In this very moment,
+there are some 2.300 TEU, some 220.000 mt and 15.000 cbm of bulk cargoes
+placed on the platform.
+
+All parties in shipping and transportation - such as Shipowners, Shipbrokers
+and Agents, Freight Forwarders, Importers and Exporters - can conduct
+business in form of auctions, tenders, transactions and negotiations through
+the Internet and GloMaP.com. Shippers can indicate their needs for
+shipments, the potential movements of cargoes from and to with all details
+necessary for the tender allowing the carrying side to bid for the
+respective cargoes within a certain time period set by the shipper.
+
+GloMaP.com is an additional sales channel for all parties. The GloMaP.com
+exchange www.glomap.com offers a cometogether and the fixing of main terms.
+It is a very convenient and efficient way to conduct further business. The
+advantage of an global market place like www.glomap.com is its global
+approach: Parties working on www.glomap.com do benefit from the creation of
+new international relationships. And additionally: GloMaP.com is simply
+saving and reducing the working time of the employees engaged in the booking
+process. And with the possibility to set preferences, carriers have a
+valuable chance to customize the GloMaP.com-system following their specific
+needs.
+
+Registration is free of charge and without any obligation. There are no
+access or membership fees and no additional software is necessary.
+
+GloMaP.com is an open and unbiased market connecting businesses all over the
+world. GloMaP.com is not owned or associated with any shipping line, broker,
+forwarder or manufacturer and is, therefore, in a position to act
+independently maximizing the benefits for all parties involved.
+
+To see for yourself whether GloMap.com can be beneficial for your business,
+we kindly ask you to have a look at www.glomap.com. Access to the
+marketplace will be given to all parties once they register - again,
+registration is without any obligation on your part and free of charge.
+
+If you have any further questions, do not hesitate to contact us via email
+at contact@glomap.com or call us under
++ 49 40 46 00 48 - 0.
+
+Yours faithfully
+GloMaP.com
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

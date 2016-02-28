@@ -1,0 +1,93 @@
+Return-Path: <car23i@myered.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 3372 invoked by alias); 29 Oct 2000 06:35:02 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 3369 invoked from network); 29 Oct 2000 06:35:02 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 29 Oct 2000 06:35:02 -0000
+Received: (qmail 19227 invoked by uid 500); 29 Oct 2000 06:35:03 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 19223 invoked by uid 502); 29 Oct 2000 06:35:02 -0000
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 19219 invoked from network); 29 Oct 2000 06:35:02 -0000
+Received: from mail.itmx.mx (HELO bestit.itmx.mx) (root@192.148.175.7)
+  by bfsmedia.sk.ca with SMTP; 29 Oct 2000 06:35:02 -0000
+Received: from mail.myered.com (244-242-100-209.uss.net [209.100.242.244] (may be forged))
+	by bestit.itmx.mx (8.9.3/8.9.3) with SMTP id WAA20749
+	for <timolnar@bfsmedia.com>; Sat, 28 Oct 2000 22:20:03 -0700
+Received: from mail.myered.com [209.100.242.244] by yvsi5.mail.myered.com with SMTP; Sun, 29 Oct 2000 01:36:29 -0500
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+CC: timolnar@juno.com
+To: localuser@juno.com
+Date: Sun, 29 Oct 2000 01:36:29 -0500
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Subject: New car, used car, lowest price!..
+Reply-To: car23m@myered.com
+From: car23r@myered.com
+Message-Id: <4a0m4n73v.1bsfex1sg@mail.myered.com>
+Content-Length: 1924
+Lines: 61
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p><img border="0" src="http://www.myered.com/discover/porsche.gif" 
+width="485" height="95"></p>
+<table border="0" width="50%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100%" colspan="2">
+      <p align="center"><b><font face="Arial" color="#ff0000" size="4">&quot;
+The
+      Easiest Way to Get Low Prices on Cars on the Internet!&quot;
+</font></b></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><font face="Arial" color="#cc0099" 
+size="3"><b><i>Don't
+      make life a hassle by going from dealer to dealer for your next car.
+</i></b></font></td>
+    <td width="50%">
+      <p align="center"><i><b><font face="Arial" color="#00cc00" 
+size="3">Take
+      the stress out of it by making the Internet work for you.
+</font></b></i></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <p align="center"><font face="Arial" color="#3333cc" size="3"><b>Just
+      click on the link below to<br>
+      get low prices on all makes and models, new and used.</b></font></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <p align="center"><b><font face="Arial" color="#008080" size="4">It's
+      FREE, FAST and the EASIEST way to get a great deal on your next car.
+</font></b></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <p align="center"><a target="_blank" href="http://www.myered.
+com/city/cgi-bin/form.cgi"><font face="Arial" size="5"><b>Click
+      Here</b></font></a></td>
+  </tr>
+</table>
+<p align="left">&nbsp;</p>
+<p align="left">&nbsp;</p>
+<p align="left"><b><font face="Arial" size="3">To Be removed from further
+mailings <a href="http://www.myered.com/remove">click here</a></font></b></p>
+
+</body>
+
+</html>
+

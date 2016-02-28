@@ -1,0 +1,381 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 30622 invoked from network); 4 May 2000 20:20:13 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 4 May 2000 20:20:13 -0000
+Received: (qmail 15309 invoked from network); 4 May 2000 20:20:02 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 4 May 2000 20:20:02 -0000
+Received: by vger.rutgers.edu via listexpand id <S155027AbQEDTpc>;
+	Thu, 4 May 2000 15:45:32 -0400
+Received: by vger.rutgers.edu id <S155001AbQEDSsk>;
+	Thu, 4 May 2000 14:48:40 -0400
+Received: from mf004.infoweb.ne.jp ([210.131.99.14]:38095 "EHLO
+	mf004.infoweb.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S155015AbQEDSPt>; Thu, 4 May 2000 14:15:49 -0400
+Received: from LEE00550
+	by mf004.infoweb.ne.jp (8.9.3+3.2W/3.7W-10/13/99) with SMTP id CAA01609;
+	Fri, 5 May 2000 02:26:05 +0900
+Message-ID: <000f01bfb5ee$3ab2bf20$cf0afea9@LEE00550>
+From: "MAYURI" <fwhs0864@mb.infoweb.ne.jp>
+To: <Undisclosed-Recipient: ;;@bruce-guenter.dyndns.org>
+Subject: =?iso-2022-jp?B?GyRCMj5FUE8/JE8jNTduIzEjNUZ8JF4kRyEqOiMkSiRpQUAbKEI=?=
+	=?iso-2022-jp?B?GyRCJCgkazduPH0jMSMyIzAjMEt8MV8hKhsoQg==?=
+Date:	Fri, 5 May 2000 02:24:49 +0900
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000B_01BFB639.16EBB380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000B_01BFB639.16EBB380
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+$BFMA3%a!<%k$rAw$i$;$FD:$$$?$3$H$r?<$/$*OM$S$$$?$7$^$9!#(B
+$B6=L#$N$J$$J}$O$*5v$7$/$@$5$$!#$3$N$^$^:o=|$7$F$/$@$5$$!#(B
+$B$?$$$X$s?=$7Lu$4$6$$$^$;$s$G$7$?!#(B
+$B!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a(B
+$B7n<}#1#2#0#0K|1_$N2DG=@-$b$"$k%S%C%0$J>pJs$r$*EA$($7$^$9!#(B
+
+$B#37n#3#1F|$+$i#57n#1#5F|$^$G2>EPO?<u$1IU$1Cf$G$9!#(B
+$B:#$J$i2>EPO?$K;22C$G$-$k%i%9%H%A%c%s%9$G$9(B!
+$B:#!"2>EPO?$r$G$-$l$P!"$[$\2q<RD>7k$N>uBV$G$9!#(B
+
+$B8=:_$O$^$@?eLL2<$N3hF0$G$9$N$G@5<0H/I=$O$5$l$F$$$^$;$s$,(B
+$B?.$8$i$l$J$$F|K\$NBg4k6H$K$h$k;qK\!"5;=QDs7H$G%9%?!<%H$H$N>pJs$G$9!#(B
+
+$B#47n#2#6F|H/Gd$N!c#B!]#i#n#g!d$H!c$H$i$P!<$f!d(B
+$B#57n#1#0F|H/Gd$N!c#B!]#i#n#g!d$G5a?M9-9p$,7G:\$5$l$^$7$?!#(B
+$B$$$+$,$o$7$$CDBN$N%S%8%M%9$G$O@dBP$K$J$$$3$H$N>ZL@$G$b$"$j$^$9!#(B
+
+$B<RL>$O#S#T#A#R#W#E#B#2#1(B
+$B@5<0$J%S%8%M%9%9%?!<%H$O#2#0#0#0G/#77n$G$9!#(B
+
+$B#57n#1#5F|$^$G$N2>EPO?4|4VCf$OEPO?HqMQ$O$+$+$j$^$;$s!#(B
+$BL5NA$G2>EPO?$r:Q$^$;$F$*$-!"#67n#1F|%9%?!<%H$7$F$+$i$b!"(B
+$B$b$7!"ITK~$,$"$l$P%/!<%j%s%0%*%U!J#8F|4V!K$b$G$-$^$9!#(B
+
+$B8=CJ3,$G$O<+:n%[!<%`%Z!<%8Ey$G$N@kEA$O6X;_$5$l$F$^$9$7(B
+$B%i%j!<$d%_!<%F%#%s%0$N$h$&$J3hF0$b8=:_9T$o$l$F$$$^$;$s!#(B
+$B$f$($K8XBg$JI=8=$N4+M6$,HEMt$7$F$$$^$9$,OG$o$5$l$J$$$G$/$@$5$$!#(B
+
+$B$7$+$7$J$,$i!"%S%C%0$J%A%c%s%9$G$"$k$3$H$O4V0c$$$"$j$^$;$s!#(B
+$B$3$N%a!<%k$r<u<h$k$3$H$,$G$-$?4q@WE*$J$"$J$?$J$i!"(B
+$BEXNO$7$@$$$G!"7n<}#1#2#0#0K|1_$O==J,$K2DG=$J$O$:$G$9!#(B
+
+$B4pK\E*$K$O#2#0#M#B$N#H#P%9%Z!<%9$r%l%s%?%k$9$k%S%8%M%9$G$9!#(B
+$B%*%s%i%$%s%^%H%j%C%/%9$G$9$+$i!":81&$I$A$i$+$NJRJ}$N7ONs$K$O!"(B
+$B%@%&%s$,$+$C$F$K>e$+$i9_$j$F$-$^$9!#(B
+
+$B0J>e$N$h$&$K8=:_!c>R2p<T%k!<%H$N$_$N2>EPO?4|4V!d$N$?$a!"(B
+$BHs>o$K8B$i$l$?>pJs$NCf$GH=CG$7$F$$$?$@$/$7$+$"$j$^$;$s!#(B
+$B$=$l$G$b2r$C$F$$$?$@$1$kJ}$K$7$+%A%c%s%9$O$3$J$$$H$$$&$3$H$G$9!#(B
+
+$B%[!<%`%Z!<%8$K4X$7$F$N%3%_%C%7%g%s$O=5J'$$$G#3#0#0K|1_$^$G!#(B
+$BJs=7$N;YJ'J}K!$O%P%$%J%j!]$H%^%H%j%C%/%9!"%*!<%S%C%HJ}<0$G$9!#(B
+$B$o$+$k$R$H$K$O$o$+$k!"9M$($&$k:G9b$N%7%9%F%`$G$9!#(B
+==============================================================
+$B%5!<%S%9$NFbMF$O(B
+$B%$%s%?!<%M%C%H=i?4<T$+$i>e5i<T$^$GK~B-$G$-$k%5!<%S%9$,B7$$$^$9!#(B
+$B$3$l$@$1B7$C$FG/2qHq(B\10,000$B!JF~2qHq(B\1,550$BJL!K$G$9!#(B
+
+$B-!#2#0%a%,0J>e$N%[!<%`%Z!<%8(B
+$B-"4JC1$G$*$7$c$l$J:n@.%D!<%k(B
+$B-#(BE$B%3%^!<%9(B
+$B-$%W%m%P%$%@!<%5!<%S%9(B
+$B-%40`z$J%+%9%?%^!<%5!<%S%9Ey(B
+$B$5$^$6$^$J6HBV$r4^$`Am9g%S%8%M%9$G$9!#(B
+
+$B2?EY$b?=$7>e$2$^$9$,(B
+$B8=:_$^$@2>EPO?$NJg=8$J$N$G$*6b$O$+$+$j$^$;$s!#(B
+$B#67n$N@$3&0l@F%0%i%s%I%*!<%W%s;~$KEPO?$9$k$+$I$&$+7h$a$F2<$5$$!#(B
+
+$BK\EPO?$N:]$NEPO?HqMQ$O!o#1#1(B,$B#5#0#0$@$1!JG/4V!K0l?M0l8}8BDj$G$9!#(B
+$B$?$@$7!"2q<R!";R6!!J?F$N>5BzI,MW!K$NEPO?$b#O#K$G$9!#(B
+$B2>EPO?$GM-Mx$J%]%8%7%g%s$N3NJ]$r$7$F$*$$$FM_$7$$$N$G$9!#(B
+=============================================================
+$BEPO?$N;EJ}$O4JC1$G$9!#(B
+$B$^$:$O!"%[!<%`%Z!<%8$r3+$$$F3NG'$7$F2<$5$$!#(B
+$BI,$:A4$F$r$*FI$_$$$?$@$-!"$4<+?H$N@UG$$G2>EPO?$K$*?J$_$/$@$5$$!#(B
+
+$B$?$@$7!"$b$O$d%"%/%;%9=8Cf$,$9$4$$>uBV$K$J$C$F$$$^$9$N$G!"(B
+$B$J$+$J$+7R$C$F$O$/$l$^$;$s!#$[$H$s$ICjA*$K6a$$$h$&$J>u67$G$9!#(B
+$B$=$l$@$1Bg$-$J%A%c%s%9$G$"$k$H!"3'$5$s$,G'<1$5$l$F$$$k$N$G$9!#(B
+
+$B%?%$%`%"%&%H$7$F!V#W#E#B>e$NLdBj!W$H$$$&%a%C%;!<%8$,I=<($5$l$F$b(B
+$B$"$-$i$a$:$K!"2?EY$b%H%i%$$7$??M$K$@$1!"9,1?$N=w?@$,Hy>P$_$^$9!#(B
+$B@h$KEPO?$G$-$l$P!"$=$l$@$1B?$/!">!<j$K%@%&%s$,$D$$$F$/$k$N$G$9!#(B
+
+$B$D$^$j!"$3$N%S%8%M%9$O!"$^$5$KAa$$$b$N>!$A$N>u67$G$9$N$G!"(B
+$B$_$J$5$s!"7R$,$k$^$G!"I,;`$G%"%/%;%9$5$l$F$$$k>u67$J$N$G$9!#(B
+$B$*$=$i$/F|K\A49q$K9-$^$k$N$O0l=V$G$7$g$&!#$=$N<!$O!"@$3&Cf$G$9!#(B
+
+$B8=:_$N$H$3$m!"D+$N#3;~:"$+$iF1$8$/D+$N#8;~:"$^$G$J$i!"(B
+$B$^$@$J$s$H$+$9$s$J$j%"%/%;%9$G$-$k$h$&$G$9$,!"(B
+$B$=$l0J30$O$+$J$j87$7$/$J$j$^$9$N$G4hD%$C$F%"%/%;%9$7$F$/$@$5$$!#(B
+
+$BLk$N#1#1;~$r2a$.$k$H#1;~$^$G$O!"$[$H$s$I7R$,$i$J$/$J$C$F$-$^$9!#(B
+
+$B2q<R$N>R2p$N#H#P!J$^$@!"$D$J$,$j$d$9$$!K(B
+http://www.starweb21.com/
+
+$B$+$J$i$:$h$/$*FI$_$/$@$5$$!#4V0c$C$?>pJs$,HEMt$7$F$$$k$h$&$G$9!#(B
+$BFC$KF~$j8}%Z!<%8$N%*%l%s%8?'$N!c(BWARNING$B!d$OI,?\$G$9!#(B
+$BF1$8%Z!<%8$N:8%5%$%I$K=D$K#5Ns$N%j%s%/$,$"$j$^$9!#(B
+$B>\:Y$NM}2r$O!"$3$A$i$+$i$*4j$$$7$^$9!#(B
+
+$B2>EPO?MQ$N#U#R#L!J$+$J$j$N=8Cf>uBV$G$9!K(B
+http://www.starweb21.com/cp/mayuri
+
+$B2>EPO?$O!">R2p<T$N#U#R#L$,$J$1$l$P$G$-$^$;$s!#(B
+$B$4<+?H$N@UG$$G!"2>EPO?$O!"$3$A$i$+$i$*4j$$$7$^$9!#(B
+$BESCf$G!V1&!W!V:8!W$N7ONs$rA*Br$9$k>lLL$,=P$F$-$^$9$,!"(B
+$B8=:_!"Ev%0%k!<%W$O!V1&7ONs!W$r?d>)$7$F$$$^$9!#(B
+
+$B$J$*8f0l?M$NJ}$N#2=EEPO?$O$G$-$^$;$s!#(B
+$BH/3P$9$l$PEPO?<h$j>C$7=hJ,$H$J$j$^$9!#(B
+$BF1$8=;=j$G$b!"$42HB2!"5Z$S!"?F8"<TF10U$NL$@.G/<T$J$i2DG=$G$9!#(B
+
+$B$^$?!"K!?M$G$NJLEPO?$O2DG=$H$J$C$F$$$^$9!#(B
+
+$B5.J}$X$N%\!<%J%9?69~$_8}:BHV9f$OH>3Q$G$9!#(B
+$BEPO?$7$?=V4V$K?tL>$N%@%&%s$,>!<j$K$D$/$3$H$,DA$7$/$"$j$^$;$s!#(B
+$B#1IC$r6%$&EPO??t$H$$$&$N$OK\Ev$NOC$G$9!#$9$4$$$3$H$K$J$j$^$9!#(B
+
+$B;d$N%"%C%W$OFsF|$G#2#5?M$NJ}$,%@%&%s$K$9$0$D$$$?$H8@$C$F$$$^$9!#(B
+$B4hD%$C$F!":.$s$G$$$J$$;~4V!J8aA0!uCk4V!K$K%"%/%;%9$7$F$_$F2<$5$$!#(B
+$B2>EPO?$r$b$N$7$F!"$"$J$?$N?M@8$K?7$?$J%A%c%s%9$r2C$($F$/$@$5$$!#(B
+===============================================================
+$B$^$:2<$N2>EPO?(B URL$B%U%)!<%`$h$j!V1&!W7ONs$G2>EPO?$r$7$F$/$@$5$$!#(B
+$B2?EY$b8@$$$^$9$,!"D+$N#3;~$+$i!"D+$N#8;~$,A@$$L\$G$9!#(B
+$B$=$l0J30$N;~4V$O!"$[$H$s$ICjA*>uBV$N%"%/%;%9=8Cf$G$9!#(B
+http://www.starweb21.com/cp/mayuri
+
+$B$"$H$O>e5-$N2>EPO?MQ#U#R#L$N1&C<$r!"(B
+$B$"$J$?$N%K%C%/%M!<%`$K=q$-49$($F!"(B
+$B$G$-$k$@$1Aa$/!"$G$-$k8B$jB?$/$N$*M'C#$K65$($F$"$2$^$7$g$&!#(B
+
+$B1&7ONs$GEPO?$7$F$$$?$@$/$H!"(B
+$B$7$P$i$/$O1&7ONs$K4X$7$F$O%@%&%s$,$D$$$F$/$k$G$7$g$&$+$i!"(B
+$B$^$:$O1&7ONs$G$N$*M6$$$r$5$l$k$3$H$r$*4+$a$7$^$9!#(B
+
+$B$V$7$D$1$JFMA3$N%a!<%k$K:G8e$^$G$*IU$-9g$$$$$?$@$-!"(B
+$B@?$K$"$j$,$H$&$4$6$$$^$7$?!#(B
+$B3'MM$N:#8e$N8fB?1?$r!"$*5'$j?=$7>e$2$^$9!#(B
+
+------=_NextPart_000_000B_01BFB639.16EBB380
+Content-Type: text/html;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-2022-jp" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2614.3500" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2>
+<DIV><FONT size=3D2>
+<DIV><FONT=20
+size=3D2>=1B$BFMA3%a!<%k$rAw$i$;$FD:$$$?$3$H$r?<$/$*OM$S$$$?$7$^$9!#=1B(B=
+<BR>=1B$B6=3DL#$N$J$$J}$O$*5v$7$/$@$5$$!#$3$N$^$^:o=3D|$7$F$/$@$5$$!#=1B(=
+B<BR>=1B$B$?$$$X$s?=3D$7Lu$4$6$$$^$;$s$G$7$?!#=1B(B<BR>=1B$B!a!a!a!a!a!a!=
+a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a!a=1B(B<BR>=1B$B7n<}#1#2#0#0K|1_=
+$N2DG=3D@-$b$"$k%S%C%0$J>pJs$r$*EA$($7$^$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B#37n#3#1F|$+$i#57n#1#5F|$^$G2>EPO?<u$1IU$1Cf$G$9!#=1B(B<BR>=
+=1B$B:#$J$i2>EPO?$K;22C$G$-$k%i%9%H%A%c%s%9$G$9=1B(B!<BR>=1B$B:#!"2>EPO?$=
+r$G$-$l$P!"$[$\2q<RD>7k$N>uBV$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B8=3D:_$O$^$@?eLL2<$N3hF0$G$9$N$G@5<0H/I=3D$O$5$l$F$$$^$;$s$=
+,=1B(B<BR>=1B$B?.$8$i$l$J$$F|K\$NBg4k6H$K$h$k;qK\!"5;=3DQDs7H$G%9%?!<%H$H=
+$N>pJs$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B#47n#2#6F|H/Gd$N!c#B!]#i#n#g!d$H!c$H$i$P!<$f!d=1B(B<BR>=1B$=
+B#57n#1#0F|H/Gd$N!c#B!]#i#n#g!d$G5a?M9-9p$,7G:\$5$l$^$7$?!#=1B(B<BR>=1B$B=
+$$$+$,$o$7$$CDBN$N%S%8%M%9$G$O@dBP$K$J$$$3$H$N>ZL@$G$b$"$j$^$9!#=1B(B</FO=
+NT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT =
+size=3D2>=1B$B<RL>$O#S#T#A#R#W#E#B#2#1=1B(B<BR>=1B$B@5<0$J%S%8%M%9%9%?!<%=
+H$O#2#0#0#0G/#77n$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B#57n#1#5F|$^$G$N2>EPO?4|4VCf$OEPO?HqMQ$O$+$+$j$^$;$s!#=1B(B=
+<BR>=1B$BL5NA$G2>EPO?$r:Q$^$;$F$*$-!"#67n#1F|%9%?!<%H$7$F$+$i$b!"=1B(B<BR=
+>=1B$B$b$7!"ITK~$,$"$l$P%/!<%j%s%0%*%U!J#8F|4V!K$b$G$-$^$9!#=1B(B</FONT><=
+/DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B8=3DCJ3,$G$O<+:n%[!<%`%Z!<%8Ey$G$N@kEA$O6X;_$5$l$F$^$9$7=1B=
+(B<BR>=1B$B%i%j!<$d%_!<%F%#%s%0$N$h$&$J3hF0$b8=3D:_9T$o$l$F$$$^$;$s!#=1B(=
+B<BR>=1B$B$f$($K8XBg$JI=3D8=3D$N4+M6$,HEMt$7$F$$$^$9$,OG$o$5$l$J$$$G$/$@$=
+5$$!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$7$+$7$J$,$i!"%S%C%0$J%A%c%s%9$G$"$k$3$H$O4V0c$$$"$j$^$;$s!=
+#=1B(B<BR>=1B$B$3$N%a!<%k$r<u<h$k$3$H$,$G$-$?4q@WE*$J$"$J$?$J$i!"=1B(B<BR=
+>=1B$BEXNO$7$@$$$G!"7n<}#1#2#0#0K|1_$O=3D=3DJ,$K2DG=3D$J$O$:$G$9!#=1B(B</=
+FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B4pK\E*$K$O#2#0#M#B$N#H#P%9%Z!<%9$r%l%s%?%k$9$k%S%8%M%9$G$9!=
+#=1B(B<BR>=1B$B%*%s%i%$%s%^%H%j%C%/%9$G$9$+$i!":81&$I$A$i$+$NJRJ}$N7ONs$K=
+$O!"=1B(B<BR>=1B$B%@%&%s$,$+$C$F$K>e$+$i9_$j$F$-$^$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B0J>e$N$h$&$K8=3D:_!c>R2p<T%k!<%H$N$_$N2>EPO?4|4V!d$N$?$a!"=1B=
+(B<BR>=1B$BHs>o$K8B$i$l$?>pJs$NCf$GH=3DCG$7$F$$$?$@$/$7$+$"$j$^$;$s!#=1B(=
+B<BR>=1B$B$=3D$l$G$b2r$C$F$$$?$@$1$kJ}$K$7$+%A%c%s%9$O$3$J$$$H$$$&$3$H$G$=
+9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B%[!<%`%Z!<%8$K4X$7$F$N%3%_%C%7%g%s$O=3D5J'$$$G#3#0#0K|1_$^$=
+G!#=1B(B<BR>=1B$BJs=3D7$N;YJ'J}K!$O%P%$%J%j!]$H%^%H%j%C%/%9!"%*!<%S%C%HJ}=
+<0$G$9!#=1B(B<BR>=1B$B$o$+$k$R$H$K$O$o$+$k!"9M$($&$k:G9b$N%7%9%F%`$G$9!#=1B=
+(B<BR>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<BR>=1B$B%5!<%S%9$NFbMF$O=1B(B<=
+BR>=1B$B%$%s%?!<%M%C%H=3Di?4<T$+$i>e5i<T$^$GK~B-$G$-$k%5!<%S%9$,B7$$$^$9!=
+#=1B(B<BR>=1B$B$3$l$@$1B7$C$FG/2qHq=1B(B\10,000=1B$B!JF~2qHq=1B(B\1,550=1B=
+$BJL!K$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B-!#2#0%a%,0J>e$N%[!<%`%Z!<%8=1B(B<BR>=1B$B-"4JC1$G$*$7$c$l$=
+J:n@.%D!<%k=1B(B<BR>=1B$B-#=1B(BE=1B$B%3%^!<%9=1B(B<BR>=1B$B-$%W%m%P%$%@!=
+<%5!<%S%9=1B(B<BR>=1B$B-%40`z$J%+%9%?%^!<%5!<%S%9Ey=1B(B<BR>=1B$B$5$^$6$^=
+$J6HBV$r4^$`Am9g%S%8%M%9$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B2?EY$b?=3D$7>e$2$^$9$,=1B(B<BR>=1B$B8=3D:_$^$@2>EPO?$NJg=3D=
+8$J$N$G$*6b$O$+$+$j$^$;$s!#=1B(B<BR>=1B$B#67n$N@$3&0l@F%0%i%s%I%*!<%W%s;~=
+$KEPO?$9$k$+$I$&$+7h$a$F2<$5$$!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$BK\EPO?$N:]$NEPO?HqMQ$O!o#1#1=1B(B,=1B$B#5#0#0$@$1!JG/4V!K0l=
+?M0l8}8BDj$G$9!#=1B(B<BR>=1B$B$?$@$7!"2q<R!";R6!!J?F$N>5BzI,MW!K$NEPO?$b#=
+O#K$G$9!#=1B(B<BR>=1B$B2>EPO?$GM-Mx$J%]%8%7%g%s$N3NJ]$r$7$F$*$$$FM_$7$$$N=
+$G$9!#=1B(B<BR>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<BR>=1B$BEPO?$N;EJ}$O4JC1=
+$G$9!#=1B(B<BR>=1B$B$^$:$O!"%[!<%`%Z!<%8$r3+$$$F3NG'$7$F2<$5$$!#=1B(B<BR>=
+=1B$BI,$:A4$F$r$*FI$_$$$?$@$-!"$4<+?H$N@UG$$G2>EPO?$K$*?J$_$/$@$5$$!#=1B(=
+B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$?$@$7!"$b$O$d%"%/%;%9=3D8Cf$,$9$4$$>uBV$K$J$C$F$$$^$9$N$G!=
+"=1B(B<BR>=1B$B$J$+$J$+7R$C$F$O$/$l$^$;$s!#$[$H$s$ICjA*$K6a$$$h$&$J>u67$G=
+$9!#=1B(B<BR>=1B$B$=3D$l$@$1Bg$-$J%A%c%s%9$G$"$k$H!"3'$5$s$,G'<1$5$l$F$$$=
+k$N$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B%?%$%`%"%&%H$7$F!V#W#E#B>e$NLdBj!W$H$$$&%a%C%;!<%8$,I=3D<($=
+5$l$F$b=1B(B<BR>=1B$B$"$-$i$a$:$K!"2?EY$b%H%i%$$7$??M$K$@$1!"9,1?$N=3Dw?@=
+$,Hy>P$_$^$9!#=1B(B<BR>=1B$B@h$KEPO?$G$-$l$P!"$=3D$l$@$1B?$/!">!<j$K%@%&%=
+s$,$D$$$F$/$k$N$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$D$^$j!"$3$N%S%8%M%9$O!"$^$5$KAa$$$b$N>!$A$N>u67$G$9$N$G!"=1B=
+(B<BR>=1B$B$_$J$5$s!"7R$,$k$^$G!"I,;`$G%"%/%;%9$5$l$F$$$k>u67$J$N$G$9!#=1B=
+(B<BR>=1B$B$*$=3D$i$/F|K\A49q$K9-$^$k$N$O0l=3DV$G$7$g$&!#$=3D$N<!$O!"@$3&=
+Cf$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B8=3D:_$N$H$3$m!"D+$N#3;~:"$+$iF1$8$/D+$N#8;~:"$^$G$J$i!"=1B=
+(B<BR>=1B$B$^$@$J$s$H$+$9$s$J$j%"%/%;%9$G$-$k$h$&$G$9$,!"=1B(B<BR>=1B$B$=3D=
+$l0J30$O$+$J$j87$7$/$J$j$^$9$N$G4hD%$C$F%"%/%;%9$7$F$/$@$5$$!#=1B(B</FONT=
+></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT =
+size=3D2>=1B$BLk$N#1#1;~$r2a$.$k$H#1;~$^$G$O!"$[$H$s$I7R$,$i$J$/$J$C$F$-$=
+^$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT =
+size=3D2>=1B$B2q<R$N>R2p$N#H#P!J$^$@!"$D$J$,$j$d$9$$!K=1B(B<BR><A=20
+href=3D"http://www.starweb21.com/">http://www.starweb21.com/</A></FONT></=
+DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$+$J$i$:$h$/$*FI$_$/$@$5$$!#4V0c$C$?>pJs$,HEMt$7$F$$$k$h$&$=
+G$9!#=1B(B<BR>=1B$BFC$KF~$j8}%Z!<%8$N%*%l%s%8?'$N!c=1B(BWARNING=1B$B!d$OI=
+,?\$G$9!#=1B(B<BR>=1B$BF1$8%Z!<%8$N:8%5%$%I$K=3DD$K#5Ns$N%j%s%/$,$"$j$^$9=
+!#=1B(B<BR>=1B$B>\:Y$NM}2r$O!"$3$A$i$+$i$*4j$$$7$^$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT =
+size=3D2>=1B$B2>EPO?MQ$N#U#R#L!J$+$J$j$N=3D8Cf>uBV$G$9!K=1B(B<BR><A=20
+href=3D"http://www.starweb21.com/cp/mayuri">http://www.starweb21.com/cp/m=
+ayuri</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B2>EPO?$O!">R2p<T$N#U#R#L$,$J$1$l$P$G$-$^$;$s!#=1B(B<BR>=1B$=
+B$4<+?H$N@UG$$G!"2>EPO?$O!"$3$A$i$+$i$*4j$$$7$^$9!#=1B(B<BR>=1B$BESCf$G!V=
+1&!W!V:8!W$N7ONs$rA*Br$9$k>lLL$,=3DP$F$-$^$9$,!"=1B(B<BR>=1B$B8=3D:_!"Ev%=
+0%k!<%W$O!V1&7ONs!W$r?d>)$7$F$$$^$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$J$*8f0l?M$NJ}$N#2=3DEEPO?$O$G$-$^$;$s!#=1B(B<BR>=1B$BH/3P$=
+9$l$PEPO?<h$j>C$7=3DhJ,$H$J$j$^$9!#=1B(B<BR>=1B$BF1$8=3D;=3Dj$G$b!"$42HB2=
+!"5Z$S!"?F8"<TF10U$NL$@.G/<T$J$i2DG=3D$G$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT =
+size=3D2>=1B$B$^$?!"K!?M$G$NJLEPO?$O2DG=3D$H$J$C$F$$$^$9!#=1B(B</FONT></D=
+IV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B5.J}$X$N%\!<%J%9?69~$_8}:BHV9f$OH>3Q$G$9!#=1B(B<BR>=1B$BEPO=
+?$7$?=3DV4V$K?tL>$N%@%&%s$,>!<j$K$D$/$3$H$,DA$7$/$"$j$^$;$s!#=1B(B<BR>=1B=
+$B#1IC$r6%$&EPO??t$H$$$&$N$OK\Ev$NOC$G$9!#$9$4$$$3$H$K$J$j$^$9!#=1B(B</FO=
+NT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B;d$N%"%C%W$OFsF|$G#2#5?M$NJ}$,%@%&%s$K$9$0$D$$$?$H8@$C$F$$$=
+^$9!#=1B(B<BR>=1B$B4hD%$C$F!":.$s$G$$$J$$;~4V!J8aA0!uCk4V!K$K%"%/%;%9$7$F=
+$_$F2<$5$$!#=1B(B<BR>=1B$B2>EPO?$r$b$N$7$F!"$"$J$?$N?M@8$K?7$?$J%A%c%s%9$=
+r2C$($F$/$@$5$$!#=1B(B<BR>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<BR>=1B=
+$B$^$:2<$N2>EPO?=1B(B=20
+URL=1B$B%U%)!<%`$h$j!V1&!W7ONs$G2>EPO?$r$7$F$/$@$5$$!#=1B(B<BR>=1B$B2?EY$=
+b8@$$$^$9$,!"D+$N#3;~$+$i!"D+$N#8;~$,A@$$L\$G$9!#=1B(B<BR>=1B$B$=3D$l0J30=
+$N;~4V$O!"$[$H$s$ICjA*>uBV$N%"%/%;%9=3D8Cf$G$9!#=1B(B<BR><A=20
+href=3D"http://www.starweb21.com/cp/mayuri">http://www.starweb21.com/cp/m=
+ayuri</A></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$"$H$O>e5-$N2>EPO?MQ#U#R#L$N1&C<$r!"=1B(B<BR>=1B$B$"$J$?$N%=
+K%C%/%M!<%`$K=3Dq$-49$($F!"=1B(B<BR>=1B$B$G$-$k$@$1Aa$/!"$G$-$k8B$jB?$/$N=
+$*M'C#$K65$($F$"$2$^$7$g$&!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B1&7ONs$GEPO?$7$F$$$?$@$/$H!"=1B(B<BR>=1B$B$7$P$i$/$O1&7ONs$=
+K4X$7$F$O%@%&%s$,$D$$$F$/$k$G$7$g$&$+$i!"=1B(B<BR>=1B$B$^$:$O1&7ONs$G$N$*=
+M6$$$r$5$l$k$3$H$r$*4+$a$7$^$9!#=1B(B</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>=1B$B$V$7$D$1$JFMA3$N%a!<%k$K:G8e$^$G$*IU$-9g$$$$$?$@$-!"=1B(B<B=
+R>=1B$B@?$K$"$j$,$H$&$4$6$$$^$7$?!#=1B(B<BR>=1B$B3'MM$N:#8e$N8fB?1?$r!"$*=
+5'$j?=3D$7>e$2$^$9!#=1B(B</FONT></DIV></FONT></DIV></FONT></DIV></BODY></=
+HTML>
+
+------=_NextPart_000_000B_01BFB639.16EBB380--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

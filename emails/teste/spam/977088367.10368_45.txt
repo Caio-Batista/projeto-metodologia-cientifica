@@ -1,0 +1,1457 @@
+Return-Path: <nop59392@mail.telepac.pt>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 6564 invoked from network); 17 Dec 2000 16:43:06 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 17 Dec 2000 16:43:06 -0000
+Received: (qmail 20502 invoked by uid 500); 17 Dec 2000 16:43:05 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 20498 invoked from network); 17 Dec 2000 16:43:03 -0000
+Received: from fep02-svc.mail.telepac.pt (194.65.5.201)
+  by em.ca with SMTP; 17 Dec 2000 16:43:03 -0000
+Received: from nop59392 ([194.65.249.56]) by fep02-svc.mail.telepac.pt
+          (InterMail vM.4.01.02.27 201-229-119-110) with SMTP
+          id <20001217164742.BMYD21513.fep02-svc.mail.telepac.pt@nop59392>;
+          Sun, 17 Dec 2000 16:47:42 +0000
+Message-ID: <001501c06848$046907a0$38f941c2@telepac.pt>
+From: "Francisco Almeida" <nop59392@mail.telepac.pt>
+To: <wendy@easilink.com>,
+	<dgoins@easilink.com>,
+	<chrisdeidra@easilink.com>,
+	<nick@easirent.co.uk>,
+	<brad@easternwebdesign.com>,
+	<bubbalisa@eastex.net>,
+	<myhobby@eastmail.com>,
+	<dinsmore@eastman.com>,
+	<shopping@easygifting.com>,
+	<mike@easyhomebiz.com>,
+	<easyout@easyout.com>,
+	<newsletter@easystrain.com>,
+	<hkent@eatel.net>,
+	<redwolf@eatel.net>,
+	<whersch@eatel.net>,
+	<success@eatel.net>,
+	<birdman@eatel.net>,
+	<envmeas@eatel.net>,
+	<aande@eatel.net>,
+	<robertkjackson@eaton.com>,
+	<hns@eaze.net>,
+	<dspadoni@eb.com>,
+	<freetrial@eb.com>,
+	<jreberry@ebags.com>,
+	<misterlister@ebay.com>,
+	<iprequest@ebay.com>,
+	<robin@ebay.com>,
+	<zerogee4u2c@ebz.com>,
+	<tdenton@ecal.com>,
+	<jce@ecape.com>,
+	<ecc@ecc-ecc.com>,
+	<bsummers@ecg1.com>,
+	<mitchell@echidna.id.au>,
+	<jonathan.rind@ecitele.com>,
+	<eckel@eckelacoustic.com>,
+	<eckhart@eckhart.nl>,
+	<success@eckorea.net>,
+	<bass@eckstein.ru>,
+	<regina@eclayenterprises.com>,
+	<silvadel@eclipse.net>,
+	<fbx065@ecn.mb.ca>,
+	<dreamcatcher@ecol.net>,
+	<dfredine@ecol.net>,
+	<ecm@ecom-resources.com>,
+	<lance@ecomhomebiz.com>,
+	<larry@ecommalls.com>,
+	<content@ecommercetimes.com>,
+	<cjstore@econ-ergy.com>,
+	<classifieds@economist.com>,
+	<christy@economytravel.com>,
+	<ricsimmons@ecosse.net>,
+	<craig_h@ecosse.net>,
+	<terri@ecqual.net>,
+	<chevychic@ecr.net>,
+	<bdj@ecr.net>,
+	<outofafrica@ecr.net>,
+	<silvrdrg@ecsis.net>,
+	<pvhouse@ecsis.net>,
+	<elaine@ecsis.net>,
+	<netuser-request@ecsis.net>,
+	<bands@ecsis.net>,
+	<dds@ecsis.net>,
+	<pjray@ecsis.net>,
+	<debbie@ecsis.net>,
+	<gwarren@ect.enron.com>,
+	<c.c.davies@ed.ac.uk>,
+	<nancy@edaccents.com>,
+	<steve.ottavelli@eddiebauer>,
+	<eddie@eddiesolomon.com>,
+	<eshopexpress@eddinfo.com>,
+	<tfisher@edelman.com>,
+	<mneely@eden.com>,
+	<lionmane@eden.com>,
+	<slundie@eden.com>,
+	<jmosley@eden.com>,
+	<rocket@eden.telalink.net>,
+	<crodriguez@edenor.com>,
+	<molin@edge.net>,
+	<stonrdge@edge.net>,
+	<nosbisch@edge.net>,
+	<carlos@edge.net>,
+	<edge@edgeelectronics.com>,
+	<slg@edgplan.com>,
+	<ed@edhayes.com>,
+	<ginah@edify.com>,
+	<john@edinc.net>,
+	<questions@edish.com>,
+	<msteadman@edisonmission.com>,
+	<complience@editpros.com>,
+	<devans@editraffic.com>,
+	<thierry_p@editus.lu>,
+	<shara@edj.net>,
+	<bansod@edm.net>,
+	<bergman@edmail.com>,
+	<jessika@edmc.net>,
+	<jcwhitney@edmund.com>,
+	<privacy@edmunds.com>,
+	<jinny@edmunds.com>,
+	<innovations@edmunds.com>,
+	<djg@edmunds.com>,
+	<jdp@edmunds.com>,
+	<brent@edmunds.com>,
+	<deborah@edmunds.com>,
+	<chris@edmunds.com>,
+	<edrick@edrick.com>,
+	<steve.ralston@eds.com>,
+	<edwards@edwards1.com>,
+	<rose@edwardsmedia.net>,
+	<mpoe@ee.net>,
+	<dpeters@ee.net>,
+	<ryoungclaus@ee.net>,
+	<talksoup@eentertainment.com>,
+	<digests@ees.com>,
+	<nmapnt@eeye.com>,
+	<damian@efax.co.uk>,
+	<champion@efgmdg.com>,
+	<dondent@efni.com>,
+	<julie@efni.com>,
+	<dhoekman@eg3.com>,
+	<pgreen@eg3.com>,
+	<jmcdonald@eg3.com>,
+	<npinto@eg3.com>,
+	<partners@eg3.com>,
+	<nmurph@eg3.com>,
+	<inquiry@eg3.com>,
+	<dw@eg3.com>,
+	<avladimirov@eg3.com>,
+	<agegenheimer@eg3.com>,
+	<pr@eg3.com>,
+	<daves@eg3.com>,
+	<mfoster@eg3.com>,
+	<jmagno@eg3.com>,
+	<jsmith@eg3.com>,
+	<ask@eg3.com>,
+	<investips@egainc.com>,
+	<calendar@egarden.com>,
+	<auction@egarden.com>,
+	<dhelmn@eggconnect.net>,
+	<dave.hill@eggconnect.net>,
+	<jjjoyce@eggconnect.net>,
+	<fwd@egida.com>,
+	<eginfo@egnet.co.uk>,
+	<jonathan@ego.net>,
+	<egospel@egospel.com>,
+	<phil@egrn937.com>,
+	<angling@egyptian.net>,
+	<corneroffice@ehmt.com>,
+	<tom@ehomefortune.com>,
+	<gscott@ehosting.com>,
+	<affiliates@ehow.com>,
+	<aquiros@eidos.es>,
+	<burggespenst@eifel.de>,
+	<8gables@eightgables.com>,
+	<ordercd@eighthdayrocks.com>,
+	<fan@eighthdayrocks.com>,
+	<jenmat@eiis.net>,
+	<menish@eilatcity.co.il>,
+	<ethics@eiris.win-uk.net>,
+	<mfranklin@eis-inc.com>,
+	<anndowney@eisa.com>,
+	<freundmerca@ejje.com>,
+	<cornholio@ejob.com>,
+	<contact@el-bielefeld.de>,
+	<rec@elainecase.com>,
+	<elanix@elanix.com>,
+	<elastec@elastec.com>,
+	<floresc@elcsci.com>,
+	<herm@electricblues.com>,
+	<gusmud@electricmudband.com>,
+	<chahn@eleganceintime.com>,
+	<r.smith@elegantresorts.co.u>,
+	<int@elementkjournals.com>,
+	<wdv@elementkjournals.com>,
+	<ocs@elementkjournals.com>,
+	<iac@elementkjournals.com>,
+	<win98@elementkjournals.com>,
+	<tma@elementkjournals.com>,
+	<win95@elementkjournals.com>,
+	<winpro@elementkjournals.com>,
+	<iwd@elementkjournals.com>,
+	<edu@elementkjournals.com>,
+	<ntpro@elementkjournals.com>,
+	<alehnovo@elfoco.com>,
+	<cmhaelgn@elgin.net>,
+	<bhopkins@elibertybank.com>,
+	<sander@elim.net>,
+	<elite@elite-travel.com>,
+	<ladypain@eliteforce.net>,
+	<td@elkhart.com>,
+	<jayboy@elkhart.com>,
+	<elkspirit@elkspirit.net>,
+	<soap@ellijay.com>,
+	<killer@ellijay.com>,
+	<hurricane@ellijay.com>,
+	<jen@ellijay.com>,
+	<slogan@ellijay.com>,
+	<corres@ellynsatter.com>,
+	<elman@elman.com>,
+	<elmer@elmer.screaming.net>,
+	<pivotweb@elong.com>,
+	<jmoore@elp.rr.com>,
+	<digital@elpais.es>,
+	<online@elpasotimes.com>,
+	<sk@elsegundoca.attgis.com>,
+	<sm.wilkinson@elsevier.co.uk>,
+	<florescg@elsitio.com>,
+	<cuitybsa@elsitio.com>,
+	<eloyeb@elsitio.com>,
+	<smacli@elsitio.com>,
+	<marnab@elsitio.com>,
+	<elton@eltonstephens.com>,
+	<tina@elutsk.com>,
+	<agr@em.agr.ca>,
+	<colee@em.agr.ca>,
+	<ralphr@em.agr.ca>,
+	<bruceg@em.ca>,
+	<outsource2000career@email.c>,
+	<jobnow@email.com>,
+	<netsucces@email.com>,
+	<onlinetoolkits@email.com>,
+	<masspromo22@email.com>,
+	<drvincentkumar@email.com>,
+	<a_jarocha@email.com>,
+	<worldwidebenefits@email.com>,
+	<johnjoe123@email.com>,
+	<mhoodinc@email.com>,
+	<nanceystrong@email.com>,
+	<gtuignatov@email.com>,
+	<parentlists@email.com>,
+	<stuff_n_such@email.com>,
+	<bilengel1@email.com>,
+	<mickeymo19@email.com>,
+	<rkspeights@email.com>,
+	<actx@email.com>,
+	<christopherhuxtable@email.m>,
+	<dz52031@email.msn.com>,
+	<ecl1sls@email.msn.com>,
+	<jamesrgilliam@email.msn.com>,
+	<mds-id@email.msn.com>,
+	<dadplezia@email.msn.com>,
+	<eileenhodg@email.msn.com>,
+	<bizzbee@email.msn.com>,
+	<j_hall_77@email.msn.com>,
+	<carolsueellen@email.msn.com>,
+	<arspar183@email.msn.com>,
+	<jimpack55@email.msn.com>,
+	<ephesians612@email.msn.com>,
+	<alexm3@email.msn.com>,
+	<bubito4u@email.msn.com>,
+	<everett11@email.msn.com>,
+	<awhitepho@email.msn.com>,
+	<budalley@email.msn.com>,
+	<elrv@email.msn.com>,
+	<dio@emanationinc.com>,
+	<roger.green@emaponline.com>,
+	<jmarino@emarketer.com>,
+	<rjanes@emarketer.com>,
+	<affiliates@emarketer.com>,
+	<tchabrowe@emarketer.com>,
+	<kpjgroup@emaxxis.com>,
+	<mikael.jensen@emc.se>,
+	<ffresin@emcs.net>,
+	<tonya@emdc.net>,
+	<mgreene@emed.com>,
+	<joy@emeraldadventures.com>,
+	<emerald@emeralddragonslair>,
+	<stevenson@emeraldis.com>,
+	<dawn@emeraldmall.com>,
+	<design@emeraldtiger.com>,
+	<sherrye@emersonprof.com>,
+	<mike_h_y2k@eminem.com>,
+	<press@emode.com>,
+	<privacy@emode.com>,
+	<tony@emond.com>,
+	<anarchist@emotive.com>,
+	<sanfrancisco@emotrans-usa.c>,
+	<emp-ror@emp-ror.com>,
+	<bryant@employment-world.com>,
+	<guinard.m@ems-t.ca>,
+	<emsmail@emsonline.com>,
+	<bwb@emuhq.com>,
+	<god-hed@en.com>,
+	<bfink@en.com>,
+	<mkish@encmarketing.com>,
+	<ekwak@encoredev.com>,
+	<ivan@endore.com>,
+	<igasec@enel.it>,
+	<king@enel.ucalgary.ca>,
+	<drams@enetis.net>,
+	<spector@enetis.net>,
+	<cscovel@enetis.net>,
+	<privacy@engage.com>,
+	<plarmey@engage.com>,
+	<braintainment@engin.com>,
+	<mikete@engineer.com>,
+	<bm_lazar@engineer.com>,
+	<jschmidt@enginuityinc.com>,
+	<christoph@england-seiten.de>,
+	<gary@englishlistening.com>,
+	<jen@englishmajor.com>,
+	<mmshanbh@engmail.uwaterloo>,
+	<evelynhu@eni.net>,
+	<efnh@enid.com>,
+	<evans@enid.com>,
+	<gambler@enid.com>,
+	<aelizondo@enlace.net>,
+	<smithcp@enol.com>,
+	<cbrewer@enquirer.com>,
+	<ahicks@enquirer.com>,
+	<jamespager@enquirer.com>,
+	<jjohnston@enquirer.com>,
+	<tsullivan@enquirer.com>,
+	<lpulfer@enquirer.com>,
+	<survey@enquirer.com>,
+	<sports@enquirer.com>,
+	<jeckberg@enquirer.com>,
+	<bugs@enquirer.com>,
+	<gnoble@enquirer.com>,
+	<rgreen@enquirer.com>,
+	<joseph@enrich.com>,
+	<simon.sear@enron.com>,
+	<eric_mauer@enron.com>,
+	<moisy@ens.ens-lyon.fr>,
+	<ftp@ens.fr>,
+	<agrotoulouse@ensat.fr>,
+	<magnien@ensicaen.ismra.fr>,
+	<jfrisbee@ensr.com>,
+	<moallen@enst.fr>,
+	<fernofri@entelchile.net>,
+	<potarola@entelchile.net>,
+	<amarcelo@entelchile.net>,
+	<copters@entelchile.net>,
+	<soussan@enteleky.com>,
+	<strange@enter.net>,
+	<partnersgroup@enter.net>,
+	<farar@enter.net>,
+	<rabbidanny@enter.net>,
+	<reeds@enter.net>,
+	<faban@enter.net>,
+	<lightbulb@enter.net>,
+	<earl@enter.net>,
+	<dannyuff@enter.net>,
+	<audubon@enter.net>,
+	<firstchoicemal@enter.net>,
+	<ernstfam@enter.net>,
+	<feldmanbd@enter.net>,
+	<strauss@enter.net>,
+	<swain@enter.net>,
+	<dbower@enter.net>,
+	<mkconfer@enter.net>,
+	<srugg@enter.net>,
+	<nelson@enter.net>,
+	<stevehc@enteract.com>,
+	<steveo@enteract.com>,
+	<thong@enteract.com>,
+	<tdonalek@enteract.com>,
+	<pichen@enteract.com>,
+	<silvrmn@enteract.com>,
+	<bjohnston@entercomkc.com>,
+	<tasia@entercomp.com>,
+	<chaddonna@entercomp.com>,
+	<rickc@entercomp.com>,
+	<pmahone@entergy.com>,
+	<djone92@entergy.com>,
+	<thirdeye@enterprise.net>,
+	<mtv@enterprise.net>,
+	<jude@enterprisemanagement.c>,
+	<ralf@entertainer-club.de>,
+	<debra@entovation.com>,
+	<entmag@entrepreneur.com>,
+	<entintl@entrepreneur.com>,
+	<hoffice@entrepreneur.com>,
+	<bsumag@entrepreneur.com>,
+	<sohomall@entrepreneur.com>,
+	<conall@entropy.ie>,
+	<communicate@environics-usa>,
+	<ffasponsor@eohbg.com>,
+	<stang@eoni.com>,
+	<howieart@eoni.com>,
+	<fleitch@eoni.com>,
+	<design@eonline.com>,
+	<games@eonline.com>,
+	<stories@eonline.com>,
+	<ptierney@eorm.com>,
+	<newmand@eorm.com>,
+	<fishlerg@eorm.com>,
+	<rcraig@eos.net>,
+	<5032715013@epage.arch.com>,
+	<irena@eparrots.com>,
+	<erik@epicgames.com>,
+	<confusion@epitonic.com>,
+	<crazyleg@epix.net>,
+	<tnk@epix.net>,
+	<b99@epix.net>,
+	<schamber@eplinc.com>,
+	<bayers@epsb.edmonton.ab.ca>,
+	<astewart@epsb.net>,
+	<nan@eqe.com>,
+	<gary@equalizers.com>,
+	<john@equest.com>,
+	<complaint@equi-site.com>,
+	<jdemler@equus-realty.com>,
+	<bob.hamra@era.com>,
+	<office@eranorton.com>,
+	<jkjkj@erc.com>,
+	<pr@eretail.net>,
+	<abraham@ericshoes.com>,
+	<empguide@erie.net>,
+	<susanm@erie.net>,
+	<cdbrown@eriecoast.com>,
+	<gabbygannett@eriecoast.com>,
+	<fhpinc@erols.com>,
+	<dddodson@erols.com>,
+	<dimin@erols.com>,
+	<m-brown@erols.com>,
+	<dconnect@erols.com>,
+	<gateway21@erols.com>,
+	<dalm6@erols.com>,
+	<cphoenix@erols.com>,
+	<mthomasfam@erols.com>,
+	<drwells@erols.com>,
+	<cjgreen@erols.com>,
+	<efrain@erols.com>,
+	<stepho@erols.com>,
+	<f1600@erols.com>,
+	<tamu84@erols.com>,
+	<cartune9@erols.com>,
+	<dayk@erols.com>,
+	<fpascarelli@erols.com>,
+	<custis@erols.com>,
+	<gdella@erols.com>,
+	<djbd@erols.com>,
+	<frjw@erols.com>,
+	<djanoff@erols.com>,
+	<eyeusta@erols.com>,
+	<usadura@erols.com>,
+	<fitnessclub@erols.com>,
+	<crogersmurdock@erols.com>,
+	<brody@erscareers.com>,
+	<hotlava@erupt.com>,
+	<owenz@es.co.nz>,
+	<dunpjc@es.co.nz>,
+	<com@es2i.com>,
+	<crcontrol@esat.net>,
+	<cedric.babec@esc-grenoble.f>,
+	<claytonp@escape.ca>,
+	<skogs@escape.ca>,
+	<rkading@escape.ca>,
+	<cherylr@escape.ca>,
+	<peregrin@escape.ca>,
+	<jhurtig@escape.ca>,
+	<contactform@escapeartist.ne>,
+	<publisher@escorts4you.com>,
+	<gareth@esensual.co.nz>,
+	<enquiries@esi.co.uk>,
+	<esi@esionline.com>,
+	<esutton@esn.net>,
+	<rhod@esoft.co.uk>,
+	<espadon@espadon.ee>,
+	<cvesser@esper.com>,
+	<teejay@esper.com>,
+	<dstoots@esper.com>,
+	<espac@esper.com>,
+	<nathan.standridge@espire.ne>,
+	<cdnlimo@esplink.com>,
+	<nicoley@esquiregroup.com>,
+	<mparikh@esri.com>,
+	<tdas@esri.com>,
+	<cobbler@essentialfootwear.c>,
+	<matt@essentialgoods.com>,
+	<cookseytel@essex1.com>,
+	<mckinley@essex1.com>,
+	<terri@esslink.com>,
+	<mbkid@esslink.com>,
+	<sp@esspeedesigns.com>,
+	<ed@estarr.com>,
+	<pknight@estee.com>,
+	<et@estella.com>,
+	<mike.romick@esteycorp.com>,
+	<esvmall@esvmall.com>,
+	<miku@et.ee>,
+	<front@eta.net>,
+	<remarkable@etang.com>,
+	<btcullen@etch-marc.com>,
+	<mbmarketing@eteam2000.com>,
+	<ruben@eteetime.com>,
+	<ironural@etel.ru>,
+	<jeanne@etex.net>,
+	<surfpool@eth.net>,
+	<mkmohan@eth.net>,
+	<rudhraa@eth.net>,
+	<vijayanandv@eth.net>,
+	<prembhasin@eth.net>,
+	<et@ethom.com>,
+	<corpcom@ethyl.com>,
+	<etnclub@etn.nl>,
+	<abrown007@etour.com>,
+	<mpacey@etown.net>,
+	<tlamothe@etown.net>,
+	<snux@etown.net>,
+	<corporate@etrade.co.uk>,
+	<rblanquera@etrade.com>,
+	<dce@ettighoffer.com>,
+	<ettl@ettl.co.at>,
+	<paul.creswell@eu.nabgroup.c>,
+	<business_hunter@eudoramail>,
+	<harvest_mission@eudoramail>,
+	<barrone@eudoramail.com>,
+	<freeing@eudoramail.com>,
+	<engines@eudoramail.com>,
+	<frank-t@eudoramail.com>,
+	<fiveoakscd@eudoramail.com>,
+	<monae@eudoramail.com>,
+	<cindy.web@eudoramail.com>,
+	<catolicos@eudoramail.com>,
+	<asuccess@eudoramail.com>,
+	<chandlm@eudoramail.com>,
+	<e.mailme@eudoramail.com>,
+	<iobank1@eudoramail.com>,
+	<cereal@eudoramail.com>,
+	<dialtone@eudoramail.com>,
+	<a.massey@eudoramail.com>,
+	<cjne@eudoramail.com>,
+	<cjcoffee@eudoramail.com>,
+	<daveh@eugene-commerce.com>,
+	<rochester@euphony.net>,
+	<estuary@eureka.lk>,
+	<partyon@eureka.lk>,
+	<bwood@eurekais.com>,
+	<simon@euro.net>,
+	<pursuit@eurobell.co.uk>,
+	<bouc0863@eurobretagne.fr>,
+	<euroece@euroece.com>,
+	<eurofinsus@eurofins.com>,
+	<contact@eurogamer.net>,
+	<bourneco@euromerger.com>,
+	<tgt@europa.com>,
+	<europai@europai.com>,
+	<depot@europeancargo.co.uk>,
+	<thomas@eurosale.com>,
+	<taco@euroscanner.com>,
+	<egyptsy@euroseek.com>,
+	<jens.jormsjo@eurostep.se>,
+	<ara@eurosun.com>,
+	<etm@eurotransmed.nl>,
+	<fradi@euroweb.hu>,
+	<eurostart@eurowerbung.com>,
+	<jph22@ev1.net>,
+	<jonesad@ev1.net>,
+	<estie@ev1.net>,
+	<pacific@eva.hi-ho.ne.jp>,
+	<evan@evanmather.com>,
+	<steina@evansville.com>,
+	<russ@eventbasedscience.com>,
+	<jessica@eventpro.net>,
+	<score@everbrite.com>,
+	<frednjan@evergreen.com>,
+	<sibbc@every-mail.com>,
+	<brad@everythingdsl.com>,
+	<self@evident.com>,
+	<tinaapp@evisionmail.com>,
+	<bridge@evisionmail.com>,
+	<getmoney@evisionmail.com>,
+	<stephanie_torre@ew.com>,
+	<sandy_drayton@ew.com>,
+	<minh_phan@ew.com>,
+	<rod@ewa.net>,
+	<vincentmingils.cpt@ewav.net>,
+	<pplsteve.cpt@ewav.net>,
+	<homebased.cpt@ewav.net>,
+	<moneymaker.cpt@ewav.net>,
+	<pgalan@ewinginc.com>,
+	<dale.d@ewm.com>,
+	<msmall@ewonline.com>,
+	<chris@ex-calibre.com>,
+	<alepow@ex-pressnet.com>,
+	<chancock@excel.net>,
+	<excell@excell.com>,
+	<crazziemama99@excelonline.c>,
+	<macfarlane@excelonline.com>,
+	<chucka@excelonline.com>,
+	<apfeil@excelonline.com>,
+	<excel2gthr@excelonline.com>,
+	<redpepper@excelonline.com>,
+	<lvaladez@excelonline.com>,
+	<ebusiness@exchequer.com>,
+	<cash4you@excite.co.uk>,
+	<fenntom@excite.com>,
+	<ht83938@excite.com>,
+	<houstoneti@excite.com>,
+	<engsing@excite.com>,
+	<frank42@excite.com>,
+	<johannaharryson@excite.com>,
+	<forlife5@excite.com>,
+	<frosty21@excite.com>,
+	<fjoseph1@excite.com>,
+	<rhondal28@excite.com>,
+	<rwuerch@excite.com>,
+	<mony4nutin@excite.com>,
+	<ilovemysarah@excite.com>,
+	<slysly4@excite.com>,
+	<glyn_bampfield@excite.com>,
+	<lninlace@excite.com>,
+	<jq_architecture@excite.com>,
+	<promote_it@excite.com>,
+	<ibcpao@excite.com>,
+	<regnilleb7@excite.com>,
+	<charleslfisher@excite.com>,
+	<antialec24@excite.com>,
+	<brdelaney@excite.com>,
+	<victic1@excite.com>,
+	<cartwrid@excite.com>,
+	<dboller@excite.com>,
+	<chan131@excite.com>,
+	<azn3west@excite.com>,
+	<dimitarg@excite.com>,
+	<bstausspro@excite.com>,
+	<tarotlove@excite.com>,
+	<toddwx2000@excite.com>,
+	<3cents@excite.com>,
+	<cook.a@excite.com>,
+	<bernd.gruner@excite.com>,
+	<success4u_1@excite.com>,
+	<ccipres1@excite.com>,
+	<biz2start@excite.com>,
+	<ajbunny3@excite.com>,
+	<dmiprodaz@excite.com>,
+	<berrone@excite.com>,
+	<almolette@excite.com>,
+	<wweisser1@excite.com>,
+	<vicjac6@excite.com>,
+	<brendalittle@excite.com>,
+	<aliamir@excite.com>,
+	<cen74604@excite.com>,
+	<elitemodel2@excite.com>,
+	<djoshua1@excite.com>,
+	<bps-aus@excite.com>,
+	<susan46@excite.com>,
+	<earl.burgess@excite.com>,
+	<carrijames@excite.com>,
+	<electrolux2@excite.com>,
+	<tede15@excite.com>,
+	<elfdande@excite.com>,
+	<e-man16@excite.com>,
+	<charleslee5@excite.com>,
+	<tcherbs@excite.com>,
+	<cts2000@excite.com>,
+	<calexander4@excite.com>,
+	<bllacourse@excite.com>,
+	<cbiamont@excite.com>,
+	<citygirl24@excite.com>,
+	<dpeterson20@excite.com>,
+	<aclayville@excite.com>,
+	<careermaker@excite.com>,
+	<exeat@exeat.com>,
+	<eva@execpc.com>,
+	<amerhome@execpc.com>,
+	<eernisse@execpc.com>,
+	<trisha@exotrope.net>,
+	<fedir@expert.kiev.ua>,
+	<gary@exploitme.com>,
+	<carson@expresssystems.com>,
+	<don@extractorpro.com>,
+	<jeffrey.trimboli@ey.com>,
+	<robyn.bass@ey.com>,
+	<derek.keller@ey.com>,
+	<mgmt@eyecaremall.com>,
+	<foss@eyjar.is>,
+	<commtech@ezaccess.net>,
+	<theresas@eznet.net>,
+	<jump100.2@ezresponse.com>,
+	<don@ezst.com>
+Subject: THE BEST WAY TO FINANCIAL FREEDOM WITH SMALL INVESTMENT
+Date: Sun, 17 Dec 2000 16:29:06 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2417.2000
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Content-Length: 47339
+
+INTERNATIONAL BUSINESS
+Thank you for your time and Interest.This is the letter you've been reading
+about in the news lately.Due to the popularity of this letter on the
+internet, a major nightly newsprogram recentlydevoted an entire show to the
+investigation of the program described below, to see if it really can make
+people money. The show also investigated whether or not the program was
+legal. Their findings proved once and for all that there are, absolutely no
+Laws prohibiting the participation in the program. This has helped to Show
+people that this is a simple, harmless and fun way to make some extra money
+at home. The results of this show has been truly remarkable. So many people
+are participating that those involved are doing, much better than ever
+before. Since everyone makes more as more people try it out, its been very
+exciting to be a part of lately. You will understand once you experience it.
+"HERE IT IS BELOW"
+____________________________________________________________________________
+____________________________
+*** Print This Now For Future Reference ***
+The following income opportunity is one you may be interested in taking a
+look at. It can be started with VERY LITTLE investment and the income return
+is TREMENDOUS!!!
+
+If you would like to make at least $55,550 in less than 90 days! Please read
+the enclosed program...THEN READ IT AGAIN!!!
+
+THIS IS A LEGITIMATE, LEGAL, MONEY MAKING OPPORTUNITY. It does not require
+you to come into contact with people, do any hard work, and best of all, you
+never have to leave the house except to get the mail. If you believe that
+someday you'll get that big break that you've been waiting for, THIS IS IT!
+Simply follow the instructions, and your dreams will come true. This
+multi-level e-mail order marketing program works perfectly...100% EVERY
+TIME. E-mail is the sales tool of the future. Take advantage of this
+non-commercialized method of advertising NOW!!! The longer you wait, the
+more people will be doing business using e-mail. Get your piece of this
+action!!! MULTI-LEVEL MARKETING (MLM) has finally gained respectability. It
+is being taught in the Harvard Business School, and both Stanford Research
+and the Wall Street Journal have stated that between 50% and 65% of all
+goods and services will be sold through multi-level methods by the mid to
+late 1990's. This is a Multi-Billion Dollar industry and of the 3,500,000
+Millionaires in the WORLD, 20% ( 700,000) made their fortune in the last
+several years in MLM. Moreover statistics show that over 100 people become
+millionaires everyday through Multi-Level Marketing. You may have heard this
+story before, but over the summer Donald Trump (A MULTI-BILLIONAIRE, ONE OF
+THE WEALTHIEST MEN IN THE WORLD) made an appearance on the David Letterman
+show. Dave asked him what he would do if he lost everything and had to start
+over from scratch. Without hesitating, Trump said he would find a good
+network marketing company and get to work. The audience started to hoot and
+boo him. He looked out at the audience and dead-panned his response "That's
+why I'm sitting up here and you are all sitting out there!" With network
+marketing you have two sources of income. Direct Commissions from sales you
+make yourself and commissions from sales made by people you introduce to the
+business. Residual income is the secret of the wealthy. It means investing
+time or money once and getting paid again and again and again. In network
+marketing, it also means getting paid for the work of others. This program
+is currently being utilized in more than 150 different countries across the
+world. The enclosed INF0RMATION is something I almost let slip through my
+fingers. Fortunately, sometime later I re-read everything and gave some
+thought and study to it. I have checked it out with the U.S. Post Office
+(1-800-725-2161 24-hrs) and hey confirmed that it is indeed legal! After
+determining the program was LEGAL and NOT A CHAIN LETTER, I decided "WHY
+NOT." Initially sent out 100,000 e-mails. It cost me about $15 for my time
+on-line. The great thing about e-mail is that I don't need any money for
+printing to send out the program, and because all of my orders are fulfilled
+via e-mail, the only expense is my time. I am telling you like it is, I hope
+it doesn't turn you off, but I promised myself that I would not "rip-off"
+anyone, no matter how much money it cost me. In less than one week, I was
+starting to receive orders for REPORT #1. By January 13, I had received 26
+orders for REPORT #1. Your goal is to "RECEIVE at least 20 ORDERS FOR REPORT
+#1 WITHIN 2 WEEKS. IF YOU DON'T, SEND OUT MORE PROGRAMS UNTIL YOU DO!" My
+first step in making $114,000 in 90 days was done. By January 30, I had
+received 196 orders for REPORT #2. Your goal is to "RECEIVE AT LEAST 100+
+ORDERS FOR REPORT #2 WITHIN 2 WEEKS. IF NOT, SEND OUT MORE PROGRAMS UNTIL
+YOU DO. ONCE YOU HAVE 100 ORDERS, THE REST IS EASY, RELAX, YOU WILL MAKE
+YOUR $114,000 GOAL." Well, I had 196 orders for REPORT #2, 96 more than I
+needed. So I sat back and relaxed. By March 1, of my e-mailing of 100,000, I
+received $126,000 with more coming in every I paid off ALL my debts and
+bought a much needed new car. Please take time to read the attached program,
+IT WILL CHANGE YOUR LIFE FOREVER!!!
+Remember, it won't work if you don't try it. This program does work, but you
+must follow it EXACTLY! Especially the rules of not trying to place your
+name in a different place. It won't work, you'll lose out on a lot of money!
+In order for this program to work, you must meet your goal of 20+ orders For
+REPORT #1, and 100+ orders for REPORT #2 and you will make $55,550 or more
+in 90 days. I AM LIVING PROOF THAT IT WORKS!!! If you choose not to
+participate in this program, I am sorry. It really is a great opportunity
+with little cost or risk to you. If you choose to participate, follow the
+program and you will be on your way to financial security. If you are a
+fellow business owner and are if financial trouble like I was, or you want
+to start your own business, consider this a sign. I DID! Sincerely,
+Francisco Almeida
+A PERSONAL NOTE FROM THE ORIGINATOR OF THIS PROGRAM:
+By the time you have read the enclosed program and reports, you should have
+concluded that such a program, and one that is legal, could not have been
+created by an amateur. Let me tell you a little about myself. I had a
+profitable business for 10 years. Then in 1979 my business began falling
+off. I was doing the same things that were previously successful for me, but
+it wasn't working. Finally, I figured it out. It wasn't me, it was the
+economy. Inflation and recession had replaced the stable economy that had
+been with us since 1945. I don't have to tell you what happened to the
+unemployment rate... because many of you know from first hand experience.
+There were more ailures and bankruptcies than ever before. The middle class
+was vanishing. Those who knew what they were doing invested wisely and moved
+up. Those who did not, including those who never had anything to save or
+invest, were moving down into the ranks of the poor. As the saying goes,
+"THE RICH GET RICHER AND THE POOR GET POORER."
+The traditional methods of making money will never allow you to "move up" or
+"get rich", inflation will see to that. You have just received INF0RMATION
+that can give you financial freedom for the rest of your life, with "NO
+RISK" and "JUST A LITTLE BIT OF EFFORT." You can make more money in the next
+few months than you have ever imagined. I should also point out that I will
+not see a penny of this oney, nor anyone else who has provided a testimonial
+for this program. I have already made over 4 MILLION DOLLARS! I have retired
+from the program after sending out over 1,600,000 programs. Now I have
+several offices that make this and several other programs here and over
+seas. Follow the program EXACTLY AS INSTRUCTED. Do not change it in any way.
+It works exceedingly well as it is now. Remember to e-mail a copy of this
+exciting report to everyone you can think of. One of the people you send
+this to may send out 100,000 or more...and your name will be on everyone of
+them! Remember though, the more you send out the more potential customers
+you will reach. So my friend, I have given you the ideas, INF0RMATION,
+materials And opportunity to become financially independent, IT IS UP TO YOU
+NOW! "THINK ABOUT IT"
+Before you delete this program from your mailbox, as I almost did, take a
+little time to read it and REALLY THINK ABOUT IT. Get a pencil and figure
+out what could happen when YOU participate. Figure out the worst possible
+response and no matter how you calculate it, you will still make a lot of
+money! You will definitely get back what you invested. Any doubts you have
+will vanish when your first orders come in. IT WORKS! Jody Jacobs, Richmond,
+VA. HERE'S HOW THIS AMAZING PROGRAM WILL MAKE YOU THOUSANDS OF DOLLAR$
+INSTRUCTIONS:
+This method of raising capital REALLY WORKS 100% EVERY TIME. I am sure that
+you could use up to $55,550 or more in the next 90 days. Before you say
+"BULL... ", please read this program carefully. This is not a chain letter,
+but a perfectly legal money making opportunity. Basically, this is what you
+do: As with all multi-level businesses, we build our business by recruiting
+new partners and
+selling our products. Because of the global nature of the internet, you will
+be able to recruit new multi-level business partners from all over the
+world, and we offer a product for EVERY dollar sent. YOUR ORDERS COME BY
+MAIL AND ARE FILLED BY E-MAIL, so you are not involved in personal selling.
+You do it privately in your own home, store or office. This is the GREATEST
+Multi-Level Mail Order Marketing anywhere. This is what you MUST do:
+1. Order all 4 reports shown on the list below (you can't sell them if you
+don't order them).
+a. For each report, send cash in the amount indicated, the NAME & NUMBER OF
+THE REPORT YOU ARE ORDERING, YOUR E-MAIL ADDRESS, and YOUR NAME & RETURN
+ADDRESS (in case of a problem) to the person whose name appears on the list
+next to the report. MAKE SURE YOUR RETURN ADDRESS IS ON YOUR ENVELOPE and
+your email address is printed clearly, IN CASE OF ANY MAIL PROBLEMS!
+b. When you place your order, make sure you order each of the four reports,
+plus the free Bonus Report. You will need all five reports so that you can
+save them on your computer and resell them. The free Bonus Report "Short
+Cuts 2 Success" is a Master Bulk e-Mailer's "How to Blue Print" for
+instantly building a massive internet downline and Explosing your business.
+b. Within a few days you will receive, via e-mail, each of the five reports.
+Save them on your computer so they will be accessible for you to send to the
+1,000's of people who will order them from you.
+2. IMPORTANT-- DO NOT alter the names of the people who are listed next to
+each report, or their sequence on the list, in any way other than is
+instructed below in steps "a" through "f" or you will lose out on the
+majority of your profits. Once you understand
+the way this works, you'll also see how it doesn't work if you change it.
+Remember, this method has been tested, and if you alter it, it will not
+work.
+a. Look below for the listing of available reports.
+b. After you've recieved all four reports, plus the bonus, take this
+advertisement and REM0VE the name and address under REPORT #4. This person
+has made it through the cycle and is no doubt counting their $55,550! Also,
+change the name of the company, the address, and the REM0VE e-mail address
+on the top of this document to your own.
+c. Move the name and address under REPORT #3 down to REPORT #4.
+d. Move the name and address under REPORT #2 down to REPORT #3.
+e. Move the name and address under REPORT #1 down to REPORT #2.
+f. Insert your name/address in the REPORT #1 position. (*Include The Bonus
+Report As Indicated) Please make sure you copy every name and address
+ACCURATELY!
+3. Take this entire letter, including the modified list of names, and save
+it to your computer. Make NO changes to the instruction portion of this
+letter. Your cost to participate in this is practically nothing (surely you
+can afford $20). You obviously already have an Internet connection and
+e-mail is FREE! To assist you with marketing your business on the internet,
+the 4 Reports you purchase and bonus, will provide you with invaluable
+marketing INF0RMATION which includes how to send bulk e-mails, where to find
+thousands of Free lassified ads and much, much more. In addition you will be
+provided with INFORMATION on Internet Marketing Clubs such as INTERNET
+MARKETING RESOURCES(IMR): This is one the Premiere internet marketing clubs
+on the INTERNET. This club provides a forum where internet marketers from
+all over the world can exchange ideas and secrets on Internet Marketing. In
+addition, members of his club are provided free internet marketing tools and
+services for the Do-Yourself-Internet-Marketer. They will provide you with
+free bulk e- mail software and up to 1,000,000 fresh e-mail addresses each
+week. This club will provide you with hundreds of free resources which
+include: How to obtain free web sites, how to obtain top rankings in search
+engines for your web-site, how to send bulk e-mail into AOL and Compuserve,
+how to market your products on news groups, free classified ads, electronic
+malls, bulletin boards, banner ads and uch more.
+There are two primary methods of building your downline:
+METHOD #1: SENDING BULK E-MAIL Let's say that you decide to start small,
+just to see how it goes, and we'll assume you and all those involved send
+out only 2,000 programs each. Let's also assume that the mailing receives a
+0.6% response. (That's six tenths of 1 percent) Using a good list the
+response could be much better. Also, many people will send out hundreds of
+thousands of programs unstead of 2,000. But continuing with this example,
+you send out only 2,000 programs. With a 0.6% response, that is only 10
+orders for REPORT #1. Those 10 people respond by sending out 2,000 programs
+each for a total of 20,000. Out of those 0.5%, 100 people respond and order
+REPORT #2. Those 100 mail out 2,000 programs each for a total of 200,000.
+The 0.5% response to that is 1000 orders for REPORT #3. Those 1000 send out
+2,000 programs each for a 2,000,000 total. The 0.5% response to that is
+10,000 orders for REPORT #4. That's 11,110 people in your down line. Can you
+image what's going to happen when you arm them with Master's free bonus
+report, "Short Cuts 2 Success". That's "Residual Income" for you, CASH!!!
+Your total income in this example is $50 + $500 + $5,000+ $50,000 for a
+total of $55,550!!!
+REMEMBER FRIEND, THIS IS ASSUMING 1,988 OUT OF THE 2,000 PEOPLE YOU MAIL TO
+WILL DO ABSOLUTELY NOTHING AND TRASH THIS PROGRAM! DARE TO THINK FOR A
+MOMENT WHAT WOULD HAPPEN IF EVERYONE, OR HALF SENT OUT 100,000 PROGRAMS
+INSTEAD OF 2,000. Believe me, many people will do just that, and more! By
+the way, your cost to participate in this is practically nothing. You
+obviously already have an internet connection and e-mail is FREE!!! REPORT
+#1 and #4 will show you the best methods for bulk emailing, tell you where
+to obtain free "State Of The Art" bulk e-mail software and where to obtain
+millions of e-mail lists for free and show you how to send out 2,500,000
+e-mails for free.
+METHOD #2 - PLACING FREE ADS ON THE INTERNET
+1. Advertising on the 'Net is very, very inexpensive, and there are HUNDREDS
+of FREE places to advertise. Let's say you decide to start small just to see
+how well it works. Assume your goal is to get ONLY 10 people to participate
+on your first level. (Placing a lot of FREE ads on the internet will EASILY
+get a larger response.) Also assume that everyone else in YOUR ORGANIZATION
+gets ONLY 10 downline members. Follow this example to achieve the STAGGERING
+results below.
+1st level--your 10 members with $50 ($5 x 10)........................$50
+2nd level--100 members from those 100 ($5 x 100)..................$500
+3rd level--1000 members from those 1000 ($5 x 1,000)............ $5,000
+4th level--10000 members from those 10000 ($5 x 10000).........$50,000
+TOTAL............................. $55,550
+_________________________________________________________________
+Remember friends, this assumes that the people who participate only recruit
+10 people each. Think for a moment what would happen if they got 20 people
+to participate! Many people will get 100's of participants!
+THINK ABOUT IT! For every order you receive, all you must do is e-mail them
+the report they ordered.
+THAT'S IT! ALWAYS PROVIDE SAME-DAY SERVICE ON ALL ORDERS!
+This will guarantee that the e-mail THEY send out, with YOUR name and
+address on it, will be prompt because they can't advertise until they
+receive the report!
+_________________________________________________________________
+AVAILABLE REPORTS
+*** Order Each REPORT by NUMBER and NAME ***
+Notes:
+ALWAYS SEND CASH AS Requested (U.S. CURRENCY) FOR EACH REPORT CHECKS NOT
+ACCEPTED ALWAYS SEND YOUR ORDER VIA FIRST CLASS MAIL Make sure the cash is
+concealed by wrapping it in at least two sheets of paper. On one of those
+sheets of paper, include: (a) the number & name of the report you are
+ordering, (b) your e-mail address, and (c)your name & postal address.
+
+PLACE YOUR ORDER FOR THESE REPORTS NOW:
+REPORT #1 "The Insider´s Guide to Advertising for Free on the Internet"
+ORDER REPORT #1 ($5.00) FROM:
+Francisco Almeida
+Rua Gonçalo Nobre Valente, 9
+Apartado 35
+7670-292 OURIQUE
+PORTUGAL
+----------------------------------------------------------------------------
+---------------------------
+REPORT #2 "The Insider´s Guide to Sending Bulk E-mail on the Internet"
+Order REPORT #2 ($5.00) From:
+Luana Guerreiro
+Rua Sacadura Cabral, 102 - Loja 163
+2765-350 ESTORIL
+PORTUGAL
+----------------------------------------------------------------------------
+--------------------------
+REPORT #3 "The Secrets to Multilevel Marketing on the Internet"
+ORDER REPORT #3 ($5.00) FROM:
+Alexandre Salgado
+Rua Sacadura Cabral, 116 - 10º C
+2765-349 ESTORIL
+PORTUGAL
+----------------------------------------------------------------------------
+-------------------------
+REPORT #4 "How to Become a Millionaire Utilizing the Power of Multilevel
+Marketing and the Internet"
+ORDER REPORT #4 ($5.00) FROM:
+Joselita Almeida
+Avª. António Pedro, Lt 57 - Casa 7
+Aroeira
+2825 CHARNECA DA CAPARICA
+PORTUGAL
+----------------------------------------------------------------------------
+-------------------------
+There currently more than 250,000,000 people online worldwide!
+******* TIPS FOR SUCCESS *******
+* READ THE "SHORT CUTS 2 SUCCESS" AT LEAST THREE TIMES BEFORE START ING THIS
+PROGRAM!
+* TREAT THIS AS YOUR BUSINESS! Be prompt, professional, and follow the
+directions accurately.
+* Send for the five reports IMMEDIATELY so you will have them when the
+orders start coming in because: When you receive an order, you MUST send out
+the requested product/report.
+* ALWAYS PROVIDE SAME-DAY SERVICE ON THE ORDERS YOU RECEIVE.
+* Be patient and persistent with this program. If you follow the
+instructions exactly, your results WILL BE SUCCESSFUL!
+* ABOVE ALL, HAVE FAITH IN YOURSELF AND KNOW YOU WILL SUCCEED!
+******* YOUR SUCCESS GUIDELINES *******
+Follow the "SHORT CUT" guidelines to guarantee your success: If you don't
+receive 20 orders for REPORT #1 within two weeks, continue advertising or
+sending e-mails until you do. Then, a couple of weeks later you should
+receive at least 100 orders for REPORT#2. If you don't, continue advertising
+or sending e-mails until you do. Once you have received 100 or more orders
+for REPORT #2, YOU CAN RELAX, because the system is already working for you,
+and the cash will Continue
+to roll in! THIS IS IMPORTANT TO REMEMBER:
+Every time your name is moved down on the list, you are placed in front of a
+DIFFERENT report. You can KEEP TRACK of your PROGRESS by watching which
+report people are ordering from you. If you want to generate more income,
+send another batch of e-mails or continue placing ads and start the whole
+process again! There is no limit to the income you will generate from this
+business! Before you make your decision as to whether or not you participate
+in this program. Please answer one question. DO YOU WANT TO CHANGE YOUR
+LIFE?
+If the answer is YES, please look at the following facts about this program:
+1. YOU ARE SELLING A PRODUCT WHICH DOES NOT COST ANYTHING TO PRODUCE!
+2. YOU ARE SELLING A PRODUCT WHICH DOES NOT COST ANYTHING TO SHIP!
+3. YOU ARE SELLING A PRODUCT WHICH DOES NOT COST YOU ANYTHING TO ADVERTISE!
+4. YOU ARE UTILIZING THE POWER OF THE INTERNET AND THE POWER OF MULTI-LEVEL
+MARKETING TO DISTRIBUTE YOUR PRODUCT ALL OVER THE WORLD!
+5. YOUR ONLY EXPENSES OTHER THAN YOUR INITIAL $20 INVESTMENT IS YOUR TIME!
+6. VIRTUALLY ALL OF THE INCOME YOU GENERATE FROM THIS PROGRAM IS PURE
+PROFIT!
+7. *IF THIS PROGRAM DOESN'T WORK, THEN HOW ARE YOU READING THIS EMAIL?
+8. THIS PROGRAM WILL CHANGE YOUR LIFE FOREVER.
+***************************************************** T E S T I M O N I A L
+S ************************************************************
+This program does work, but you must follow it EXACTLY! Especially the rule
+of not trying to place your name in a different position, it won't work and
+you'll lose a lot of potential income. I'm living proof that it works. It
+really is a great opportunity to make relatively easy money, with little
+cost to you. If you do choose to participate, follow the program exactly,
+and you'll be on your way to financial security. Fred Dellaca, Westport, New
+Zealand
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+The main reason for this letter is to convince you that this system is
+honest, lawful, extremely profitable, and is a way to get a large amount of
+money in a short time. I was approached several times before I checked this
+out. I joined just to see what one could expect in return for the minimal
+effort and money required. To my astonishment, I received $36,470.00 in the
+first 14 weeks, with money still coming in. Sincerely yours, Pam Hedland
+Halmstad, Sweden
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+Not being the gambling type, it took me several weeks to make up my mind to
+participate in this plan. But conservative that I am, I decided that the
+initial investment was so little that there was just no way that I wouldn't
+get enough orders to at least
+get my money back. I surprised when I found my medium-size post office box
+crammed with orders! For a while, it got so overloaded that I had to start
+picking up my mail at the window. I'll make more money this year than any 10
+years of my life before. The nice thing about this deal is that it doesn't
+matter where people live. There simply isn't a better investment with a
+faster return. Dan Sondstrom, Alberta, Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+I had received this program before. I deleted it, but later I wondered if I
+shouldn't have given it a try. Of course, I had no idea who to contact to
+get another copy, so I had to wait until I was e-mailed another program,.11
+months passed then it came...I didn't
+delete this one!...I made more than $81,000 on the first try!! Mohamed,
+Cairo, Egypt
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+ORDER YOUR REPORTS TODAY AND GET STARTED ON YOUR ROAD TO FINANCIAL FREEDOM !
+NOW IS THE TIME FOR YOUR TURN THE FACT THAT YOU ARE READING THIS EMAIL, IS
+PROOFTHAT THIS PROGRAM
+WORKS ! ! !
+INTERNATIONAL BUSINESS
+Thank you for your time and Interest.This is the letter you've been reading
+about in the news lately.Due to the popularity of this letter on the
+internet, a major nightly newsprogram recentlydevoted an entire show to the
+investigation of the program described below, to see if it really can make
+people money. The show also investigated whether or not the program was
+legal. Their findings proved once and for all that there are, absolutely no
+Laws prohibiting the participation in the program. This has helped to Show
+people that this is a simple, harmless and fun way to make some extra money
+at home. The results of this show has been truly remarkable. So many people
+are participating that those involved are doing, much better than ever
+before. Since everyone makes more as more people try it out, its been very
+exciting to be a part of lately. You will understand once you experience it.
+"HERE IT IS BELOW"
+____________________________________________________________________________
+____________________________
+*** Print This Now For Future Reference ***
+The following income opportunity is one you may be interested in taking a
+look at. It can be started with VERY LITTLE investment and the income return
+is TREMENDOUS!!!
+
+If you would like to make at least $55,550 in less than 90 days! Please read
+the enclosed program...THEN READ IT AGAIN!!!
+
+THIS IS A LEGITIMATE, LEGAL, MONEY MAKING OPPORTUNITY. It does not require
+you to come into contact with people, do any hard work, and best of all, you
+never have to leave the house except to get the mail. If you believe that
+someday you'll get that big break that you've been waiting for, THIS IS IT!
+Simply follow the instructions, and your dreams will come true. This
+multi-level e-mail order marketing program works perfectly...100% EVERY
+TIME. E-mail is the sales tool of the future. Take advantage of this
+non-commercialized method of advertising NOW!!! The longer you wait, the
+more people will be doing business using e-mail. Get your piece of this
+action!!! MULTI-LEVEL MARKETING (MLM) has finally gained respectability. It
+is being taught in the Harvard Business School, and both Stanford Research
+and the Wall Street Journal have stated that between 50% and 65% of all
+goods and services will be sold through multi-level methods by the mid to
+late 1990's. This is a Multi-Billion Dollar industry and of the 3,500,000
+Millionaires in the WORLD, 20% ( 700,000) made their fortune in the last
+several years in MLM. Moreover statistics show that over 100 people become
+millionaires everyday through Multi-Level Marketing. You may have heard this
+story before, but over the summer Donald Trump (A MULTI-BILLIONAIRE, ONE OF
+THE WEALTHIEST MEN IN THE WORLD) made an appearance on the David Letterman
+show. Dave asked him what he would do if he lost everything and had to start
+over from scratch. Without hesitating, Trump said he would find a good
+network marketing company and get to work. The audience started to hoot and
+boo him. He looked out at the audience and dead-panned his response "That's
+why I'm sitting up here and you are all sitting out there!" With network
+marketing you have two sources of income. Direct Commissions from sales you
+make yourself and commissions from sales made by people you introduce to the
+business. Residual income is the secret of the wealthy. It means investing
+time or money once and getting paid again and again and again. In network
+marketing, it also means getting paid for the work of others. This program
+is currently being utilized in more than 150 different countries across the
+world. The enclosed INF0RMATION is something I almost let slip through my
+fingers. Fortunately, sometime later I re-read everything and gave some
+thought and study to it. I have checked it out with the U.S. Post Office
+(1-800-725-2161 24-hrs) and hey confirmed that it is indeed legal! After
+determining the program was LEGAL and NOT A CHAIN LETTER, I decided "WHY
+NOT." Initially sent out 100,000 e-mails. It cost me about $15 for my time
+on-line. The great thing about e-mail is that I don't need any money for
+printing to send out the program, and because all of my orders are fulfilled
+via e-mail, the only expense is my time. I am telling you like it is, I hope
+it doesn't turn you off, but I promised myself that I would not "rip-off"
+anyone, no matter how much money it cost me. In less than one week, I was
+starting to receive orders for REPORT #1. By January 13, I had received 26
+orders for REPORT #1. Your goal is to "RECEIVE at least 20 ORDERS FOR REPORT
+#1 WITHIN 2 WEEKS. IF YOU DON'T, SEND OUT MORE PROGRAMS UNTIL YOU DO!" My
+first step in making $114,000 in 90 days was done. By January 30, I had
+received 196 orders for REPORT #2. Your goal is to "RECEIVE AT LEAST 100+
+ORDERS FOR REPORT #2 WITHIN 2 WEEKS. IF NOT, SEND OUT MORE PROGRAMS UNTIL
+YOU DO. ONCE YOU HAVE 100 ORDERS, THE REST IS EASY, RELAX, YOU WILL MAKE
+YOUR $114,000 GOAL." Well, I had 196 orders for REPORT #2, 96 more than I
+needed. So I sat back and relaxed. By March 1, of my e-mailing of 100,000, I
+received $126,000 with more coming in every I paid off ALL my debts and
+bought a much needed new car. Please take time to read the attached program,
+IT WILL CHANGE YOUR LIFE FOREVER!!!
+Remember, it won't work if you don't try it. This program does work, but you
+must follow it EXACTLY! Especially the rules of not trying to place your
+name in a different place. It won't work, you'll lose out on a lot of money!
+In order for this program to work, you must meet your goal of 20+ orders For
+REPORT #1, and 100+ orders for REPORT #2 and you will make $55,550 or more
+in 90 days. I AM LIVING PROOF THAT IT WORKS!!! If you choose not to
+participate in this program, I am sorry. It really is a great opportunity
+with little cost or risk to you. If you choose to participate, follow the
+program and you will be on your way to financial security. If you are a
+fellow business owner and are if financial trouble like I was, or you want
+to start your own business, consider this a sign. I DID! Sincerely,
+Francisco Almeida
+A PERSONAL NOTE FROM THE ORIGINATOR OF THIS PROGRAM:
+By the time you have read the enclosed program and reports, you should have
+concluded that such a program, and one that is legal, could not have been
+created by an amateur. Let me tell you a little about myself. I had a
+profitable business for 10 years. Then in 1979 my business began falling
+off. I was doing the same things that were previously successful for me, but
+it wasn't working. Finally, I figured it out. It wasn't me, it was the
+economy. Inflation and recession had replaced the stable economy that had
+been with us since 1945. I don't have to tell you what happened to the
+unemployment rate... because many of you know from first hand experience.
+There were more ailures and bankruptcies than ever before. The middle class
+was vanishing. Those who knew what they were doing invested wisely and moved
+up. Those who did not, including those who never had anything to save or
+invest, were moving down into the ranks of the poor. As the saying goes,
+"THE RICH GET RICHER AND THE POOR GET POORER."
+The traditional methods of making money will never allow you to "move up" or
+"get rich", inflation will see to that. You have just received INF0RMATION
+that can give you financial freedom for the rest of your life, with "NO
+RISK" and "JUST A LITTLE BIT OF EFFORT." You can make more money in the next
+few months than you have ever imagined. I should also point out that I will
+not see a penny of this oney, nor anyone else who has provided a testimonial
+for this program. I have already made over 4 MILLION DOLLARS! I have retired
+from the program after sending out over 1,600,000 programs. Now I have
+several offices that make this and several other programs here and over
+seas. Follow the program EXACTLY AS INSTRUCTED. Do not change it in any way.
+It works exceedingly well as it is now. Remember to e-mail a copy of this
+exciting report to everyone you can think of. One of the people you send
+this to may send out 100,000 or more...and your name will be on everyone of
+them! Remember though, the more you send out the more potential customers
+you will reach. So my friend, I have given you the ideas, INF0RMATION,
+materials And opportunity to become financially independent, IT IS UP TO YOU
+NOW! "THINK ABOUT IT"
+Before you delete this program from your mailbox, as I almost did, take a
+little time to read it and REALLY THINK ABOUT IT. Get a pencil and figure
+out what could happen when YOU participate. Figure out the worst possible
+response and no matter how you calculate it, you will still make a lot of
+money! You will definitely get back what you invested. Any doubts you have
+will vanish when your first orders come in. IT WORKS! Jody Jacobs, Richmond,
+VA. HERE'S HOW THIS AMAZING PROGRAM WILL MAKE YOU THOUSANDS OF DOLLAR$
+INSTRUCTIONS:
+This method of raising capital REALLY WORKS 100% EVERY TIME. I am sure that
+you could use up to $55,550 or more in the next 90 days. Before you say
+"BULL... ", please read this program carefully. This is not a chain letter,
+but a perfectly legal money making opportunity. Basically, this is what you
+do: As with all multi-level businesses, we build our business by recruiting
+new partners and
+selling our products. Because of the global nature of the internet, you will
+be able to recruit new multi-level business partners from all over the
+world, and we offer a product for EVERY dollar sent. YOUR ORDERS COME BY
+MAIL AND ARE FILLED BY E-MAIL, so you are not involved in personal selling.
+You do it privately in your own home, store or office. This is the GREATEST
+Multi-Level Mail Order Marketing anywhere. This is what you MUST do:
+1. Order all 4 reports shown on the list below (you can't sell them if you
+don't order them).
+a. For each report, send cash in the amount indicated, the NAME & NUMBER OF
+THE REPORT YOU ARE ORDERING, YOUR E-MAIL ADDRESS, and YOUR NAME & RETURN
+ADDRESS (in case of a problem) to the person whose name appears on the list
+next to the report. MAKE SURE YOUR RETURN ADDRESS IS ON YOUR ENVELOPE and
+your email address is printed clearly, IN CASE OF ANY MAIL PROBLEMS!
+b. When you place your order, make sure you order each of the four reports,
+plus the free Bonus Report. You will need all five reports so that you can
+save them on your computer and resell them. The free Bonus Report "Short
+Cuts 2 Success" is a Master Bulk e-Mailer's "How to Blue Print" for
+instantly building a massive internet downline and Explosing your business.
+b. Within a few days you will receive, via e-mail, each of the five reports.
+Save them on your computer so they will be accessible for you to send to the
+1,000's of people who will order them from you.
+2. IMPORTANT-- DO NOT alter the names of the people who are listed next to
+each report, or their sequence on the list, in any way other than is
+instructed below in steps "a" through "f" or you will lose out on the
+majority of your profits. Once you understand
+the way this works, you'll also see how it doesn't work if you change it.
+Remember, this method has been tested, and if you alter it, it will not
+work.
+a. Look below for the listing of available reports.
+b. After you've recieved all four reports, plus the bonus, take this
+advertisement and REM0VE the name and address under REPORT #4. This person
+has made it through the cycle and is no doubt counting their $55,550! Also,
+change the name of the company, the address, and the REM0VE e-mail address
+on the top of this document to your own.
+c. Move the name and address under REPORT #3 down to REPORT #4.
+d. Move the name and address under REPORT #2 down to REPORT #3.
+e. Move the name and address under REPORT #1 down to REPORT #2.
+f. Insert your name/address in the REPORT #1 position. (*Include The Bonus
+Report As Indicated) Please make sure you copy every name and address
+ACCURATELY!
+3. Take this entire letter, including the modified list of names, and save
+it to your computer. Make NO changes to the instruction portion of this
+letter. Your cost to participate in this is practically nothing (surely you
+can afford $20). You obviously already have an Internet connection and
+e-mail is FREE! To assist you with marketing your business on the internet,
+the 4 Reports you purchase and bonus, will provide you with invaluable
+marketing INF0RMATION which includes how to send bulk e-mails, where to find
+thousands of Free lassified ads and much, much more. In addition you will be
+provided with INFORMATION on Internet Marketing Clubs such as INTERNET
+MARKETING RESOURCES(IMR): This is one the Premiere internet marketing clubs
+on the INTERNET. This club provides a forum where internet marketers from
+all over the world can exchange ideas and secrets on Internet Marketing. In
+addition, members of his club are provided free internet marketing tools and
+services for the Do-Yourself-Internet-Marketer. They will provide you with
+free bulk e- mail software and up to 1,000,000 fresh e-mail addresses each
+week. This club will provide you with hundreds of free resources which
+include: How to obtain free web sites, how to obtain top rankings in search
+engines for your web-site, how to send bulk e-mail into AOL and Compuserve,
+how to market your products on news groups, free classified ads, electronic
+malls, bulletin boards, banner ads and uch more.
+There are two primary methods of building your downline:
+METHOD #1: SENDING BULK E-MAIL Let's say that you decide to start small,
+just to see how it goes, and we'll assume you and all those involved send
+out only 2,000 programs each. Let's also assume that the mailing receives a
+0.6% response. (That's six tenths of 1 percent) Using a good list the
+response could be much better. Also, many people will send out hundreds of
+thousands of programs unstead of 2,000. But continuing with this example,
+you send out only 2,000 programs. With a 0.6% response, that is only 10
+orders for REPORT #1. Those 10 people respond by sending out 2,000 programs
+each for a total of 20,000. Out of those 0.5%, 100 people respond and order
+REPORT #2. Those 100 mail out 2,000 programs each for a total of 200,000.
+The 0.5% response to that is 1000 orders for REPORT #3. Those 1000 send out
+2,000 programs each for a 2,000,000 total. The 0.5% response to that is
+10,000 orders for REPORT #4. That's 11,110 people in your down line. Can you
+image what's going to happen when you arm them with Master's free bonus
+report, "Short Cuts 2 Success". That's "Residual Income" for you, CASH!!!
+Your total income in this example is $50 + $500 + $5,000+ $50,000 for a
+total of $55,550!!!
+REMEMBER FRIEND, THIS IS ASSUMING 1,988 OUT OF THE 2,000 PEOPLE YOU MAIL TO
+WILL DO ABSOLUTELY NOTHING AND TRASH THIS PROGRAM! DARE TO THINK FOR A
+MOMENT WHAT WOULD HAPPEN IF EVERYONE, OR HALF SENT OUT 100,000 PROGRAMS
+INSTEAD OF 2,000. Believe me, many people will do just that, and more! By
+the way, your cost to participate in this is practically nothing. You
+obviously already have an internet connection and e-mail is FREE!!! REPORT
+#1 and #4 will show you the best methods for bulk emailing, tell you where
+to obtain free "State Of The Art" bulk e-mail software and where to obtain
+millions of e-mail lists for free and show you how to send out 2,500,000
+e-mails for free.
+METHOD #2 - PLACING FREE ADS ON THE INTERNET
+1. Advertising on the 'Net is very, very inexpensive, and there are HUNDREDS
+of FREE places to advertise. Let's say you decide to start small just to see
+how well it works. Assume your goal is to get ONLY 10 people to participate
+on your first level. (Placing a lot of FREE ads on the internet will EASILY
+get a larger response.) Also assume that everyone else in YOUR ORGANIZATION
+gets ONLY 10 downline members. Follow this example to achieve the STAGGERING
+results below.
+1st level--your 10 members with $50 ($5 x 10)........................$50
+2nd level--100 members from those 100 ($5 x 100)..................$500
+3rd level--1000 members from those 1000 ($5 x 1,000)............ $5,000
+4th level--10000 members from those 10000 ($5 x 10000).........$50,000
+TOTAL............................. $55,550
+_________________________________________________________________
+Remember friends, this assumes that the people who participate only recruit
+10 people each. Think for a moment what would happen if they got 20 people
+to participate! Many people will get 100's of participants!
+THINK ABOUT IT! For every order you receive, all you must do is e-mail them
+the report they ordered.
+THAT'S IT! ALWAYS PROVIDE SAME-DAY SERVICE ON ALL ORDERS!
+This will guarantee that the e-mail THEY send out, with YOUR name and
+address on it, will be prompt because they can't advertise until they
+receive the report!
+_________________________________________________________________
+AVAILABLE REPORTS
+*** Order Each REPORT by NUMBER and NAME ***
+Notes:
+ALWAYS SEND CASH AS Requested (U.S. CURRENCY) FOR EACH REPORT CHECKS NOT
+ACCEPTED ALWAYS SEND YOUR ORDER VIA FIRST CLASS MAIL Make sure the cash is
+concealed by wrapping it in at least two sheets of paper. On one of those
+sheets of paper, include: (a) the number & name of the report you are
+ordering, (b) your e-mail address, and (c)your name & postal address.
+
+PLACE YOUR ORDER FOR THESE REPORTS NOW:
+REPORT #1 "The Insider´s Guide to Advertising for Free on the Internet"
+ORDER REPORT #1 ($5.00) FROM:
+Francisco Almeida
+Rua Gonçalo Nobre Valente, 9
+Apartado 35
+7670-292 OURIQUE
+PORTUGAL
+----------------------------------------------------------------------------
+---------------------------
+REPORT #2 "The Insider´s Guide to Sending Bulk E-mail on the Internet"
+Order REPORT #2 ($5.00) From:
+Luana Guerreiro
+Rua Sacadura Cabral, 102 - Loja 163
+2765-350 ESTORIL
+PORTUGAL
+----------------------------------------------------------------------------
+--------------------------
+REPORT #3 "The Secrets to Multilevel Marketing on the Internet"
+ORDER REPORT #3 ($5.00) FROM:
+Alexandre Salgado
+Rua Sacadura Cabral, 116 - 10º C
+2765-349 ESTORIL
+PORTUGAL
+----------------------------------------------------------------------------
+-------------------------
+REPORT #4 "How to Become a Millionaire Utilizing the Power of Multilevel
+Marketing and the Internet"
+ORDER REPORT #4 ($5.00) FROM:
+Joselita Almeida
+Avª. António Pedro, Lt 57 - Casa 7
+Aroeira
+2825 CHARNECA DA CAPARICA
+PORTUGAL
+----------------------------------------------------------------------------
+-------------------------
+There currently more than 250,000,000 people online worldwide!
+******* TIPS FOR SUCCESS *******
+* READ THE "SHORT CUTS 2 SUCCESS" AT LEAST THREE TIMES BEFORE START ING THIS
+PROGRAM!
+* TREAT THIS AS YOUR BUSINESS! Be prompt, professional, and follow the
+directions accurately.
+* Send for the five reports IMMEDIATELY so you will have them when the
+orders start coming in because: When you receive an order, you MUST send out
+the requested product/report.
+* ALWAYS PROVIDE SAME-DAY SERVICE ON THE ORDERS YOU RECEIVE.
+* Be patient and persistent with this program. If you follow the
+instructions exactly, your results WILL BE SUCCESSFUL!
+* ABOVE ALL, HAVE FAITH IN YOURSELF AND KNOW YOU WILL SUCCEED!
+******* YOUR SUCCESS GUIDELINES *******
+Follow the "SHORT CUT" guidelines to guarantee your success: If you don't
+receive 20 orders for REPORT #1 within two weeks, continue advertising or
+sending e-mails until you do. Then, a couple of weeks later you should
+receive at least 100 orders for REPORT#2. If you don't, continue advertising
+or sending e-mails until you do. Once you have received 100 or more orders
+for REPORT #2, YOU CAN RELAX, because the system is already working for you,
+and the cash will Continue
+to roll in! THIS IS IMPORTANT TO REMEMBER:
+Every time your name is moved down on the list, you are placed in front of a
+DIFFERENT report. You can KEEP TRACK of your PROGRESS by watching which
+report people are ordering from you. If you want to generate more income,
+send another batch of e-mails or continue placing ads and start the whole
+process again! There is no limit to the income you will generate from this
+business! Before you make your decision as to whether or not you participate
+in this program. Please answer one question. DO YOU WANT TO CHANGE YOUR
+LIFE?
+If the answer is YES, please look at the following facts about this program:
+1. YOU ARE SELLING A PRODUCT WHICH DOES NOT COST ANYTHING TO PRODUCE!
+2. YOU ARE SELLING A PRODUCT WHICH DOES NOT COST ANYTHING TO SHIP!
+3. YOU ARE SELLING A PRODUCT WHICH DOES NOT COST YOU ANYTHING TO ADVERTISE!
+4. YOU ARE UTILIZING THE POWER OF THE INTERNET AND THE POWER OF MULTI-LEVEL
+MARKETING TO DISTRIBUTE YOUR PRODUCT ALL OVER THE WORLD!
+5. YOUR ONLY EXPENSES OTHER THAN YOUR INITIAL $20 INVESTMENT IS YOUR TIME!
+6. VIRTUALLY ALL OF THE INCOME YOU GENERATE FROM THIS PROGRAM IS PURE
+PROFIT!
+7. *IF THIS PROGRAM DOESN'T WORK, THEN HOW ARE YOU READING THIS EMAIL?
+8. THIS PROGRAM WILL CHANGE YOUR LIFE FOREVER.
+***************************************************** T E S T I M O N I A L
+S ************************************************************
+This program does work, but you must follow it EXACTLY! Especially the rule
+of not trying to place your name in a different position, it won't work and
+you'll lose a lot of potential income. I'm living proof that it works. It
+really is a great opportunity to make relatively easy money, with little
+cost to you. If you do choose to participate, follow the program exactly,
+and you'll be on your way to financial security. Fred Dellaca, Westport, New
+Zealand
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+The main reason for this letter is to convince you that this system is
+honest, lawful, extremely profitable, and is a way to get a large amount of
+money in a short time. I was approached several times before I checked this
+out. I joined just to see what one could expect in return for the minimal
+effort and money required. To my astonishment, I received $36,470.00 in the
+first 14 weeks, with money still coming in. Sincerely yours, Pam Hedland
+Halmstad, Sweden
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+Not being the gambling type, it took me several weeks to make up my mind to
+participate in this plan. But conservative that I am, I decided that the
+initial investment was so little that there was just no way that I wouldn't
+get enough orders to at least
+get my money back. I surprised when I found my medium-size post office box
+crammed with orders! For a while, it got so overloaded that I had to start
+picking up my mail at the window. I'll make more money this year than any 10
+years of my life before. The nice thing about this deal is that it doesn't
+matter where people live. There simply isn't a better investment with a
+faster return. Dan Sondstrom, Alberta, Canada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+I had received this program before. I deleted it, but later I wondered if I
+shouldn't have given it a try. Of course, I had no idea who to contact to
+get another copy, so I had to wait until I was e-mailed another program,.11
+months passed then it came...I didn't
+delete this one!...I made more than $81,000 on the first try!! Mohamed,
+Cairo, Egypt
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
+ORDER YOUR REPORTS TODAY AND GET STARTED ON YOUR ROAD TO FINANCIAL FREEDOM !
+NOW IS THE TIME FOR YOUR TURN THE FACT THAT YOU ARE READING THIS EMAIL, IS
+PROOFTHAT THIS PROGRAM
+WORKS ! ! !
+
+
+

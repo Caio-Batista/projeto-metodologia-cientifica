@@ -1,0 +1,33 @@
+Return-Path: <pgsql-announce-owner+M69@hub.org>
+Delivered-To: bruceg-lists-pgsql-announce@daedalus.bfsmedia.sk.ca
+Received: (qmail 5563 invoked from network); 4 Jun 2000 00:32:10 -0000
+Received: from news.hub.org (HELO news.tht.net) (216.126.91.242)
+  by bfsmedia.sk.ca with SMTP; 4 Jun 2000 00:32:10 -0000
+Received: from hub.org (majordom@hub.org [216.126.84.1])
+	by news.tht.net (8.9.3/8.9.3) with ESMTP id UAA31892;
+	Sat, 3 Jun 2000 20:26:24 -0400 (EDT)
+	(envelope-from pgsql-announce-owner+M69@hub.org)
+Received: from news.tht.net (news.hub.org [216.126.91.242])
+	by hub.org (8.9.3/8.9.3) with ESMTP id UAA72919;
+	Sat, 3 Jun 2000 20:25:06 -0400 (EDT)
+	(envelope-from news@news.tht.net)
+Received: (from news@localhost)
+	by news.tht.net (8.9.3/8.9.3) id UAA31674;
+	Sat, 3 Jun 2000 20:24:52 -0400 (EDT)
+	(envelope-from news)
+X-Authentication-Warning: news.tht.net: news set sender to <news> using -f
+From: cxcuhp@myhome.net
+X-Newsgroups: comp.databases.postgresql.admin,comp.databases.postgresql.announce,comp.databases.postgresql.general
+Subject: [ANNOUNCE] Ho Ho Ho !!!  4785
+Message-ID: <mlh_4.3242$Pj2.18771@twister.sunsite.auc.dk>
+Date: Sun, 04 Jun 2000 00:24:50 GMT
+X-Trace: twister.sunsite.auc.dk 960078290 209.156.82.237 (Sun, 04 Jun 2000 02:24:50 MET DST)
+Organization: "SunSITE Denmark -- sunsite.auc.dk
+To: pgsql-admin@postgresql.org, pgsql-announce@postgresql.org,
+  pgsql-general@postgresql.org, pgsql-questions@postgresql.org
+Precedence: bulk
+Sender: pgsql-announce-owner@hub.org
+
+http://loveline.lip.st/ho.htm
+i
+

@@ -1,0 +1,142 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 20114 invoked from network); 28 Mar 2000 02:58:22 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 28 Mar 2000 02:58:22 -0000
+Received: (qmail 24419 invoked from network); 28 Mar 2000 02:58:21 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 28 Mar 2000 02:58:21 -0000
+Received: by vger.rutgers.edu via listexpand id <S154040AbQC1Cyv>;
+	Mon, 27 Mar 2000 21:54:51 -0500
+Received: by vger.rutgers.edu id <S153897AbQC1Cyb>;
+	Mon, 27 Mar 2000 21:54:31 -0500
+Received: from www.ultrabrowser.com ([209.215.32.46]:54840 "EHLO
+	www.ultrabrowser.com") by vger.rutgers.edu with ESMTP
+	id <S154040AbQC1CyX>; Mon, 27 Mar 2000 21:54:23 -0500
+Received: from localhost ([216.15.221.220]) by www.ultrabrowser.com
+          (Post.Office MTA v3.5.3 release 223 ID# 0-60486U100L100S0V35)
+          with SMTP id com; Mon, 27 Mar 2000 21:56:45 -0500
+X-Accept-Language: en
+Content-Transfer-Encoding: 7bit
+References: 0F1FD24F5
+Date:	Mon, 27 Mar 2000 18:54:49
+X-Other-References: 020B914D3
+MessageID: <cv5gxxsgjoh2xb8.270320001854@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain
+X-See-Also: 058FAB824
+Sensitivity: Public
+To: <jane903@w.bruce-guenter.dyndns.org>
+From: <julie23@smallbizmail.com>
+X-Mailer: Mozilla 3.50 [en] (Win95; I)
+Subject: Expose your business to the Internet
+Message-Id:<20000328025425Z154040-18974+1112@vger.rutgers.edu>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+PUT EMAIL MARKETING TO WORK FOR YOU...
+
+Call NOW and receive 50,000
+additional emails with your order
+for only $100. Thats 40,000 FREE emails!!!
+
+WE HAVE OPT-IN LISTS!!!!
+
+see below for removal.
+
+Special Ends Friday March 31, 2000
+
+MLM'ers, We can build your downline.
+
+Imagine having a product or idea and selling it
+for only $10.
+
+Now imagine sending an ad for your product or idea
+to 25 million people!
+
+If you only get a 1/10 of 1% response
+you have just made $250,000!!
+
+You hear about people getting rich off
+the Internet everyday on TV,
+now is the perfect time for you
+to jump in on all the action.
+
+FACT.
+With the introduction of the Internet, one primary
+KEY to conducting your business successfully is
+creating massive exposure in a cost effective
+manner.
+
+FACT.
+The experts agree that email marketing is one of
+the most cost effective forms of promotion in
+existence today.
+
+Electronic mail has overtaken the telephone as the
+primary means of business communication.(American
+Management Association)
+
+Of online users 41 percent check their email daily.
+
+"A gold mine for those who can take advantage of
+bulk email programs"- The New York Times
+
+"Email is an incredible lead generation tool"
+-Crains Magazine
+
+"Blows away traditional Mailing"-Advertising Age
+
+"It's truly arrived. Email is the killer app so
+far in the online world"-Kate Delhagen, Forrester
+Research Analyst
+
+Why not let a professional company handle your
+direct email marketing efforts for you?
+
+*We will assist you in developing your entire
+campaign!
+
+*We can even create your ad or annoucement for
+you!
+
+*No responses? We resend at no cost!
+
+For More Information CALL NOW-702-248-1043
+
+
+For removal see below.
+
+SPECIAL RATES
+SPECIAL ENDS Friday March 31, 2000
+
+Targeted Rates Upon Request.
+
+BONUS!!!
+Call In and receive 50,000 Extra Emails at
+No Cost!
+
+Call NOW - 702-248-1043
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+We are terribly sorry if you received this message
+in error.
+If you wish to be removed. Please, type "REMOVE"
+in the subject line:   outnow@fiberia.com
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

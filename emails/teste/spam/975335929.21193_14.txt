@@ -1,0 +1,31 @@
+Return-Path: <LindseySpearIII@Yahoo.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 20879 invoked by alias); 27 Nov 2000 10:44:15 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 20876 invoked from network); 27 Nov 2000 10:44:12 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 27 Nov 2000 10:44:12 -0000
+Received: (qmail 7431 invoked by uid 500); 27 Nov 2000 10:43:52 -0000
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 7427 invoked from network); 27 Nov 2000 10:43:51 -0000
+Received: from smtp.zebra.net (root@208.5.19.19)
+  by em.ca with SMTP; 27 Nov 2000 10:43:51 -0000
+Received: from msntnnr (ppp7-pool2c.dtmob.zebra.net [209.12.15.206])
+	by smtp.zebra.net (8.11.0.Beta1/8.11.0.Beta1/Debian 8.11.0-1) with SMTP id eAQ4lUQ05821
+	for <bait@em.ca>; Sat, 25 Nov 2000 22:47:32 -0600
+Message-Id: <200011260447.eAQ4lUQ05821@smtp.zebra.net>
+X-Authentication-Warning: smtp.zebra.net: Host ppp7-pool2c.dtmob.zebra.net [209.12.15.206] claimed to be msntnnr
+From: "Lindsey" <LindseySpearIII@Yahoo.com>
+To: <bait@em.ca>
+Subject: Hi!
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Mon, 27 Nov 2000 04:41:25
+Content-Length: 64
+Lines: 5
+
+You got to see this :)
+
+
+http://www.zebra.net/~sondrasp/cd.htm
+

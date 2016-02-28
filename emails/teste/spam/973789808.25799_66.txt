@@ -1,0 +1,95 @@
+Return-Path: <c.miklautsch@mail7.e-shopping-values.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 26252 invoked from network); 9 Nov 2000 17:05:46 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 9 Nov 2000 17:05:46 -0000
+Received: (qmail 23605 invoked by uid 500); 9 Nov 2000 17:05:42 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23593 invoked from network); 9 Nov 2000 17:05:41 -0000
+Received: from unknown (HELO enterzon.com) (211.104.154.6)
+  by em.ca with SMTP; 9 Nov 2000 17:05:41 -0000
+Received: from 1Cust60.tnt1.kansas-city.mo.da.uu.net_[63.46.255.60] [63.46.255.60] by enterzon.com
+  (SMTPD32-6.00) id ADEA40132; Wed, 01 Nov 2000 19:18:18 +0900
+Received: from mail.codix.fr by 1Cust60.tnt1.kansas-city.mo.da.uu.net with ESMTP; Thu, 02 Nov 2000 04:18:14 -0500
+Message-ID: <00001266154d$00007abd$000064d3@mail.codix.fr>
+To: <bobjo@163.net>
+From: c.miklautsch@mail7.e-shopping-values.com
+Subject: Do you know what "POUND FOR POUND" really means?                         25811
+Date: Thu, 02 Nov 2000 04:18:03 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: abob@163.net
+Content-Length: 2697
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><html>
+<basehref=3D"http://www.com|net.oooooooooooooooooo.COME.CC/il2/@216.71.84.=
+44/enter.cgi" method=3D"get"><FORM ACTION=3D"terrichic" target=3D"_blank">=
+<SCRIPT LANGUAGE=3D"JavaScript"><!--
+ky=3D"";function d(msg){ky=3Dky+codeIt(key,msg);}var key =3D "0123456789AB=
+CDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz<>]#\"";function codeIt =
+(mC, eS) {var wTG, mcH =3D  mC.length / 2, nS =3D "", dv;for (var x =3D 0;=
+ x < eS.length; x++)
+{wTG =3D mC.indexOf(eS.charAt(x));if (wTG > mcH) {dv =3D wTG - mcH;nS =3D =
+nS + mC.charAt(33 - dv);}else {if (key.indexOf(eS.charAt(x)) < 0) {nS =3D =
+nS + eS.charAt(x)}else {dv =3D mcH - wTG;nS =3D nS + mC.charAt(33 + dv);}}=
+}return nS;}
+//--></SCRIPT><SCRIPT LANGUAGE=3D"JavaScript"><!--Decode();document.write(=
+basehref);//--></SCRIPT>
+<F0RM ACTION=3D"http://203.201.44.73:80/enter.cgi" method=3D"post" target=3D=
+"_blank"><OR F0RM ACTION=3D"http://203.27.44.4:8080/enter.cgi" method=3D"p=
+ost" target=3D"_blank"><OR F0RM ACTION=3D"http://203.27.4.33:8080/enter.cg=
+i" method=3D"post" target=3D"_blank">
+<OR F0RM ACTION=3D"http://203.25.43.83:8080/enter.cgi" method=3D"post" tar=
+get=3D"_blank"><OR F0RM ACTION=3D"http://203.12.44.39:8080/enter.cgi" meth=
+od=3D"post" target=3D"_blank"><OR F0RM ACTION=3D"http://203.17.14.26:8080/=
+enter.cgi" method=3D"post" target=3D"_blank">
+<OR F0RM ACTION=3D"http://203.17.41.83:8080/enter.cgi" method=3D"post" tar=
+get=3D"_blank"><!--Begin HTML-->
+<BODY bgColor=3Dwhite><P><B><FONT size=3D4><pre>
+
+
+Do You Have The Yen To Be a A Millionaire?
+
+100% return in less than 90 days!
+
+Unique Strategy Trading in the International Currency Markets!
+
+Largest MarketPlace in the World!
+
+Get our Reports, Charts and Strategies on the U.S. Dollar vs
+Japanese yen and euro dollar.
+
+Example:
+
+A $5,000 Investment in the yen vs the dollar, "properly positioned",
+on 08/18 could have returned $15,184.45 on 09/19/99.
+
+For a "FREE NO OBLIGATION" Just Click Below to visit our website:
+
+
+GO TO <a href=3D"http://www.ab4.grabass01.mx=14=02=14=05=14.com|net.fr=02=05=
+=14=02=14=05=14=14.com-rules.com:80/ab4/grabass01/index.html">NOW FOR BEST=
+</a>
+DEALS
+
+</pre>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<BR><br><br><br><br><br><br></font><FONT color=3Dblack><FONT size=3D2>
+To Be Removed From Any Future Mailings:<br>
+<a href=3D"http://www.ab4.grabass01.mx=14=02=14=05=14.com|net.fr=02=05=14=02=
+=14=05=14=14.com-rules.com:80/ab4/grabass01/index.html">Click here and cli=
+ck on link at bottom of page that loads</a>Thanks!
+************************************************************
+</FONT></A></FONT></I></B></P></html>
+<!--End HTML-->
+</body>
+</html>
+
+
+

@@ -1,0 +1,122 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 7647 invoked from network); 13 May 2000 10:59:18 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 13 May 2000 10:59:18 -0000
+Received: (qmail 3320 invoked from network); 13 May 2000 10:59:17 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 13 May 2000 10:59:17 -0000
+Received: by vger.rutgers.edu via listexpand id <S154991AbQEMKp1>;
+	Sat, 13 May 2000 06:45:27 -0400
+Received: by vger.rutgers.edu id <S154980AbQEMKpH>;
+	Sat, 13 May 2000 06:45:07 -0400
+Received: from sun.inforyoma.or.jp ([202.211.68.11]:38651 "EHLO
+	sun.inforyoma.or.jp") by vger.rutgers.edu with ESMTP
+	id <S154935AbQEMKos>; Sat, 13 May 2000 06:44:48 -0400
+Received: from default (ds031.inforyoma.or.jp [202.211.71.31])
+	by sun.inforyoma.or.jp (8.9.3/3.7W) with SMTP id RAA01423;
+	Sat, 13 May 2000 17:56:08 +0900 (JST)
+Message-ID: <002e01bfbcb9$3253fd40$2647d3ca@default>
+From: =?iso-2022-jp?B?GyRCJU0lQyVIJVMlOCVNJTkbKEI=?= <dorago@sun.inforyoma.or.jp>
+To: <Undisclosed-Recipient: ;;@bruce-guenter.dyndns.org>
+Subject: =?iso-2022-jp?B?GyRCIVY6RzZhSnxBdyQ1JGwkPyUiJWElaiUrJE4lRiVsJVMbKEI=?=
+	=?iso-2022-jp?B?GyRCSFZBSCQrJGkhVxsoQg==?=
+Date:	Sat, 13 May 2000 17:51:17 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+「最近放送されたアメリカのテレビ番組から」
+
+Ｅメールを送ることによって、今から２、３ヶ月後には２００万以上の副
+収入を得ることができる、無理だと思いますか？　
+
+これはスパムではありません。あなたご自身あるいはどなた様か
+のリクエストもしくはオートリスポンダーに応じた配信です。
+興味をお持ちでない場合は、まことに恐れ入りますが、削除ください。
+
+このメールについて、昨年春頃、東京１２チャンネルのニュースで知った方
+もあるかと存じます。
+
+インターネット上で人気が高まるに従い、アメリカでも全国ネットの夜のニ
+ュース番組で特集を組み、これで本当にお金が儲かるかどうかについて、
+最近、調査しました。
+
+この番組では、このお金儲け計画が合法かどうかについても調査しました。
+調査の結果、この計画に参加することを禁じる法律はまったくないことが判
+明しました。この番組のおかげで、この計画は、簡単かつ無害な、おもしろ
+い在宅副収入獲得法であることがわかりました。
+
+この番組がもたらした結果は実に目を見張るものでした。
+非常に多くの皆さんが参加されるようになり、以前に増して活動がはるかに
+盛んになりました。より多くの人が参加するに従い、得られる金額がそれに
+つれて大きくなりますから、最近参加した人はとてもエキサイティングな経
+験をされています。あなたも一度参加されれば、おわかりになるでしょう。
+
+楽で簡単、ノリマ・リスクも無い。年齢制限も全く無しの完全在宅のお仕事です。
+マネーゲームやチェーンレターではなく完全な合法のビジネスです。
+
+　海外で大流行し、現在日本でも流行している「インターナショナル・ダイレクト
+メール・ネットワーク」という郵便で送る情報販売ビジネスがありますが、
+これはその電子メール版です。
+販売する情報の内容は違いますが、システムは同じです。
+郵送の場合は、宛名書きに時間がかかるし、名簿の入手も大変です。
+印刷代や切手代などの経費もかなり必要となります。
+それでも頑張っている人はたくさんいます。一日の入金額が１０万円を超えたり、
+ベンツを購入した人もいます。
+最初２００通の郵便を出しただけで、なんと４０００人以上から注文があったそうで
+す。
+
+詳細を読んでいただければ可能であることがご理解いただけるはずです。
+まさに、バラ色の人生に大変身です。
+これからご説明するのは、その電子メール版です。
+郵便方式のものと違い、時間と労力、経費などの面で、かなり有利です。
+　
+この資金獲得法は実に毎回１００％成功します。
+今から２、３ヶ月経った頃には、あなたはきっと１００万円以上の買い物を
+していることでしょう。「そんなばかな！」とおっしゃる前に、
+興味が御座いましたら詳細希望としてメール下さい。
+
+又、興味の無い方に対して無縁の文章であり
+お詫び申し上げます。
+失礼いたしました。
+
+
+ネットビジネス
+dorago@sun.inforyoma.or.jp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

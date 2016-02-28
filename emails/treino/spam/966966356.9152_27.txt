@@ -1,0 +1,120 @@
+Return-Path: <owner-rc5@lists.distributed.net>
+Received: (listrecv, mailbox 'rc5' opened at Thu Aug 10 17:09:41 2000)
+Received: (listsend invoked at Thu Aug 10 17:09:40 2000)
+Delivered-To: bruceg-lists-rc5@daedalus.bfsmedia.sk.ca
+Received: (qmail 13623 invoked from network); 10 Aug 2000 17:09:39 -0000
+Received: from olympic.ad.hartbrothers.com (HELO bulksmtp.distributed.net) (davehart@63.102.100.5)
+  by bfsmedia.sk.ca with SMTP; 10 Aug 2000 17:09:39 -0000
+Received: from chipsworld.llamas.net ([63.77.33.226]) by bulksmtp.distributed.net with Microsoft SMTPSVC(5.0.2195.1600);
+	 Thu, 10 Aug 2000 17:09:28 +0000
+Received: from localhost (mail@localhost)
+	by chipsworld.llamas.net (8.9.3/8.9.3) with SMTP id MAA07711;
+	Thu, 10 Aug 2000 12:51:14 -0400
+X-Authentication-Warning: chipsworld.llamas.net: Processed from queue /var/spool/mqueue
+X-Authentication-Warning: chipsworld.llamas.net: Processed by mail with -C /etc/sendmail.mj.cf
+Received: by chipsworld.llamas.net (bulk_mailer v1.11); Thu, 10 Aug 2000 12:51:14 -0400
+Received: (from majordomo@localhost)
+	by chipsworld.llamas.net (8.9.3/8.9.3) id MAA07690
+	for rc5-outbound; Thu, 10 Aug 2000 12:51:13 -0400
+Received: from mailhub1.cuckoo.com (IDENT:qmailr@wrangler.cuckoo.com [209.113.113.66])
+	by chipsworld.llamas.net (8.9.3/8.9.3) with SMTP id MAA07676
+	for <rc5@lists.distributed.net>; Thu, 10 Aug 2000 12:51:10 -0400
+Received: (qmail 54340 invoked by uid 80); 10 Aug 2000 16:51:08 -0000
+Cc: recipient list not shown: ;
+Received: from mx.davehart.net (davehart@olympic.ad.hartbrothers.com [63.102.100.5])
+	by chipsworld.llamas.net (8.9.3/8.9.3) with ESMTP id JAA02840;
+	Thu, 10 Aug 2000 09:42:00 -0400
+From: a_z55@yahoo.com
+Received: from bsuarez ([38.29.63.71] unverified) by mx.davehart.net with Microsoft SMTPSVC(5.0.2195.1600);
+	 Thu, 10 Aug 2000 13:41:57 +0000
+Message-ID: <OLYMPICTcjJxWY5pCxl00000026@mx.davehart.net>
+X-OriginalArrivalTime: 10 Aug 2000 13:41:58.0521 (UTC) FILETIME=[C142D690:01C002D0]
+Date: 10 Aug 2000 13:41:58 +0000
+Sender: owner-rc5@lists.distributed.net
+X-Loop: lists.distributed.net
+Reply-To: rc5@lists.distributed.net
+Precedence: bulk
+Return-Path: owner-rc5@lists.distributed.net
+Content-Length: 4003
+
+
+
+TIRED OF ENDLESSLY POSTING YOUR ONLINE CLASSIFIED AD AND GETTING NORESULTS?
+
+The fact is there are over 7000 such sites scattered about the web
+and frankly none of them generate enough traffic to be worth your
+while. Even when someone does find or visits one of these sites, your
+ad is hopelessly lost in a myriad of similar offerings.
+
+Another frustration is search engines. If you are not in the Top 10
+forget about high traffic visiting your web site. Not everyone can be
+in the Top 10 and stay there, when there are estimates of 4 million
+that have a web pages.
+
+You ask, how do we know? That's exactly what we used to do.
+The greatest way of marketing this century is undoubtedly direct
+e-mail. It's similar to the postman delivering a letter to your
+mailbox. There is NO stumbling on to it! The ability to promote your
+product, service, website, or MLM/Network Marketing opportunity to
+millions instantly is what advertisers have been dreaming of for over
+100 years. We will e-mail your one page promotion to a list of our
+general addresses. The greatest part is, it's completely affordable.
+
+-----------------------------------------------------------------------
+
+NOTICE: No pornography, chain letters, get quick rich, pyramid scheme,
+or any threatening or questionable materials. Don't even Ask!!
+
+-----------------------------------------------------------------------
+
+STANDARD PRICING AND PROCEDURES
+-----------------------------------------------------------------------
+
+EXTRACTING:Our list of general Internet addreses are actually extracted from the
+most popular web sites on the Internet. The addresses are verified and
+run through our purification process. The process includes addresses
+run against our custom filter of 2,492 keywords to remove as well as
+through our 192MB remove /flamer list. The EDU, ORG, GOV, Mil, and US
+domains are removed as well as well as other domains that asked not to
+receive e-mail.
+-----------------------------------------------------------------------
+SET-UP FEE:  $150.00
+This will cover the costs of uploading files, Internet Access (ISP),
+and software set-up.
+-----------------------------------------------------------------------
+EVALUATION:  $350.00 (optional)
+One of our Marketing Specialists will evaluate your sales letter, and
+offer his/her expertise on how to make it the most successful.
+-----------------------------------------------------------------------
+STANDARD PRICING: (Emails Delivered)1 Million- $800.00 per2 Million- $700.00 per
+3 Million & up- $600.00 per
+-----------------------------------------------------------------------
+SPECIAL OFFER!This introductory offer of $475.00 includes:1. Set-Up Fee
+2. Evaluation of sales letter
+3. 250,000 e-mails delivered to a general list of recipients.
+-----------------------------------------------------------------------
+PAYMENT POLICY
+All services must be paid in full prior to delivery of advertisement.
+Under NO CIRCUMSTANCES will any sales or marketing strategies be
+discussed until payment is received.
+-----------------------------------------------------------------------
+If you are serious about Direct Email Marketing-Fax the following
+form to (509) 694-2591
+----------------------------------------------------------------------
+THIS FORM MUST BE COMPLETELY FILLED OUT!
+Contact Name: _____________________________________________
+Business Name:  ______________________________________
+Business Type:  ______________________________________
+# Years in Business:  _________________________
+Address: _________________________________________________
+City: ____________________  State: ______  Zip: ______________
+Country: _______________
+Email Address: _______________________________________________
+Phone:  __________________________Fax:  ____________________________
+
+-----------------------------------------------------------------------
+
+--
+To unsubscribe, send 'unsubscribe rc5' to majordomo@lists.distributed.net
+rc5-digest subscribers replace rc5 with rc5-digest
+

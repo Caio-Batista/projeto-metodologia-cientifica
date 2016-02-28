@@ -1,0 +1,303 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 709 invoked from network); 23 Jun 2000 00:29:21 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 23 Jun 2000 00:29:21 -0000
+Received: (qmail 28968 invoked from network); 23 Jun 2000 00:29:19 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 23 Jun 2000 00:29:19 -0000
+Received: (majordomo@vger.rutgers.edu) by vger.rutgers.edu via listexpand
+	id <S156360AbQFWAQy>; Thu, 22 Jun 2000 20:16:54 -0400
+Received: by vger.rutgers.edu id <S156508AbQFWAQr>;
+	Thu, 22 Jun 2000 20:16:47 -0400
+Received: from [64.14.253.89] ([64.14.253.89]:2474 "HELO list.cb.com")
+	by vger.rutgers.edu with SMTP id <S156351AbQFWAQd>;
+	Thu, 22 Jun 2000 20:16:33 -0400
+Message-ID: <20000622123705.FVSE0AAU.138029@list.cb.com>
+From: GoodNews <GoodNews@list.cb.com>
+To: GoodNews <GoodNews@list.cb.com>
+Subject: Good News from College Broadcast!
+Date:	Thu, 22 Jun 2000 12:37:05 -0700
+Mime-Version: 1.0
+Originator: GoodNews@list.cb.com
+X-Mailer: UnityMail
+X-Mailer-Version: 3.1
+X-UnityUser: College Broadcast
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_174_FVTHAAA"
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+
+
+
+------=_NextPart_000_174_FVTHAAA
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+GOOD NEWS FROM COLLEGE BROADCAST - June 22, 2000
+http://WWW.CB.COM
+
+WIN A WILD WEST ADVENTURE AT OUR TRAVEL CHANNEL
+Go to our Travel Channel and Register to win a Wild West Adventure from
+GORP! Ride the range in the old West for 7 Days/6 Nights at the Pines
+Guest Ranch near Colorado Springs. Entry deadline is June 30! Check out
+other Travel Channel contests at http://www.cb.com such as; a Hawaiian
+Multi-sport Getaway from GORP, a Northstar Tahoe Getaway from RSN, and
+much more!
+
+"PAPA ROACH" INFESTS THE MUSIC CHANNEL AT CB.COM
+Listen to Papa Roach, one of the hottest bands in the country. Go to
+http://www.cb.com and visit our Music Channel--watch the group's latest
+video called "Their Last Resort" from the "Infestation" album. Get news,
+photos, tour information and merchandise from Papa Roach.
+
+GET THE ULTIMATE HOOK UP - JOIN THE COLLEGE BROADCAST TEAM
+Become a College Broadcast College Street Representative and we'll hook
+ya' up. Earn college credit… Get free music… Earn cash while walking to
+class… Host your own parties. All of this and more, just E-mail
+army@cb.com and we'll give you all the details.
+
+DIVE INTO FILM @ CB.COM… "TAKE A BATH" WITH ATOM FILMS
+Test the water at College Broadcast by checking out Atom Films' latest
+and greatest short films. Go to http://www.cb.com and visit the Film
+Channel to view three new films: "Take a Bath," "Break and Enter," and
+"Girl Go Boom." 
+
+
+ROMP WITH US IN ANIMATION
+You'll giggle, blush and bug out at The Romp. Just go to the CB
+Animation Channel by clicking on http://www.cb.com. Check out these
+original animated webisodes as well as other Animation Channel classics,
+such as Sal & Su-ie, Joe Cartoon and Dotcomix. 
+
+
+COLLEGE BROADCAST
+ONLINE * ON CABLE * ON CAMPUS
+http://WWW.CB.COM
+
+
+
+---------------------------------------------------------------
+
+If you would like to be removed from this list, please click:
+http://list.cb.com:80/UM/U.ASP?A2.2.138029 and you will be removed
+immediately! 
+
+Thank you!
+
+
+
+------=_NextPart_000_174_FVTHAAA
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<IMG SRC="http://list.cb.com:80/UM/I.ASP?A2.2.138029">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#ffffff">
+<div align="center"> 
+  <table width="612" border="0" bgColor="#0066CC" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="18" height="23" bgColor="#66CCFF"><img src="http://www.cb.com/newsletter/images/title_rtside.gif" width="18" height="18"></td>
+      <td width="500" height="23" bgColor="#66CCFF"><font face="Arial, Helvetica, sans-serif"><b><font color="#000099">June 
+        21, 2000</font></b></font></td>
+      <td width="98" height="23" bgColor="#66CCFF"><img src="http://www.cb.com/newsletter/images/title_rtside.gif" width="18" height="18"></td>
+    </tr>
+    
+    
+    <tr> 
+      <td width="18" bgColor="#66CCFF">&nbsp;</td>
+      <td width="500"> 
+        
+        
+        <table width="100%"="0" cellpadding="0">
+          <tr> 
+            <td align="center"> 
+              <table width="86%" border="0" valign="top" cellpadding="0" cellspacing="0">
+                <tr> 
+                  <td align="center"><img src="http://www.cb.com/newsletter/images/header.gif" width="574" height="100"></td>
+                </tr>
+                <tr> 
+                  <td><a href="http://www.cb.com"><img src="http://www.cb.com/newsletter/images/traveling2.gif" width="574" height="162" border="0" usemap="#Map"></a><map name="Map"><area shape="circle" coords="301,70,14" href="http://www.cb.com"></map></td>
+                </tr>
+              </table>
+              
+              
+            </td>
+          </tr>
+        </table>
+        
+        
+        
+        
+        <table width="576" border="1" bordercolorlight="#CCCCCC" bordercolordark="#CCCCCC" bgcolor="#006699" cellpadding="4" cellspacing="1">
+          <tr> 
+            <td bgColor="#003399" width="171" valign="top"> 
+              <div align="center">
+              
+              
+              
+               <!--TRAVEL ETC TABLE-->
+               
+                <table width="100%" border="0" valign="top" bgColor="#003399">
+                  <tr> 
+                    <td height="13" bgColor="#003399"> <img src="http://www.cb.com/newsletter/images/travel.gif" width="165" height="40"> 
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td height="286" valign="top" bgColor="#003399"> 
+                      <p><b><font color="#FFFFFF" face="Arial, Helvetica, sans-serif">WIN 
+                        A WILD, WILD WEST ADVENTURE! </font></b></p>
+                      <p><font face="Arial, Helvetica, sans-serif" color="#FFFFFF">Go 
+                        to our Travel Channel and Register to win a Wild West 
+                        Adventure from GORP! Ride the range in the old West for 
+                        7 Days/6 Nights at the Pines Guest Ranch near Colorado 
+                        Springs. Entry deadline is June 30! Check out other Travel 
+                        Channel contests at</font><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"> 
+                        <a href="http://www.cb.com"><font color="#99FFFF">http://www.cb.com</font></a> 
+                        <font color="#FFFFFF">such as; a Hawaiian Multi-sport 
+                        Getaway from GORP, a Northstar Tahoe Getaway from RSN, 
+                        and much more!</font></font></p>
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td height="36" VALIGN="TOP"> <img src="http://www.cb.com/newsletter/images/music.gif" width="165" height="40"> 
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td VALIGN="TOP"> 
+                      <p><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"><b><font color="#FFFFFF">"PAPA 
+                        ROACH" INFESTS CB.COM </font></b></font></p>
+                      <p><font face="Arial, Helvetica, sans-serif" color="#FFFFFF">Listen 
+                        to Papa Roach, one of the hottest bands in the country. 
+                        Go to </font><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"><font color="#99FFFF"><a href="http://www.cb.com"><font color="#66FFFF">http://www.cb.com</font></a></font> 
+                        <font color="#FFFFFF">and</font> </font></p>
+                    </td>
+                  </tr>
+                </table>
+                
+                
+                <!--END TRAVEL TABLE-->
+                
+                
+              </div>
+            </td>
+            <td bgColor=#003399 width="171" valign="top">
+            
+            
+            
+            <!--MIDDLE COLUMN TEXT TABLE-->
+            
+             
+              <table width="100%" border="0" height="500">
+                <tr> 
+                  <td><font color="#CCCCCC" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF">visit 
+                    our Music Channel-watch the group's latest video called "Their 
+                    Last Resort" from the "Infestation" album. Get news, photos, 
+                    tour information and merchandise from Papa Roach.</font></font></td>
+                </tr>
+                <tr> 
+                  <td height="2" VALIGN="TOP"><img src="http://www.cb.com/newsletter/images/reps.gif" width="165" height="41"></td>
+                </tr>
+            
+                <tr> 
+                  <td VALIGN="top">
+                    <p align="left" valign="top"><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"><b><font color="#FFFFFF">JOIN 
+                      THE COLLEGE BROADCAST TEAM!</font></b> </font></p>
+                    <p align="left"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF">Become 
+                      a College Broadcast College Street Representative and we'll 
+                      hook ya' up. Earn college credit... Get free music... Earn cash 
+                      while walking to class... Host your own parties. All of this 
+                      and more, just E-mail <a href="mailto:army@cb.com"><font color="#66FFFF">army@cb.com</font></a> 
+                      and we'll give you all the details.</font></p>
+                    </td>
+                </tr><tr>
+                  <td height="153"> 
+                    <div align="center"><a href="http://www.cb.com"><img src="http://www.cb.com/newsletter/images/boy.gif" width="90" height="93" border="0"></a></div>
+                  </td>
+                </tr>
+              </table>
+              
+              
+              
+              <!--END MIDDLE COLUMN TEXT TABLE-->
+              
+            </td>
+            <td bgColor="#003399" width="170" valign="top"> 
+            
+            
+            <!--FILM TABLE-->
+            
+            
+              <table width="100%" border="0">
+                <tr>
+                  <td><img src="http://www.cb.com/newsletter/images/film.gif" width="165" height="42"></td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"><b><font color="#FFFFFF">DIVE 
+                      INTO CB.COM... "TAKE A BATH" WITH ATOM FILMS</font></b></font></p>
+                    <p><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"> 
+                      <font color="#FFFFFF">Test the water at College Broadcast 
+                      by </font></font><font face="Arial, Helvetica, sans-serif" color="#FFFFFF">checking 
+                      out Atom Films' latest and greatest short films. Go to</font><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"> 
+                      <font color="#FF0000"><a href="http://www.cb.com"><font color="#99FFFF">http://www.cb.com</font></a></font> 
+                      <font color="#FFFFFF">and visit the Film Channel to view 
+                      three new films: "Take a Bath," "Break and Enter," and "Girl 
+                      Go Boom." </font></font></p>
+                    </td>
+                </tr>
+                <tr>
+                  <td><img src="http://www.cb.com/newsletter/images/animation.gif" width="165" height="41"></td>
+                </tr>
+                <tr>
+                  <td>
+                    <p><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"><b><font color="#FFFFFF">ROMP 
+                      WITH US</font></b></font></p>
+                    <p><font face="Arial, Helvetica, sans-serif" color="#CCCCCC"> 
+                      <font color="#FFFFFF">You'll giggle, blush and bug out at 
+                      The Romp. Just go to the CB Animation Channel by clicking 
+                      on </font><a href="http://www.cb.com"><font color="#99FFFF">http://www.cb.com</font></a>. 
+                      <font color="#FFFFFF">Check out these original animated 
+                      webisodes as well as other Animation Channel classics, such 
+                      as Sal & Su-ie, Joe Cartoon and Dotcomix.</font> </font></p>
+                  </td>
+                </tr>
+              </table>
+              
+              
+              <!--END FILM TABLE-->
+              
+              
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td width="18" bgColor="#66CCFF">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="18" bgColor=#66CCFF height="2"><img src="http://www.cb.com/newsletter/images/title_rtside.gif" width="18" height="18"></td>
+      <td width="500" bgColor="#66CCFF" height="2" align="center">&nbsp;</td>
+      <td width="98" bgColor="#66CCFF" height="2"><img src="http://www.cb.com/newsletter/images/title_rtside.gif" width="18" height="18"></td>
+    </tr>
+  </table>
+  <font size="-2" face="Arial, Helvetica, sans-serif">© 2000, College Broadcast<br>
+  If you would like to be removed from this list, please click below 
+  <BR>or send a reply email to us with "Unsubscribe" in the subject line.  Thank You! <br>
+  <font color="#00CCCC"><a href="http://list.cb.com:80/UM/U.ASP?A2.2.51297">UNSUBSCRIBE</a></font></font> 
+</div>
+</body>
+</html>
+
+
+------=_NextPart_000_174_FVTHAAA--
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

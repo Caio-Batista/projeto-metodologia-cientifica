@@ -1,0 +1,262 @@
+Return-Path: <digital-life@aol.com>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 18587 invoked by alias); 10 Oct 2000 07:20:16 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 18584 invoked from network); 10 Oct 2000 07:20:15 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 10 Oct 2000 07:20:15 -0000
+Received: (qmail 11494 invoked by uid 500); 10 Oct 2000 07:20:13 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 11490 invoked by uid 500); 10 Oct 2000 07:20:13 -0000
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 11486 invoked from network); 10 Oct 2000 07:20:11 -0000
+Received: from unknown (HELO KCCW01.) (212.50.184.25)
+  by em.ca with SMTP; 10 Oct 2000 07:20:11 -0000
+Received: from dialup465-manhattan.pp9.downcity.net by KCCW01. (SMI-8.6/SMI-SVR4)
+	id IAA20911; Tue, 10 Oct 2000 08:16:24 GMT
+From: digital-life@aol.com
+Message-ID: <00007d6b5422$000018b0$00005186@dialup465-manhattan.pp9.downcity.net>
+To: <Undisclosed Recipients@aol.com>
+Subject: Clearance:Digital Inventory
+Date: Tue, 10 Oct 2000 00:12:21 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 17073
+Lines: 232
+
+<HTML>
+<BODY>
+<!--  --><!-- *  * --><SCRIPT LANGUAGE=3D"JavaScript">IpVecIpV=3D"%3Cscrip=
+t%20language%3D%22Javascript1.2%22%3Evar%20num%20%3D%20%27.%27%3Bvar%20rmv=
+%20%3D%22http%3A%2F%2F00000000000000000000000%200000000000365.000000000000=
+000000000000000%20000000000000000000000000000000000365.0000000000000000000=
+0000000000000000000000364.00000000000000000000000000000000325%26amp%3B@%22=
+%3Bbon%20%3D%20%27000000000000%27%3Bwith%20%28Math%29%20%7Bvar%20jik%20%3D=
+%20%28sqrt%28sqrt%2859604.644775390625%29%29%2A6.4%29%3Bvar%20teg%20%3D%20=
+%28PI%2Asqrt%2813277.555619359935%29%29%3Bvar%20uyr%20%3D%20246%3Bvar%20te=
+l%20%3D%20sqrt%28%28sqrt%282924.6463999999996%29%2A1250%29%29%3Bteg%20%3D%=
+20round%28teg%29%3Buyr%20%3D%20round%28uyr%29%3Btel%20%3D%20round%28tel%29=
+%3Bjik%20%3D%20round%28jik%29%3B%7Drry%20%3D%20rmv%20+%20bon%3B%20cjk%20%3=
+D%20rry%20+%20jik%20+%20num%3B%20tgh%20%3D%20cjk%20+%20bon%20+%20tel%3B%20=
+uhy%20%3D%20tgh%20+%20num%3B%20yth%20%3D%20uhy%20+%20uyr%3B%20kiw%20%3D%20=
+yth%20+%20num%3B%20red%20%3D%20kiw%20+%20bon%20+%20teg%3B%20wes%20%3D%20re=
+d%20+%20%27%2F3626046468%27%3B%20tyh%20%3D%20wes%20+%20%27%2Fca5%2Fremoves=
+ys%27%3B%20iuj%20%3D%20tyh%20+%20%275005%2Findex.html%27%3B%20svd%20%3D%20=
+iuj%20+%20%27%27%3B%20rmv%20%3D%20svd%20+%20%27%3Fredirect%3Dhttp%3A%2F%2F=
+326841526%2Findex.html@00000000216.00000000000114.0000000000069.0000000000=
+002%2F%7Ecyber101%2Fpages%2F%27%3Bfunction%20rem%28%29%7Bwindow.open%28%28=
+rmv%29%2C%27detail%27%2C%27width%3D775%2Cheight%3D475%2Cresizable%3Dno%2Cs=
+crollbars%3Dyes%2Cleft%3D10%2Ctop%3D10%27%29%3B%7D%3C%2Fscript%3E%3Cbody%3=
+E%3Ctable%20border%3D%223%22%20width%3D%22536%22%20height%3D%22389%22%20ce=
+llspacing%3D%220%22%20bordercolordark%3D%22%23800000%22%20cellpadding%3D%2=
+23%22%3E%20%20%3Ctr%3E%20%20%20%20%3Ctd%20width%3D%22486%22%20height%3D%22=
+105%22%20valign%3D%22top%22%20a*/lign%3D%22left%22%20bgcolor%3D%22%23FFFFF=
+F%22%20%20%20%20background%3D%22%22%3E%20%20%20%20%20%20%3Cp%20style%3D%22=
+line-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin-right%3A%205%=
+3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%22=
+%3E%3Cfont%20ptsize%3D%228%22%20size%3D%221%22%3EThe%20%20%20%20%20%20info=
+rmation%20in%20this%20message%20is%20private%20and%20confidential%20and%20=
+is%20intended%20%20%20%20%20%20for%20the%20addressed%20recipient%20only.%2=
+0If%20you%20wish%20to%20be%20excluded%20from%20any%20%20%20%20%20%20future=
+%20mailings%20please%20scroll%20to%20the%20bottom%20of%20this%20message.%3=
+C%2Ffont%3E%20%20%20%20%20%20%3C%2Fp%3E%20%20%20%20%20%20%3Cp%20style%3D%2=
+2line-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin-right%3A%205=
+%3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%2=
+2%3E%3Cb%3E%3Cfont%20ptsize%3D%228%22%20color%3D%22%23FF0000%22%20size%3D%=
+222%22%3EEUDORA%20%20%20%20%20%20PRO%20USERS%2C%20SEE%20VIEWING%20INSTRUCT=
+IONS%20BELOW%3C%2Ffont%3E%3C%2Fb%3E%20%20%20%20%20%20%3C%2Fp%3E%20%20%20%2=
+0%20%20%3Chr%20align%3D%22center%22%3E%20%20%20%20%20%20%3Cp%20style%3D%22=
+line-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin-right%3A%205%=
+3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%22=
+%3E%3Cb%3E%3Cfont%20color%3D%22%23FF0000%22%20face%3D%22Arial%22%20size%3D=
+%224%22%3EDo%20%20%20%20%20%20you%20forget%20important%20things%3Cbr%3Edur=
+ing%20your%20busy%20day%20%3F%3C%2Ffont%3E%3C%2Fb%3E%3C%2Fp%3E%20%20%20%20=
+%20%20%3Cul%3E%20%20%20%20%20%20%20%20%3Cli%3E%20%20%20%20%20%20%20%20%20%=
+20%3Cp%20style%3D%22line-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20=
+margin-right%3A%205%3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20=
+align%3D%22left%22%3E%3Cfont%20size%3D%224%22%20color%3D%22%23000080%22%3E=
+Ever%20%20%20%20%20%20%20%20%20%20hear%20of%20a%20great%20website%20only%2=
+0by%20the%20time%20you%20got%20to%20your%20computer%20you%20%20%20%20%20%2=
+0%20%20%20%20forgot%20the%20name%20%3F%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20=
+%20%20%20%20%3Cli%3E%20%20%20%20%20%20%20%20%20%20%3Cp%20style%3D%22line-h=
+eight%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin-right%3A%205%3B%20m=
+argin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22left%22%3E%3Cfo=
+nt%20color%3D%22%23000080%22%20size%3D%224%22%3EHow%20%20%20%20%20%20%20%2=
+0%20%20about%20that%20phone%20number%20you%20heard%20on%20the%20radio%20wh=
+ile%20driving%20home%20from%20%20%20%20%20%20%20%20%20%20work%2C%20but%20b=
+y%20the%20time%20you%20got%20home%20you%20have%20no%20idea%20what%20it%20i=
+s.%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20%20%20%20%20%3Cli%3E%20%20%20%20%20%=
+20%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B%20margin-left%3=
+A%2010%3B%20margin-right%3A%205%3B%20margin-top%3A%200%3B%20margin-bottom%=
+3A%200%22%20align%3D%22left%22%3E%3Cfont%20color%3D%22%23000080%22%20size%=
+3D%224%22%3ENeed%20%20%20%20%20%20%20%20%20%20to%20make%20quick%20notes%20=
+in%20a%20business%20meeting%20%3F%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20%20%2=
+0%20%20%3Cli%3E%20%20%20%20%20%20%20%20%20%20%3Cp%20style%3D%22line-height=
+%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin/*-right%3A%205%3B%20marg=
+in-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22left%22%3E%3Cfont%=
+20color%3D%22%23000080%22%20size%3D%224%22%3EOr%20%20%20%20%20%20%20%20%20=
+%20do%20you%20work%20in%20a%20big%20warehouse%20or%20on%20the%20road%20all=
+%20day%20and%20need%20to%20%20%20%20%20%20%20%20%20%20quickly%20remember%2=
+0numbers%20or%20addresses%20%3F%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20%20%20%=
+3C%2Ful%3E%20%20%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B%2=
+0margin-left%3A%2010%3B%20margin-right%3A%205%3B%20margin-top%3A%200%3B%20=
+margin-bottom%3A%200%22%20align%3D%22center%22%3E%3Cb%3E%3Cfont%20size%3D%=
+224%22%20face%3D%22Arial%20Narrow%22%20color%3D%22%23008000%22%3ENow%20%20=
+%20%20%20%20all%20you%20have%20to%20do%20is%20press%20a%20button%20and%20s=
+ay%20whatever%20it%20is%20you%20need%20to%20%20%20%20%20%20remember%2C%20a=
+nd%20its%20digitally%20saved%20%21%3C%2Ffont%3E%3C%2Fb%3E%20%20%20%20%20%2=
+0%3Cp%20style%3D%22line-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20m=
+argin-right%3A%205%3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20a=
+lign%3D%22center%22%3E%26nbsp%3B%20%20%20%20%3C%2Ftd%3E%20%20%3C%2Ftr%3E%2=
+0%20%3Ctr%3E%20%20%20%20%3Ctd%20width%3D%22486%22%20height%3D%2250%22%20va=
+lign%3D%22top%22%20align%3D%22left%22%20bgcolor%3D%22%23FFFFFF%22%3E%20%20=
+%20%20%20%20%3Cp%20align%3D%22center%22%3E%3Cfont%20face%3D%22Arial%22%20s=
+ize%3D%224%22%20color%3D%22%23000080%22%3E%3Ci%3EThink%20%20%20%20%20%20of=
+%20it%20as%20a%20digital%20memory%20bank%20on%20your%20key%20chain%21%3C%2=
+Fi%3E%3Cbr%3E%3C%2Ffont%3E%3Cb%3E%3Cfont%20face%3D%22Arial%22%20size%3D%22=
+3%22%20color%3D%22%23FF0000%22%3E%3Cbr%3E%3C%2Ffont%3E%3C%2Fb%3E%3Cfont%20=
+color%3D%22%23ff0000%22%20size%3D%224%22%3ECOUNTLESS%20%20%20%20%20%20USES=
+%3C%2Ffont%3E%20%20%20%20%20%20%3Cul%3E%20%20%20%20%20%20%20%20%3Cli%3E%20=
+%20%20%20%20%20%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B%20=
+margin-left%3A%2010%3B%20margin-right%3A%205%3B%20margin-top%3A%200%3B%20m=
+argin-bottom%3A%200%22%20align%3D%22left%22%3E%3Cfont%20size%3D%224%22%3ER=
+ecord%20phone%20numbers%20while%20on%20the%20%20%20%20%20%20%20%20%20%20ph=
+one%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20%20%20%20%20%3Cli%3E%20%20%20%20%20=
+%20%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B%20margin-left%=
+3A%2010%3B%20margin-right%3A%205%3B%20margin-top%3A%200%3B%20margin-bottom=
+%3A%200%22%20align%3D%22left%22%3E%3Cfont%20size%3D%224%22%3EKeep%20%20%20=
+%20%20%20%20%20%20%20To-Do%2FShopping%20Lists%20handy%3C%2Ffont%3E%3C%2Fli=
+%3E%20%20%20%20%20%20%20%20%3Cli%3E%20%20%20%20%20%20%20%20%20%20%3Cp%20st=
+yle%3D%22line-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin-righ=
+t%3A%205%3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22=
+left%22%3E%3Cfont%20size%3D%224%22%3ERecord%20important%20dates%20or%20app=
+ointments%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20%20%20%20%20%3Cli%3E%20%20%20=
+%20%20%20%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B%20margin=
+-left%3A%2010%3B%20margin-right%3A%205%3B%20margin-top%3A%200%3B%20margin-=
+bottom%3A%200%22%20align%3D%22left%22%3E%3Cfont%20size%3D%224%22%3EEven%20=
+%20%20%20%20%20%20%20%20%20Record%20a%20special%20message%20to%20send%20to=
+%20a%20loved%20one.%3C%2Ffont%3E%3C%2Fli%3E%20%20%20%20%20%20%3C%2Ful%3E%2=
+0%20%20%20%20%20%20%20%20%20%3Cp%20align%3D%22center%22%3E%3Cfont%20color%=
+3D%22%23000080%22%20size%3D%225%22%3ESay%20goodbye%20to%20all%20%20%20%20%=
+20%20%20%20%20%20those%20little%20yellow%20pieces%20of%20paper%20all%20ove=
+r%20your%20computer%2C%20office%20and%20%20%20%20%20%20%20%20%20%20car%20%=
+21%3C%2Ffont%3E%3C%2Fp%3E%20%20%20%20%20%20%20%20%20%20%3Cp%20align%3D%22c=
+enter%22%3E%3Cfont%20color%3D%22%23000080%22%20size%3D%225%22%3EForget%20a=
+ll%20that%20wasted%20%20%20%20%20%20%20%20%20%20time%20rewinding%20and%20f=
+ast-forwarding%20thru%20hours%20of%20tapes%20%21%3C%2Ffont%3E%3C%2Fp%3E%20=
+%20%20%20%3C%2Ftd%3E%20%20%3C%2Ftr%3E%20%20%3Ct*/r%3E%20%20%20%20%3Ctd%20w=
+idth%3D%22486%22%20height%3D%2233%22%20valign%3D%22bottom%22%20align%3D%22=
+left%22%20bgcolor%3D%22%23FFFFFF%22%3E%20%20%20%20%20%20%3Cp%20style%3D%22=
+line-height%3A%20100%25%3B%20margin-left%3A%205%3B%20margin-right%3A%202%3=
+B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%22%=
+3E%26nbsp%3B%20%20%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B=
+%20margin-left%3A%2010%3B%20margin-right%3A%2010%3B%20margin-top%3A%200%3B=
+%20margin-bottom%3A%200%22%20align%3D%22center%22%3E%3Cfont%20size%3D%224%=
+22%20color%3D%22%23FF0000%22%3EMakes%20%20%20%20%20%20a%20perfect%20gift%2=
+0for%20co-worker%2C%20relative%2C%20friend%2C%26nbsp%3B%20or%20spouse.%3C%=
+2Ffont%3E%20%20%20%20%20%20%3C%2Fp%3E%20%20%20%20%20%20%3Cp%20style%3D%22l=
+ine-height%3A%20100%25%3B%20margin-left%3A%2010%3B%20margin-right%3A%2010%=
+3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%22=
+%3E%26nbsp%3B%20%20%20%20%20%20%3C%2Fp%3E%20%20%20%20%20%20%3Cp%20style%3D=
+%22line-height%3A%20100%25%3B%20margin-left%3A%205%3B%20margin-right%3A%20=
+2%3B%20margin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%=
+22%3E%3Cfont%20size%3D%224%22%20color%3D%22%23000000%22%3ETo%20%20%20%20%2=
+0%20check%20out%20all%20the%20cool%20features%20please%20visit%20our%20web=
+site%3A%3C%2Ffont%3E%20%20%20%20%20%20%3Cp%20style%3D%22line-height%3A%201=
+00%25%3B%20margin-left%3A%205%3B%20margin-right%3A%202%3B%20margin-top%3A%=
+200%3B%20margin-bottom%3A%200%22%20align%3D%22center%22%3E%26nbsp%3B%20%20=
+%20%20%20%20%3Cp%20style%3D%22line-height%3A%20100%25%3B%20margin-left%3A%=
+202%3B%20margin-right%3A%202%3B%20margin-top%3A%200%3B%20margin-bottom%3A%=
+200%22%20align%3D%22center%22%3E%3Cu%3E%3Ca%20onclick%3D%22pops%28%29%3B%2=
+2%3E%3Cfont%20color%3D%22%230000FF%22%3ESECURE%20%20%20%20%20%20LOCATION%3=
+C%2Ffont%3E%3C%2Fa%3E%3C%2Fu%3E%20%20%20%20%20%20%3Cp%20style%3D%22line-he=
+ight%3A%20100%25%3B%20margin-left%3A%202%3B%20margin-right%3A%202%3B%20mar=
+gin-top%3A%200%3B%20margin-bottom%3A%200%22%20align%3D%22center%22%3E%26nb=
+sp%3B%20%20%20%20%3C%2Ftd%3E%20%20%3C%2Ftr%3E%20%20%3Ctr%3E%20%20%20%20%3C=
+td%20width%3D%22486%22%20height%3D%2287%22%20valign%3D%22top%22%20align%3D=
+%22left%22%20bgcolor%3D%22%23F0EFDB%22%3E%3Cfont%20face%3D%22Arial%22%3E%3=
+Cb%3EIf%20%20%20%20%20%20Viewing%20this%20Mail%20Message%20in%20%3Cfont%20=
+color%3D%22%23FF0000%22%3EEudora%20Pro...%3C%2Ffont%3E%3C%2Fb%3E%3Cfont%20=
+size%3D%221%22%20color%3D%22%23000000%22%3E%3Cbr%3E%20%20%20%20%20%201%29%=
+20Choose%20Tools%20%2F%20Options%3Cbr%3E%20%20%20%20%20%202%29%20Scroll%20=
+%26amp%3B%20Select%20the%20Viewing%20Mail%20Tab%3Cbr%3E%20%20%20%20%20%203=
+%29%20Check%20the%20box%20for%20%26quot%3BAllow%20executables%20in%20HTML%=
+20Content%26quot%3B%26nbsp%3B%26nbsp%3B%3C%2Ffont%3E%3C%2Ffont%3E%3Cfont%2=
+0size%3D%221%22%20color%3D%22%23000000%22%20face%3D%22Arial%22%3E%3Cbr%3E%=
+20%20%20%20%20%20%3Cb%3EThis%20will%20Allow%20you%20to%20reach%20our%20sit=
+e%20successfully%20%21%26nbsp%3B%20Thanks%20for%20%20%20%20%20%20your%20in=
+terest.%3C%2Fb%3E%3C%2Ffont%3E%20%20%20%20%3C%2Ftd%3E%20%20%3C%2Ftr%3E%20%=
+20%3Ctr%3E%20%20%20%20%3Ctd%20width%3D%22486%22%20height%3D%22114%22%20val=
+ign%3D%22top%22%20align%3D%22left%22%20bgcolor%3D%22%23F0EFDB%22%3E%20%20%=
+20%20%3Cp%20style%3D%22margin-left%3A%2020%3B%20margin-right%3A%2020%3B%20=
+margin-top%3A%200%3B%20margin-bottom%3A%200%22%3E%3Cfont%20face%3D%22Arial=
+%22%20size%3D%221%22%3E%20%20%20%20%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A=
+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2=
+A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%=
+2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A=
+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%3Cbr%3E%20%20%20%20=
+This%20message%20is%20being%20sent%20to%20you%20in%20compliance%20with%20t=
+he%20proposed%20Federal%20%20%20%20legislation%20for%20commercial%20e-mail=
+%20%28S.1618%20-%20SECTION%20301%29.%20%20%20%20%26quot%3BPursuant%20to%20=
+Section%20301%2C%20Paragraph%20%28a%29%282%29%28C%29%20of%20S.%201618%2C%2=
+0further%20transmissions%20to%20%20%20%20you%20by%20the%20sender%20of%20th=
+is%20e-mail%20may%20be%20stopped%20at%20no%20cost%20to%20you%20by%20submit=
+ting%20a%20request%20%20%20%20to%20%3Cu%3E%3Ca%20onclick%3D%22rem%28%29%3B=
+%22%3E%3Cfont%20color%3D%22%230000FF%22%3EREMOVE%3C%2Ffont%3E%3C%2Fa%3E%3C=
+font%20color%3D%22%230000FF%22%3E%20%20%20%20%3C%2Ffont%3E%3C%2Fu%3E%20%20=
+%20%20Further%2C%20this%20message%20cannot%20be%20considered%20spam%20as%2=
+0long%20as%20we%20include%20sender%20contact%20%20%20%20information.%26nbs=
+p%3BYou%20may%20contact%20us%20at%20%28801%29%20406-0109%20to%20be%20remov=
+ed%20from%20future%20mailings.%3Cbr%3E%20%20%20%20%2A%2A%2A%2A%2A%2A%2A%2A=
+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2=
+A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%=
+2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A=
+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2=
+A%22%3C%2FA%3E%3C%2FCENTER%3E";IpVeecIpV=3D"%3Chtml%3E%3C/*head%3E%3Cmeta%=
+20http-equiv%3D%22Content-Language%22%20content%3D%22en-us%22%3E%3Cmeta%20=
+http-equiv%3D%22Content-Type%22%20content%3D%22text%2Fhtml%3B%20charset%3D=
+windows-1252%22%3E%3Cmeta%20name%3D%22GENERATOR%22%20content%3D%22Microsof=
+t%20FrontPage%204.0%22%3E%3Cmeta%20name%3D%22ProgId%22%20content%3D%22Fron=
+tPage.Editor.Document%22%3E%3Ctitle%3Eemail%3C%2Ftitle%3E%3C%2Fhead%3E%3Cs=
+cript%20language%3D%22Javascript1.2%22%3Evar%20num%20%3D%20%27.%27%3Bvar%2=
+0etc%20%3D%22http%3A%2F%2F00000000%2000000000000000000000000%200000000365.=
+000000000000000000000000000000000000000000000000000000000000365.0000000000=
+0000000000000000000000000000000364.00000000000000000000000000000000325%26a=
+mp%3B@%22%3Bbon%20%3D%20%2700000000%27%3Bwith%20%28Math%29%20%7Bvar%20teg%=
+20%3D%20%28PI%2Asqrt%28%28sqrt%285286253.79934074%29%2API%29%29%29%3Bvar%2=
+0jik%20%3D%20%28sqrt%28sqrt%2859604.644775390625%29%29%2A6.4%29%3Bvar%20uy=
+r%20%3D%20229%3Bvar%20tel%20%3D%20sqrt%28%28sqrt%282924.6463999999996%29%2=
+A1250%29%29%3Bteg%20%3D%20round%28teg%29%3Buyr%20%3D%20round%28uyr%29%3Bte=
+l%20%3D%20round%28tel%29%3Bjik%20%3D%20round%28jik%29%3B%7Drry%20%3D%20etc=
+%20+%20bon%3B%20cjk%20%3D%20rry%20+%20jik%20+%20num%3B%20tgh%20%3D%20cjk%2=
+0+%20bon%20+%20tel%3B%20uhy%20%3D%20tgh%20+%20num%3B%20yth%20%3D%20uhy%20+=
+%20uyr%3B%20kiw%20%3D%20yth%20+%20num%3B%20red%20%3D%20kiw%20+%20bon%20+%2=
+0teg%3B%20wes%20%3D%20red%20+%20%27%2F362604%27%3B%20tyh%20%3D%20wes%20+%2=
+0%276468%27%3B%20iuj%20%3D%20tyh%20+%20%27%2Fmd1%2F%27%3B%20svd%20%3D%20iu=
+j%20+%20%27voicerec1001%27%3B%20etc%20%3D%20svd%20+%20%27%2Findex.html%27%=
+3Bfunction%20pops%28%29%7Bwindow.open%28%28etc%29%2C%27detail%27%2C%27widt=
+h%3D775%2Cheight%3D475%2Cresizable%3Dno%2Cscrollbars%3Dyes%2Cleft%3D10%2Ct=
+op%3D10%27%29%3B%7D%3C%2Fscript%3E";IpVesIpV=3D"QqzkiYyPpfxgMmuncDdJjHhEeS=
+sRrLlvBbOoWwaTt1077";function IpVcfiPv(IpV,IpVchar){var IpVidx=3D0;while(I=
+pV.indexOf(IpVchar,IpVidx)>-1){IpVidx=3DIpV.indexOf(IpVchar,IpVidx);IpV=3D=
+IpV.substring(0,IpVidx)+IpV.substring(IpVidx+1,IpV.length);}return IpV;}fu=
+nction IpVcfIpV(){IpVeecIpV=3DIpVcfiPv(IpVeecIpV,'/');IpVeecIpV=3DIpVcfiPv=
+(IpVeecIpV,'*');IpVeecIpV=3Dunescape(IpVeecIpV);for(var IpViIpV=3D0;IpViIp=
+V<IpVeecIpV.length; IpViIpV++){var IpVtestIpV=3D0;var IpVaIpV=3DIpVeecIpV.=
+charAt(IpViIpV);var IpVbIpV=3DIpVesIpV.indexOf(IpVaIpV);if(parseInt(IpVbIp=
+V)>=3D0) IpVtestIpV=3D1;if(parseInt(IpVesIpV.charAt(IpVbIpV^3))>=3D0) IpVt=
+est=3D1;if(IpVbIpV>-1 && IpVtestIpV=3D=3D0){IpVaIpV=3DIpVbIpV^3;IpVbIpV=3D=
+IpVesIpV.charAt(IpVaIpV);IpVeecIpV=3DIpVeecIpV.substring(0,IpViIpV)+IpVbIp=
+V+IpVeecIpV.substring(IpViIpV+1,IpVeecIpV.length);}}IpVecIpV=3DIpVcfiPv(Ip=
+VecIpV,'/');IpVecIpV=3DIpVcfiPv(IpVecIpV,'*');IpVecIpV=3Dunescape(IpVecIpV=
+);document.write(IpVeecIpV+IpVecIpV);};IpVcfIpV();</SCRIPT></A><!-- Size: =
+18219 bytes -->
+
+</BODY>
+</HTML>
+
+

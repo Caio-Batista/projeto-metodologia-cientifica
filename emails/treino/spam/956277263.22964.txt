@@ -1,0 +1,71 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 21592 invoked from network); 20 Apr 2000 23:27:31 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 20 Apr 2000 23:27:31 -0000
+Received: (qmail 10840 invoked from network); 20 Apr 2000 23:27:24 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 20 Apr 2000 23:27:24 -0000
+Received: by vger.rutgers.edu via listexpand id <S154846AbQDTVpf>;
+	Thu, 20 Apr 2000 17:45:35 -0400
+Received: by vger.rutgers.edu id <S154738AbQDTVow>;
+	Thu, 20 Apr 2000 17:44:52 -0400
+Received: from smtp-2.inea.com.ar ([196.32.65.126]:4122 "EHLO
+	linux5.inea.com.ar") by vger.rutgers.edu with ESMTP
+	id <S154860AbQDTVh4>; Thu, 20 Apr 2000 17:37:56 -0400
+Received: from fre ([196.32.68.195])
+	by linux5.inea.com.ar (8.9.3/8.8.7) with SMTP id SAA20151;
+	Thu, 20 Apr 2000 18:35:10 -0300
+Message-Id: <200004202135.SAA20151@linux5.inea.com.ar>
+From: Data Corp Soluciones Informaticas <datacorp@inea.com.ar>
+Date:	Thu, 20 Apr 2000 18:32:27
+Subject:  Gane Dinero Ahora!!!
+To: unlisted-recipients: ;(no To-header on input)
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+Su sitio web es conocido entre los navegantes?
+Su empresa posee suficiente cantidad de clientes?
+Quiere incrementar sus ventas?
+Si quiere darse a conocer, no piense en publicidades infructuosas, envíe 
+su publicidad directa, email to email, no espere que su posible cliente 
+lo busque, anticípese, nosotros sabemos cómo ayudarlo.  Enviamos publicidad 
+directa via email a mas de trescientas mil direcciones certeras de email, 
+de toda América Latina. 
+Por qué esperar sentado a que lleguen sus clientes?  Vaya por ellos, gran 
+efectividad, sin esperas, sin sondeos de opinión, sin costos excesivos.
+No compre problemas, compre soluciones, haga sus negocios via internet.
+Así como llegó este email a usted, le llegará a sus clientes, ingrese al 
+nuevo mercado que Internet le ofrece, con seriedad, respaldo y eficacia.
+No deje de consultar, absoluta reserva, medios totalmente legales, Anti 
+Spam.
+Todo es Posible, nosotros nos encargamos de eso!!!
+
+NO COMPRE PROBLEMAS, COMPRE SOLUCIONES
+
+Data Corp Soluciones Informáticas.
+Buenos Aires - República Argentina.
+Sistemas de Información - Internet Full - Seguridad Informática
+Trabajamos en toda Latinoamérica.
+Rigurosa Reserva.
+
+datacorp@inea.com.ar
+
+
+***///***
+Si desea eliminarse de nuestra lista, envíenos un mail con la palabra "REMOVE" 
+en el subject y disculpe las molestias.
+RECUERDE: Este mensaje se envía con la complacencia de la nueva legislación 
+sobre correo electrónico: SECTION 301
+E-mail: datacorp@inea.com.ar "Por sección 301, parrafo (a)(2)(C) de S.1618, 
+las transmisiones publicitarias del remitente recibidas por usted pueden 
+detenerse sin costo enviando un e-mail con la palabra "remove" en el asunto. 
+Disculpe las molestias."
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

@@ -1,0 +1,28 @@
+Return-Path: <LindseySpearIII@Yahoo.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 20450 invoked from network); 27 Nov 2000 06:43:06 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 27 Nov 2000 06:43:06 -0000
+Received: (qmail 2962 invoked by uid 500); 27 Nov 2000 06:43:05 -0000
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2951 invoked from network); 27 Nov 2000 06:42:56 -0000
+Received: from smtp.zebra.net (root@208.5.19.19)
+  by em.ca with SMTP; 27 Nov 2000 06:42:56 -0000
+Received: from msntnnr (ppp7-pool2c.dtmob.zebra.net [209.12.15.206])
+	by smtp.zebra.net (8.11.0.Beta1/8.11.0.Beta1/Debian 8.11.0-1) with SMTP id eAQ0kWQ03067
+	for <bruceg@em.ca>; Sat, 25 Nov 2000 18:46:34 -0600
+Message-Id: <200011260046.eAQ0kWQ03067@smtp.zebra.net>
+X-Authentication-Warning: smtp.zebra.net: Host ppp7-pool2c.dtmob.zebra.net [209.12.15.206] claimed to be msntnnr
+From: "Lindsey" <LindseySpearIII@Yahoo.com>
+To: <bruceg@em.ca>
+Subject: Hi!
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Mon, 27 Nov 2000 00:40:26
+Content-Length: 64
+
+You got to see this :)
+
+
+http://www.zebra.net/~sondrasp/cd.htm
+

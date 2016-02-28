@@ -1,0 +1,95 @@
+Return-Path: <lance6@salesforlife.net>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 23772 invoked by alias); 19 Dec 2000 15:02:50 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 23769 invoked from network); 19 Dec 2000 15:02:50 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 19 Dec 2000 15:02:50 -0000
+Received: (qmail 12888 invoked by uid 500); 19 Dec 2000 15:02:49 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 12881 invoked by uid 502); 19 Dec 2000 15:02:48 -0000
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 12870 invoked from network); 19 Dec 2000 15:02:46 -0000
+Received: from mail.freenet.kz (212.13.141.1)
+  by bfsmedia.sk.ca with SMTP; 19 Dec 2000 15:02:46 -0000
+Received: from frodo.freenet.kz (root@frodo.freenet.kz [212.13.141.2])
+	by mail.freenet.kz (8.9.3/8.9.3) with ESMTP id VAA27697;
+	Tue, 19 Dec 2000 21:02:17 +0600 (ALMT)
+Received: from mail.salesforlife.net (1Cust109.tnt1.detroit.mi.da.uu.net [63.59.208.109])
+	by frodo.freenet.kz (8.9.3/8.9.3) with SMTP id VAA05380;
+	Tue, 19 Dec 2000 21:03:25 +0600 (ALMT)
+From: lance8@salesforlife.net
+Subject: Car shopping? Use us to find the lowest price.
+To: localuser@blackeye.com
+Message-Id: <dbqi3h5p0tctr2m1.2a2k6s72@mail.salesforlife.net>
+X-Mailer: Mozilla 4.7 [en] (Win95;U)
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+CC: gn@blackeye.com, gn@blackeye.com, gn@blackeye.com
+Date: Tue, 19 Dec 2000 10:03:19 -0500
+Content-Length: 1919
+Lines: 62
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Get The Lowest Price On Your New Car Without Negotiating For 
+Hours</title>
+</head>
+
+<body>
+
+<table border="0">
+  <tbody>
+    <tr>
+      <td vAlign="top" align="left" width="224" height="13"><img height="225" 
+src="http://www.backtoday.com/discover/carpic.jpg" width="224" 
+border="0"></td>
+      <td><font face="VERDANA,ARIAL" color="#0000a0" size="4"><center><b>Get 
+The
+        Lowest Price On Your New Car<br>
+        Without Negotiating For Hours!</b><font size="2">
+        <p>&nbsp;
+        <p align="center">Would you like to get a straight-forward answer 
+from<br>
+        a sales professional that does not have to &quot;check with his
+        manager&quot;?<br>
+        <p>&nbsp;
+        <table border="0">
+          <tbody>
+            <tr>
+              <td align="left"><font color="#ff0000" size="2"><b>
+                <ul>
+                  <li>Prices based on dealer invoice.
+                  <li>No aggravation.
+                  <li>Instant Quotes online.
+                  <li>All brands, new, used, take your pick.</b></font><b>
+                <p>&nbsp;</p>
+                </li>
+                </b>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <font face="VERDANA,ARIAL" color="#0000a0" size="5"><b><a 
+target="_blank" href="http://www.backtoday.com/city">Click
+        Here</a>
+        <p>&nbsp;
+        <p><font face="VERDANA,ARIAL" color="#0000a0" size="1"><a 
+href="http://www.backtoday.com/remove">To
+        be removed from future mailings click here</a></font></p>
+        </b></font></font></center></font></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+
+</html>
+
