@@ -55,17 +55,17 @@ class convert(object):
 
         #create list for class attribute
         last = len(self.content[0])
-        class_items = ["0","1"]
-        #for i in range(len(self.content)):
-        #    name = self.content[i][last-1]
-        #    if name not in class_items:
-        #        class_items.append(self.content[i][last-1])
-        #    else:
-        #        pass  
-        #del class_items[0]
+        class_items = []
+        for i in range(len(self.content)):
+            name = self.content[i][last-1]
+            if name not in class_items:
+                class_items.append(self.content[i][last-1])
+            else:
+                pass  
+        del class_items[0]
     
         string = '{' + ','.join(sorted(class_items)) + '}'
-        new_file.write('@attribute class ' + str(string) + '\n')
+        new_file.write('@attribute ' + str(self.content[0][last-1]) + ' ' + str(string) + '\n')
 
         #write data
         new_file.write('\n@data\n')
