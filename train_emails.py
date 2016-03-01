@@ -153,6 +153,8 @@ create_histograms(all_emails, list_words, histograms)
 #save histograms
 with open("file.csv", "wb") as f:
     writer = csv.writer(f)
+    wr = csv.writer(f, quoting=csv.QUOTE_ALL)
+    wr.writerow(list_words)
     writer.writerows(histograms)
 
 #save word mode repeateds
