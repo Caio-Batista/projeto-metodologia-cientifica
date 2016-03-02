@@ -54,7 +54,8 @@ else:
     recall = tp / float(tp + fn)
     f_measure = 2 * precision * recall / float(precision + recall)
     
-    print ""
+    if verbose:    
+        print ""
     print "precision: %02d" %(int(precision * 100))
     print "recall: %02d" %(int(recall * 100))
     print "f-measure: %02d" %(int(f_measure * 100))
