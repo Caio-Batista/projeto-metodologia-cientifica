@@ -1,0 +1,12 @@
+#!/bin/bash
+# Classificador do algoritmo filtro de email
+
+python train_emails.py $2
+
+python test_emails.py $3
+
+python csv2arff.py "file_train.csv"
+
+python csv2arff.py "file_test.csv"
+
+python test_predict.py $1
