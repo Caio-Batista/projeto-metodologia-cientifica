@@ -1,9 +1,13 @@
 #!/bin/bash
 # Classificador do algoritmo filtro de email
+# arg1 = técnica desejada (NaiveBayes = 1, J48 = 2 e RandomForest = 3)
+# arg2 = caminho para a pasta de emails do treinamento
+# arg3 = caminho para a pasta de emails do teste
+# arg4 = número de palavras usada para o histograma
 
-python train_emails.py $2
+python train_emails.py $3 $4
 
-python test_emails.py $3
+python test_emails.py $2
 
 python csv2arff.py "file_train.csv"
 

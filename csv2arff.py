@@ -2,6 +2,7 @@
 # CSV to ARFF #
 ###############
 import csv
+import sys
 from time import sleep
 
 class convert(object):
@@ -16,7 +17,7 @@ class convert(object):
     #import CSV
     def csvInput(self):
 
-        user = "file.csv"
+        user = sys.argv[1] #"file.csv"
 
         #remove .csv
         if user.endswith('.csv') == True:
@@ -46,12 +47,12 @@ class convert(object):
         ##
 
         #write relation
-        new_file.write('@relation ' + str(self.name)+ '\n\n')
+        new_file.write('@RELATION ' + str(self.name)+ '\n\n')
 
         #get attribute type input
         for i in range(len(self.content[0])-1):
-            attribute_type = "numeric"
-            new_file.write('@attribute ' + str(self.content[0][i]) + ' ' + str(attribute_type) + '\n')
+            attribute_type = "REAL"
+            new_file.write('@ATTRIBUTE ' + str("caracteristica" + str(i) + '\t' + attribute_type + '\n'))
 
         #create list for class attribute
         last = len(self.content[0])
@@ -64,8 +65,8 @@ class convert(object):
                 pass  
         del class_items[0]
     
-        string = '{' + ','.join(sorted(class_items)) + '}'
-        new_file.write('@attribute ' + str(self.content[0][last-1]) + ' ' + str(string) + '\n')
+        string = 'class'# + '{' + ','.join(sorted(class_items)) + '}'
+        new_file.write('@ATTRIBUTE class\t' +  '{'+ ','.join(sorted(class_items))+ ', ' +  str(self.content[0][last-1]) + '}' + '\n')
 
         #write data
         new_file.write('\n@data\n')

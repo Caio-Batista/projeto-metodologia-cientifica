@@ -12,8 +12,8 @@ key_words_for_identify_spam = ["viagra", "vi@gra", "viagr@", "vi@gr@"]
 key_words_exist_in_all_emails = ["subject:"]
 
 #labels para identificar spams e hams
-LABEL_SPAM = 0
-LABEL_HAM = 1
+LABEL_SPAM = "spam"
+LABEL_HAM = "ham"
 all_words_in_spams = []
 number_repeateds_words_in_spams = []
 
@@ -30,16 +30,17 @@ def create_histograms(all_emails, topn_words, histograms):
 	row = 0
 	index =0
 	for email in all_emails:
-		col = 1
+		col = 0
 		flag = False
 
+		#caso exista alguma palavra no email que está na lista de identificar spams...
 		for key_word in key_words_for_identify_spam:
 			if key_word in email[1]:
 				l = []
 				n_max = max(number_repeateds_words_in_spams)
-				l.append(email[0])
 				for i in range(len(topn_words)):
 					l.append(n_max)
+				l.append(email[0])
 				histograms[row] = l
 				flag = True
 			
@@ -48,7 +49,7 @@ def create_histograms(all_emails, topn_words, histograms):
 			index+=1
 			continue
 		
-		histograms[row][0] = email[0]
+		histograms[row][-1] = email[0]
 		for w in topn_words:
 			if w in email[1]:
 				histograms[row][col] = email[1][w]
@@ -142,6 +143,7 @@ for i in range(len(hams)):
 	email_without_line = substitute_line_per_espace(f.read())
 	extract_features_email = count_repeated_words_in_email(email_without_line.split(" "), LABEL_HAM)
 	all_emails.append(extract_features_email)
+
 list_words = []
 list_often = []
 words_more_repeatesd_in_spam(number_words_train, list_words, list_often)
@@ -151,10 +153,9 @@ histograms = []
 create_histograms(all_emails, list_words, histograms)
 
 #save histograms
-with open("file.csv", "wb") as f:
+with open("file_train.csv", "wb") as f:
     writer = csv.writer(f)
     wr = csv.writer(f, quoting=csv.QUOTE_ALL)
-    wr.writerow(list_words)
     writer.writerows(histograms)
 
 #save word mode repeateds
